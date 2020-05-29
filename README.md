@@ -1,8 +1,8 @@
-# Via Profit services / Cities-List
+# Via Profit services / Geography
 
 ![via-profit-services-cover](./assets/via-profit-services-cover.png)
 
-> Via Profit services / **Cities-List** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
+> Via Profit services / **Geography** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
 
 
 ## TODO
@@ -24,7 +24,7 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.0.1
+yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.1.0
 ```
 
 Список версий [см. здесь](https://gitlab.com/via-profit-services/geography/-/tags)
