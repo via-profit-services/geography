@@ -9,7 +9,7 @@
 const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
-const translate = require('translation-google');
+// const translate = require('translation-google');
 const uuidv4 = require('uuid').v4;
 const cities = require('../source/cities');
 const countries = require('../source/countries');

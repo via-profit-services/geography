@@ -1,11 +1,9 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import * as Knex from 'knex';
-import * as by from '../../countries/BY';
-import * as kz from '../../countries/KZ';
 import * as ru from '../../countries/RU';
 import * as ua from '../../countries/UA';
 
-const list = [kz, ru, ua, by];
+const list = [ru, ua];
 
 export async function up(knex: Knex): Promise<any> {
   return knex.raw(`
