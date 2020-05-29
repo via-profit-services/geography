@@ -33,7 +33,7 @@ splitTo.forEach((countryCode) => {
   fs.writeFileSync(`${destinationPath}/cities.json`, JSON.stringify(newCities));
   fs.writeFileSync(`${destinationPath}/states.json`, JSON.stringify(newStates));
 
-  const indexTs = `
+  const indexDTs = `
 import cities from './cities.json';
 import countries from './countries.json';
 import states from './states.json';
@@ -41,5 +41,18 @@ import states from './states.json';
 export { countries, states, cities };
 `;
 
-  fs.writeFileSync(path.resolve(destinationPath, 'index.ts'), indexTs);
+  const indexJs = `
+const countries = require('./countries.json');
+const cities = require('./cities.json');
+const states = require('./states.json');
+
+module.exports = {
+  countries,
+  cities,
+  states,
+};
+`;
+
+  fs.writeFileSync(path.resolve(destinationPath, 'index.d.ts'), indexDTs);
+  fs.writeFileSync(path.resolve(destinationPath, 'index.js'), indexJs);
 });
