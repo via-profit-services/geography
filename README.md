@@ -76,9 +76,9 @@ export async function up(knex: Knex): Promise<any> {
 
 export async function down(knex: Knex): Promise<any> {
   return knex.raw(`
-    drop table "geographyCities" cascade;
-    drop table "geographyStates" cascade;
-    drop table "geographyCountries" cascade;
+    delete from "geographyCities";
+    delete from "geographyStates";
+    delete from "geographyCountries";
   `);
 }
 
