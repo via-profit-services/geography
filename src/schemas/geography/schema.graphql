@@ -199,8 +199,16 @@ type StatesEdge {
 }
 
 type Country {
-  id: String!
+  id: ID!
+
+  """
+  Original name
+  """
   name: String!
+
+  """
+  The name translated into Russian language
+  """
   ru: String!
   iso3: String!
   iso2: String!
@@ -210,8 +218,15 @@ type Country {
 }
 
 type State {
-  id: String!
+  id: ID!
+  """
+  Original name
+  """
   name: String!
+
+  """
+  The name translated into Russian language
+  """
   ru: String!
   country: String!
   countryCode: String!
@@ -219,8 +234,15 @@ type State {
 }
 
 type City {
-  id: String!
+  id: ID!
+  """
+  Original name
+  """
   name: String!
+
+  """
+  The name translated into Russian language
+  """
   ru: String!
   country: String!
   countryCode: String!

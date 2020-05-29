@@ -1,8 +1,8 @@
-# Via Profit services / Cities-List
+# Via Profit services / Geography
 
 ![via-profit-services-cover](./assets/via-profit-services-cover.png)
 
-> Via Profit services / **Cities-List** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
+> Via Profit services / **Geography** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
 
 
 ## TODO
