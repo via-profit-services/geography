@@ -45,7 +45,7 @@ module.exports = merge(baseConfig, {
             destination: './dist/database/seeds/',
           },
           {
-            source: './src/countries/*',
+            source: './src/countries/**/*.*',
             destination: './dist/countries/',
           },
         ],
