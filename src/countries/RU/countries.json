@@ -1,1 +1,12 @@
-[{"id":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","name":"Russia","ru":"Russia","iso3":"RUS","iso2":"RU","phoneCode":"7","capital":"186aad01-00ed-434d-b286-d8a6a99e5adb","currency":"RUB"}]
+[
+  {
+    "id": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "name": "Russia",
+    "ru": "Russia",
+    "iso3": "RUS",
+    "iso2": "RU",
+    "phoneCode": "7",
+    "capital": "186aad01-00ed-434d-b286-d8a6a99e5adb",
+    "currency": "RUB"
+  }
+]
