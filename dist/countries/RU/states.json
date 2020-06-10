@@ -1,1 +1,666 @@
-[{"id":"00e5875c-996a-4dfb-af50-203ffd91339d","name":"Altai Krai","ru":"Altai Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ALT"},{"id":"87f3f136-9069-4aa5-b63d-20cf0fa38657","name":"Altai Republic","ru":"Altai Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"AL"},{"id":"43bf94c2-3563-4da5-be51-74e6eef2f9a9","name":"Amur Oblast","ru":"Amur Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"AMU"},{"id":"2f57bb3d-2196-491e-ac6e-a4b3c028fa73","name":"Arkhangelsk","ru":"Arkhangelsk","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ARK"},{"id":"b4600811-c3df-4327-9827-b58b74cc6274","name":"Astrakhan Oblast","ru":"Astrakhan Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"AST"},{"id":"c99cccc4-fcc3-41f4-b678-d284cbfa4a59","name":"Belgorod Oblast","ru":"Belgorod Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"BEL"},{"id":"f2342905-6d01-43c2-a552-4c1b4b244ff7","name":"Bryansk Oblast","ru":"Bryansk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"BRY"},{"id":"1d506ec4-7cd3-46a1-a8dd-66cfadf4a507","name":"Chechen Republic","ru":"Chechen Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"CE"},{"id":"9f9b8745-2b2f-4c24-a0f3-e801670165d3","name":"Chelyabinsk Oblast","ru":"Chelyabinsk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"CHE"},{"id":"a8372b78-8240-44f1-9b1c-ae15ca491b65","name":"Chukotka Autonomous Okrug","ru":"Chukotka Autonomous Okrug","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"CHU"},{"id":"24f4c94b-1feb-4923-9689-b42e9e0c8c63","name":"Chuvash Republic","ru":"Chuvash Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"CU"},{"id":"ba4161f2-8988-410f-a21c-a4528fa98769","name":"Irkutsk","ru":"Irkutsk","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"IRK"},{"id":"ac945ef8-88c1-4f82-a970-f4a86da2e6be","name":"Ivanovo Oblast","ru":"Ivanovo Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"IVA"},{"id":"915abfcf-1d00-4326-bb5c-7ab8305cc2e2","name":"Jewish Autonomous Oblast","ru":"Jewish Autonomous Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"YEV"},{"id":"27cbb61b-a07e-4586-b9c8-3a996b3f24af","name":"Kabardino-Balkar Republic","ru":"Kabardino-Balkar Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KB"},{"id":"ee1e03ae-ca61-4044-a81f-fa2a5b2870ae","name":"Kaliningrad","ru":"Kaliningrad","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KGD"},{"id":"fd98a6fc-cd20-4603-b425-654cf332e641","name":"Kaluga Oblast","ru":"Kaluga Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KLU"},{"id":"5a9abd55-d67d-4073-8d09-5294eeec3672","name":"Kamchatka Krai","ru":"Kamchatka Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KAM"},{"id":"4f509fe6-a0da-4235-b46d-c117e8aafffb","name":"Karachay-Cherkess Republic","ru":"Karachay-Cherkess Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KC"},{"id":"efe31cfb-4c72-4257-8402-6876ee17d641","name":"Kemerovo Oblast","ru":"Kemerovo Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KEM"},{"id":"dccff5dd-f4e5-464a-84d3-0ec70e9390a2","name":"Khabarovsk Krai","ru":"Khabarovsk Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KHA"},{"id":"c3514fb1-9b4f-4060-a524-b3b9927da793","name":"Khanty-Mansi Autonomous Okrug","ru":"Khanty-Mansi Autonomous Okrug","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KHM"},{"id":"c0cd0221-691b-48b7-aa13-0efa8cbf28ef","name":"Kirov Oblast","ru":"Kirov Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KIR"},{"id":"b86c7d7c-6021-4519-8233-83e5751a9724","name":"Komi Republic","ru":"Komi Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KO"},{"id":"a2d6cba1-d983-4c7e-8214-9d1a57e2da0d","name":"Kostroma Oblast","ru":"Kostroma Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KOS"},{"id":"d3069add-6b99-48b8-9074-6a6d85e1bb01","name":"Krasnodar Krai","ru":"Krasnodar Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KDA"},{"id":"21329696-0e20-4ba4-b488-a8d992bfc6dd","name":"Krasnoyarsk Krai","ru":"Krasnoyarsk Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KYA"},{"id":"b46d324e-4e9f-42f4-a71d-b8610cdee7df","name":"Kurgan Oblast","ru":"Kurgan Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KGN"},{"id":"80d51f6b-3227-437a-aea8-f02684471af4","name":"Kursk Oblast","ru":"Kursk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KRS"},{"id":"1a664d0b-d273-4aaa-ab6d-388c33cb1348","name":"Leningrad Oblast","ru":"Leningrad Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"LEN"},{"id":"0b54197e-056a-4600-ba1b-c141ec25563d","name":"Lipetsk Oblast","ru":"Lipetsk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"LIP"},{"id":"4b77d0a8-95e6-47db-afc4-14330cad878f","name":"Magadan Oblast","ru":"Magadan Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"MAG"},{"id":"40eb882a-1876-4f7d-843d-ebfbfb498dc7","name":"Mari El Republic","ru":"Mari El Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ME"},{"id":"8f20a944-3e82-4419-b240-abadd4651f0d","name":"Moscow","ru":"Moscow","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"MOW"},{"id":"3b1b7e02-a1be-45d4-a5ef-d7987c4b7bee","name":"Moscow Oblast","ru":"Moscow Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"MOS"},{"id":"664e2fe6-eb97-4787-9e3b-480d45b9d794","name":"Murmansk Oblast","ru":"Murmansk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"MUR"},{"id":"6d005718-80c2-4aca-bd39-f4996e3e997a","name":"Nenets Autonomous Okrug","ru":"Nenets Autonomous Okrug","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"NEN"},{"id":"712018c6-f5ac-4840-a0ef-aa4180fcd38c","name":"Nizhny Novgorod Oblast","ru":"Nizhny Novgorod Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"NIZ"},{"id":"09177863-2ad4-4657-995b-2cfa783080aa","name":"Novgorod Oblast","ru":"Novgorod Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"NGR"},{"id":"64dcc6f0-b00b-42b4-934a-7f50073682f1","name":"Novosibirsk","ru":"Novosibirsk","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"NVS"},{"id":"7320ab52-7b31-4a67-aca1-3d5bfcad45b1","name":"Omsk Oblast","ru":"Omsk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"OMS"},{"id":"0e2e9c5f-409a-4478-8c6a-f49de6937f5b","name":"Orenburg Oblast","ru":"Orenburg Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ORE"},{"id":"e758c680-cbe4-4537-b649-6375a0058ddd","name":"Oryol Oblast","ru":"Oryol Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ORL"},{"id":"cf928a9b-bed8-4d2e-a2c0-34a4460c8d70","name":"Penza Oblast","ru":"Penza Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"PNZ"},{"id":"9dc5ccc8-b600-446f-9714-6df8372d573a","name":"Perm Krai","ru":"Perm Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"PER"},{"id":"31987dd8-0ec5-43af-a9d5-108fdaec7d4a","name":"Primorsky Krai","ru":"Primorsky Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"PRI"},{"id":"659f4e1b-92dd-47e1-bc35-c383d13531ec","name":"Pskov Oblast","ru":"Pskov Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"PSK"},{"id":"5ea8ddb8-3f3a-4683-bf5c-2ecf223a6e37","name":"Republic of Adygea","ru":"Republic of Adygea","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"AD"},{"id":"97dbc383-81a9-4bd7-adcc-0fc0df080489","name":"Republic of Bashkortostan","ru":"Republic of Bashkortostan","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"BA"},{"id":"fa6402e5-0299-48e3-a32b-dd68e7911598","name":"Republic of Buryatia","ru":"Republic of Buryatia","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"BU"},{"id":"ffe75ef2-2a5e-4242-b680-00eb4b4e7be8","name":"Republic of Dagestan","ru":"Republic of Dagestan","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"DA"},{"id":"3d5fa637-f277-4950-a0c0-3e6e14f85dec","name":"Republic of Ingushetia","ru":"Republic of Ingushetia","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"IN"},{"id":"efc14383-a4e2-4e19-8077-7a3e2309ea1a","name":"Republic of Kalmykia","ru":"Republic of Kalmykia","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KL"},{"id":"08368502-d2f1-459f-94b4-226d81cc7e00","name":"Republic of Karelia","ru":"Republic of Karelia","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KR"},{"id":"87d49b36-29a2-480d-8d87-155522904c03","name":"Republic of Khakassia","ru":"Republic of Khakassia","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"KK"},{"id":"56a84e4d-3210-42bd-ab5f-353a2bbf9279","name":"Republic of Mordovia","ru":"Republic of Mordovia","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"MO"},{"id":"2a006635-d08b-4000-b608-33cf4b1ffc37","name":"Republic of North Ossetia-Alania","ru":"Republic of North Ossetia-Alania","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SE"},{"id":"cb690d96-45bb-4a5d-8c52-c5cfc334edbb","name":"Republic of Tatarstan","ru":"Republic of Tatarstan","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TA"},{"id":"5bbfd9e0-19a0-47b9-9358-379fec9e26d8","name":"Rostov Oblast","ru":"Rostov Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ROS"},{"id":"3662ecd2-90b0-4cca-b6ad-6ea7546c4cd0","name":"Ryazan Oblast","ru":"Ryazan Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"RYA"},{"id":"f22bdc62-3fac-4731-83e2-55cace19d96b","name":"Saint Petersburg","ru":"Saint Petersburg","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SPE"},{"id":"885c8e28-c9cd-47e6-a171-d935c3429b65","name":"Sakha Republic","ru":"Sakha Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SA"},{"id":"9a9b019c-4305-4401-819b-c6a624d67476","name":"Sakhalin","ru":"Sakhalin","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SAK"},{"id":"17dbf34c-6bbd-41ba-b95b-223134584b83","name":"Samara Oblast","ru":"Samara Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SAM"},{"id":"5d041f1b-108a-4b2f-a441-740fa47fa6bb","name":"Saratov Oblast","ru":"Saratov Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SAR"},{"id":"373a8fcc-de70-4bfe-8fa6-5c5fbafaee95","name":"Sevastopol","ru":"Sevastopol","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"UA-40"},{"id":"18f33675-0b27-4dd7-b4e5-cd047b2f309d","name":"Smolensk Oblast","ru":"Smolensk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SMO"},{"id":"572185be-3313-48ed-ad9f-69a53a2042ff","name":"Stavropol Krai","ru":"Stavropol Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"STA"},{"id":"d4e63f0f-44f0-404c-b58b-f00a0a5e976e","name":"Sverdlovsk","ru":"Sverdlovsk","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"SVE"},{"id":"1ec7d8a6-6673-42c2-92ba-5f0a2d557d0b","name":"Tambov Oblast","ru":"Tambov Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TAM"},{"id":"f39938ff-e2d9-48c4-88f0-f0eb06aa997d","name":"Tomsk Oblast","ru":"Tomsk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TOM"},{"id":"0b4f68bb-0702-44c3-beb5-6bafd4c93594","name":"Tula Oblast","ru":"Tula Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TUL"},{"id":"4c5d50b4-e07c-46f4-9231-f79f1b22467b","name":"Tuva Republic","ru":"Tuva Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TY"},{"id":"f6692158-5ca8-436c-be42-f03558687dd3","name":"Tver Oblast","ru":"Tver Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TVE"},{"id":"b36a839c-9d97-4427-addb-b0621b393983","name":"Tyumen Oblast","ru":"Tyumen Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"TYU"},{"id":"b94383af-5ed5-4096-a63b-3cd55d65274c","name":"Udmurt Republic","ru":"Udmurt Republic","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"UD"},{"id":"e67250b2-bb14-434e-a96a-247e64736561","name":"Ulyanovsk Oblast","ru":"Ulyanovsk Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ULY"},{"id":"b0ebacf7-543d-44d8-815d-b3b582df6dc0","name":"Vladimir Oblast","ru":"Vladimir Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"VLA"},{"id":"6f566083-6241-40ab-9985-ff5e3cbcbe6e","name":"Vologda Oblast","ru":"Vologda Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"VLG"},{"id":"83b0bb70-fb51-496a-9159-2b1a2c85dd09","name":"Voronezh Oblast","ru":"Voronezh Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"VOR"},{"id":"475ecfa4-f79d-4a19-bdfe-675d8f55ae75","name":"Yamalo-Nenets Autonomous Okrug","ru":"Yamalo-Nenets Autonomous Okrug","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"YAN"},{"id":"c90b7de3-a6ce-4947-9041-b89cdd5fbb34","name":"Yaroslavl Oblast","ru":"Yaroslavl Oblast","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"YAR"},{"id":"f96bfc61-4796-490d-a8e4-d66fda2b8503","name":"Zabaykalsky Krai","ru":"Zabaykalsky Krai","country":"e0dc83a1-8246-4a52-aa57-c9a7875befeb","countryCode":"RU","stateCode":"ZAB"}]
+[
+  {
+    "id": "00e5875c-996a-4dfb-af50-203ffd91339d",
+    "name": "Altai Krai",
+    "ru": "Altai Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ALT"
+  },
+  {
+    "id": "87f3f136-9069-4aa5-b63d-20cf0fa38657",
+    "name": "Altai Republic",
+    "ru": "Altai Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "AL"
+  },
+  {
+    "id": "43bf94c2-3563-4da5-be51-74e6eef2f9a9",
+    "name": "Amur Oblast",
+    "ru": "Amur Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "AMU"
+  },
+  {
+    "id": "2f57bb3d-2196-491e-ac6e-a4b3c028fa73",
+    "name": "Arkhangelsk",
+    "ru": "Arkhangelsk",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ARK"
+  },
+  {
+    "id": "b4600811-c3df-4327-9827-b58b74cc6274",
+    "name": "Astrakhan Oblast",
+    "ru": "Astrakhan Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "AST"
+  },
+  {
+    "id": "c99cccc4-fcc3-41f4-b678-d284cbfa4a59",
+    "name": "Belgorod Oblast",
+    "ru": "Belgorod Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "BEL"
+  },
+  {
+    "id": "f2342905-6d01-43c2-a552-4c1b4b244ff7",
+    "name": "Bryansk Oblast",
+    "ru": "Bryansk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "BRY"
+  },
+  {
+    "id": "1d506ec4-7cd3-46a1-a8dd-66cfadf4a507",
+    "name": "Chechen Republic",
+    "ru": "Chechen Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "CE"
+  },
+  {
+    "id": "9f9b8745-2b2f-4c24-a0f3-e801670165d3",
+    "name": "Chelyabinsk Oblast",
+    "ru": "Chelyabinsk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "CHE"
+  },
+  {
+    "id": "a8372b78-8240-44f1-9b1c-ae15ca491b65",
+    "name": "Chukotka Autonomous Okrug",
+    "ru": "Chukotka Autonomous Okrug",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "CHU"
+  },
+  {
+    "id": "24f4c94b-1feb-4923-9689-b42e9e0c8c63",
+    "name": "Chuvash Republic",
+    "ru": "Chuvash Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "CU"
+  },
+  {
+    "id": "ba4161f2-8988-410f-a21c-a4528fa98769",
+    "name": "Irkutsk",
+    "ru": "Irkutsk",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "IRK"
+  },
+  {
+    "id": "ac945ef8-88c1-4f82-a970-f4a86da2e6be",
+    "name": "Ivanovo Oblast",
+    "ru": "Ivanovo Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "IVA"
+  },
+  {
+    "id": "915abfcf-1d00-4326-bb5c-7ab8305cc2e2",
+    "name": "Jewish Autonomous Oblast",
+    "ru": "Jewish Autonomous Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "YEV"
+  },
+  {
+    "id": "27cbb61b-a07e-4586-b9c8-3a996b3f24af",
+    "name": "Kabardino-Balkar Republic",
+    "ru": "Kabardino-Balkar Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KB"
+  },
+  {
+    "id": "ee1e03ae-ca61-4044-a81f-fa2a5b2870ae",
+    "name": "Kaliningrad",
+    "ru": "Kaliningrad",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KGD"
+  },
+  {
+    "id": "fd98a6fc-cd20-4603-b425-654cf332e641",
+    "name": "Kaluga Oblast",
+    "ru": "Kaluga Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KLU"
+  },
+  {
+    "id": "5a9abd55-d67d-4073-8d09-5294eeec3672",
+    "name": "Kamchatka Krai",
+    "ru": "Kamchatka Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KAM"
+  },
+  {
+    "id": "4f509fe6-a0da-4235-b46d-c117e8aafffb",
+    "name": "Karachay-Cherkess Republic",
+    "ru": "Karachay-Cherkess Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KC"
+  },
+  {
+    "id": "efe31cfb-4c72-4257-8402-6876ee17d641",
+    "name": "Kemerovo Oblast",
+    "ru": "Kemerovo Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KEM"
+  },
+  {
+    "id": "dccff5dd-f4e5-464a-84d3-0ec70e9390a2",
+    "name": "Khabarovsk Krai",
+    "ru": "Khabarovsk Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KHA"
+  },
+  {
+    "id": "c3514fb1-9b4f-4060-a524-b3b9927da793",
+    "name": "Khanty-Mansi Autonomous Okrug",
+    "ru": "Khanty-Mansi Autonomous Okrug",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KHM"
+  },
+  {
+    "id": "c0cd0221-691b-48b7-aa13-0efa8cbf28ef",
+    "name": "Kirov Oblast",
+    "ru": "Kirov Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KIR"
+  },
+  {
+    "id": "b86c7d7c-6021-4519-8233-83e5751a9724",
+    "name": "Komi Republic",
+    "ru": "Komi Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KO"
+  },
+  {
+    "id": "a2d6cba1-d983-4c7e-8214-9d1a57e2da0d",
+    "name": "Kostroma Oblast",
+    "ru": "Kostroma Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KOS"
+  },
+  {
+    "id": "d3069add-6b99-48b8-9074-6a6d85e1bb01",
+    "name": "Krasnodar Krai",
+    "ru": "Krasnodar Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KDA"
+  },
+  {
+    "id": "21329696-0e20-4ba4-b488-a8d992bfc6dd",
+    "name": "Krasnoyarsk Krai",
+    "ru": "Krasnoyarsk Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KYA"
+  },
+  {
+    "id": "b46d324e-4e9f-42f4-a71d-b8610cdee7df",
+    "name": "Kurgan Oblast",
+    "ru": "Kurgan Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KGN"
+  },
+  {
+    "id": "80d51f6b-3227-437a-aea8-f02684471af4",
+    "name": "Kursk Oblast",
+    "ru": "Kursk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KRS"
+  },
+  {
+    "id": "1a664d0b-d273-4aaa-ab6d-388c33cb1348",
+    "name": "Leningrad Oblast",
+    "ru": "Leningrad Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "LEN"
+  },
+  {
+    "id": "0b54197e-056a-4600-ba1b-c141ec25563d",
+    "name": "Lipetsk Oblast",
+    "ru": "Lipetsk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "LIP"
+  },
+  {
+    "id": "4b77d0a8-95e6-47db-afc4-14330cad878f",
+    "name": "Magadan Oblast",
+    "ru": "Magadan Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "MAG"
+  },
+  {
+    "id": "40eb882a-1876-4f7d-843d-ebfbfb498dc7",
+    "name": "Mari El Republic",
+    "ru": "Mari El Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ME"
+  },
+  {
+    "id": "8f20a944-3e82-4419-b240-abadd4651f0d",
+    "name": "Moscow",
+    "ru": "Moscow",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "MOW"
+  },
+  {
+    "id": "3b1b7e02-a1be-45d4-a5ef-d7987c4b7bee",
+    "name": "Moscow Oblast",
+    "ru": "Moscow Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "MOS"
+  },
+  {
+    "id": "664e2fe6-eb97-4787-9e3b-480d45b9d794",
+    "name": "Murmansk Oblast",
+    "ru": "Murmansk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "MUR"
+  },
+  {
+    "id": "6d005718-80c2-4aca-bd39-f4996e3e997a",
+    "name": "Nenets Autonomous Okrug",
+    "ru": "Nenets Autonomous Okrug",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "NEN"
+  },
+  {
+    "id": "712018c6-f5ac-4840-a0ef-aa4180fcd38c",
+    "name": "Nizhny Novgorod Oblast",
+    "ru": "Nizhny Novgorod Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "NIZ"
+  },
+  {
+    "id": "09177863-2ad4-4657-995b-2cfa783080aa",
+    "name": "Novgorod Oblast",
+    "ru": "Novgorod Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "NGR"
+  },
+  {
+    "id": "64dcc6f0-b00b-42b4-934a-7f50073682f1",
+    "name": "Novosibirsk",
+    "ru": "Novosibirsk",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "NVS"
+  },
+  {
+    "id": "7320ab52-7b31-4a67-aca1-3d5bfcad45b1",
+    "name": "Omsk Oblast",
+    "ru": "Omsk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "OMS"
+  },
+  {
+    "id": "0e2e9c5f-409a-4478-8c6a-f49de6937f5b",
+    "name": "Orenburg Oblast",
+    "ru": "Orenburg Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ORE"
+  },
+  {
+    "id": "e758c680-cbe4-4537-b649-6375a0058ddd",
+    "name": "Oryol Oblast",
+    "ru": "Oryol Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ORL"
+  },
+  {
+    "id": "cf928a9b-bed8-4d2e-a2c0-34a4460c8d70",
+    "name": "Penza Oblast",
+    "ru": "Penza Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "PNZ"
+  },
+  {
+    "id": "9dc5ccc8-b600-446f-9714-6df8372d573a",
+    "name": "Perm Krai",
+    "ru": "Perm Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "PER"
+  },
+  {
+    "id": "31987dd8-0ec5-43af-a9d5-108fdaec7d4a",
+    "name": "Primorsky Krai",
+    "ru": "Primorsky Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "PRI"
+  },
+  {
+    "id": "659f4e1b-92dd-47e1-bc35-c383d13531ec",
+    "name": "Pskov Oblast",
+    "ru": "Pskov Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "PSK"
+  },
+  {
+    "id": "5ea8ddb8-3f3a-4683-bf5c-2ecf223a6e37",
+    "name": "Republic of Adygea",
+    "ru": "Republic of Adygea",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "AD"
+  },
+  {
+    "id": "97dbc383-81a9-4bd7-adcc-0fc0df080489",
+    "name": "Republic of Bashkortostan",
+    "ru": "Republic of Bashkortostan",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "BA"
+  },
+  {
+    "id": "fa6402e5-0299-48e3-a32b-dd68e7911598",
+    "name": "Republic of Buryatia",
+    "ru": "Republic of Buryatia",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "BU"
+  },
+  {
+    "id": "ffe75ef2-2a5e-4242-b680-00eb4b4e7be8",
+    "name": "Republic of Dagestan",
+    "ru": "Republic of Dagestan",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "DA"
+  },
+  {
+    "id": "3d5fa637-f277-4950-a0c0-3e6e14f85dec",
+    "name": "Republic of Ingushetia",
+    "ru": "Republic of Ingushetia",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "IN"
+  },
+  {
+    "id": "efc14383-a4e2-4e19-8077-7a3e2309ea1a",
+    "name": "Republic of Kalmykia",
+    "ru": "Republic of Kalmykia",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KL"
+  },
+  {
+    "id": "08368502-d2f1-459f-94b4-226d81cc7e00",
+    "name": "Republic of Karelia",
+    "ru": "Republic of Karelia",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KR"
+  },
+  {
+    "id": "87d49b36-29a2-480d-8d87-155522904c03",
+    "name": "Republic of Khakassia",
+    "ru": "Republic of Khakassia",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "KK"
+  },
+  {
+    "id": "56a84e4d-3210-42bd-ab5f-353a2bbf9279",
+    "name": "Republic of Mordovia",
+    "ru": "Republic of Mordovia",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "MO"
+  },
+  {
+    "id": "2a006635-d08b-4000-b608-33cf4b1ffc37",
+    "name": "Republic of North Ossetia-Alania",
+    "ru": "Republic of North Ossetia-Alania",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SE"
+  },
+  {
+    "id": "cb690d96-45bb-4a5d-8c52-c5cfc334edbb",
+    "name": "Republic of Tatarstan",
+    "ru": "Republic of Tatarstan",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TA"
+  },
+  {
+    "id": "5bbfd9e0-19a0-47b9-9358-379fec9e26d8",
+    "name": "Rostov Oblast",
+    "ru": "Rostov Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ROS"
+  },
+  {
+    "id": "3662ecd2-90b0-4cca-b6ad-6ea7546c4cd0",
+    "name": "Ryazan Oblast",
+    "ru": "Ryazan Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "RYA"
+  },
+  {
+    "id": "f22bdc62-3fac-4731-83e2-55cace19d96b",
+    "name": "Saint Petersburg",
+    "ru": "Saint Petersburg",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SPE"
+  },
+  {
+    "id": "885c8e28-c9cd-47e6-a171-d935c3429b65",
+    "name": "Sakha Republic",
+    "ru": "Sakha Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SA"
+  },
+  {
+    "id": "9a9b019c-4305-4401-819b-c6a624d67476",
+    "name": "Sakhalin",
+    "ru": "Sakhalin",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SAK"
+  },
+  {
+    "id": "17dbf34c-6bbd-41ba-b95b-223134584b83",
+    "name": "Samara Oblast",
+    "ru": "Samara Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SAM"
+  },
+  {
+    "id": "5d041f1b-108a-4b2f-a441-740fa47fa6bb",
+    "name": "Saratov Oblast",
+    "ru": "Saratov Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SAR"
+  },
+  {
+    "id": "373a8fcc-de70-4bfe-8fa6-5c5fbafaee95",
+    "name": "Sevastopol",
+    "ru": "Sevastopol",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "UA-40"
+  },
+  {
+    "id": "18f33675-0b27-4dd7-b4e5-cd047b2f309d",
+    "name": "Smolensk Oblast",
+    "ru": "Smolensk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SMO"
+  },
+  {
+    "id": "572185be-3313-48ed-ad9f-69a53a2042ff",
+    "name": "Stavropol Krai",
+    "ru": "Stavropol Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "STA"
+  },
+  {
+    "id": "d4e63f0f-44f0-404c-b58b-f00a0a5e976e",
+    "name": "Sverdlovsk",
+    "ru": "Sverdlovsk",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "SVE"
+  },
+  {
+    "id": "1ec7d8a6-6673-42c2-92ba-5f0a2d557d0b",
+    "name": "Tambov Oblast",
+    "ru": "Tambov Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TAM"
+  },
+  {
+    "id": "f39938ff-e2d9-48c4-88f0-f0eb06aa997d",
+    "name": "Tomsk Oblast",
+    "ru": "Tomsk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TOM"
+  },
+  {
+    "id": "0b4f68bb-0702-44c3-beb5-6bafd4c93594",
+    "name": "Tula Oblast",
+    "ru": "Tula Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TUL"
+  },
+  {
+    "id": "4c5d50b4-e07c-46f4-9231-f79f1b22467b",
+    "name": "Tuva Republic",
+    "ru": "Tuva Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TY"
+  },
+  {
+    "id": "f6692158-5ca8-436c-be42-f03558687dd3",
+    "name": "Tver Oblast",
+    "ru": "Tver Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TVE"
+  },
+  {
+    "id": "b36a839c-9d97-4427-addb-b0621b393983",
+    "name": "Tyumen Oblast",
+    "ru": "Tyumen Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "TYU"
+  },
+  {
+    "id": "b94383af-5ed5-4096-a63b-3cd55d65274c",
+    "name": "Udmurt Republic",
+    "ru": "Udmurt Republic",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "UD"
+  },
+  {
+    "id": "e67250b2-bb14-434e-a96a-247e64736561",
+    "name": "Ulyanovsk Oblast",
+    "ru": "Ulyanovsk Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ULY"
+  },
+  {
+    "id": "b0ebacf7-543d-44d8-815d-b3b582df6dc0",
+    "name": "Vladimir Oblast",
+    "ru": "Vladimir Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "VLA"
+  },
+  {
+    "id": "6f566083-6241-40ab-9985-ff5e3cbcbe6e",
+    "name": "Vologda Oblast",
+    "ru": "Vologda Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "VLG"
+  },
+  {
+    "id": "83b0bb70-fb51-496a-9159-2b1a2c85dd09",
+    "name": "Voronezh Oblast",
+    "ru": "Voronezh Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "VOR"
+  },
+  {
+    "id": "475ecfa4-f79d-4a19-bdfe-675d8f55ae75",
+    "name": "Yamalo-Nenets Autonomous Okrug",
+    "ru": "Yamalo-Nenets Autonomous Okrug",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "YAN"
+  },
+  {
+    "id": "c90b7de3-a6ce-4947-9041-b89cdd5fbb34",
+    "name": "Yaroslavl Oblast",
+    "ru": "Yaroslavl Oblast",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "YAR"
+  },
+  {
+    "id": "f96bfc61-4796-490d-a8e4-d66fda2b8503",
+    "name": "Zabaykalsky Krai",
+    "ru": "Zabaykalsky Krai",
+    "country": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
+    "countryCode": "RU",
+    "stateCode": "ZAB"
+  }
+]
