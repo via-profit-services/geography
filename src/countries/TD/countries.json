@@ -1,1 +1,12 @@
-[{"id":"face368e-67c3-4bee-b965-30b3335fa643","name":"Chad","ru":"Chad","iso3":"TCD","iso2":"TD","phoneCode":"235","capital":null,"currency":"XAF"}]
+[
+  {
+    "id": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "en": "Chad",
+    "ru": "Чад",
+    "iso3": "TCD",
+    "iso2": "TD",
+    "phoneCode": "235",
+    "capital": null,
+    "currency": "XAF"
+  }
+]

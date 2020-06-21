@@ -1,1 +1,210 @@
-[{"id":"28c3965c-f000-45e3-9d23-9d8fbd4ceee5","name":"Addu Atoll","ru":"Addu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"01"},{"id":"51dd5745-5074-4b8e-933c-74918218e0ba","name":"Alif Alif Atoll","ru":"Alif Alif Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"02"},{"id":"ea65ee0e-e840-4709-a40b-22f1fa237cff","name":"Alif Dhaal Atoll","ru":"Alif Dhaal Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"00"},{"id":"08063bd0-f412-4d1f-8d9c-426688fb4671","name":"Central Province","ru":"Central Province","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"CE"},{"id":"30280fab-d46d-4c19-8dac-515ba8d75f46","name":"Dhaalu Atoll","ru":"Dhaalu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"17"},{"id":"dacfe882-20c8-4a81-8ddb-be66683bda6f","name":"Faafu Atoll","ru":"Faafu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"14"},{"id":"800d03ba-e7b6-4991-a72f-e4a107f2e704","name":"Gaafu Alif Atoll","ru":"Gaafu Alif Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"27"},{"id":"ff42c153-b60b-4838-a6b3-6c715ae0dc0a","name":"Gaafu Dhaalu Atoll","ru":"Gaafu Dhaalu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"28"},{"id":"7d8a373d-30e2-45f4-b4a1-aac019d629c8","name":"Gnaviyani Atoll","ru":"Gnaviyani Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"29"},{"id":"60ebc779-3880-495b-acda-aebe62043468","name":"Haa Alif Atoll","ru":"Haa Alif Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"07"},{"id":"bd3b44d6-c883-4c7f-9e10-0cd95488c305","name":"Haa Dhaalu Atoll","ru":"Haa Dhaalu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"23"},{"id":"51d6e3db-bd4d-4322-823c-d0d44a923090","name":"Kaafu Atoll","ru":"Kaafu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"26"},{"id":"5b7009f4-a30d-4df0-afa5-3035f3ba570f","name":"Laamu Atoll","ru":"Laamu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"05"},{"id":"c9aa75ee-02db-49b4-8967-8e1ba9f9bb04","name":"Lhaviyani Atoll","ru":"Lhaviyani Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"03"},{"id":"452f34d1-0a21-47d9-9e1e-ea2cad46649e","name":"Malé","ru":"Malé","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"MLE"},{"id":"05516da6-a916-42ea-bd02-32016f2bef3b","name":"Meemu Atoll","ru":"Meemu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"12"},{"id":"a3f961fc-916d-40ba-8eb4-bbde0a15aae8","name":"Noonu Atoll","ru":"Noonu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"25"},{"id":"2c621a21-43a3-4f6e-9595-f410aeaac2ea","name":"North Central Province","ru":"North Central Province","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"NC"},{"id":"e5420c57-4338-4c0d-866b-eabba05519f5","name":"North Province","ru":"North Province","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"NO"},{"id":"ebcddead-c24d-4b31-8011-242680da6a5d","name":"Raa Atoll","ru":"Raa Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"13"},{"id":"add6ef56-8a24-4c66-abd5-bf8b333fc59a","name":"Shaviyani Atoll","ru":"Shaviyani Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"24"},{"id":"90a3e92b-4538-4b1c-9e06-602975610a50","name":"South Central Province","ru":"South Central Province","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"SC"},{"id":"d94cd830-5b50-477c-bbbe-3897eb7480f1","name":"South Province","ru":"South Province","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"SU"},{"id":"fd33ba5e-219b-4795-bb6c-bbbb9156ef24","name":"Thaa Atoll","ru":"Thaa Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"08"},{"id":"d73b50ea-f694-4e7f-b84c-91f71016deab","name":"Upper South Province","ru":"Upper South Province","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"US"},{"id":"95e6ebf5-534f-487a-ba6f-39de0ed0121f","name":"Vaavu Atoll","ru":"Vaavu Atoll","country":"7e0b9ecd-b99f-44de-b691-7ee40a9e8dcb","countryCode":"MV","stateCode":"04"}]
+[
+  {
+    "id": "4e8b9301-87f8-4b93-90ca-f400da8ba66e",
+    "en": "Addu Atoll",
+    "ru": "Адду Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "01"
+  },
+  {
+    "id": "7f0e85b5-eb61-42fc-b044-500db2a92070",
+    "en": "Alif Alif Atoll",
+    "ru": "Алиф Алиф Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "02"
+  },
+  {
+    "id": "e1ea7dbb-38bb-4150-9007-5ae0c7d5ed9a",
+    "en": "Alif Dhaal Atoll",
+    "ru": "Атолл Алиф Даал",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "00"
+  },
+  {
+    "id": "f01e5b57-4c33-48cd-a613-793ff3c09b22",
+    "en": "Central Province",
+    "ru": "Центральная губерния",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "CE"
+  },
+  {
+    "id": "9076fe42-95f2-42a4-be10-756c2bd3ae63",
+    "en": "Dhaalu Atoll",
+    "ru": "Атолл Даалу",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "17"
+  },
+  {
+    "id": "a462bfcb-2786-40c3-b9d1-bfc5e6d6036b",
+    "en": "Faafu Atoll",
+    "ru": "Фаафу Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "14"
+  },
+  {
+    "id": "addea26e-fca5-4219-b7c4-328c9a9be0fb",
+    "en": "Gaafu Alif Atoll",
+    "ru": "Гаафу Алиф Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "27"
+  },
+  {
+    "id": "92738042-0df2-4259-bafd-b320bab23990",
+    "en": "Gaafu Dhaalu Atoll",
+    "ru": "Гаафу Даалу Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "28"
+  },
+  {
+    "id": "cc5c0aeb-4c8c-4990-84c8-8cfbb33bd8ea",
+    "en": "Gnaviyani Atoll",
+    "ru": "Гнавияни Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "29"
+  },
+  {
+    "id": "3a64400d-d2ca-4630-88e5-e67477900cab",
+    "en": "Haa Alif Atoll",
+    "ru": "Хаа Алиф Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "07"
+  },
+  {
+    "id": "7879aa78-35bc-4058-a6e4-d1854f68fbdf",
+    "en": "Haa Dhaalu Atoll",
+    "ru": "Хаа Даалу Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "23"
+  },
+  {
+    "id": "e5e43384-59d7-43f9-bc09-b3f6ef95d2a1",
+    "en": "Kaafu Atoll",
+    "ru": "Каафу Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "26"
+  },
+  {
+    "id": "4fe9fd0b-3ea5-403d-8e19-50eed43aa914",
+    "en": "Laamu Atoll",
+    "ru": "Атолл Лааму",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "05"
+  },
+  {
+    "id": "27328929-7be2-4088-a635-d8c751a4416a",
+    "en": "Lhaviyani Atoll",
+    "ru": "Атолл Лавияни",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "03"
+  },
+  {
+    "id": "42f80e0b-7221-435b-bc61-161e202f78f0",
+    "en": "Malé",
+    "ru": "Мале",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "MLE"
+  },
+  {
+    "id": "0a16e90a-2655-499c-9289-6c2255389e2d",
+    "en": "Meemu Atoll",
+    "ru": "Атолл Меему",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "12"
+  },
+  {
+    "id": "65ac81ba-9489-49bf-a801-ea1f7a7a5eea",
+    "en": "Noonu Atoll",
+    "ru": "атолл Ноону",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "25"
+  },
+  {
+    "id": "3effe216-7dd2-40d5-b988-289966a94a85",
+    "en": "North Central Province",
+    "ru": "Северная Центральная провинция",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "NC"
+  },
+  {
+    "id": "263009c9-c9b6-4482-b4a8-e1d0b9df614f",
+    "en": "North Province",
+    "ru": "Северная провинция",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "NO"
+  },
+  {
+    "id": "f6d4af95-a0c6-425f-90a7-cbb27062c1cb",
+    "en": "Raa Atoll",
+    "ru": "Раа Атолл",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "13"
+  },
+  {
+    "id": "4f9a7daa-060b-4d46-98ab-11c17700eb60",
+    "en": "Shaviyani Atoll",
+    "ru": "Атолл Шавияни",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "24"
+  },
+  {
+    "id": "17438543-dbbd-4e7b-acce-56b6425d09a6",
+    "en": "South Central Province",
+    "ru": "Южная Центральная Провинция",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "SC"
+  },
+  {
+    "id": "38b6542f-37b2-4cbb-b2e9-f54126dafcf0",
+    "en": "South Province",
+    "ru": "Южная провинция",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "SU"
+  },
+  {
+    "id": "8978ab6d-8e01-4e5d-901d-99e189b33e73",
+    "en": "Thaa Atoll",
+    "ru": "атолл таа",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "08"
+  },
+  {
+    "id": "eb8bc47c-8d0c-421f-802c-19141628543b",
+    "en": "Upper South Province",
+    "ru": "Верхний Южный Провинция",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "US"
+  },
+  {
+    "id": "ff8f3cf9-a1ef-4d88-b471-9f74dce2e0d9",
+    "en": "Vaavu Atoll",
+    "ru": "Атолл Вааву",
+    "country": "407d6232-98d6-421a-92ca-e6665e0a55ea",
+    "countryCode": "MV",
+    "stateCode": "04"
+  }
+]

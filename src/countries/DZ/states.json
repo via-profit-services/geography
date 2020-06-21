@@ -1,1 +1,378 @@
-[{"id":"e108dc3d-f52e-45c0-b4c6-2e55297a018c","name":"Aïn Defla Province","ru":"Aïn Defla Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"44"},{"id":"33ffeb60-c4b3-4a18-9ef5-0966bda8f47d","name":"Aïn Témouchent Province","ru":"Aïn Témouchent Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"46"},{"id":"adb7ccc6-68f1-4d34-a7ac-694c38ed692f","name":"Adrar Province","ru":"Adrar Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"01"},{"id":"7365cc76-d2a6-4b16-9def-6f60545cb54d","name":"Algiers Province","ru":"Algiers Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"16"},{"id":"1ca4570d-f323-457f-990c-4d9e0d4c03ec","name":"Annaba Province","ru":"Annaba Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"23"},{"id":"44e54436-0589-4f81-b026-cb647e38c482","name":"Batna Province","ru":"Batna Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"05"},{"id":"11744b6c-4af0-441c-9894-e26df084e57d","name":"Béchar Province","ru":"Béchar Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"08"},{"id":"28fafe47-daa3-4cad-a7f5-12a2facd80a0","name":"Béjaïa Province","ru":"Béjaïa Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"06"},{"id":"c115e014-14d3-498c-866f-66e5fc749ca3","name":"Biskra","ru":"Biskra","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"07"},{"id":"76068622-c758-4da0-8a59-ca2d0daa9e08","name":"Blida Province","ru":"Blida Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"09"},{"id":"366fe563-aafd-4132-82d9-5952813c7a61","name":"Bordj Bou Arréridj Province","ru":"Bordj Bou Arréridj Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"34"},{"id":"107e236b-23a5-4759-9feb-0f129217467a","name":"Bouïra Province","ru":"Bouïra Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"10"},{"id":"de8fa81c-0553-4a39-a9e5-dba7231f5380","name":"Boumerdès Province","ru":"Boumerdès Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"35"},{"id":"f63aa39d-2b4f-46d7-8b2e-656cf42777b7","name":"Chlef Province","ru":"Chlef Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"02"},{"id":"bc9248aa-6761-43ab-987c-7609e1ddc33c","name":"Constantine Province","ru":"Constantine Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"25"},{"id":"3b04a30b-816c-4123-a3a8-f56850a458ee","name":"Djelfa Province","ru":"Djelfa Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"17"},{"id":"5be20fa7-6381-49cd-ba62-861500acbedb","name":"El Bayadh Province","ru":"El Bayadh Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"32"},{"id":"c3b62749-c3a4-4c69-a512-6f4de51153bf","name":"El Oued Province","ru":"El Oued Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"39"},{"id":"ec703822-3521-4fd5-8c1a-ca035af611cb","name":"El Tarf Province","ru":"El Tarf Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"36"},{"id":"f7da553e-db2b-464e-aa86-9288fa8d3900","name":"Ghardaïa Province","ru":"Ghardaïa Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"47"},{"id":"12302b9f-a0e2-406d-b14b-46cc7f7dfdb9","name":"Guelma Province","ru":"Guelma Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"24"},{"id":"8996a7e6-0cb9-4ba1-9dcf-4b3f0577afee","name":"Illizi Province","ru":"Illizi Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"33"},{"id":"f993f948-cea8-48d3-8015-1a8b20d5f14e","name":"Jijel Province","ru":"Jijel Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"18"},{"id":"bd210adb-0bc1-4782-8276-3782cf5c93bb","name":"Khenchela Province","ru":"Khenchela Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"40"},{"id":"3903eabf-6d3e-43d7-8717-e8a518fd6a56","name":"Laghouat Province","ru":"Laghouat Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"03"},{"id":"eab43862-e895-4169-9a2c-5c71fcbb4f66","name":"M'Sila Province","ru":"M'Sila Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"28"},{"id":"2d2a8220-19b2-4b4c-b1e0-8fa351c3316f","name":"Mascara Province","ru":"Mascara Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"29"},{"id":"10084354-de7a-4b7e-af85-f9e9f6cb0552","name":"Médéa Province","ru":"Médéa Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"26"},{"id":"1e42d2ad-dc37-4dfc-a868-0a05fb1bcec8","name":"Mila Province","ru":"Mila Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"43"},{"id":"3ce61e19-6281-4c63-ba9f-275640d44896","name":"Mostaganem Province","ru":"Mostaganem Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"27"},{"id":"16d80097-4eff-44f8-9666-9e0f57063a6c","name":"Naama Province","ru":"Naama Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"45"},{"id":"6ca1ef5e-2389-466b-8afc-81f2d0c25aa7","name":"Oran Province","ru":"Oran Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"31"},{"id":"bd08a129-601b-49e8-b51f-31fe3f0ac909","name":"Ouargla Province","ru":"Ouargla Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"30"},{"id":"2058a80b-59c9-4132-82de-45190b9bf3c2","name":"Oum El Bouaghi Province","ru":"Oum El Bouaghi Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"04"},{"id":"653145a9-46f0-4fbb-85b6-2df6a6524d72","name":"Relizane Province","ru":"Relizane Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"48"},{"id":"fd9d534b-74b2-4064-bbe7-37d5f0f1d913","name":"Saïda Province","ru":"Saïda Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"20"},{"id":"79423b06-16d7-409e-98ac-7378ad936636","name":"Sétif Province","ru":"Sétif Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"19"},{"id":"8e87c29a-5b92-4c4e-9f77-f62beec3bb05","name":"Skikda Province","ru":"Skikda Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"21"},{"id":"becd04ef-ea5c-4707-8ecb-7e194865a2c6","name":"Souk Ahras Province","ru":"Souk Ahras Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"41"},{"id":"e3b4e883-c143-428e-8fa4-17ef42ac077d","name":"Tamanghasset Province","ru":"Tamanghasset Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"11"},{"id":"c93b7fd6-4cba-459d-b9c2-c4c4d1ff295b","name":"Tébessa Province","ru":"Tébessa Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"12"},{"id":"76844aae-54a3-42cc-a734-37f864477095","name":"Tiaret Province","ru":"Tiaret Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"14"},{"id":"d9cb1c9f-656a-4dfe-89a3-9b9b1ec4e315","name":"Tindouf Province","ru":"Tindouf Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"37"},{"id":"10853f34-1f27-4929-8e68-bbe3e2edcfb2","name":"Tipasa Province","ru":"Tipasa Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"42"},{"id":"68080f11-62a9-43d2-8444-b35ff79ef807","name":"Tissemsilt Province","ru":"Tissemsilt Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"38"},{"id":"de16c0cd-b728-412a-8b16-9a85d8137842","name":"Tizi Ouzou Province","ru":"Tizi Ouzou Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"15"},{"id":"bbdf7b03-1bec-4ae2-8f3f-c20901193f04","name":"Tlemcen Province","ru":"Tlemcen Province","country":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","countryCode":"DZ","stateCode":"13"}]
+[
+  {
+    "id": "d7aa06fa-cd26-40ea-9afd-53c09bbfe190",
+    "en": "Aïn Defla Province",
+    "ru": "Aïn Defla провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "44"
+  },
+  {
+    "id": "9438eebd-b57d-4998-b30c-52493392be80",
+    "en": "Aïn Témouchent Province",
+    "ru": "Aïn Témouchent провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "46"
+  },
+  {
+    "id": "0a94a908-5a62-4b41-b9eb-bea5a1011b91",
+    "en": "Adrar Province",
+    "ru": "Адрарская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "01"
+  },
+  {
+    "id": "ee84c758-d992-4a87-848c-8affc2835e01",
+    "en": "Algiers Province",
+    "ru": "Алжирская область",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "16"
+  },
+  {
+    "id": "12006cab-49ec-44c9-bfff-573abd449af0",
+    "en": "Annaba Province",
+    "ru": "Аннаба провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "23"
+  },
+  {
+    "id": "033f1e06-1d88-45ad-aab7-c3db2a5b26d5",
+    "en": "Batna Province",
+    "ru": "Батненская область",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "05"
+  },
+  {
+    "id": "003ab131-088e-4f4b-913d-5350da8fe631",
+    "en": "Béchar Province",
+    "ru": "Бечарская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "08"
+  },
+  {
+    "id": "26a4269c-c980-46d6-a50c-9a9821f273fa",
+    "en": "Béjaïa Province",
+    "ru": "Бежая провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "06"
+  },
+  {
+    "id": "65ae637f-04d4-42e3-ad8c-239583a0afbe",
+    "en": "Biskra",
+    "ru": "Бискра",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "07"
+  },
+  {
+    "id": "7a5a5455-9b9a-43f5-9826-57a60ccaf913",
+    "en": "Blida Province",
+    "ru": "Блидская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "09"
+  },
+  {
+    "id": "1608934e-8c00-4bc3-8970-099a19da045c",
+    "en": "Bordj Bou Arréridj Province",
+    "ru": "Бордж-Бу-Аррериджская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "34"
+  },
+  {
+    "id": "d87506cf-76dc-42a0-9927-0e7818d65c03",
+    "en": "Bouïra Province",
+    "ru": "Буирская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "10"
+  },
+  {
+    "id": "6e8a23ac-156e-412d-8a61-e455800766d4",
+    "en": "Boumerdès Province",
+    "ru": "Бумердес провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "35"
+  },
+  {
+    "id": "4aca8689-fdf1-4f85-abca-e28fbd82e38a",
+    "en": "Chlef Province",
+    "ru": "Члеф провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "02"
+  },
+  {
+    "id": "496fc70c-4ba0-44bc-9b74-dbbbeea92938",
+    "en": "Constantine Province",
+    "ru": "Константинская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "25"
+  },
+  {
+    "id": "5e734a51-424e-4b93-9d8c-4b3823771e9d",
+    "en": "Djelfa Province",
+    "ru": "Джелфа провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "17"
+  },
+  {
+    "id": "68a8d88b-5fdb-4c91-8452-c6c88a6731ee",
+    "en": "El Bayadh Province",
+    "ru": "Эль Баяд провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "32"
+  },
+  {
+    "id": "9d74d8f0-c807-4d61-9bae-d534fdc06499",
+    "en": "El Oued Province",
+    "ru": "Эль-Уэд провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "39"
+  },
+  {
+    "id": "33fa78ce-3782-4a81-8910-733824a8ebd8",
+    "en": "El Tarf Province",
+    "ru": "Эль Тарф провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "36"
+  },
+  {
+    "id": "ee00be0a-feda-44cd-8b8c-cfb0aa6dcc6a",
+    "en": "Ghardaïa Province",
+    "ru": "Гардайская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "47"
+  },
+  {
+    "id": "8d885190-fa33-45e8-9f69-e1b0e45f9bd6",
+    "en": "Guelma Province",
+    "ru": "Гельма провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "24"
+  },
+  {
+    "id": "5171d9db-f306-4de4-af8f-5cb90d4dd1a4",
+    "en": "Illizi Province",
+    "ru": "Иллизинская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "33"
+  },
+  {
+    "id": "a5399b0c-afa1-4f85-ab3b-764a7885f596",
+    "en": "Jijel Province",
+    "ru": "Джиджель провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "18"
+  },
+  {
+    "id": "a78b396c-dd13-4171-a039-036e52e6bb3e",
+    "en": "Khenchela Province",
+    "ru": "Хенчела провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "40"
+  },
+  {
+    "id": "caacbef2-360d-4036-b1ec-898b1c843ecf",
+    "en": "Laghouat Province",
+    "ru": "Laghouat провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "03"
+  },
+  {
+    "id": "90bd5ab9-e817-4338-82de-6c2df987204a",
+    "en": "M'Sila Province",
+    "ru": "М'Сила провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "28"
+  },
+  {
+    "id": "2efa84c4-9f05-493a-9657-01270a1933e1",
+    "en": "Mascara Province",
+    "ru": "тушь для ресниц провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "29"
+  },
+  {
+    "id": "dd1ed9dd-a6b8-4acf-b6d8-14c877460c4b",
+    "en": "Médéa Province",
+    "ru": "Медея провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "26"
+  },
+  {
+    "id": "de78e9ac-d305-43da-8795-3e69fcb5eef2",
+    "en": "Mila Province",
+    "ru": "Мила провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "43"
+  },
+  {
+    "id": "fe036eb2-a31e-4c33-af74-acd46acd5edc",
+    "en": "Mostaganem Province",
+    "ru": "Мостаганемская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "27"
+  },
+  {
+    "id": "7528a287-c479-4a01-ac22-edc7677cd314",
+    "en": "Naama Province",
+    "ru": "Наама провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "45"
+  },
+  {
+    "id": "682cf4a4-0f54-4349-a1b1-841adc0c3bfe",
+    "en": "Oran Province",
+    "ru": "Оранская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "31"
+  },
+  {
+    "id": "b9832755-0ee5-4458-90e0-afb89e0620ea",
+    "en": "Ouargla Province",
+    "ru": "Уаргла провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "30"
+  },
+  {
+    "id": "f9c2e592-fd2f-4417-a388-2c9f33049ed4",
+    "en": "Oum El Bouaghi Province",
+    "ru": "Oum El Bouaghi провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "04"
+  },
+  {
+    "id": "38667ed6-0652-488a-82a5-295b444f8e01",
+    "en": "Relizane Province",
+    "ru": "Релизане провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "48"
+  },
+  {
+    "id": "003a9591-a779-4873-896a-b3d90411cede",
+    "en": "Saïda Province",
+    "ru": "Саида провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "20"
+  },
+  {
+    "id": "82fee893-dbd2-437a-86cb-0c7de0479ca3",
+    "en": "Sétif Province",
+    "ru": "Sétif провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "19"
+  },
+  {
+    "id": "c12c33cc-f1cd-452e-a87b-73e1ba3ebf10",
+    "en": "Skikda Province",
+    "ru": "Скикда провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "21"
+  },
+  {
+    "id": "4072cd24-a1ca-41d7-8889-ca24dbec1709",
+    "en": "Souk Ahras Province",
+    "ru": "Souk Ahras провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "41"
+  },
+  {
+    "id": "b5349b91-16cd-4ed4-913b-085155d73aae",
+    "en": "Tamanghasset Province",
+    "ru": "Тамангасетская область",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "11"
+  },
+  {
+    "id": "67b1546c-651a-414e-bee9-021877841613",
+    "en": "Tébessa Province",
+    "ru": "Тебесса провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "12"
+  },
+  {
+    "id": "82eee05a-6a03-4fbf-974b-3adfe6c22c99",
+    "en": "Tiaret Province",
+    "ru": "Тиарет провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "14"
+  },
+  {
+    "id": "a8c2ff00-6435-49f7-bce4-87ca4d66946c",
+    "en": "Tindouf Province",
+    "ru": "Тиндуф провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "37"
+  },
+  {
+    "id": "45ff9203-0c20-49eb-a1ed-e1bc0791318c",
+    "en": "Tipasa Province",
+    "ru": "Типаса провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "42"
+  },
+  {
+    "id": "d33d5dea-d310-433e-abe8-bcc2edb48bdc",
+    "en": "Tissemsilt Province",
+    "ru": "Тиссемсилт провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "38"
+  },
+  {
+    "id": "08ad336b-c2f3-4ec0-8967-1bc0a86ea86e",
+    "en": "Tizi Ouzou Province",
+    "ru": "Тизи Узу провинция",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "15"
+  },
+  {
+    "id": "1817b856-f1e7-4470-b4bd-6b7e5c5b0400",
+    "en": "Tlemcen Province",
+    "ru": "Тлемсенская губерния",
+    "country": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "countryCode": "DZ",
+    "stateCode": "13"
+  }
+]

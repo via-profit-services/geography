@@ -1,1 +1,145 @@
-[{"id":"d6664ab1-c4b7-4f75-ac68-9c81c7b77562","name":"Brokopondo","ru":"Brokopondo","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"d6efd75f-1169-4efb-a9be-7e0ea7fbc43e","stateCode":"BR","latitude":"5.05594000","longitude":"-54.98043000"},{"id":"437a0c14-fd12-407b-80ff-7d635524b804","name":"Brownsweg","ru":"Brownsweg","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"d6efd75f-1169-4efb-a9be-7e0ea7fbc43e","stateCode":"BR","latitude":"5.00435000","longitude":"-55.15333000"},{"id":"a3d3e5f3-7a1b-4cc2-b069-a0a81bfbc347","name":"Mariënburg","ru":"Mariënburg","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"96c66a00-7b8c-4612-9528-45fda793b2bd","stateCode":"CM","latitude":"5.87722000","longitude":"-55.04322000"},{"id":"0fa84b4b-21cd-4860-bd07-1fa227c25a2f","name":"Nieuw Amsterdam","ru":"Nieuw Amsterdam","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"96c66a00-7b8c-4612-9528-45fda793b2bd","stateCode":"CM","latitude":"5.88573000","longitude":"-55.08871000"},{"id":"ea888ac9-3ad2-47b0-98e3-65726ed2e42e","name":"Totness","ru":"Totness","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"7af537e1-f828-44e6-935e-37fa6532439a","stateCode":"CR","latitude":"5.87618000","longitude":"-56.32572000"},{"id":"42cca4ad-f138-42d5-ba9c-08f396f3fcf4","name":"Albina","ru":"Albina","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"71912342-11db-4b0f-8a37-faf3985f0d7a","stateCode":"MA","latitude":"5.49788000","longitude":"-54.05522000"},{"id":"996f82c4-eaf8-4dcd-8bbe-ae7d3d80d0a3","name":"Moengo","ru":"Moengo","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"71912342-11db-4b0f-8a37-faf3985f0d7a","stateCode":"MA","latitude":"5.61411000","longitude":"-54.40121000"},{"id":"d3b1f56f-ac34-4b74-864c-d512c202cffb","name":"Nieuw Nickerie","ru":"Nieuw Nickerie","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"688a78db-b32a-4bc2-b273-4beb2ae33afe","stateCode":"NI","latitude":"5.92606000","longitude":"-56.97297000"},{"id":"a8d82992-07ef-42ce-838c-da65456ffe66","name":"Wageningen","ru":"Wageningen","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"688a78db-b32a-4bc2-b273-4beb2ae33afe","stateCode":"NI","latitude":"5.76010000","longitude":"-56.66523000"},{"id":"607a211e-9a20-4a9e-80b0-e18c210323b4","name":"Onverwacht","ru":"Onverwacht","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"e03e4055-e1c3-4325-a8fb-c12fe4d2eabe","stateCode":"PR","latitude":"5.58983000","longitude":"-55.19462000"},{"id":"adfbe923-dfe7-4260-b1e1-f358482c614f","name":"Paramaribo","ru":"Paramaribo","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"d9282230-e615-40bf-93a2-f8287a75ef15","stateCode":"PM","latitude":"5.86638000","longitude":"-55.16682000"},{"id":"ec5671e2-7661-49e9-b3a4-3bda770c6c27","name":"Groningen","ru":"Groningen","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"15608b4a-a655-43b6-8f16-e8e9b788d0f1","stateCode":"SA","latitude":"5.80000000","longitude":"-55.46667000"},{"id":"4aa2c37c-ad43-4a54-9c40-a9bf37838f09","name":"Lelydorp","ru":"Lelydorp","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","state":"3b56c743-1dd5-43dd-99c6-f206573ce2c0","stateCode":"WA","latitude":"5.70000000","longitude":"-55.23333000"}]
+[
+  {
+    "id": "30c1a5b8-1b86-440b-a265-f45568615b7e",
+    "en": "Brokopondo",
+    "ru": "Брокопондо",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "0f3f8434-6d40-4152-b411-2e6782dee23b",
+    "stateCode": "BR",
+    "latitude": "5.05594000",
+    "longitude": "-54.98043000"
+  },
+  {
+    "id": "0a3bc964-7a81-41b6-806f-128259f3c838",
+    "en": "Brownsweg",
+    "ru": "Браунсвег",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "0f3f8434-6d40-4152-b411-2e6782dee23b",
+    "stateCode": "BR",
+    "latitude": "5.00435000",
+    "longitude": "-55.15333000"
+  },
+  {
+    "id": "a0cf0551-4751-4fae-b3de-ebace3e17202",
+    "en": "Mariënburg",
+    "ru": "Мариенбург",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "48f4b53d-04e5-4fa5-9acd-0308ed7bbf7b",
+    "stateCode": "CM",
+    "latitude": "5.87722000",
+    "longitude": "-55.04322000"
+  },
+  {
+    "id": "2673b542-d7b4-4310-8b6f-6033ab6b12c4",
+    "en": "Nieuw Amsterdam",
+    "ru": "Nieuw Амстердам",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "48f4b53d-04e5-4fa5-9acd-0308ed7bbf7b",
+    "stateCode": "CM",
+    "latitude": "5.88573000",
+    "longitude": "-55.08871000"
+  },
+  {
+    "id": "c7b333c4-1e8f-42f6-ae37-02e3e166340a",
+    "en": "Totness",
+    "ru": "Тотнесс",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "774c6ed0-eab1-4ed2-b6f8-3f040a491695",
+    "stateCode": "CR",
+    "latitude": "5.87618000",
+    "longitude": "-56.32572000"
+  },
+  {
+    "id": "a0d421f3-ef4b-4632-b36d-ed4517f746bd",
+    "en": "Albina",
+    "ru": "Альбина",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "ee1ae0b8-e1d2-4066-8895-759f9685a779",
+    "stateCode": "MA",
+    "latitude": "5.49788000",
+    "longitude": "-54.05522000"
+  },
+  {
+    "id": "715e7e5c-21f3-45b7-809a-34158d90b5de",
+    "en": "Moengo",
+    "ru": "Моэнго",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "ee1ae0b8-e1d2-4066-8895-759f9685a779",
+    "stateCode": "MA",
+    "latitude": "5.61411000",
+    "longitude": "-54.40121000"
+  },
+  {
+    "id": "25552117-a536-4115-bcb1-b139e2c14ad1",
+    "en": "Nieuw Nickerie",
+    "ru": "Nieuw Nickerie",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "15f3cd27-7554-40c6-b5cd-498b0d8cf0e1",
+    "stateCode": "NI",
+    "latitude": "5.92606000",
+    "longitude": "-56.97297000"
+  },
+  {
+    "id": "2be4aa88-b204-4ba2-80b8-0f982ca83f50",
+    "en": "Wageningen",
+    "ru": "Вагенинген",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "15f3cd27-7554-40c6-b5cd-498b0d8cf0e1",
+    "stateCode": "NI",
+    "latitude": "5.76010000",
+    "longitude": "-56.66523000"
+  },
+  {
+    "id": "74809778-6544-4a96-85f8-2edc832b3032",
+    "en": "Onverwacht",
+    "ru": "Onverwacht",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "b28e6ac1-4f8d-49bb-b941-249c0df5f3e1",
+    "stateCode": "PR",
+    "latitude": "5.58983000",
+    "longitude": "-55.19462000"
+  },
+  {
+    "id": "9fd7e938-3a39-4785-9704-fb8d3b9d52a2",
+    "en": "Paramaribo",
+    "ru": "Парамарибо",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "ce9ecd4c-e109-4bc3-b342-bb29c38831a5",
+    "stateCode": "PM",
+    "latitude": "5.86638000",
+    "longitude": "-55.16682000"
+  },
+  {
+    "id": "12496ce0-ad11-40a5-8001-b03417c88fa2",
+    "en": "Groningen",
+    "ru": "Гронинген",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "38e61206-3041-47aa-ba36-d7eeace2a275",
+    "stateCode": "SA",
+    "latitude": "5.80000000",
+    "longitude": "-55.46667000"
+  },
+  {
+    "id": "19da1138-b07a-4753-a002-0176a7699ff8",
+    "en": "Lelydorp",
+    "ru": "Лелидорп",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "state": "3f612566-a92a-4b1e-9860-8f55795d3831",
+    "stateCode": "WA",
+    "latitude": "5.70000000",
+    "longitude": "-55.23333000"
+  }
+]

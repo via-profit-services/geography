@@ -1,1 +1,82 @@
-[{"id":"dc848d70-7454-480a-a4ee-c53622085bd0","name":"Berea District","ru":"Berea District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"D"},{"id":"6952a997-ff48-4090-9fb4-ae65994c6e18","name":"Butha-Buthe District","ru":"Butha-Buthe District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"B"},{"id":"9c014aa4-c35c-46cb-8b63-3dff84bf8935","name":"Leribe District","ru":"Leribe District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"C"},{"id":"2f58f125-070b-4731-9656-d034aba6e1c0","name":"Mafeteng District","ru":"Mafeteng District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"E"},{"id":"09d0cfda-b4a4-4d61-be5e-96001d571cd6","name":"Maseru District","ru":"Maseru District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"A"},{"id":"757c5a6b-1fee-4404-95bc-2daa27a73080","name":"Mohale's Hoek District","ru":"Mohale's Hoek District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"F"},{"id":"6a1b5504-ce75-403d-aa73-2b5854e36d34","name":"Mokhotlong District","ru":"Mokhotlong District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"J"},{"id":"fe7f97e4-d9e9-4ea5-ba4d-5666e2e6d34e","name":"Qacha's Nek District","ru":"Qacha's Nek District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"H"},{"id":"92de31f9-9230-4f7b-9ed3-3c2054a73cd6","name":"Quthing District","ru":"Quthing District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"G"},{"id":"dc3b41e5-f4bd-4f07-aba2-936827e5dad6","name":"Thaba-Tseka District","ru":"Thaba-Tseka District","country":"4d063863-f24d-4bfc-baac-a927970163c0","countryCode":"LS","stateCode":"K"}]
+[
+  {
+    "id": "ff62b7e8-cd84-47b7-b64a-8123c2dfbd4c",
+    "en": "Berea District",
+    "ru": "Берея район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "D"
+  },
+  {
+    "id": "8943f4b0-aabf-4fd6-833e-934954001321",
+    "en": "Butha-Buthe District",
+    "ru": "Бутха-Бутский район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "B"
+  },
+  {
+    "id": "fe590c1a-25ec-4600-830d-f3fb7ee9974f",
+    "en": "Leribe District",
+    "ru": "Лерибе район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "C"
+  },
+  {
+    "id": "796ef696-f425-41d4-8ddd-58bc151083ce",
+    "en": "Mafeteng District",
+    "ru": "Мафетенг район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "E"
+  },
+  {
+    "id": "2c323fcc-dca8-450a-a373-04bfc6b7a6f4",
+    "en": "Maseru District",
+    "ru": "Масеру район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "A"
+  },
+  {
+    "id": "0a7e73d9-4c46-48de-b7bf-95e19d42c64f",
+    "en": "Mohale's Hoek District",
+    "ru": "Mohale's Hoek District",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "F"
+  },
+  {
+    "id": "12c4d574-45f2-4280-aa77-74fa81c76629",
+    "en": "Mokhotlong District",
+    "ru": "Мохотлонг округ",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "J"
+  },
+  {
+    "id": "bfefaf88-9710-4bdb-9015-6db677bfa764",
+    "en": "Qacha's Nek District",
+    "ru": "Кача Некский район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "H"
+  },
+  {
+    "id": "f507e32c-be37-4cd9-8064-8eab513b6a9a",
+    "en": "Quthing District",
+    "ru": "Кутинг Район",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "G"
+  },
+  {
+    "id": "c53cb589-b493-4008-a900-7ab77ea5f217",
+    "en": "Thaba-Tseka District",
+    "ru": "Таба-Цека округ",
+    "country": "0ebfe084-278e-4ba7-9ba7-24a31b96ca04",
+    "countryCode": "LS",
+    "stateCode": "K"
+  }
+]

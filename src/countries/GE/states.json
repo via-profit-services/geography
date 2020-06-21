@@ -1,1 +1,114 @@
-[{"id":"70954ab4-90e6-4d94-b370-3d6055e0bf49","name":"Adjara","ru":"Adjara","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"AJ"},{"id":"184e530f-d40f-4561-866b-ee01dbb8000a","name":"Autonomous Republic of Abkhazia","ru":"Autonomous Republic of Abkhazia","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"AB"},{"id":"6cb2dfd9-c54f-4952-95e6-82f89417a313","name":"Guria","ru":"Guria","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"GU"},{"id":"806ea782-c4d5-43b6-937a-4c1f913e9f29","name":"Imereti","ru":"Imereti","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"IM"},{"id":"a38b97bc-481b-4979-8ed2-3df742b8f383","name":"Kakheti","ru":"Kakheti","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"KA"},{"id":"7e91f0d1-6a72-4897-a5c2-aeb88e63400e","name":"Khelvachauri Municipality","ru":"Khelvachauri Municipality","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"29"},{"id":"7924d900-408e-4b32-b936-69224b0a9b0c","name":"Kvemo Kartli","ru":"Kvemo Kartli","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"KK"},{"id":"17e3d4ce-d974-4e37-8b20-c3a64efc086a","name":"Mtskheta-Mtianeti","ru":"Mtskheta-Mtianeti","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"MM"},{"id":"0f5dd4ed-16f4-4a49-8f2c-f1dc24254b76","name":"Racha-Lechkhumi and Kvemo Svaneti","ru":"Racha-Lechkhumi and Kvemo Svaneti","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"RL"},{"id":"d2e2d654-3abc-4c1e-bad5-1a40f10b33d2","name":"Samegrelo-Zemo Svaneti","ru":"Samegrelo-Zemo Svaneti","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"SZ"},{"id":"88b1618d-ca1a-440e-8442-96f50dd34ab3","name":"Samtskhe-Javakheti","ru":"Samtskhe-Javakheti","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"SJ"},{"id":"c16157c3-7029-43cd-b5ed-dfcb6c12543e","name":"Senaki Municipality","ru":"Senaki Municipality","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"50"},{"id":"bbef8956-2e83-4149-bfcb-9066c457bc76","name":"Shida Kartli","ru":"Shida Kartli","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"SK"},{"id":"9e41f032-f4f2-4291-8da9-44d1159e2667","name":"Tbilisi","ru":"Tbilisi","country":"c0146d62-533b-4e43-a9b4-4df3b197aa15","countryCode":"GE","stateCode":"TB"}]
+[
+  {
+    "id": "2e5b9096-37c5-4899-8f86-a7d341334b70",
+    "en": "Adjara",
+    "ru": "Аджария",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "AJ"
+  },
+  {
+    "id": "05a2b78d-1657-4b96-850e-5ab6f6575aad",
+    "en": "Autonomous Republic of Abkhazia",
+    "ru": "Автономная Республика Абхазия",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "AB"
+  },
+  {
+    "id": "d99c4476-376a-405f-9020-844a298edc9d",
+    "en": "Guria",
+    "ru": "гурия",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "GU"
+  },
+  {
+    "id": "e4a5af8a-ce18-414e-b8ab-257f5c39d79f",
+    "en": "Imereti",
+    "ru": "Имерети",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "IM"
+  },
+  {
+    "id": "833d9915-5c95-498c-aabd-b46863b58cda",
+    "en": "Kakheti",
+    "ru": "Кахетия",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "KA"
+  },
+  {
+    "id": "bdc95f9a-a4e2-433a-804c-66ab1b60b18f",
+    "en": "Khelvachauri Municipality",
+    "ru": "Хелвачаурский муниципалитет",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "29"
+  },
+  {
+    "id": "a70853a5-685f-4011-8403-455a3a92c55b",
+    "en": "Kvemo Kartli",
+    "ru": "Квемо Картли",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "KK"
+  },
+  {
+    "id": "350db9f2-3651-455d-a188-7d72e636b1d9",
+    "en": "Mtskheta-Mtianeti",
+    "ru": "Мцхета-Мтианети",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "MM"
+  },
+  {
+    "id": "6e58a67d-4e91-4800-9f1d-3726198130ac",
+    "en": "Racha-Lechkhumi and Kvemo Svaneti",
+    "ru": "Рача-Лечхуми и Квемо Сванети",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "RL"
+  },
+  {
+    "id": "bd179a07-c34e-49e1-bb33-827e05d2b2cc",
+    "en": "Samegrelo-Zemo Svaneti",
+    "ru": "Самегрело-Земо Сванети",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "SZ"
+  },
+  {
+    "id": "af02be59-be17-48fc-850a-74d025d729b0",
+    "en": "Samtskhe-Javakheti",
+    "ru": "Самцхе-Джавахети",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "SJ"
+  },
+  {
+    "id": "679ee5ab-cd0f-4a68-9f29-f171a45633c8",
+    "en": "Senaki Municipality",
+    "ru": "Сенаки Муниципалитет",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "50"
+  },
+  {
+    "id": "a3c8760e-fad6-4c75-94b3-1d8630b31da3",
+    "en": "Shida Kartli",
+    "ru": "Шида Картли",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "SK"
+  },
+  {
+    "id": "d7b8d2fb-9c50-4645-8c0f-7912b4d98e69",
+    "en": "Tbilisi",
+    "ru": "Тбилиси",
+    "country": "378aa5b5-aa5e-4f9b-a3b4-125e78964464",
+    "countryCode": "GE",
+    "stateCode": "TB"
+  }
+]

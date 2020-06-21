@@ -1,1 +1,50 @@
-[{"id":"00e6032e-fea7-4c5a-ae66-b68241cd52e6","name":"Anseba Region","ru":"Anseba Region","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","stateCode":"AN"},{"id":"0170916b-8cf7-4c35-ac96-2c702bd92bb9","name":"Debub Region","ru":"Debub Region","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","stateCode":"DU"},{"id":"7ffbde37-54b4-4ec3-9a9e-1c9c6ae16717","name":"Gash-Barka Region","ru":"Gash-Barka Region","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","stateCode":"GB"},{"id":"4e3014aa-108c-4d8d-8926-a46b6ec5c0f7","name":"Maekel Region","ru":"Maekel Region","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","stateCode":"MA"},{"id":"31efac21-ed85-4bf1-94c6-36c76200af7f","name":"Northern Red Sea Region","ru":"Northern Red Sea Region","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","stateCode":"SK"},{"id":"d8ae9ce1-c8d8-4ba4-8d54-eca74a6e0051","name":"Southern Red Sea Region","ru":"Southern Red Sea Region","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","stateCode":"DK"}]
+[
+  {
+    "id": "0de379f0-e2b8-4b46-a89f-3e2c96806558",
+    "en": "Anseba Region",
+    "ru": "Ансебийский край",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "stateCode": "AN"
+  },
+  {
+    "id": "bb967a62-87d7-4536-a137-4195f5a11f3b",
+    "en": "Debub Region",
+    "ru": "Дебуб Регион",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "stateCode": "DU"
+  },
+  {
+    "id": "531ebc8e-d208-4312-ae5e-9747ab7f85a3",
+    "en": "Gash-Barka Region",
+    "ru": "Гаш-Баркинская область",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "stateCode": "GB"
+  },
+  {
+    "id": "38609bcc-1667-4128-b8d0-0e60140402ee",
+    "en": "Maekel Region",
+    "ru": "Мекельская область",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "stateCode": "MA"
+  },
+  {
+    "id": "7ef832c0-59a7-4c2b-bbbe-233569701e64",
+    "en": "Northern Red Sea Region",
+    "ru": "Северный регион Красного моря",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "stateCode": "SK"
+  },
+  {
+    "id": "5f109be2-922a-4e6a-856f-546c9180f7d5",
+    "en": "Southern Red Sea Region",
+    "ru": "Южный регион Красного моря",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "stateCode": "DK"
+  }
+]

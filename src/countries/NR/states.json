@@ -1,1 +1,114 @@
-[{"id":"c6b03357-c3fd-4ce6-b88a-29d003e1c74e","name":"Aiwo District","ru":"Aiwo District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"01"},{"id":"bc9c5dbf-302d-420a-b1c3-299ffd92a39e","name":"Anabar District","ru":"Anabar District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"02"},{"id":"80e29d1a-0b53-476c-9e11-5c093f8416d2","name":"Anetan District","ru":"Anetan District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"03"},{"id":"f415906c-0fd0-4b8c-b8cb-5c2c09494dbd","name":"Anibare District","ru":"Anibare District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"04"},{"id":"f1cfb0de-4030-4ff4-8795-f26aeea18c84","name":"Baiti District","ru":"Baiti District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"05"},{"id":"0039f8e8-3316-4e10-aedc-b2ad677d6071","name":"Boe District","ru":"Boe District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"06"},{"id":"1a59a50f-33c9-42f7-a4a2-ab7f413b20ec","name":"Buada District","ru":"Buada District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"07"},{"id":"7ae90b4d-421a-4d02-9fbf-3e445757598c","name":"Denigomodu District","ru":"Denigomodu District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"08"},{"id":"d71e08f0-7894-42ef-9ad1-af645ed5ccd9","name":"Ewa District","ru":"Ewa District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"09"},{"id":"51449c11-69b3-4154-8e8a-8bcefcf27d80","name":"Ijuw District","ru":"Ijuw District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"10"},{"id":"8411a222-0217-4b48-9860-ef2defc1834d","name":"Meneng District","ru":"Meneng District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"11"},{"id":"805fce04-c859-41f8-b8ee-4fb1dcbccc4f","name":"Nibok District","ru":"Nibok District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"12"},{"id":"6c0251ba-924e-410a-abc5-d29aac13cec0","name":"Uaboe District","ru":"Uaboe District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"13"},{"id":"13a6d485-5260-4154-9ec0-7271163d6270","name":"Yaren District","ru":"Yaren District","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","stateCode":"14"}]
+[
+  {
+    "id": "486ca9b3-183e-473d-b265-683c09ecf6ef",
+    "en": "Aiwo District",
+    "ru": "Айво округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "01"
+  },
+  {
+    "id": "118fdc8a-5020-4db5-aaad-c8add495b1f0",
+    "en": "Anabar District",
+    "ru": "Анабарский район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "02"
+  },
+  {
+    "id": "0c22d9b1-9e51-43aa-947d-fc939bde2e81",
+    "en": "Anetan District",
+    "ru": "Анетанский район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "03"
+  },
+  {
+    "id": "5ab98454-6467-4218-b0db-e6134623b2e9",
+    "en": "Anibare District",
+    "ru": "Анибаре округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "04"
+  },
+  {
+    "id": "eb989cf7-469b-40bd-8c6b-cf4c39af76f5",
+    "en": "Baiti District",
+    "ru": "Баити округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "05"
+  },
+  {
+    "id": "1f8d4d5a-5478-41ef-8701-584fe1a0c868",
+    "en": "Boe District",
+    "ru": "Бо округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "06"
+  },
+  {
+    "id": "55f4dc28-1f74-4ec4-8512-7a4e1ab690cb",
+    "en": "Buada District",
+    "ru": "Буада округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "07"
+  },
+  {
+    "id": "eedb27e8-427a-47a4-979c-4411cae7281c",
+    "en": "Denigomodu District",
+    "ru": "Денигомоду район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "08"
+  },
+  {
+    "id": "c78a99b4-f997-4bb5-b7ad-165867181b9f",
+    "en": "Ewa District",
+    "ru": "Ева округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "09"
+  },
+  {
+    "id": "e1b8c65b-a43e-49cf-b9b7-f6b211a0b090",
+    "en": "Ijuw District",
+    "ru": "Иювский район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "10"
+  },
+  {
+    "id": "a86d3c57-6fd2-4aa7-a7c4-c2dbf7290890",
+    "en": "Meneng District",
+    "ru": "Мененг округ",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "11"
+  },
+  {
+    "id": "f7ad649a-9e8b-498a-a3ca-33f5b8354104",
+    "en": "Nibok District",
+    "ru": "Нибокский район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "12"
+  },
+  {
+    "id": "c4550bba-185b-4ccf-89dc-c950c656c194",
+    "en": "Uaboe District",
+    "ru": "Уабое район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "13"
+  },
+  {
+    "id": "79851ddc-73d9-4ee0-8a41-760369678529",
+    "en": "Yaren District",
+    "ru": "Ярен район",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "stateCode": "14"
+  }
+]

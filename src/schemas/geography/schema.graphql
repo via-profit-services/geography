@@ -39,7 +39,14 @@ type GeographyQuery {
     filter: CountriesListFilter
     search: CountriesSearch
   ): CountriesListConnection!
+
+  country(id: ID!): Country
+  state(id: ID!): State
+  city(id: ID!): City
+
 }
+
+
 
 """
 Possible data to order list of cities
@@ -67,18 +74,18 @@ input CountriesListOrderBy {
 
 
 enum CitiesSearchFields{
-  name
+  en
   ru
 }
 
 enum StatesSearchFields{
-  name
+  en
   ru
   stateCode
 }
 
 enum CountriesSearchFields{
-  name
+  en
   ru
   iso2
   iso3
@@ -125,7 +132,8 @@ input CountriesListFilter {
 
 
 enum CitiesListOrderField {
-  name
+  en
+  ru
   state
   stateCode
   country
@@ -133,14 +141,16 @@ enum CitiesListOrderField {
 }
 
 enum StatesListOrderField {
-  name
+  en
+  ru
   stateCode
   countryCode
   country
 }
 
 enum CountriesListOrderField {
-  name
+  en
+  ru
   iso2
   iso3
   currency
@@ -204,7 +214,7 @@ type Country {
   """
   Original name
   """
-  name: String!
+  en: String!
 
   """
   The name translated into Russian language
@@ -214,7 +224,7 @@ type Country {
   iso2: String!
   phoneCode: String!
   currency: String!
-  capital: String
+  capital: City
 }
 
 type State {
@@ -222,13 +232,13 @@ type State {
   """
   Original name
   """
-  name: String!
+  en: String!
 
   """
   The name translated into Russian language
   """
   ru: String!
-  country: String!
+  country: Country!
   countryCode: String!
   stateCode: String!
 }
@@ -238,15 +248,15 @@ type City {
   """
   Original name
   """
-  name: String!
+  en: String!
 
   """
   The name translated into Russian language
   """
   ru: String!
-  country: String!
+  country: Country!
   countryCode: String!
-  state: String!
+  state: State!
   stateCode: String!
   latitude: String!
   longitude: String!

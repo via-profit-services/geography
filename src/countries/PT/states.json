@@ -1,1 +1,154 @@
-[{"id":"45d34024-9cc6-4749-9e3a-89c6de1140fe","name":"Aveiro District","ru":"Aveiro District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"01"},{"id":"70ef798d-38e6-4381-9e8c-4e2f09cc4c18","name":"Azores","ru":"Azores","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"20"},{"id":"71a7bde0-2fab-4bb4-9dd6-8ec02e05c8b4","name":"Évora District","ru":"Évora District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"07"},{"id":"f4c04bba-33b8-41eb-a7c7-cd40d085dd02","name":"Beja District","ru":"Beja District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"02"},{"id":"cef1bd7a-d9d4-4c11-a9d8-0706c359fcc7","name":"Braga District","ru":"Braga District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"03"},{"id":"e6f39656-90ee-43cf-bd8c-073603d4c81e","name":"Bragança District","ru":"Bragança District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"04"},{"id":"b1439e9a-a238-49f0-9745-eb60b78bae6e","name":"Castelo Branco District","ru":"Castelo Branco District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"05"},{"id":"3f5a85a8-f06a-46cb-b6cb-2049c0d19a8f","name":"Coimbra District","ru":"Coimbra District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"06"},{"id":"0fda4660-5304-4f84-b286-64900ad3d215","name":"Faro District","ru":"Faro District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"08"},{"id":"6c429627-7f44-41f0-8c16-4146291cdef0","name":"Leiria District","ru":"Leiria District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"10"},{"id":"893f0a9b-cbe5-4a4c-9079-ba71dfc20e44","name":"Lisbon District","ru":"Lisbon District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"11"},{"id":"5c3b5389-0269-472a-b00f-111e699a1d66","name":"Madeira","ru":"Madeira","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"30"},{"id":"eb419839-a199-40de-9b90-0bff3de022da","name":"Portalegre District","ru":"Portalegre District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"12"},{"id":"5c7b38b5-a748-41b7-8b17-09d381b5a8d4","name":"Porto District","ru":"Porto District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"13"},{"id":"1de38f7d-6ffb-4869-8361-1b8316377e4a","name":"Santarém District","ru":"Santarém District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"14"},{"id":"aa9d0f48-f80c-4d28-b60f-e9d1f234fdca","name":"Setúbal District","ru":"Setúbal District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"15"},{"id":"c51dfe45-9d1c-4dbe-b19c-816be5592e9d","name":"Viana do Castelo District","ru":"Viana do Castelo District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"16"},{"id":"878e77c8-b135-4667-bd95-73ad131a01dc","name":"Vila Real District","ru":"Vila Real District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"17"},{"id":"cee3196f-1a11-47ec-94b6-4c156e9ee4ca","name":"Viseu District","ru":"Viseu District","country":"dccb93b5-02aa-4e8c-ab3c-314014de789b","countryCode":"PT","stateCode":"18"}]
+[
+  {
+    "id": "7e455950-a949-483b-934d-892a847fe336",
+    "en": "Aveiro District",
+    "ru": "Авейру округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "01"
+  },
+  {
+    "id": "35f8ca31-2f30-480e-bc82-908b3e3baa9c",
+    "en": "Azores",
+    "ru": "Азорские острова",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "20"
+  },
+  {
+    "id": "8248ec97-38d9-4dbc-9b1f-9ea12fd5907e",
+    "en": "Évora District",
+    "ru": "Эвора район",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "07"
+  },
+  {
+    "id": "6badc3ad-978d-4af6-b3b5-c837f83a1822",
+    "en": "Beja District",
+    "ru": "Бежинский район",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "02"
+  },
+  {
+    "id": "fdab564b-22df-4710-89ca-ab275cf1fa9f",
+    "en": "Braga District",
+    "ru": "Брага округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "03"
+  },
+  {
+    "id": "bff9dc39-2b87-49cf-bc8e-7e79deb64524",
+    "en": "Bragança District",
+    "ru": "Браганса округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "04"
+  },
+  {
+    "id": "a315678f-392e-402f-a99a-4c823d6fd21b",
+    "en": "Castelo Branco District",
+    "ru": "Каштелу-Бранку",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "05"
+  },
+  {
+    "id": "79297070-83c9-4fc9-ac72-fe5915b6b7e7",
+    "en": "Coimbra District",
+    "ru": "Коимбра округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "06"
+  },
+  {
+    "id": "571db1f0-48cd-42bc-b22c-8406f5e748fb",
+    "en": "Faro District",
+    "ru": "Фару округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "08"
+  },
+  {
+    "id": "7a272d9e-e5d1-45b8-995d-4567b969e657",
+    "en": "Leiria District",
+    "ru": "Лейрия район",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "10"
+  },
+  {
+    "id": "62de5ee4-4fe7-4baa-9b3c-787356aa2013",
+    "en": "Lisbon District",
+    "ru": "Лиссабон округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "11"
+  },
+  {
+    "id": "b4078126-7b46-40c6-99a6-6506fc7151f4",
+    "en": "Madeira",
+    "ru": "Мадейра",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "30"
+  },
+  {
+    "id": "f824be44-104a-4cc9-9016-b575e66a4c02",
+    "en": "Portalegre District",
+    "ru": "Порталегре округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "12"
+  },
+  {
+    "id": "200afe9d-8e6e-4057-8180-65f43f374950",
+    "en": "Porto District",
+    "ru": "Порту округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "13"
+  },
+  {
+    "id": "30bc3f12-d04e-4755-bea1-cd36657a71d9",
+    "en": "Santarém District",
+    "ru": "Santarém район",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "14"
+  },
+  {
+    "id": "171fdf51-42b7-42b9-98f8-e617662b6ff7",
+    "en": "Setúbal District",
+    "ru": "Сетубал округ",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "15"
+  },
+  {
+    "id": "f82e2d4a-3567-4c0a-9820-7609c67ae3ff",
+    "en": "Viana do Castelo District",
+    "ru": "Виана-ду-Каштелу",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "16"
+  },
+  {
+    "id": "b748e8f5-ab36-40de-88c3-1a91fbac1462",
+    "en": "Vila Real District",
+    "ru": "Vila Real District",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "17"
+  },
+  {
+    "id": "c9d41f0a-fe00-4a89-8626-b86e20392c92",
+    "en": "Viseu District",
+    "ru": "Визеуский район",
+    "country": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "countryCode": "PT",
+    "stateCode": "18"
+  }
+]

@@ -1,1 +1,34 @@
-[{"id":"5b961954-8871-4db4-8cef-1a66a03a0a6a","name":"districts of Republican Subordination","ru":"districts of Republican Subordination","country":"a26ecaa1-b714-42cb-91ca-5bcffa7328bd","countryCode":"TJ","stateCode":"RA"},{"id":"009eb917-f6fb-4c77-9d5d-5e3ea2632c91","name":"Gorno-Badakhshan Autonomous Province","ru":"Gorno-Badakhshan Autonomous Province","country":"a26ecaa1-b714-42cb-91ca-5bcffa7328bd","countryCode":"TJ","stateCode":"GB"},{"id":"67520847-7d7c-44c8-b033-15900c2d89c6","name":"Khatlon Province","ru":"Khatlon Province","country":"a26ecaa1-b714-42cb-91ca-5bcffa7328bd","countryCode":"TJ","stateCode":"KT"},{"id":"52cf503c-053d-49a3-a1c4-775f771646ae","name":"Sughd Province","ru":"Sughd Province","country":"a26ecaa1-b714-42cb-91ca-5bcffa7328bd","countryCode":"TJ","stateCode":"SU"}]
+[
+  {
+    "id": "e2a9de18-7e7c-4ae5-ab30-15107e50841f",
+    "en": "districts of Republican Subordination",
+    "ru": "районные районы республиканского подчинения",
+    "country": "35add5dd-b74a-43af-8bff-c82636cc3633",
+    "countryCode": "TJ",
+    "stateCode": "RA"
+  },
+  {
+    "id": "4dcb9f77-0d06-4430-81ba-143db4206701",
+    "en": "Gorno-Badakhshan Autonomous Province",
+    "ru": "Горно-Бадахшанская автономная область",
+    "country": "35add5dd-b74a-43af-8bff-c82636cc3633",
+    "countryCode": "TJ",
+    "stateCode": "GB"
+  },
+  {
+    "id": "cb8652e6-173a-4344-8a35-a86d44007db1",
+    "en": "Khatlon Province",
+    "ru": "Хатлонская область",
+    "country": "35add5dd-b74a-43af-8bff-c82636cc3633",
+    "countryCode": "TJ",
+    "stateCode": "KT"
+  },
+  {
+    "id": "2549b052-99b7-4751-b557-040088342451",
+    "en": "Sughd Province",
+    "ru": "Согдийская область",
+    "country": "35add5dd-b74a-43af-8bff-c82636cc3633",
+    "countryCode": "TJ",
+    "stateCode": "SU"
+  }
+]

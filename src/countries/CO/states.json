@@ -1,1 +1,250 @@
-[{"id":"0ffe5cd7-0f24-4e2f-8f13-20985e6ec46f","name":"Amazonas Department","ru":"Amazonas Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"AMA"},{"id":"455acdd1-be80-4614-8b4c-d88384900bf2","name":"Antioquia Department","ru":"Antioquia Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"ANT"},{"id":"8932f820-0ca7-4b61-8f2d-22c3cc646024","name":"Arauca Department","ru":"Arauca Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"ARA"},{"id":"bf0fce26-8d02-4c8d-8715-72b3942eec5f","name":"Archipelago of Saint Andréws, Providence and Saint Catalina","ru":"Archipelago of Saint Andréws, Providence and Saint Catalina","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"SAP"},{"id":"819ca01f-1ff3-476b-9d42-031047337544","name":"Atlántico Department","ru":"Atlántico Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"ATL"},{"id":"a3f53791-2c47-46e4-8043-6fba1b501c2b","name":"Bolívar Department","ru":"Bolívar Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"BOL"},{"id":"915cea83-dc5f-42b0-8e6e-bf033d5650ee","name":"Boyacá Department","ru":"Boyacá Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"BOY"},{"id":"cb52ef8c-819a-4520-babf-8b6564359498","name":"Caldas Department","ru":"Caldas Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CAL"},{"id":"c8656cba-856a-4bb9-a05b-4050a8e6b985","name":"Caquetá Department","ru":"Caquetá Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CAQ"},{"id":"de1873ff-3bbf-491f-8191-5387c4072d56","name":"Casanare Department","ru":"Casanare Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CAS"},{"id":"e93d41a8-8bbc-4a56-869f-2867f32e4700","name":"Cauca Department","ru":"Cauca Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CAU"},{"id":"400ec6ad-5ca0-4b5e-9b89-e85a6ab1e1a6","name":"Córdoba Department","ru":"Córdoba Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"COR"},{"id":"2065cd91-28db-4d02-a63e-3a367d57df6a","name":"Cesar Department","ru":"Cesar Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CES"},{"id":"0e56d73c-8393-4da8-9463-6887c04f1162","name":"Chocó Department","ru":"Chocó Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CHO"},{"id":"ddd2d5f5-b898-416d-ae42-cbc0b795211d","name":"Cundinamarca Department","ru":"Cundinamarca Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"CUN"},{"id":"27261a35-48a3-416f-8a6e-465453cc6a9b","name":"Guainía Department","ru":"Guainía Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"GUA"},{"id":"b87122a1-0f10-42f1-bceb-7c47335d55f7","name":"Guaviare Department","ru":"Guaviare Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"GUV"},{"id":"7958640e-0fa4-43bd-9c84-5be406aee689","name":"La Guajira Department","ru":"La Guajira Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"LAG"},{"id":"f51ce61c-343c-42ea-bba8-9d7791da1fd7","name":"Magdalena Department","ru":"Magdalena Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"MAG"},{"id":"aaf2063e-3157-4d57-bb61-6d0b1270048d","name":"Meta","ru":"Meta","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"MET"},{"id":"a5367d50-5e7a-48ba-9df7-9b929e31e722","name":"Nariño Department","ru":"Nariño Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"NAR"},{"id":"db516c33-5ebe-45c6-a287-14b2062f01bc","name":"Norte de Santander Department","ru":"Norte de Santander Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"NSA"},{"id":"8e074233-aad6-45e6-b52e-2a4b521ae616","name":"Putumayo Department","ru":"Putumayo Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"PUT"},{"id":"3cf58f35-67bc-4e23-bbc3-e62cfe992c3d","name":"Quindío Department","ru":"Quindío Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"QUI"},{"id":"cee09d4b-0de7-4934-984d-4d0c009233c4","name":"Risaralda Department","ru":"Risaralda Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"RIS"},{"id":"a4d7b675-1bb4-4b25-8ed1-2f900934877a","name":"Santander Department","ru":"Santander Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"SAN"},{"id":"c4251975-a818-4bb6-9d37-255507047bd7","name":"Sucre Department","ru":"Sucre Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"SUC"},{"id":"54a48120-e5f0-4ce3-aa9c-cd65f29a98f3","name":"Tolima Department","ru":"Tolima Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"TOL"},{"id":"7d332bf9-d81c-4abe-ac6c-ef1fe15c41a8","name":"Valle del Cauca Department","ru":"Valle del Cauca Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"VAC"},{"id":"ef297b12-8cbf-4888-a746-54933adedf2e","name":"Vaupés Department","ru":"Vaupés Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"VAU"},{"id":"8e02ff64-c87e-4470-8b2b-97f51370de8f","name":"Vichada Department","ru":"Vichada Department","country":"d733e99b-dd23-4191-afb6-dc31e4b800ac","countryCode":"CO","stateCode":"VID"}]
+[
+  {
+    "id": "40ae66b5-3b7d-407e-8d1d-8ed5b2d34754",
+    "en": "Amazonas Department",
+    "ru": "Амазонас департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "AMA"
+  },
+  {
+    "id": "10acddff-d791-4d09-bc2a-ae5015e1df3e",
+    "en": "Antioquia Department",
+    "ru": "отдел Антиокия области",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "ANT"
+  },
+  {
+    "id": "a23f1a0e-8559-46e2-9b11-83fe54137d02",
+    "en": "Arauca Department",
+    "ru": "Араука департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "ARA"
+  },
+  {
+    "id": "d92de6f0-a597-4718-8cab-60be282dfbb5",
+    "en": "Archipelago of Saint Andréws, Providence and Saint Catalina",
+    "ru": "Архипелаг Сан-Андрес, Провиденс и Каталина",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "SAP"
+  },
+  {
+    "id": "27ac377a-b82d-4c01-8610-4a27f5dec755",
+    "en": "Atlántico Department",
+    "ru": "Атлантский департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "ATL"
+  },
+  {
+    "id": "4493e290-025b-4a8d-96a9-736b3da73db2",
+    "en": "Bolívar Department",
+    "ru": "Боливарское отделение",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "BOL"
+  },
+  {
+    "id": "54e57d00-72b9-4bfb-bd86-f49ce3febfae",
+    "en": "Boyacá Department",
+    "ru": "Бояцкое отделение",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "BOY"
+  },
+  {
+    "id": "f3a4d4e9-c68e-4ec9-95ff-8f2d095e6c82",
+    "en": "Caldas Department",
+    "ru": "Калдас департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CAL"
+  },
+  {
+    "id": "1b7e45ab-a41e-4f64-b2a3-2605bcfbd575",
+    "en": "Caquetá Department",
+    "ru": "Caquetá отдел",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CAQ"
+  },
+  {
+    "id": "79da53b2-a1b3-4a41-8df4-09da0ad00bcc",
+    "en": "Casanare Department",
+    "ru": "Казанаре Департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CAS"
+  },
+  {
+    "id": "f1a3b87b-a3fa-4481-8fe6-3cd4c06148a2",
+    "en": "Cauca Department",
+    "ru": "Каука департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CAU"
+  },
+  {
+    "id": "d019cf76-ed3e-4b9f-91b5-8de9d1721691",
+    "en": "Córdoba Department",
+    "ru": "Кордовский департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "COR"
+  },
+  {
+    "id": "b9c783e4-ec00-4aeb-b5de-ffccfa2b8393",
+    "en": "Cesar Department",
+    "ru": "Цезарский районный отдел",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CES"
+  },
+  {
+    "id": "b840774f-8f6c-4c73-9e94-4bfae6b45f47",
+    "en": "Chocó Department",
+    "ru": "Chocó Департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CHO"
+  },
+  {
+    "id": "8eb48b4a-e5a7-4f7c-80b4-1fd4f61c0cb3",
+    "en": "Cundinamarca Department",
+    "ru": "Кундинамарка департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "CUN"
+  },
+  {
+    "id": "ad3e0b4e-174d-4e51-ac12-957880ea5bf8",
+    "en": "Guainía Department",
+    "ru": "Guainía Департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "GUA"
+  },
+  {
+    "id": "5dd8062d-1553-4ad8-b4e5-aaef02864bc2",
+    "en": "Guaviare Department",
+    "ru": "областной департамент Гуавиаре",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "GUV"
+  },
+  {
+    "id": "3599f972-9117-4cae-b2ef-1f87f7fe49e7",
+    "en": "La Guajira Department",
+    "ru": "Ла Гуахира Департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "LAG"
+  },
+  {
+    "id": "ebcdb47c-4085-4b9f-900d-f82bcbaf885b",
+    "en": "Magdalena Department",
+    "ru": "район Магдалена отдел",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "MAG"
+  },
+  {
+    "id": "6578ffa7-7bb4-459a-8ec5-43c2abf8cb94",
+    "en": "Meta",
+    "ru": "Мета региона",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "MET"
+  },
+  {
+    "id": "5d0ac8fd-9faf-4373-ab96-2959452d95aa",
+    "en": "Nariño Department",
+    "ru": "Нариньо департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "NAR"
+  },
+  {
+    "id": "1fb878fa-b738-4036-95b8-378af98be459",
+    "en": "Norte de Santander Department",
+    "ru": "Норте де Сантандер Департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "NSA"
+  },
+  {
+    "id": "7d65eb2a-24b2-454a-a9ab-143249421e9c",
+    "en": "Putumayo Department",
+    "ru": "район Путумайо департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "PUT"
+  },
+  {
+    "id": "3d0a3294-b427-4d9f-a10d-02ce15c0bd2c",
+    "en": "Quindío Department",
+    "ru": "Quindío Департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "QUI"
+  },
+  {
+    "id": "537047dc-0427-4b80-8551-e0a0b4cf3459",
+    "en": "Risaralda Department",
+    "ru": "Рисаральдский районный отдел",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "RIS"
+  },
+  {
+    "id": "045e9985-300d-45a0-80f7-197480602a75",
+    "en": "Santander Department",
+    "ru": "Сантандер департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "SAN"
+  },
+  {
+    "id": "fb87123d-1742-4c18-9e93-977d9ead50c6",
+    "en": "Sucre Department",
+    "ru": "Сукре областное отделение",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "SUC"
+  },
+  {
+    "id": "1d9f6a34-ca83-470c-a6fe-2a47e2e64fa6",
+    "en": "Tolima Department",
+    "ru": "Толимский районный отдел",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "TOL"
+  },
+  {
+    "id": "0ec69bc8-bf7a-4810-9325-a743ab410ecf",
+    "en": "Valle del Cauca Department",
+    "ru": "Валье-дель-Каука департамент",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "VAC"
+  },
+  {
+    "id": "127020d2-93ee-464f-bd37-7e064aacaca2",
+    "en": "Vaupés Department",
+    "ru": "областной департамент Ваупес",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "VAU"
+  },
+  {
+    "id": "087b3170-f9f2-49c7-8092-1f885738249d",
+    "en": "Vichada Department",
+    "ru": "Вичадинский районный отдел",
+    "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
+    "countryCode": "CO",
+    "stateCode": "VID"
+  }
+]

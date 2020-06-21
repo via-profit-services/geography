@@ -1,1 +1,154 @@
-[{"id":"67b6093e-286e-47f4-92ab-cee91e729668","name":"Attapeu Province","ru":"Attapeu Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"AT"},{"id":"68ed0b5c-0536-4b61-82f4-0a8c423287b3","name":"Bokeo Province","ru":"Bokeo Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"BK"},{"id":"37d644ea-21da-4ce7-b37e-e309a30cac9c","name":"Bolikhamsai Province","ru":"Bolikhamsai Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"BL"},{"id":"3234570e-4eb6-489f-8d68-3c7ba97acb96","name":"Champasak Province","ru":"Champasak Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"CH"},{"id":"4811b521-6820-47da-9e9f-7d2f49b1ed4b","name":"Houaphanh Province","ru":"Houaphanh Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"HO"},{"id":"2b69c012-2eb6-45a1-9c6e-12867de2bc87","name":"Khammouane Province","ru":"Khammouane Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"KH"},{"id":"dd10481f-1b02-4ec6-994f-0db51adb0f81","name":"Luang Namtha Province","ru":"Luang Namtha Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"LM"},{"id":"16e48971-9978-48b2-9610-dc36943c83d8","name":"Luang Prabang Province","ru":"Luang Prabang Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"LP"},{"id":"222d9f08-b557-4f26-b705-788d054b97bf","name":"Oudomxay Province","ru":"Oudomxay Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"OU"},{"id":"29aca1ff-0f1e-46d1-80e6-60d05990b5e1","name":"Phongsaly Province","ru":"Phongsaly Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"PH"},{"id":"6087a916-c14c-4dee-9c12-7e6feeb6ad82","name":"Sainyabuli Province","ru":"Sainyabuli Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"XA"},{"id":"13be195a-abe6-435b-b2c8-2cc4153e0cb6","name":"Salavan Province","ru":"Salavan Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"SL"},{"id":"006e2486-27da-4514-b3d2-453739b97f72","name":"Savannakhet Province","ru":"Savannakhet Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"SV"},{"id":"00a3a828-7a11-4d06-acb4-3fb9c583ed39","name":"Sekong Province","ru":"Sekong Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"XE"},{"id":"3f88b00f-c8a7-4dce-b7c7-dcde7f12b71c","name":"Vientiane Prefecture","ru":"Vientiane Prefecture","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"VT"},{"id":"b9d36b57-b167-4935-964b-3c0b29cecaff","name":"Vientiane Province","ru":"Vientiane Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"VI"},{"id":"592b3629-d8b0-4c24-847e-72b44a9ccc8c","name":"Xaisomboun","ru":"Xaisomboun","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"XN"},{"id":"aa49a768-e89f-45c5-b848-72b031d97098","name":"Xaisomboun Province","ru":"Xaisomboun Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"XS"},{"id":"6f3ccb89-bd65-47f6-8874-1d6df551317e","name":"Xiangkhouang Province","ru":"Xiangkhouang Province","country":"d4a1d1ab-0d33-43da-95f7-61c57dbfacb1","countryCode":"LA","stateCode":"XI"}]
+[
+  {
+    "id": "2fcd4875-7abf-4863-9bb7-e08121f89651",
+    "en": "Attapeu Province",
+    "ru": "Аттапеу провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "AT"
+  },
+  {
+    "id": "604a6674-fc4a-487c-968f-8a5f0b5298b3",
+    "en": "Bokeo Province",
+    "ru": "Бокео провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "BK"
+  },
+  {
+    "id": "7e2b78b7-3b89-4220-92c9-b02ba2f18029",
+    "en": "Bolikhamsai Province",
+    "ru": "Болихамсайская область",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "BL"
+  },
+  {
+    "id": "aebc1938-a97a-4c56-850c-177a9d464bfa",
+    "en": "Champasak Province",
+    "ru": "Чампасакская область",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "CH"
+  },
+  {
+    "id": "c6efab8a-2d4d-49f0-8ba0-fcabadd6a4b4",
+    "en": "Houaphanh Province",
+    "ru": "Houaphanh провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "HO"
+  },
+  {
+    "id": "86752916-30b0-436f-8c58-cae03ad39a12",
+    "en": "Khammouane Province",
+    "ru": "Хаммуанская провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "KH"
+  },
+  {
+    "id": "12c1f6a9-d59a-4ae9-93bf-c05f4b60faca",
+    "en": "Luang Namtha Province",
+    "ru": "Провинция Луанг Намтха",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "LM"
+  },
+  {
+    "id": "3d8001ba-da09-4c8e-b694-441d52bbfcda",
+    "en": "Luang Prabang Province",
+    "ru": "Луангпхабанг провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "LP"
+  },
+  {
+    "id": "64102563-2290-45a8-9400-7c23306327e9",
+    "en": "Oudomxay Province",
+    "ru": "Удомхайская губерния",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "OU"
+  },
+  {
+    "id": "f1d8d9b0-3721-43ad-ba44-18c260542df5",
+    "en": "Phongsaly Province",
+    "ru": "Пхонгсали провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "PH"
+  },
+  {
+    "id": "ca8c2946-fe54-4e94-bf5c-93413db6d6bc",
+    "en": "Sainyabuli Province",
+    "ru": "Сайнябулинская губерния",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "XA"
+  },
+  {
+    "id": "cba88338-4aef-49cb-8b15-dfe24cdb0f71",
+    "en": "Salavan Province",
+    "ru": "Салаванская область",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "SL"
+  },
+  {
+    "id": "2598b891-35d3-4ad3-acf4-5fe898e37028",
+    "en": "Savannakhet Province",
+    "ru": "Саваннахетская область",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "SV"
+  },
+  {
+    "id": "e6755b1f-5b10-44d2-a9d7-54712f229037",
+    "en": "Sekong Province",
+    "ru": "Sekong провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "XE"
+  },
+  {
+    "id": "b67ad381-a0e4-4d54-9ad5-4d7df47d409a",
+    "en": "Vientiane Prefecture",
+    "ru": "Вьентьян префектура",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "VT"
+  },
+  {
+    "id": "4bca8bc8-96c0-4168-a7bf-a2abea1488e4",
+    "en": "Vientiane Province",
+    "ru": "Вьентьян провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "VI"
+  },
+  {
+    "id": "d4deaf97-5b2d-47c6-900e-7c9e7115f7c3",
+    "en": "Xaisomboun",
+    "ru": "Xaisomboun",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "XN"
+  },
+  {
+    "id": "887c8746-a209-4dab-8de8-fc5d5524fca9",
+    "en": "Xaisomboun Province",
+    "ru": "Xaisomboun провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "XS"
+  },
+  {
+    "id": "0a06130d-22f2-4c09-9c5f-2656f135a672",
+    "en": "Xiangkhouang Province",
+    "ru": "Xiangkhouang провинция",
+    "country": "092a3928-006b-4592-b7f4-6e5dab7b6eaa",
+    "countryCode": "LA",
+    "stateCode": "XI"
+  }
+]

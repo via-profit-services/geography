@@ -1,1 +1,12 @@
-[{"id":"afa5b254-570d-4372-b4f9-064a806286e1","name":"United States Minor Outlying Islands","ru":"United States Minor Outlying Islands","iso3":"UMI","iso2":"UM","phoneCode":"1","capital":null,"currency":"USD"}]
+[
+  {
+    "id": "62e205b2-de69-49a0-9a06-e162d2f320d7",
+    "en": "United States Minor Outlying Islands",
+    "ru": "Малые отдаленные острова США",
+    "iso3": "UMI",
+    "iso2": "UM",
+    "phoneCode": "1",
+    "capital": null,
+    "currency": "USD"
+  }
+]

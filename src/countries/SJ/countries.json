@@ -1,1 +1,12 @@
-[{"id":"43027c01-c1c9-43f6-b1e3-293a063a9976","name":"Svalbard And Jan Mayen Islands","ru":"Svalbard And Jan Mayen Islands","iso3":"SJM","iso2":"SJ","phoneCode":"47","capital":null,"currency":"NOK"}]
+[
+  {
+    "id": "0d5cde7f-474f-4fbb-a896-0efeaedc5ccd",
+    "en": "Svalbard And Jan Mayen Islands",
+    "ru": "Острова Шпицберген и Ян-Майен",
+    "iso3": "SJM",
+    "iso2": "SJ",
+    "phoneCode": "47",
+    "capital": null,
+    "currency": "NOK"
+  }
+]

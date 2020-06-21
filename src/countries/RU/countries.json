@@ -1,12 +1,12 @@
 [
   {
-    "id": "e0dc83a1-8246-4a52-aa57-c9a7875befeb",
-    "name": "Russia",
-    "ru": "Russia",
+    "id": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "en": "Russia",
+    "ru": "Дальнереченск",
     "iso3": "RUS",
     "iso2": "RU",
     "phoneCode": "7",
-    "capital": "186aad01-00ed-434d-b286-d8a6a99e5adb",
+    "capital": null,
     "currency": "RUB"
   }
 ]

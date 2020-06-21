@@ -1,1 +1,12 @@
-[{"id":"f8e2b408-4b17-40d7-b055-962b96c25667","name":"Djibouti","ru":"Djibouti","iso3":"DJI","iso2":"DJ","phoneCode":"253","capital":"f72b7fbd-a295-4e09-9241-92d4a8d31b19","currency":"DJF"}]
+[
+  {
+    "id": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "en": "Djibouti",
+    "ru": "Джибути",
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "phoneCode": "253",
+    "capital": null,
+    "currency": "DJF"
+  }
+]

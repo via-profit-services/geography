@@ -1,1 +1,12 @@
-[{"id":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","name":"Iceland","ru":"Iceland","iso3":"ISL","iso2":"IS","phoneCode":"354","capital":null,"currency":"ISK"}]
+[
+  {
+    "id": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "en": "Iceland",
+    "ru": "Исландия",
+    "iso3": "ISL",
+    "iso2": "IS",
+    "phoneCode": "354",
+    "capital": null,
+    "currency": "ISK"
+  }
+]

@@ -1,1 +1,98 @@
-[{"id":"6b241986-e664-4190-9583-ca911a6023cf","name":"Ajloun Governorate","ru":"Ajloun Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"AJ"},{"id":"048f120c-2452-405e-ac15-dc36f26888e0","name":"Amman Governorate","ru":"Amman Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"AM"},{"id":"b3394bc9-006b-4631-bdb4-8a471235d036","name":"Aqaba Governorate","ru":"Aqaba Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"AQ"},{"id":"a5663885-f026-49a3-80a4-cf75b96d805d","name":"Balqa Governorate","ru":"Balqa Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"BA"},{"id":"85d98bac-da17-4ae9-bbca-469192fc7cc7","name":"Irbid Governorate","ru":"Irbid Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"IR"},{"id":"ec0b2f3f-a6dd-44f7-86fe-09c9f2bf63f6","name":"Jerash Governorate","ru":"Jerash Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"JA"},{"id":"cd8c9c2c-4bb6-4c93-b081-7fc4c46f4a9f","name":"Karak Governorate","ru":"Karak Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"KA"},{"id":"2b0026d8-2835-4926-b3f0-419fc53588d8","name":"Ma'an Governorate","ru":"Ma'an Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"MN"},{"id":"bff9700f-00bf-4fdf-857f-d2640532f4a0","name":"Madaba Governorate","ru":"Madaba Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"MD"},{"id":"f64271c9-de9b-407e-9ae6-627ca52df419","name":"Mafraq Governorate","ru":"Mafraq Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"MA"},{"id":"1468e4ad-5202-4a33-88ff-5a6e47f44d7a","name":"Tafilah Governorate","ru":"Tafilah Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"AT"},{"id":"b6910955-9e4d-4a92-9749-c6c7aa30fd39","name":"Zarqa Governorate","ru":"Zarqa Governorate","country":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","countryCode":"JO","stateCode":"AZ"}]
+[
+  {
+    "id": "d3031820-8014-46b6-9807-8e2118df4c59",
+    "en": "Ajloun Governorate",
+    "ru": "Аджлунская губерния",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "AJ"
+  },
+  {
+    "id": "961f4df5-e4be-4f86-b982-85d3cb7df0d9",
+    "en": "Amman Governorate",
+    "ru": "Амманская область",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "AM"
+  },
+  {
+    "id": "c7d23061-dff0-40ff-a9e5-26ec83e27d68",
+    "en": "Aqaba Governorate",
+    "ru": "Акаба (мухафаза)",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "AQ"
+  },
+  {
+    "id": "7cbad50f-ad76-4fe3-be7d-856f731fb0bb",
+    "en": "Balqa Governorate",
+    "ru": "губерния Балка",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "BA"
+  },
+  {
+    "id": "a8011617-ffda-474e-bceb-aafaf811afbc",
+    "en": "Irbid Governorate",
+    "ru": "Ирбидская губерния",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "IR"
+  },
+  {
+    "id": "6eefb45c-fff0-4c85-8741-61059d629b89",
+    "en": "Jerash Governorate",
+    "ru": "губернаторство Джераш",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "JA"
+  },
+  {
+    "id": "0bb51173-19a3-4051-a33d-b98b16e1d3d6",
+    "en": "Karak Governorate",
+    "ru": "Каракская область",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "KA"
+  },
+  {
+    "id": "07b2f20f-1f4c-4091-aafd-9bf50f1c259d",
+    "en": "Ma'an Governorate",
+    "ru": "провинция Маань",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "MN"
+  },
+  {
+    "id": "846651ed-b837-49b0-8979-a060cd76beac",
+    "en": "Madaba Governorate",
+    "ru": "Мадабинская губерния",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "MD"
+  },
+  {
+    "id": "b7fcd1f5-955a-4b6c-8a7e-e76315fac756",
+    "en": "Mafraq Governorate",
+    "ru": "провинция Мафрак",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "MA"
+  },
+  {
+    "id": "a7577b6b-7eef-4f9f-9653-a9672c9dfceb",
+    "en": "Tafilah Governorate",
+    "ru": "провинция Тафила",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "AT"
+  },
+  {
+    "id": "4f1bd112-498a-4dbe-ae48-2a11adc4859c",
+    "en": "Zarqa Governorate",
+    "ru": "губерния Зарка",
+    "country": "440cede8-8e7d-4453-8b39-08453d008056",
+    "countryCode": "JO",
+    "stateCode": "AZ"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"63b3dc83-0a83-4d27-b44c-44ba9d8237ff","name":"Belgium","ru":"Belgium","iso3":"BEL","iso2":"BE","phoneCode":"32","capital":"cbbd42a7-2603-40c6-9eda-ee978c6cd6e8","currency":"EUR"}]
+[
+  {
+    "id": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
+    "en": "Belgium",
+    "ru": "Бельгия",
+    "iso3": "BEL",
+    "iso2": "BE",
+    "phoneCode": "32",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

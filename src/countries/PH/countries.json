@@ -1,1 +1,12 @@
-[{"id":"58e53ebd-2689-4dd6-9969-a7bf03168da8","name":"Philippines","ru":"Philippines","iso3":"PHL","iso2":"PH","phoneCode":"63","capital":"c0f48503-7b48-46ed-9480-850399541a86","currency":"PHP"}]
+[
+  {
+    "id": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "en": "Philippines",
+    "ru": "Филиппины",
+    "iso3": "PHL",
+    "iso2": "PH",
+    "phoneCode": "63",
+    "capital": null,
+    "currency": "PHP"
+  }
+]

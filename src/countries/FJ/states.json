@@ -1,1 +1,154 @@
-[{"id":"b1661f21-195e-41d8-a20e-860b65b80a54","name":"Ba","ru":"Ba","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"01"},{"id":"2a3c6acf-81bb-44c0-8b2d-12bcb6cd5c7c","name":"Bua","ru":"Bua","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"02"},{"id":"e8ab094c-ca0f-485e-b11a-4913aee80801","name":"Cakaudrove","ru":"Cakaudrove","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"03"},{"id":"5f650bf4-0114-4ffc-9c58-5ee90da7d580","name":"Central Division","ru":"Central Division","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"C"},{"id":"64299fca-08b3-4a06-bfbb-d900d915c5a5","name":"Eastern Division","ru":"Eastern Division","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"E"},{"id":"ab392627-94aa-48e3-ab27-b6f3053b72a5","name":"Kadavu","ru":"Kadavu","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"04"},{"id":"71b17093-b269-4bc0-a0b3-f4445568318f","name":"Lau","ru":"Lau","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"05"},{"id":"37a68691-25a5-42e6-a11d-899957ee8642","name":"Lomaiviti","ru":"Lomaiviti","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"06"},{"id":"c8d71488-5cda-4e25-8aac-83dc0ed7ec8e","name":"Macuata","ru":"Macuata","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"07"},{"id":"e6783f81-9b68-43d2-8517-3b0b637567eb","name":"Nadroga-Navosa","ru":"Nadroga-Navosa","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"08"},{"id":"666d76e0-1549-49f0-a2ea-5709a5e6b031","name":"Naitasiri","ru":"Naitasiri","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"09"},{"id":"fa8bec97-a8fb-45c3-b8f5-20a1d74afcae","name":"Namosi","ru":"Namosi","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"10"},{"id":"c5af44a9-624f-487b-90a1-0b816b892bd8","name":"Northern Division","ru":"Northern Division","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"N"},{"id":"a587249c-2fd8-4c05-a33d-1a6fe8a0cf52","name":"Ra","ru":"Ra","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"11"},{"id":"429884fa-ff95-4410-a1a1-26e3a33aadb0","name":"Rewa","ru":"Rewa","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"12"},{"id":"82e5cfa7-ef46-4ac9-99f5-d3f00efb2e8a","name":"Rotuma","ru":"Rotuma","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"R"},{"id":"1f9bd4d2-0268-4cfe-be0f-ffbcb762a3ad","name":"Serua","ru":"Serua","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"13"},{"id":"9c8be62b-ff98-434c-9729-b3737c2c1f19","name":"Tailevu","ru":"Tailevu","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"14"},{"id":"9f9592bd-7a9f-4fcd-94b8-7fc1c8f2d6ed","name":"Western Division","ru":"Western Division","country":"cc51d948-625f-48a7-97e0-5f9da9a04054","countryCode":"FJ","stateCode":"W"}]
+[
+  {
+    "id": "c44786e6-e66a-4507-bc38-3fb8e9c718ca",
+    "en": "Ba",
+    "ru": "Ба",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "01"
+  },
+  {
+    "id": "f8f51c39-48da-480b-b292-c2272e2d20a3",
+    "en": "Bua",
+    "ru": "Буа",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "02"
+  },
+  {
+    "id": "f2c738e8-98e9-407b-a8e6-b247787142ca",
+    "en": "Cakaudrove",
+    "ru": "Cakaudrove",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "03"
+  },
+  {
+    "id": "3535820e-199a-4450-9231-ee5d3e3b863b",
+    "en": "Central Division",
+    "ru": "областное центральное управление",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "C"
+  },
+  {
+    "id": "3b9cd436-10cb-4e3d-b735-cceec474c5b6",
+    "en": "Eastern Division",
+    "ru": "Восточный дивизион",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "E"
+  },
+  {
+    "id": "9639f86b-f996-4c66-b867-d7e2dcfa673a",
+    "en": "Kadavu",
+    "ru": "Кадаву",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "04"
+  },
+  {
+    "id": "0561389f-afc2-401a-88a2-d99c19ca1e2c",
+    "en": "Lau",
+    "ru": "Лау",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "05"
+  },
+  {
+    "id": "2f9f6491-6045-4c99-8e5b-be492de6a2b5",
+    "en": "Lomaiviti",
+    "ru": "Ломаивити",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "06"
+  },
+  {
+    "id": "09200380-6474-43ae-8b0e-1e433d7a0cf4",
+    "en": "Macuata",
+    "ru": "Macuata",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "07"
+  },
+  {
+    "id": "895c9776-1d67-42bc-823a-6e87b3b31996",
+    "en": "Nadroga-Navosa",
+    "ru": "Надрога-Навоса",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "08"
+  },
+  {
+    "id": "03c58b5c-b6bf-443a-af31-702498160a79",
+    "en": "Naitasiri",
+    "ru": "Найтасири",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "09"
+  },
+  {
+    "id": "87fe1d72-d30d-4427-8d36-3d2d5b39cb82",
+    "en": "Namosi",
+    "ru": "намоси",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "10"
+  },
+  {
+    "id": "762f11cb-eaac-47da-8661-45fcd6ee12cd",
+    "en": "Northern Division",
+    "ru": "Северный дивизион",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "N"
+  },
+  {
+    "id": "8a991117-6977-4b6c-a2f9-b86b2d81c4d9",
+    "en": "Ra",
+    "ru": "Ра",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "11"
+  },
+  {
+    "id": "fa78ab58-82d4-439c-af19-20eaa07749a9",
+    "en": "Rewa",
+    "ru": "Рева",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "12"
+  },
+  {
+    "id": "6dc9c19d-30c4-4081-87a6-f184e2f28c90",
+    "en": "Rotuma",
+    "ru": "Ротума",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "R"
+  },
+  {
+    "id": "1e140810-fdf8-4fb4-9807-eb231051a333",
+    "en": "Serua",
+    "ru": "Серуа",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "13"
+  },
+  {
+    "id": "94b27dfb-65fc-41a2-b9ea-3f9bec7db549",
+    "en": "Tailevu",
+    "ru": "Тайлеву",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "14"
+  },
+  {
+    "id": "91c7d230-442c-45b0-b0f5-396eebda6d7f",
+    "en": "Western Division",
+    "ru": "Западный дивизион",
+    "country": "698fee9a-cd1b-4423-8de5-0151258d9e6c",
+    "countryCode": "FJ",
+    "stateCode": "W"
+  }
+]

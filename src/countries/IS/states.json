@@ -1,1 +1,66 @@
-[{"id":"11dc8a1f-4dd5-49de-8a51-2505cf2bd8a8","name":"Capital Region","ru":"Capital Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"1"},{"id":"d646628b-48af-4988-bd13-f0f771c30051","name":"Eastern Region","ru":"Eastern Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"7"},{"id":"852eecd9-0a64-46c8-ba53-f4801173332c","name":"Northeastern Region","ru":"Northeastern Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"6"},{"id":"5643f6e9-775a-49c8-836d-bb4c56b70472","name":"Northwestern Region","ru":"Northwestern Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"5"},{"id":"a27971d4-865a-48ff-984b-84a55e34ed88","name":"Southern Peninsula Region","ru":"Southern Peninsula Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"2"},{"id":"da7ad3fa-9508-4df2-a8c1-6abe3f9304ed","name":"Southern Region","ru":"Southern Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"8"},{"id":"6af6fb93-c54e-4264-95f2-483c5858e61d","name":"Western Region","ru":"Western Region","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"3"},{"id":"ac752376-79e0-4c83-898c-8b5b99ac0caf","name":"Westfjords","ru":"Westfjords","country":"37f09f2f-41b2-4b1d-ae1d-d24d6aadf606","countryCode":"IS","stateCode":"4"}]
+[
+  {
+    "id": "e436a6fd-7104-42e7-b004-2aae5582e79d",
+    "en": "Capital Region",
+    "ru": "Столичный Регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "1"
+  },
+  {
+    "id": "5fd5b879-0f0f-41d1-8e1a-79409837c766",
+    "en": "Eastern Region",
+    "ru": "Восточный регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "7"
+  },
+  {
+    "id": "31dccb73-6543-4200-aa54-9806151601ab",
+    "en": "Northeastern Region",
+    "ru": "Северо-Восточный регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "6"
+  },
+  {
+    "id": "68308537-9cc6-4ad2-b88c-c1fb2ea74c9c",
+    "en": "Northwestern Region",
+    "ru": "Северо-Западный регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "5"
+  },
+  {
+    "id": "9edbc0de-4fff-47cf-b3b8-67cd91c19a20",
+    "en": "Southern Peninsula Region",
+    "ru": "Южный полуостров Регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "2"
+  },
+  {
+    "id": "dfa421dc-4042-4a30-a77e-0cd49559e4aa",
+    "en": "Southern Region",
+    "ru": "Южный регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "8"
+  },
+  {
+    "id": "ba00d269-d876-43ab-8102-74f15b0cddad",
+    "en": "Western Region",
+    "ru": "Западный регион",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "3"
+  },
+  {
+    "id": "b5b230f4-d69a-44aa-97e8-a945979cbc94",
+    "en": "Westfjords",
+    "ru": "Вестфьордс",
+    "country": "419e6206-194c-401f-b485-ea612f0b52fd",
+    "countryCode": "IS",
+    "stateCode": "4"
+  }
+]

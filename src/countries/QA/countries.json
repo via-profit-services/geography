@@ -1,1 +1,12 @@
-[{"id":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","name":"Qatar","ru":"Qatar","iso3":"QAT","iso2":"QA","phoneCode":"974","capital":"23deed39-4932-4216-b65d-a2eaafe8f6b6","currency":"QAR"}]
+[
+  {
+    "id": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "en": "Qatar",
+    "ru": "Катар",
+    "iso3": "QAT",
+    "iso2": "QA",
+    "phoneCode": "974",
+    "capital": null,
+    "currency": "QAR"
+  }
+]

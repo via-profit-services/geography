@@ -1,1 +1,162 @@
-[{"id":"aa31cbb1-7306-45b5-a978-8005ac6fa369","name":"Örebro County","ru":"Örebro County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"T"},{"id":"0055afca-0455-4c1a-8e88-0e96e294f5cd","name":"Östergötland County","ru":"Östergötland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"E"},{"id":"cdd77c35-5ac6-47ec-814a-3276c5f529fd","name":"Blekinge","ru":"Blekinge","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"K"},{"id":"76e2e131-f040-447a-9093-5b9900a32d8b","name":"Dalarna County","ru":"Dalarna County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"W"},{"id":"4a3af76a-3e15-464d-84dc-4c6b8758f9ff","name":"Gävleborg County","ru":"Gävleborg County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"X"},{"id":"362d261b-0122-4c61-858f-996f1ccf8778","name":"Gotland County","ru":"Gotland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"I"},{"id":"aa201d7f-7954-4867-b979-43f3812405cd","name":"Halland County","ru":"Halland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"N"},{"id":"47bd22a7-2d52-4bf3-b1ca-bbcd416b1647","name":"Jönköping County","ru":"Jönköping County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"F"},{"id":"d2cc466a-b7a7-4a8c-931a-e6f2a6f6366e","name":"Kalmar County","ru":"Kalmar County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"H"},{"id":"f3f87141-71c8-41df-b432-d154604a74ae","name":"Kronoberg County","ru":"Kronoberg County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"G"},{"id":"a5741c27-150e-4aa6-af9b-82f19273c370","name":"Norrbotten County","ru":"Norrbotten County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"BD"},{"id":"cd839272-50e7-4435-8496-1c92e6d17d00","name":"Södermanland County","ru":"Södermanland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"D"},{"id":"6457facd-0eba-4acf-b9d8-af0151a6806d","name":"Skåne County","ru":"Skåne County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"M"},{"id":"27b15b7a-a1fb-4420-96c5-6706248d346c","name":"Stockholm County","ru":"Stockholm County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"AB"},{"id":"72821b2c-2522-44a5-b5e9-1dc7e0dd75cf","name":"Uppsala County","ru":"Uppsala County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"C"},{"id":"16cbc029-f143-4039-95dd-c292f6d2879f","name":"Värmland County","ru":"Värmland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"S"},{"id":"7eae2366-2e5f-4cd1-8c8e-eabd5a937fe6","name":"Västerbotten County","ru":"Västerbotten County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"AC"},{"id":"d8df7c3a-80eb-4f9c-ad3d-a9348548732b","name":"Västernorrland County","ru":"Västernorrland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"Y"},{"id":"2b4ed4b2-bffb-4f44-8524-8dc46d683ea4","name":"Västmanland County","ru":"Västmanland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"U"},{"id":"b2fc0007-b817-4039-942d-483efc0d181e","name":"Västra Götaland County","ru":"Västra Götaland County","country":"92e6071b-79e6-4d9b-98fd-53d7523ac0ac","countryCode":"SE","stateCode":"O"}]
+[
+  {
+    "id": "ef8ea3ed-b481-4c44-914c-7758e5b2610c",
+    "en": "Örebro County",
+    "ru": "Эребруа",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "T"
+  },
+  {
+    "id": "9cb31498-76e4-4f4d-847f-003839fe944a",
+    "en": "Östergötland County",
+    "ru": "Östergötland уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "E"
+  },
+  {
+    "id": "539c2224-d6d9-49d7-b07d-306d87ac5faa",
+    "en": "Blekinge",
+    "ru": "Блекинге",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "K"
+  },
+  {
+    "id": "5662b693-983a-4d8b-a6e7-cfc6159c1fde",
+    "en": "Dalarna County",
+    "ru": "Даларнский уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "W"
+  },
+  {
+    "id": "51e6bce3-9a9b-421f-965c-f5e6096bd38f",
+    "en": "Gävleborg County",
+    "ru": "Евлеборг уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "X"
+  },
+  {
+    "id": "c810bef6-66a7-4db2-9d70-edc0c0a64c7a",
+    "en": "Gotland County",
+    "ru": "Готланд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "I"
+  },
+  {
+    "id": "f1cac4a6-3aae-4463-8929-859689ff3422",
+    "en": "Halland County",
+    "ru": "Halland County",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "N"
+  },
+  {
+    "id": "a967dfc0-e4ac-4141-a4eb-5045264d240c",
+    "en": "Jönköping County",
+    "ru": "Йёнчёпинг уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "F"
+  },
+  {
+    "id": "4f343af8-7124-4fad-9535-5f884f02642b",
+    "en": "Kalmar County",
+    "ru": "Кальмар уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "H"
+  },
+  {
+    "id": "363a7566-6fc4-4746-8f4a-54c36dd6eb6f",
+    "en": "Kronoberg County",
+    "ru": "Кроноберг повят",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "G"
+  },
+  {
+    "id": "f5a8929e-47bf-4b89-914b-daedabb8b1f4",
+    "en": "Norrbotten County",
+    "ru": "Норрботтен уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "BD"
+  },
+  {
+    "id": "54010fb1-0abc-45ba-8acb-6b5b8e155302",
+    "en": "Södermanland County",
+    "ru": "Седерманланд лен",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "D"
+  },
+  {
+    "id": "8bebc9e0-b474-461d-9752-2636b45e4628",
+    "en": "Skåne County",
+    "ru": "Сконе лен",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "M"
+  },
+  {
+    "id": "8c9609d7-5d0d-4717-a93f-1ee96e22a5e9",
+    "en": "Stockholm County",
+    "ru": "Стокгольм",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "AB"
+  },
+  {
+    "id": "11a3feae-84aa-408b-8e9a-a17fcfeb5da7",
+    "en": "Uppsala County",
+    "ru": "Уппсальский уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "C"
+  },
+  {
+    "id": "770a7f3a-bd19-43ac-9c01-432c95faecba",
+    "en": "Värmland County",
+    "ru": "Вермландский уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "S"
+  },
+  {
+    "id": "c83e3631-d85d-4938-8623-b222d4d6eb22",
+    "en": "Västerbotten County",
+    "ru": "Вестерботтен уезд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "AC"
+  },
+  {
+    "id": "17a52fbb-442e-4bf1-9ed1-88bdda16c7b2",
+    "en": "Västernorrland County",
+    "ru": "Вестерноррланд",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "Y"
+  },
+  {
+    "id": "17c6689c-8467-4937-82fa-5162c5699af2",
+    "en": "Västmanland County",
+    "ru": "Вестманланд лен",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "U"
+  },
+  {
+    "id": "8206eafb-e3f4-43fa-ba1b-aee62afe0885",
+    "en": "Västra Götaland County",
+    "ru": "Вестра-Гёталанд лен",
+    "country": "cf669a8c-0494-4004-b813-d01fba5a0971",
+    "countryCode": "SE",
+    "stateCode": "O"
+  }
+]

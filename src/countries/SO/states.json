@@ -1,1 +1,130 @@
-[{"id":"51ad0bda-77f6-4557-ab23-4b38da3900d6","name":"Awdal Region","ru":"Awdal Region","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"AW"},{"id":"4a2f3862-7cd7-4ee9-b112-76325e91b6c6","name":"Bakool","ru":"Bakool","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"BK"},{"id":"771f8d97-5d60-40d9-9849-b3867bd2d0e9","name":"Banaadir","ru":"Banaadir","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"BN"},{"id":"94847c15-a857-4902-88d3-48cd70c5b5c8","name":"Bari","ru":"Bari","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"BR"},{"id":"c6be211b-80c8-4dd9-b0bb-441aceeb9c58","name":"Bay","ru":"Bay","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"BY"},{"id":"b63b3d62-e3ee-4a66-8998-0e3d0d85d1e1","name":"Galguduud","ru":"Galguduud","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"GA"},{"id":"51ec3af2-144d-4865-a575-908a958950e6","name":"Gedo","ru":"Gedo","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"GE"},{"id":"6edd1151-cfc0-4092-987b-7dd0de74263e","name":"Hiran","ru":"Hiran","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"HI"},{"id":"7d3af2f8-d953-458f-9064-8f9a26528dd9","name":"Lower Juba","ru":"Lower Juba","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"JH"},{"id":"e9e87574-12d2-4d99-8e8a-35a2ad6ec963","name":"Lower Shebelle","ru":"Lower Shebelle","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"SH"},{"id":"f3bc96e2-243f-47fc-974a-e5fc1815fdbf","name":"Middle Juba","ru":"Middle Juba","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"JD"},{"id":"438c3d07-d70d-45d1-8dc1-20c69bea81e8","name":"Middle Shebelle","ru":"Middle Shebelle","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"SD"},{"id":"ef471158-5059-41e0-b3df-8be882ea2035","name":"Mudug","ru":"Mudug","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"MU"},{"id":"5dae94ad-b466-4b9a-9957-5ec767edf05f","name":"Nugal","ru":"Nugal","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"NU"},{"id":"3d7b2d0f-d4bb-4586-878c-d28356814f5f","name":"Sanaag Region","ru":"Sanaag Region","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"SA"},{"id":"62b4a8b0-a27c-4852-b06d-def962862fe6","name":"Togdheer Region","ru":"Togdheer Region","country":"d9a417e7-71de-431a-82f8-79ac2b1570a4","countryCode":"SO","stateCode":"TO"}]
+[
+  {
+    "id": "7a1252a9-f1f0-4b8c-a332-b991f18da3d8",
+    "en": "Awdal Region",
+    "ru": "Авдальский край",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "AW"
+  },
+  {
+    "id": "2c9a28d3-d1f2-455c-bae6-60b46ab2d2bc",
+    "en": "Bakool",
+    "ru": "Бакул",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "BK"
+  },
+  {
+    "id": "98f4732c-2727-458b-bdf4-e18e1ba65bea",
+    "en": "Banaadir",
+    "ru": "Банаадир",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "BN"
+  },
+  {
+    "id": "f42557b7-682e-4bff-b12e-f2163627002c",
+    "en": "Bari",
+    "ru": "Бари",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "BR"
+  },
+  {
+    "id": "b4513f23-d39d-4082-8e84-0c51778c51cb",
+    "en": "Bay",
+    "ru": "бухты",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "BY"
+  },
+  {
+    "id": "3e6f6735-e000-466e-8397-c0fb09f63e23",
+    "en": "Galguduud",
+    "ru": "Галгудууд",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "GA"
+  },
+  {
+    "id": "cc6023af-dfa8-4136-8949-ffcc17c4150e",
+    "en": "Gedo",
+    "ru": "Гедо",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "GE"
+  },
+  {
+    "id": "061f72ef-81e8-4d76-95fb-83e0ddfa7325",
+    "en": "Hiran",
+    "ru": "Хиран",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "HI"
+  },
+  {
+    "id": "a4b163e6-a7f1-4400-929a-1a37e53e92c1",
+    "en": "Lower Juba",
+    "ru": "Нижняя Джуба",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "JH"
+  },
+  {
+    "id": "7177f3a9-f129-4eb4-9d29-75df42afac0f",
+    "en": "Lower Shebelle",
+    "ru": "Нижняя Шебелле",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "SH"
+  },
+  {
+    "id": "4846c734-103f-474c-a093-e26a67c55c79",
+    "en": "Middle Juba",
+    "ru": "Средняя Джуба",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "JD"
+  },
+  {
+    "id": "fa523a8e-ee2d-4ad2-8d2d-4c4da2110ad4",
+    "en": "Middle Shebelle",
+    "ru": "Средняя Шебелле",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "SD"
+  },
+  {
+    "id": "5c16f404-5f2f-4f8a-9444-d31a1de60054",
+    "en": "Mudug",
+    "ru": "Мудуг",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "MU"
+  },
+  {
+    "id": "848942b9-636a-49f0-96a5-1386e89bfdfa",
+    "en": "Nugal",
+    "ru": "Нугал",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "NU"
+  },
+  {
+    "id": "cca8c858-4b80-4ade-aa67-8294df106761",
+    "en": "Sanaag Region",
+    "ru": "санаг область",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "SA"
+  },
+  {
+    "id": "5558db75-f0cc-464c-9aec-1676ec082561",
+    "en": "Togdheer Region",
+    "ru": "Тогдеерская область",
+    "country": "ce56526c-5b62-4e29-a1a8-0a60ddce922a",
+    "countryCode": "SO",
+    "stateCode": "TO"
+  }
+]

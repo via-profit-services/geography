@@ -12,7 +12,7 @@ interface IParent {
 
 const driverResolver = new Proxy<TDriverResolver>({
   id: () => ({}),
-  name: () => ({}),
+  en: () => ({}),
   ru: () => ({}),
   country: () => ({}),
   countryCode: () => ({}),

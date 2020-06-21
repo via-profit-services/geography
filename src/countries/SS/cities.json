@@ -1,1 +1,13 @@
-[{"id":"c4014998-6b36-4a19-a2c7-b469a125f957","name":"Yirol","ru":"Yirol","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","state":"39f252f9-020a-4d2c-b6e4-b45c1844d4da","stateCode":"LK","latitude":"6.55250000","longitude":"30.49806000"}]
+[
+  {
+    "id": "f5bf5cb2-1ad9-429e-9f7a-1f2674b7b35a",
+    "en": "Yirol",
+    "ru": "Йироль",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "state": "9b0467ea-3d70-46d6-a705-8eb72953c431",
+    "stateCode": "LK",
+    "latitude": "6.55250000",
+    "longitude": "30.49806000"
+  }
+]

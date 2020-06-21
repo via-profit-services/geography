@@ -1,1 +1,12 @@
-[{"id":"09d0d43b-4383-465a-867e-863b1fe3dfc4","name":"Gambia The","ru":"Gambia The","iso3":"GMB","iso2":"GM","phoneCode":"220","capital":"85e6cb83-70f0-407b-aeae-fc41aa210396","currency":"GMD"}]
+[
+  {
+    "id": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "en": "Gambia The",
+    "ru": "Гамбия",
+    "iso3": "GMB",
+    "iso2": "GM",
+    "phoneCode": "220",
+    "capital": null,
+    "currency": "GMD"
+  }
+]

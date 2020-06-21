@@ -1,1 +1,12 @@
-[{"id":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","name":"Mexico","ru":"Mexico","iso3":"MEX","iso2":"MX","phoneCode":"52","capital":"800657e8-3a32-451c-a136-36eb08f34dc5","currency":"MXN"}]
+[
+  {
+    "id": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "en": "Mexico",
+    "ru": "Мексика",
+    "iso3": "MEX",
+    "iso2": "MX",
+    "phoneCode": "52",
+    "capital": null,
+    "currency": "MXN"
+  }
+]

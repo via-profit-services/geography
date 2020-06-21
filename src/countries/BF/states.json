@@ -1,1 +1,458 @@
-[{"id":"ac93b0a7-e2db-4a82-a717-5dbb329713bc","name":"Balé Province","ru":"Balé Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"BAL"},{"id":"4118290e-d10b-40c1-ab21-ebc1fbb325c5","name":"Bam Province","ru":"Bam Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"BAM"},{"id":"0809e232-8d64-4b91-bc06-6231b19d604b","name":"Banwa Province","ru":"Banwa Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"BAN"},{"id":"717e7bc5-67a8-4b7b-b3f1-981f4dc87ac9","name":"Bazèga Province","ru":"Bazèga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"BAZ"},{"id":"4ba8c652-6d1c-41ad-9e7f-0ec2714ea329","name":"Boucle du Mouhoun Region","ru":"Boucle du Mouhoun Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"01"},{"id":"325d90da-d354-4b76-beff-db2c8e67aa41","name":"Bougouriba Province","ru":"Bougouriba Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"BGR"},{"id":"993ce71b-c125-4aa8-b561-9d46aabab5b7","name":"Boulgou","ru":"Boulgou","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"BLG"},{"id":"bdf9e2ee-46ac-4a1e-aec1-7a81e982849b","name":"Cascades Region","ru":"Cascades Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"02"},{"id":"28a0fe48-3c2c-48f2-9921-d771e118438a","name":"Centre","ru":"Centre","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"03"},{"id":"c35e052b-40ce-4002-be2c-7d13247a8432","name":"Centre-Est Region","ru":"Centre-Est Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"04"},{"id":"b84fab93-ae10-4c53-a57c-a00742a9dc14","name":"Centre-Nord Region","ru":"Centre-Nord Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"05"},{"id":"e998e631-4314-44ef-bf9b-5f4602b75ada","name":"Centre-Ouest Region","ru":"Centre-Ouest Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"06"},{"id":"7259c7c6-9faa-46dc-8ae5-0b3901697ce1","name":"Centre-Sud Region","ru":"Centre-Sud Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"07"},{"id":"7a0f8042-67e2-4d06-98cd-fafe3d1af6c1","name":"Comoé Province","ru":"Comoé Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"COM"},{"id":"a9aaa7e2-898c-4f76-a10a-5f1f6997588b","name":"Est Region","ru":"Est Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"08"},{"id":"d522293e-a5e7-429f-a624-1c8d93f19bf3","name":"Ganzourgou Province","ru":"Ganzourgou Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"GAN"},{"id":"046e5c9a-7ebc-41df-8274-e87739c39753","name":"Gnagna Province","ru":"Gnagna Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"GNA"},{"id":"0ba21235-6c4f-4aed-bc92-bf152bd1e50c","name":"Gourma Province","ru":"Gourma Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"GOU"},{"id":"928ae119-0fae-45f0-9946-807d9402f34c","name":"Hauts-Bassins Region","ru":"Hauts-Bassins Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"09"},{"id":"36eb9159-7985-48e8-99fc-c40667948c97","name":"Houet Province","ru":"Houet Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"HOU"},{"id":"14dc3826-60ee-4b28-849a-c6a5af67dc8c","name":"Ioba Province","ru":"Ioba Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"IOB"},{"id":"0fe1c6b2-cb9c-4457-99fe-d683f79505a2","name":"Kadiogo Province","ru":"Kadiogo Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KAD"},{"id":"65a3626e-fc29-49d1-8692-19bd547006ca","name":"Kénédougou Province","ru":"Kénédougou Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KEN"},{"id":"47b6068f-97dc-4094-b6f9-a0f7c3c79665","name":"Komondjari Province","ru":"Komondjari Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KMD"},{"id":"0fe74912-e578-41a7-8ee1-3111dc5cffaf","name":"Kompienga Province","ru":"Kompienga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KMP"},{"id":"b187e38d-c62a-4b49-a0fd-fec0bd2f3abb","name":"Kossi Province","ru":"Kossi Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KOS"},{"id":"5201e051-34e4-4ef0-813b-5e0aeccadd03","name":"Koulpélogo Province","ru":"Koulpélogo Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KOP"},{"id":"ce47695b-52bd-463f-ba35-5eefe6ed8577","name":"Kouritenga Province","ru":"Kouritenga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KOT"},{"id":"458cf3cb-f9e9-4c64-8848-2c995de96049","name":"Kourwéogo Province","ru":"Kourwéogo Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"KOW"},{"id":"2b2d9fc6-7592-4af7-afcb-09fa70866d01","name":"Léraba Province","ru":"Léraba Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"LER"},{"id":"022c22cc-5bd6-4d4a-9af3-de6836920b9d","name":"Loroum Province","ru":"Loroum Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"LOR"},{"id":"bb0655c5-775a-4f45-a9d5-db4c5dff5f90","name":"Mouhoun","ru":"Mouhoun","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"MOU"},{"id":"57c52c9e-eeab-45af-bbb7-902b85337dc2","name":"Nahouri Province","ru":"Nahouri Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"NAO"},{"id":"082768dd-8267-45eb-ab0e-9891864b4ba2","name":"Namentenga Province","ru":"Namentenga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"NAM"},{"id":"91f814c6-8c41-49c2-945b-4e2ddd72677a","name":"Nayala Province","ru":"Nayala Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"NAY"},{"id":"f61a895b-4ac5-4812-9b0d-2710ae0e5b8e","name":"Nord Region, Burkina Faso","ru":"Nord Region, Burkina Faso","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"10"},{"id":"ad5fcd14-d288-4232-8d36-1a32175b7cda","name":"Noumbiel Province","ru":"Noumbiel Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"NOU"},{"id":"80a59a0b-6f70-4ce0-802a-858c036d2745","name":"Oubritenga Province","ru":"Oubritenga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"OUB"},{"id":"9d595d81-4888-4f32-9186-a3d053371cc7","name":"Oudalan Province","ru":"Oudalan Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"OUD"},{"id":"6f3283bc-26f4-4b72-b5f2-65ac87e2a7ca","name":"Passoré Province","ru":"Passoré Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"PAS"},{"id":"81379060-a363-46df-a872-20f6108321c5","name":"Plateau-Central Region","ru":"Plateau-Central Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"11"},{"id":"5e0a65d1-e9ec-42a6-ba11-44afac618c22","name":"Poni Province","ru":"Poni Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"PON"},{"id":"55afac00-d25c-4cc1-808b-1a57a5a9b747","name":"Sahel Region","ru":"Sahel Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"12"},{"id":"24729c7d-7185-407b-937c-5ed7c50049d0","name":"Sanguié Province","ru":"Sanguié Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"SNG"},{"id":"f97706b6-8999-4874-bee5-2dbb23775aaf","name":"Sanmatenga Province","ru":"Sanmatenga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"SMT"},{"id":"3aba775c-411f-49fb-82ef-70e210fd8d2a","name":"Séno Province","ru":"Séno Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"SEN"},{"id":"d25537d3-8187-4044-8a95-ec4453207549","name":"Sissili Province","ru":"Sissili Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"SIS"},{"id":"8cd0ed14-fcd6-4c42-8ca3-91db4c4105f2","name":"Soum Province","ru":"Soum Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"SOM"},{"id":"5dc16998-74af-466b-895b-f0a72583934a","name":"Sourou Province","ru":"Sourou Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"SOR"},{"id":"bb79fafe-5667-449d-a456-6a5c612fe2a1","name":"Sud-Ouest Region","ru":"Sud-Ouest Region","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"13"},{"id":"e0124104-fafe-4122-8b08-80723b4c8ba7","name":"Tapoa Province","ru":"Tapoa Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"TAP"},{"id":"ad4f02c0-5b77-46cf-a893-b7cd8a0a93be","name":"Tuy Province","ru":"Tuy Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"TUI"},{"id":"a7946f8a-b177-4bf1-8a9c-8d6336fcf52c","name":"Yagha Province","ru":"Yagha Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"YAG"},{"id":"bf6e5c25-b83c-488a-a4c2-be1b87f2477d","name":"Yatenga Province","ru":"Yatenga Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"YAT"},{"id":"c635ad91-b4be-4d8a-862b-db77934abbed","name":"Ziro Province","ru":"Ziro Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"ZIR"},{"id":"2877c091-7e82-4495-a04d-6fffd5b9e387","name":"Zondoma Province","ru":"Zondoma Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"ZON"},{"id":"bfcc9493-845c-4836-9e60-b26089f603a1","name":"Zoundwéogo Province","ru":"Zoundwéogo Province","country":"b8466237-2e0f-4ba1-ba62-d87162065228","countryCode":"BF","stateCode":"ZOU"}]
+[
+  {
+    "id": "7c9a4e58-67e2-4c35-82dc-d403068aed50",
+    "en": "Balé Province",
+    "ru": "Бале провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "BAL"
+  },
+  {
+    "id": "3f0a9653-205d-42f8-bda3-11788ea50f4e",
+    "en": "Bam Province",
+    "ru": "Бамская область",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "BAM"
+  },
+  {
+    "id": "4b1bd57a-2b8c-46c2-ab5f-253625753bc8",
+    "en": "Banwa Province",
+    "ru": "Банва провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "BAN"
+  },
+  {
+    "id": "910a27a1-c29b-4a83-9fb1-2028a919fd4a",
+    "en": "Bazèga Province",
+    "ru": "Базега провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "BAZ"
+  },
+  {
+    "id": "02b18506-cfa3-4ddd-b8ee-6dc57d35779e",
+    "en": "Boucle du Mouhoun Region",
+    "ru": "Boucle du Mouhoun Регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "01"
+  },
+  {
+    "id": "53554190-0f3a-441b-a09e-f2480f8ec269",
+    "en": "Bougouriba Province",
+    "ru": "Бугурибская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "BGR"
+  },
+  {
+    "id": "32d23047-51d4-43c3-b453-bea6ea67cb63",
+    "en": "Boulgou",
+    "ru": "Булгу",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "BLG"
+  },
+  {
+    "id": "42829816-5174-4669-bade-324b29cb0489",
+    "en": "Cascades Region",
+    "ru": "Каскады Регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "02"
+  },
+  {
+    "id": "16c49d27-bd13-4df0-a945-baacb5c0a4d2",
+    "en": "Centre",
+    "ru": "областной центр",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "03"
+  },
+  {
+    "id": "019987d4-082a-44db-9bab-ab8a606091f4",
+    "en": "Centre-Est Region",
+    "ru": "Центр-Восточный Регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "04"
+  },
+  {
+    "id": "e5d1af85-6c67-48b3-909c-884dc1d1bc51",
+    "en": "Centre-Nord Region",
+    "ru": "Центр-Норд Регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "05"
+  },
+  {
+    "id": "3b57e9f1-e9a2-4d8d-878f-946e008d7d93",
+    "en": "Centre-Ouest Region",
+    "ru": "Центр-Уэст Регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "06"
+  },
+  {
+    "id": "677bc9ec-ccb8-43ba-be5c-6123f9dc04ff",
+    "en": "Centre-Sud Region",
+    "ru": "Центр-Суд Регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "07"
+  },
+  {
+    "id": "53f041d8-b062-492c-9a7b-b6a2c3537384",
+    "en": "Comoé Province",
+    "ru": "Комоэ провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "COM"
+  },
+  {
+    "id": "3ed0bea7-df70-4143-a865-c86f3b53b1e6",
+    "en": "Est Region",
+    "ru": "Est Region",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "08"
+  },
+  {
+    "id": "14f15e21-bcc6-471f-a091-de9d2df1ddb6",
+    "en": "Ganzourgou Province",
+    "ru": "Ганзургоу провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "GAN"
+  },
+  {
+    "id": "514b9640-cda4-4c68-ae40-286de0f13794",
+    "en": "Gnagna Province",
+    "ru": "Гнагненская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "GNA"
+  },
+  {
+    "id": "56bf2938-f6e7-4f19-a8c1-aa6258dcd6f9",
+    "en": "Gourma Province",
+    "ru": "Гурма провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "GOU"
+  },
+  {
+    "id": "efdd2999-ff41-4bd3-87f0-26093a9f1a5d",
+    "en": "Hauts-Bassins Region",
+    "ru": "Hauts-Bassins Region",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "09"
+  },
+  {
+    "id": "b1d6eced-5fa1-45da-872e-497020dc75d9",
+    "en": "Houet Province",
+    "ru": "Houet провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "HOU"
+  },
+  {
+    "id": "c19d942a-633c-438d-8570-ce37db3cdee2",
+    "en": "Ioba Province",
+    "ru": "Иоба провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "IOB"
+  },
+  {
+    "id": "3cdd881e-6795-48bd-be56-10b9fc9541f6",
+    "en": "Kadiogo Province",
+    "ru": "Кадиого Провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KAD"
+  },
+  {
+    "id": "d37e13c3-3297-4ea5-966a-4558ff2c662a",
+    "en": "Kénédougou Province",
+    "ru": "Кенедугу провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KEN"
+  },
+  {
+    "id": "ae82e171-acca-44ce-880c-897c56af6be1",
+    "en": "Komondjari Province",
+    "ru": "Комонджарская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KMD"
+  },
+  {
+    "id": "87961f05-4051-4ecb-bf5e-6c9bc7f177d3",
+    "en": "Kompienga Province",
+    "ru": "Компьенга провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KMP"
+  },
+  {
+    "id": "f6580483-78a6-4b87-bf41-790cd74ebf82",
+    "en": "Kossi Province",
+    "ru": "Косси провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KOS"
+  },
+  {
+    "id": "e2609907-f10e-4a00-b010-5ce23249dbd9",
+    "en": "Koulpélogo Province",
+    "ru": "Коулпелойская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KOP"
+  },
+  {
+    "id": "41195c98-6a23-4a94-a0af-5953b8eb378d",
+    "en": "Kouritenga Province",
+    "ru": "Куритенгская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KOT"
+  },
+  {
+    "id": "f1777065-c8ad-46db-b150-1220f2d8748a",
+    "en": "Kourwéogo Province",
+    "ru": "Kourwéogo провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "KOW"
+  },
+  {
+    "id": "60de9c57-87e7-41bc-819b-1bafa7177053",
+    "en": "Léraba Province",
+    "ru": "Лераба провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "LER"
+  },
+  {
+    "id": "ffa629be-f3da-4daa-9fd2-1cc26aeb22e7",
+    "en": "Loroum Province",
+    "ru": "Лорумская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "LOR"
+  },
+  {
+    "id": "c44355e1-b65e-4608-b5f9-33244f4e13b8",
+    "en": "Mouhoun",
+    "ru": "Моухун",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "MOU"
+  },
+  {
+    "id": "812f6bcd-9245-4c4d-9bfc-13168bbc932c",
+    "en": "Nahouri Province",
+    "ru": "Нахури провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "NAO"
+  },
+  {
+    "id": "a6997513-06f2-4631-85b7-2a5b2fb19d3f",
+    "en": "Namentenga Province",
+    "ru": "Наментенгская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "NAM"
+  },
+  {
+    "id": "2213e897-6fc3-4bdc-baba-caea0ef47640",
+    "en": "Nayala Province",
+    "ru": "Наяла (провинция)",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "NAY"
+  },
+  {
+    "id": "57cb05f1-e9e7-4c42-86b8-620870c2ece5",
+    "en": "Nord Region, Burkina Faso",
+    "ru": "Норд Регион, Буркина-Фасо",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "10"
+  },
+  {
+    "id": "c025ed04-2472-4caa-a837-8d1e0dc1f4ed",
+    "en": "Noumbiel Province",
+    "ru": "Нумбель провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "NOU"
+  },
+  {
+    "id": "d15c87f2-4f04-4870-bd69-5af69689daf3",
+    "en": "Oubritenga Province",
+    "ru": "Обритенга провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "OUB"
+  },
+  {
+    "id": "4f2bc0f5-fadf-4ed8-8a4e-6063c6a4b175",
+    "en": "Oudalan Province",
+    "ru": "Удаланская область",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "OUD"
+  },
+  {
+    "id": "269a28df-45df-416a-aa68-09b1a2a0b835",
+    "en": "Passoré Province",
+    "ru": "Пассоре провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "PAS"
+  },
+  {
+    "id": "7ccfd56a-0b22-43d4-ab49-a4ecbd786705",
+    "en": "Plateau-Central Region",
+    "ru": "Плато-Центральный регион",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "11"
+  },
+  {
+    "id": "512f5299-ede8-4586-84fd-280222b6231f",
+    "en": "Poni Province",
+    "ru": "Пони провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "PON"
+  },
+  {
+    "id": "35684e98-03e4-4986-8e7d-e9050d0b8a7e",
+    "en": "Sahel Region",
+    "ru": "Сахельская область",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "12"
+  },
+  {
+    "id": "2b987195-e9a3-4c71-aa9b-e8e8f7ce43ec",
+    "en": "Sanguié Province",
+    "ru": "Sanguié провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "SNG"
+  },
+  {
+    "id": "7d4e41ee-2b1a-45c5-bed6-9d53f93d3ecb",
+    "en": "Sanmatenga Province",
+    "ru": "Санматенга провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "SMT"
+  },
+  {
+    "id": "743ed1e8-deec-48a9-af76-6a7368f50c6a",
+    "en": "Séno Province",
+    "ru": "Сено провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "SEN"
+  },
+  {
+    "id": "51bc9997-7096-4c13-ad8f-8fdd348bc4f0",
+    "en": "Sissili Province",
+    "ru": "Сиссилийская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "SIS"
+  },
+  {
+    "id": "6ddea7d1-0a9f-4951-831b-b894543aea1b",
+    "en": "Soum Province",
+    "ru": "Сумская область",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "SOM"
+  },
+  {
+    "id": "e3669e6e-8426-4477-bbaa-614041bb39df",
+    "en": "Sourou Province",
+    "ru": "Суроу провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "SOR"
+  },
+  {
+    "id": "90d6008b-ac84-458a-8688-614e205b6bae",
+    "en": "Sud-Ouest Region",
+    "ru": "Южно-Восточный край",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "13"
+  },
+  {
+    "id": "689e4baa-414e-4a24-bf4c-f9a2367d472e",
+    "en": "Tapoa Province",
+    "ru": "Тапоа провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "TAP"
+  },
+  {
+    "id": "9dc76871-1d8e-4215-ae91-280df3fb20f7",
+    "en": "Tuy Province",
+    "ru": "Туйская область",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "TUI"
+  },
+  {
+    "id": "35d53ec6-c969-42e7-a4ba-d3577d612a49",
+    "en": "Yagha Province",
+    "ru": "Ягская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "YAG"
+  },
+  {
+    "id": "f88be421-a6e7-477d-a7b1-d2c46328ebe1",
+    "en": "Yatenga Province",
+    "ru": "Ятенгская губерния",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "YAT"
+  },
+  {
+    "id": "2ddad50f-6b1d-48c6-9736-d8fffcd372f2",
+    "en": "Ziro Province",
+    "ru": "Зиро провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "ZIR"
+  },
+  {
+    "id": "112a1933-c8eb-4353-abf8-e1c4fdc056ce",
+    "en": "Zondoma Province",
+    "ru": "Зондома провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "ZON"
+  },
+  {
+    "id": "5d92b7cf-902c-4259-a16c-3320b770c859",
+    "en": "Zoundwéogo Province",
+    "ru": "Zoundwéogo провинция",
+    "country": "b4e59701-478c-45f2-945a-7d331468528c",
+    "countryCode": "BF",
+    "stateCode": "ZOU"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","name":"Barbados","ru":"Barbados","iso3":"BRB","iso2":"BB","phoneCode":"+1-246","capital":"5e552ae0-548b-4f06-9160-e4dae6f63170","currency":"BBD"}]
+[
+  {
+    "id": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "en": "Barbados",
+    "ru": "Барбадос",
+    "iso3": "BRB",
+    "iso2": "BB",
+    "phoneCode": "+1-246",
+    "capital": null,
+    "currency": "BBD"
+  }
+]

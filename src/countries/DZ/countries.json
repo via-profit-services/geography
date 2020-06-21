@@ -1,1 +1,12 @@
-[{"id":"86e0dbbc-cd87-4803-82b8-1fe497671ae6","name":"Algeria","ru":"Algeria","iso3":"DZA","iso2":"DZ","phoneCode":"213","capital":"8de2ef5b-e2df-438f-a8d7-93848f17d4f7","currency":"DZD"}]
+[
+  {
+    "id": "08941c34-e893-4b3c-8b05-0beaec7b9a3c",
+    "en": "Algeria",
+    "ru": "Алжир",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "phoneCode": "213",
+    "capital": null,
+    "currency": "DZD"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"ccef7c39-b96a-4d30-a460-92e25a8226bb","name":"Tokelau","ru":"Tokelau","iso3":"TKL","iso2":"TK","phoneCode":"690","capital":null,"currency":"NZD"}]
+[
+  {
+    "id": "35031405-371d-40fb-8c37-5c6d9ca9c5b8",
+    "en": "Tokelau",
+    "ru": "Токелау",
+    "iso3": "TKL",
+    "iso2": "TK",
+    "phoneCode": "690",
+    "capital": null,
+    "currency": "NZD"
+  }
+]

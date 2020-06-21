@@ -1,1 +1,12 @@
-[{"id":"46d81dd3-76b9-4067-ae09-6671cb718246","name":"Guam","ru":"Guam","iso3":"GUM","iso2":"GU","phoneCode":"+1-671","capital":null,"currency":"USD"}]
+[
+  {
+    "id": "28dd6674-8638-4377-acd9-a4db15febb4d",
+    "en": "Guam",
+    "ru": "гуам",
+    "iso3": "GUM",
+    "iso2": "GU",
+    "phoneCode": "+1-671",
+    "capital": null,
+    "currency": "USD"
+  }
+]

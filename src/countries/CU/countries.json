@@ -1,1 +1,12 @@
-[{"id":"4275d761-beaf-443f-86ec-183950ce6b66","name":"Cuba","ru":"Cuba","iso3":"CUB","iso2":"CU","phoneCode":"53","capital":"d3834a77-19bb-4b8f-b19f-5149fbf7f95d","currency":"CUP"}]
+[
+  {
+    "id": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "en": "Cuba",
+    "ru": "Куба",
+    "iso3": "CUB",
+    "iso2": "CU",
+    "phoneCode": "53",
+    "capital": null,
+    "currency": "CUP"
+  }
+]

@@ -1,1 +1,101 @@
-[{"id":"4f7eb335-e7ad-45bb-8a3a-3cdee31bea58","name":"Ampasimanolotra","ru":"Ampasimanolotra","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-18.81667000","longitude":"49.06667000"},{"id":"2063ea8e-daa6-4f4a-ab95-448c891ddfef","name":"Andovoranto","ru":"Andovoranto","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-18.95443000","longitude":"49.10940000"},{"id":"dafb23e2-4117-4c5f-b424-60cf83df3bd3","name":"Mahanoro","ru":"Mahanoro","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-19.90000000","longitude":"48.80000000"},{"id":"ec68cee5-1892-444b-9b6e-cf22fd3eaf53","name":"Mahavelona","ru":"Mahavelona","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-17.68475000","longitude":"49.50869000"},{"id":"dbd00597-db8f-4f80-bae7-fce59c3dc77e","name":"Marolambo","ru":"Marolambo","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-20.05000000","longitude":"48.11667000"},{"id":"3462446b-3ccc-4ecb-b829-33d2e4c078e0","name":"Toamasina","ru":"Toamasina","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-18.14920000","longitude":"49.40234000"},{"id":"f0153f5e-0a87-461f-90e4-25faa9541f79","name":"Toamasina I","ru":"Toamasina I","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-18.13863000","longitude":"49.39203000"},{"id":"41154bb9-a560-4bdc-8165-3163d3aa057d","name":"Toamasina II","ru":"Toamasina II","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-17.94053000","longitude":"49.14608000"},{"id":"48f50f6b-d22b-4d2e-8ba4-40afe065e2e7","name":"Vohibinany","ru":"Vohibinany","country":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","countryCode":"MG","state":"4209ead5-3634-4d01-8f33-7add6011e5a1","stateCode":"D","latitude":"-17.35000000","longitude":"49.03333000"}]
+[
+  {
+    "id": "df97b6a3-03fd-43f5-a5c6-ad9303f5f8b6",
+    "en": "Ampasimanolotra",
+    "ru": "Ампасиманолотра",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-18.81667000",
+    "longitude": "49.06667000"
+  },
+  {
+    "id": "e106704e-8b68-4254-bda3-48c05ccf864e",
+    "en": "Andovoranto",
+    "ru": "Андоворанто",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-18.95443000",
+    "longitude": "49.10940000"
+  },
+  {
+    "id": "2d25284c-5fb3-49fa-91cb-fbf23706640a",
+    "en": "Mahanoro",
+    "ru": "Маханоро",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-19.90000000",
+    "longitude": "48.80000000"
+  },
+  {
+    "id": "2c718462-dc9e-40ad-88c9-081e9688eb19",
+    "en": "Mahavelona",
+    "ru": "Махавелона",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-17.68475000",
+    "longitude": "49.50869000"
+  },
+  {
+    "id": "f1f77c39-fcd9-4de1-a69f-2fdd97c5a087",
+    "en": "Marolambo",
+    "ru": "Мароламбо",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-20.05000000",
+    "longitude": "48.11667000"
+  },
+  {
+    "id": "2247760b-57aa-4ea9-96bb-54961561cdd3",
+    "en": "Toamasina",
+    "ru": "Туамасина",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-18.14920000",
+    "longitude": "49.40234000"
+  },
+  {
+    "id": "8973a091-d620-420b-a83e-1729392eb0b8",
+    "en": "Toamasina I",
+    "ru": "Тоамасина I",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-18.13863000",
+    "longitude": "49.39203000"
+  },
+  {
+    "id": "65bb5a34-fae2-451a-bb60-de4a75013168",
+    "en": "Toamasina II",
+    "ru": "Тоамасина II",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-17.94053000",
+    "longitude": "49.14608000"
+  },
+  {
+    "id": "ab1599d4-ed99-4b20-a360-c066424c07dc",
+    "en": "Vohibinany",
+    "ru": "Вохибинаны",
+    "country": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "countryCode": "MG",
+    "state": "2f5bee1f-13a1-4a0c-9a76-373e9ae4815a",
+    "stateCode": "D",
+    "latitude": "-17.35000000",
+    "longitude": "49.03333000"
+  }
+]

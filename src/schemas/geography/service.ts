@@ -7,7 +7,7 @@ import {
 } from '@via-profit-services/core';
 
 import {
-  Context, ICity, IState, ICountry,
+  Context, ICity, IState, ICountry, ICityPlaneInput, IStatePlaneInput, ICountryPlaneInput,
 } from './types';
 
 interface IProps {
@@ -34,7 +34,7 @@ class Geography {
         knex.raw('*'),
         knex.raw('count(*) over() as "totalCount"'),
       ])
-      .from<any, Array<ICity & {totalCount: number}>>('geographyCities')
+      .from<any, Array<ICityPlaneInput & {totalCount: number}>>('geographyCities')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where))
@@ -58,6 +58,12 @@ class Geography {
           nodes: nodes.map(({ totalCount, ...nodeData }) => {
             return {
               ...nodeData,
+              country: {
+                id: nodeData.country,
+              },
+              state: {
+                id: nodeData.state,
+              },
               createdAt,
               updatedAt: createdAt,
             };
@@ -106,7 +112,7 @@ class Geography {
         knex.raw('*'),
         knex.raw('count(*) over() as "totalCount"'),
       ])
-      .from<any, Array<ICity & {totalCount: number}>>('geographyStates')
+      .from<any, Array<IStatePlaneInput & {totalCount: number}>>('geographyStates')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where))
@@ -130,6 +136,9 @@ class Geography {
           nodes: nodes.map(({ totalCount, ...nodeData }) => {
             return {
               ...nodeData,
+              country: {
+                id: nodeData.country,
+              },
               createdAt,
               updatedAt: createdAt,
             };
@@ -178,7 +187,7 @@ class Geography {
         knex.raw('*'),
         knex.raw('count(*) over() as "totalCount"'),
       ])
-      .from<any, Array<ICountry & {totalCount: number}>>('geographyCountries')
+      .from<any, Array<ICountryPlaneInput & {totalCount: number}>>('geographyCountries')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where))
@@ -202,6 +211,9 @@ class Geography {
           nodes: nodes.map(({ totalCount, ...nodeData }) => {
             return {
               ...nodeData,
+              capital: nodeData.capital ? {
+                id: nodeData.capital,
+              } : null,
               createdAt,
               updatedAt: createdAt,
             };

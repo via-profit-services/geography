@@ -1,1 +1,66 @@
-[{"id":"408ab6f8-c8b7-4ca4-81e4-5f23c67a88a1","name":"Azad Kashmir","ru":"Azad Kashmir","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"JK"},{"id":"72b388a3-f1ee-4839-b630-ca9b7847a552","name":"Balochistan","ru":"Balochistan","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"BA"},{"id":"d4b8a565-af9b-40c6-bf58-b7fb7260cff5","name":"Federally Administered Tribal Areas","ru":"Federally Administered Tribal Areas","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"TA"},{"id":"8f7ec4ac-d2c8-480d-a4b2-30faefdab090","name":"Gilgit-Baltistan","ru":"Gilgit-Baltistan","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"GB"},{"id":"6d22bf1a-566b-424d-ab03-1e12018d528d","name":"Islamabad Capital Territory","ru":"Islamabad Capital Territory","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"IS"},{"id":"70e19266-ace0-4a29-b821-da8cf8d12398","name":"Khyber Pakhtunkhwa","ru":"Khyber Pakhtunkhwa","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"KP"},{"id":"f1cbab46-cfa6-4439-b9ca-4cf9c0b059e0","name":"Punjab","ru":"Punjab","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"PB"},{"id":"35116433-b078-48fa-9d54-39490542715b","name":"Sindh","ru":"Sindh","country":"ab327682-aebc-43b0-91c4-bfefd793f9ca","countryCode":"PK","stateCode":"SD"}]
+[
+  {
+    "id": "1ba495d9-d615-4618-b086-f4dfcf5f0dc3",
+    "en": "Azad Kashmir",
+    "ru": "Азад Кашмир",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "JK"
+  },
+  {
+    "id": "d93f8185-c3c4-4141-8505-00cf61cb91c8",
+    "en": "Balochistan",
+    "ru": "Белуджистан",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "BA"
+  },
+  {
+    "id": "4b03c2c2-79cc-4841-8011-6747ac423f89",
+    "en": "Federally Administered Tribal Areas",
+    "ru": "федерально управляемых племенных территорий",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "TA"
+  },
+  {
+    "id": "ce8746e3-a8d1-49de-8be8-f227719c3439",
+    "en": "Gilgit-Baltistan",
+    "ru": "Гилгит-Балтистан",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "GB"
+  },
+  {
+    "id": "5293b895-5a95-4668-be9d-12dcec3aa470",
+    "en": "Islamabad Capital Territory",
+    "ru": "Исламабад Столица Территория",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "IS"
+  },
+  {
+    "id": "e3777acb-bd6f-4da1-ac58-1a7fa4dfa310",
+    "en": "Khyber Pakhtunkhwa",
+    "ru": "Хайбер-Пахтунхва",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "KP"
+  },
+  {
+    "id": "87adbbe9-49d4-4a60-bdb9-6a44f32e0652",
+    "en": "Punjab",
+    "ru": "Пенджаб",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "PB"
+  },
+  {
+    "id": "b045894c-1eb8-413c-8b9b-82d1f58ff958",
+    "en": "Sindh",
+    "ru": "Синд",
+    "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
+    "countryCode": "PK",
+    "stateCode": "SD"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"b973d016-a41f-4e0c-ac5c-1ea61bbb145c","name":"Equatorial Guinea","ru":"Equatorial Guinea","iso3":"GNQ","iso2":"GQ","phoneCode":"240","capital":"61e8d83c-d14d-4791-a307-ee76592fb301","currency":"XAF"}]
+[
+  {
+    "id": "12501cb8-c5bd-41cc-a834-caeb06782e03",
+    "en": "Equatorial Guinea",
+    "ru": "Экваториальная Гвинея",
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "phoneCode": "240",
+    "capital": null,
+    "currency": "XAF"
+  }
+]

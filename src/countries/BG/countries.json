@@ -1,1 +1,12 @@
-[{"id":"c4931ccd-1c68-4407-95e9-eab52e277c7e","name":"Bulgaria","ru":"Bulgaria","iso3":"BGR","iso2":"BG","phoneCode":"359","capital":"07f4396b-41fd-4531-a39a-dc15b2f23b6e","currency":"BGN"}]
+[
+  {
+    "id": "3bfaae45-a765-4b93-b868-499170863b49",
+    "en": "Bulgaria",
+    "ru": "Болгария",
+    "iso3": "BGR",
+    "iso2": "BG",
+    "phoneCode": "359",
+    "capital": null,
+    "currency": "BGN"
+  }
+]

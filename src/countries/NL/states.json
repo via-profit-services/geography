@@ -1,1 +1,122 @@
-[{"id":"f865be8f-1328-4811-8aa6-55402d694b3d","name":"Bonaire","ru":"Bonaire","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"BQ1"},{"id":"4041c3d2-8ae7-464e-89db-412b9d1493ad","name":"Drenthe","ru":"Drenthe","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"DR"},{"id":"57ed18b7-dadf-45a4-80e5-3e2f8944259d","name":"Flevoland","ru":"Flevoland","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"FL"},{"id":"97c63615-bd94-42c1-85da-a7fdbe93d30d","name":"Friesland","ru":"Friesland","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"FR"},{"id":"7c8b6bfe-b295-447d-a62f-1f4a4251ee23","name":"Gelderland","ru":"Gelderland","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"GE"},{"id":"ba2d0c7d-6634-42ed-9209-6f915259d1fd","name":"Groningen","ru":"Groningen","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"GR"},{"id":"1714aa29-b223-448b-be8e-030bd35e6bc8","name":"Limburg","ru":"Limburg","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"LI"},{"id":"ebaa766c-6bf3-48f6-bf2c-c2b602634efd","name":"North Brabant","ru":"North Brabant","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"NB"},{"id":"536a27a7-3dd3-457e-9d13-ff210e12d47b","name":"North Holland","ru":"North Holland","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"NH"},{"id":"30111695-00ee-4c73-9340-4996d3db2cfc","name":"Overijssel","ru":"Overijssel","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"OV"},{"id":"feac24f8-639d-4b9b-95f5-2216483c2e36","name":"Saba","ru":"Saba","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"BQ2"},{"id":"78ea03cb-5710-4fc4-af1c-1283a807a27e","name":"Sint Eustatius","ru":"Sint Eustatius","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"BQ3"},{"id":"43244811-ed74-4865-9efd-9f1bda29490c","name":"South Holland","ru":"South Holland","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"ZH"},{"id":"de7bc12b-2167-454f-8e93-c5b7bd7616f6","name":"Utrecht","ru":"Utrecht","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"UT"},{"id":"8b9fced6-101b-46f4-bc18-5e795696f4b8","name":"Zeeland","ru":"Zeeland","country":"dc77b686-e417-4977-b19b-5f81f845473e","countryCode":"NL","stateCode":"ZE"}]
+[
+  {
+    "id": "e1d402e6-1328-4245-97c8-5bd3d75784b4",
+    "en": "Bonaire",
+    "ru": "Бонайре",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "BQ1"
+  },
+  {
+    "id": "ac76fc54-e345-455d-bf3b-5e463198648c",
+    "en": "Drenthe",
+    "ru": "Дренте",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "DR"
+  },
+  {
+    "id": "0a03a574-5a25-42b2-99b7-2133fa467402",
+    "en": "Flevoland",
+    "ru": "Флеволанд",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "FL"
+  },
+  {
+    "id": "2dee7bd7-f8c9-4529-b4e0-9c76d5551c35",
+    "en": "Friesland",
+    "ru": "Фрисландия",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "FR"
+  },
+  {
+    "id": "8199e117-73e5-459f-8c76-2add69c7fe67",
+    "en": "Gelderland",
+    "ru": "Гелдерланд",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "GE"
+  },
+  {
+    "id": "99d15f1a-a652-415b-afff-e7fc48dd2bf6",
+    "en": "Groningen",
+    "ru": "Гронинген",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "GR"
+  },
+  {
+    "id": "22723786-7a58-457d-85e0-c28f8a916398",
+    "en": "Limburg",
+    "ru": "Лимбург",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "LI"
+  },
+  {
+    "id": "131662a8-f33f-41fa-acec-0282f898ee8d",
+    "en": "North Brabant",
+    "ru": "Северный Брабант",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "NB"
+  },
+  {
+    "id": "8a5549be-0912-4049-98f5-401b28b9645c",
+    "en": "North Holland",
+    "ru": "Северная Голландия",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "NH"
+  },
+  {
+    "id": "a0c12270-2260-40cb-91fa-e59994b06cbf",
+    "en": "Overijssel",
+    "ru": "Оверэйсел",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "OV"
+  },
+  {
+    "id": "10e454db-b173-4904-a2a3-f672603bbf41",
+    "en": "Saba",
+    "ru": "саба",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "BQ2"
+  },
+  {
+    "id": "ad8ea84d-a13e-4740-8a51-19e6f869dd22",
+    "en": "Sint Eustatius",
+    "ru": "Синт-Эстатиус",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "BQ3"
+  },
+  {
+    "id": "20d83c4b-a441-4e3d-9757-a034158bd43c",
+    "en": "South Holland",
+    "ru": "Южная Голландия",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "ZH"
+  },
+  {
+    "id": "611339e2-ddac-43aa-9902-a47623690149",
+    "en": "Utrecht",
+    "ru": "Утрехт",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "UT"
+  },
+  {
+    "id": "d25e18f8-5d99-4317-b991-14596132768e",
+    "en": "Zeeland",
+    "ru": "зеландия",
+    "country": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "countryCode": "NL",
+    "stateCode": "ZE"
+  }
+]

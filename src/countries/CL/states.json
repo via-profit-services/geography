@@ -1,1 +1,130 @@
-[{"id":"db79120d-db6f-4ca8-90ea-4a13e8ec6d3c","name":"Antofagasta Region","ru":"Antofagasta Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"AN"},{"id":"b2b4be7a-40e8-4776-ad5b-5a280110089a","name":"Araucanía Region","ru":"Araucanía Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"AR"},{"id":"92d4ae47-a488-41e4-887c-d288af7e8aa9","name":"Arica y Parinacota Region","ru":"Arica y Parinacota Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"AP"},{"id":"af8a7a28-8eb4-499c-b89f-a7f653dcb865","name":"Atacama Region","ru":"Atacama Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"AT"},{"id":"73132ea2-9b13-4b08-a096-4a9706ce3f14","name":"Aysén Region","ru":"Aysén Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"AI"},{"id":"60e90456-2db4-49c2-ac8f-cfd62d8f5d19","name":"Ñuble Region","ru":"Ñuble Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"NB"},{"id":"0ae0ab0c-53e5-4424-a11a-b42adf08c47c","name":"Bío Bío Region","ru":"Bío Bío Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"BI"},{"id":"8a7db3df-9bfc-43ee-8952-312b274496d1","name":"Coquimbo Region","ru":"Coquimbo Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"CO"},{"id":"8541ca1f-f9f8-4ba6-ae3e-bd55c6939ece","name":"Los Lagos Region","ru":"Los Lagos Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"LL"},{"id":"d8344202-c456-4cce-baa0-839b93ae6663","name":"Los Ríos Region","ru":"Los Ríos Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"LR"},{"id":"6a04491c-008b-49d0-9f02-057b5dc7befa","name":"Magellan and the Chilean Antarctic Region","ru":"Magellan and the Chilean Antarctic Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"MA"},{"id":"3f781a6b-a343-4a02-8806-fe721aa9dd64","name":"Maule Region","ru":"Maule Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"ML"},{"id":"094800ba-831b-4a0c-aeb7-4d0b536f396e","name":"O'Higgins","ru":"O'Higgins","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"LI"},{"id":"7f7c4abc-feac-497b-b5f0-7ec0d7bd6bba","name":"Santiago Metropolitan Region","ru":"Santiago Metropolitan Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"RM"},{"id":"0860a0e5-3ca5-4e8f-be8e-0b3b38403cb5","name":"Tarapacá Region","ru":"Tarapacá Region","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"TA"},{"id":"0b724947-5307-4782-bb14-20a1455fd3e2","name":"Valparaíso","ru":"Valparaíso","country":"681fea76-a29e-484a-b3c4-4d7312ecbc47","countryCode":"CL","stateCode":"VS"}]
+[
+  {
+    "id": "2216c662-4269-47a7-9e6d-5c4956558cc4",
+    "en": "Antofagasta Region",
+    "ru": "Антофагаста Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "AN"
+  },
+  {
+    "id": "7010ccb9-15d4-4166-ba34-a23abe432195",
+    "en": "Araucanía Region",
+    "ru": "Араукания область",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "AR"
+  },
+  {
+    "id": "de21a1d1-00b1-4f11-82bf-6845b053ebe5",
+    "en": "Arica y Parinacota Region",
+    "ru": "Arica y Parinacota Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "AP"
+  },
+  {
+    "id": "abef6d01-5deb-4923-b0a1-3c6483086d8e",
+    "en": "Atacama Region",
+    "ru": "Атакама Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "AT"
+  },
+  {
+    "id": "bd9c60df-aa23-45f2-a98e-4be1edbd01f3",
+    "en": "Aysén Region",
+    "ru": "Айсен Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "AI"
+  },
+  {
+    "id": "366ea65b-2b9f-451b-833a-0d0d02e9cef1",
+    "en": "Ñuble Region",
+    "ru": "регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "NB"
+  },
+  {
+    "id": "71e1bad5-6fc5-4adf-a852-c3fd00acf35d",
+    "en": "Bío Bío Region",
+    "ru": "Био Био Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "BI"
+  },
+  {
+    "id": "433b382d-6f32-4775-b024-7e4fb19ae1cc",
+    "en": "Coquimbo Region",
+    "ru": "Кокимбо Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "CO"
+  },
+  {
+    "id": "03ecad2b-ca40-4630-a18d-808b94a54251",
+    "en": "Los Lagos Region",
+    "ru": "Лос Лагос Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "LL"
+  },
+  {
+    "id": "0f825461-170b-47a1-9b3a-17eae0007aac",
+    "en": "Los Ríos Region",
+    "ru": "Регион Лос Риос",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "LR"
+  },
+  {
+    "id": "1aa2f793-c584-4411-b1f8-dbafa9a1c8ef",
+    "en": "Magellan and the Chilean Antarctic Region",
+    "ru": "Магеллан и чилийский Антарктика",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "MA"
+  },
+  {
+    "id": "46632d3f-abe4-46d5-a29a-bb2f6b579336",
+    "en": "Maule Region",
+    "ru": "Мауле Регион",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "ML"
+  },
+  {
+    "id": "d30f4ba7-4543-4214-b49a-96a4be806b0e",
+    "en": "O'Higgins",
+    "ru": "О'Хиггинс",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "LI"
+  },
+  {
+    "id": "86ec1b78-8d01-445f-ac5c-2729d6e59c1d",
+    "en": "Santiago Metropolitan Region",
+    "ru": "Сантьяго Столичная область",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "RM"
+  },
+  {
+    "id": "e7ae38b3-b92c-44f4-9e5e-2d42890ce167",
+    "en": "Tarapacá Region",
+    "ru": "Тарапака область",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "TA"
+  },
+  {
+    "id": "8e940c1e-f3b0-4c76-8d03-cb3841a30763",
+    "en": "Valparaíso",
+    "ru": "Вальпараисо",
+    "country": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "countryCode": "CL",
+    "stateCode": "VS"
+  }
+]

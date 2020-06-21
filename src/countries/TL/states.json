@@ -1,1 +1,98 @@
-[{"id":"dbf599a9-9e46-45ab-8975-f19b4822cdb6","name":"Aileu municipality","ru":"Aileu municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"AL"},{"id":"aca1a855-6c71-4ebc-94d7-3a1ecfe17765","name":"Ainaro Municipality","ru":"Ainaro Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"AN"},{"id":"e2169592-96b9-460f-955c-727fe155bf06","name":"Baucau Municipality","ru":"Baucau Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"BA"},{"id":"af222b6e-6932-4981-9515-59c82b4d7bbb","name":"Bobonaro Municipality","ru":"Bobonaro Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"BO"},{"id":"29c48f07-4063-4887-8e49-e27fa025728b","name":"Cova Lima Municipality","ru":"Cova Lima Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"CO"},{"id":"db1b9389-675b-4ce0-ab91-0b343e592a32","name":"Dili municipality","ru":"Dili municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"DI"},{"id":"76ef9de1-7dd1-46c4-9021-c65b4e645ab7","name":"Ermera District","ru":"Ermera District","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"ER"},{"id":"07313c29-ae80-4ae0-bf0c-1fe77b2c1e33","name":"Lautém Municipality","ru":"Lautém Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"LA"},{"id":"3d6ead85-898b-4d47-ba80-0a3c6590f8d0","name":"Liquiçá Municipality","ru":"Liquiçá Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"LI"},{"id":"91110a52-5642-40a9-a34c-590f8465aede","name":"Manatuto District","ru":"Manatuto District","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"MT"},{"id":"f7f1ca45-10f3-4b57-9db9-49f98f8c94ec","name":"Manufahi Municipality","ru":"Manufahi Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"MF"},{"id":"bd781966-c992-44d9-bbef-4c717efa3bc4","name":"Viqueque Municipality","ru":"Viqueque Municipality","country":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","countryCode":"TL","stateCode":"VI"}]
+[
+  {
+    "id": "7c3d4cdc-0fc7-466c-b572-119b8a351f1c",
+    "en": "Aileu municipality",
+    "ru": "Aileu муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "AL"
+  },
+  {
+    "id": "6e048b4f-6d66-4cc4-983c-6283df97464e",
+    "en": "Ainaro Municipality",
+    "ru": "Айнаро Муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "AN"
+  },
+  {
+    "id": "85b19376-0b32-4b2c-a33d-5dceffef7d7f",
+    "en": "Baucau Municipality",
+    "ru": "Баукау Муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "BA"
+  },
+  {
+    "id": "118275a9-0b45-4621-91e1-2a0e93eba2a9",
+    "en": "Bobonaro Municipality",
+    "ru": "Bobonaro Муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "BO"
+  },
+  {
+    "id": "2721164a-86dd-41f5-975a-e842a4e57e4f",
+    "en": "Cova Lima Municipality",
+    "ru": "Cova Lima Муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "CO"
+  },
+  {
+    "id": "8377e04d-9f9e-4f31-b2e6-4e7b93d11622",
+    "en": "Dili municipality",
+    "ru": "Дили муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "DI"
+  },
+  {
+    "id": "80d554c9-76d3-4d20-bdbf-3d97ae50e82c",
+    "en": "Ermera District",
+    "ru": "Эрмера район",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "ER"
+  },
+  {
+    "id": "9e6b993d-168b-438d-bdba-421da10eec69",
+    "en": "Lautém Municipality",
+    "ru": "Lautém муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "LA"
+  },
+  {
+    "id": "62486013-effd-44fb-9a92-442e3ffbf77f",
+    "en": "Liquiçá Municipality",
+    "ru": "Liquiçá муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "LI"
+  },
+  {
+    "id": "d948b9a4-ce65-4dc4-8460-0c00b0d99e32",
+    "en": "Manatuto District",
+    "ru": "Манатуто район",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "MT"
+  },
+  {
+    "id": "0dd91ef9-f24d-4220-a95d-6b0999732ebf",
+    "en": "Manufahi Municipality",
+    "ru": "Мануфахи Муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "MF"
+  },
+  {
+    "id": "8d35f85d-5aa6-4e6e-b002-3e214c2974e0",
+    "en": "Viqueque Municipality",
+    "ru": "Викеке Муниципалитет",
+    "country": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "countryCode": "TL",
+    "stateCode": "VI"
+  }
+]

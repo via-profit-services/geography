@@ -1,1 +1,12 @@
-[{"id":"635251e2-3c43-4201-a736-bc156d043655","name":"France","ru":"France","iso3":"FRA","iso2":"FR","phoneCode":"33","capital":"ca97bb32-d8c1-49ea-9641-1728f88bab51","currency":"EUR"}]
+[
+  {
+    "id": "365db666-2805-404a-808d-74d37c43a220",
+    "en": "France",
+    "ru": "Франция",
+    "iso3": "FRA",
+    "iso2": "FR",
+    "phoneCode": "33",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

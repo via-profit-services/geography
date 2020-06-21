@@ -1,1 +1,12 @@
-[{"id":"7f53b275-c1fb-4b83-852c-4cd72c097fc7","name":"Senegal","ru":"Senegal","iso3":"SEN","iso2":"SN","phoneCode":"221","capital":"6a00e4eb-ba51-4cf8-868f-b8323282384b","currency":"XOF"}]
+[
+  {
+    "id": "5880c6b9-e82e-435a-90b1-a7125ca7563d",
+    "en": "Senegal",
+    "ru": "Сенегал",
+    "iso3": "SEN",
+    "iso2": "SN",
+    "phoneCode": "221",
+    "capital": null,
+    "currency": "XOF"
+  }
+]

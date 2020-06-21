@@ -1,1 +1,12 @@
-[{"id":"098b3410-ed97-441e-a9ac-4d88863a19d2","name":"Gabon","ru":"Gabon","iso3":"GAB","iso2":"GA","phoneCode":"241","capital":"fb33e719-abb6-4aee-9833-88f2634c8bf0","currency":"XAF"}]
+[
+  {
+    "id": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "en": "Gabon",
+    "ru": "Габон",
+    "iso3": "GAB",
+    "iso2": "GA",
+    "phoneCode": "241",
+    "capital": null,
+    "currency": "XAF"
+  }
+]

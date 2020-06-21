@@ -1,1 +1,12 @@
-[{"id":"9c904f2c-cb4f-4483-a071-4b74b17e77c5","name":"Marshall Islands","ru":"Marshall Islands","iso3":"MHL","iso2":"MH","phoneCode":"692","capital":null,"currency":"USD"}]
+[
+  {
+    "id": "90eb3550-06ad-44a2-bfb7-148853127cf6",
+    "en": "Marshall Islands",
+    "ru": "Маршалловы Острова",
+    "iso3": "MHL",
+    "iso2": "MH",
+    "phoneCode": "692",
+    "capital": null,
+    "currency": "USD"
+  }
+]

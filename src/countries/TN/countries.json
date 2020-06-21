@@ -1,1 +1,12 @@
-[{"id":"8a99c9db-8c9c-4861-8f50-8926309953bb","name":"Tunisia","ru":"Tunisia","iso3":"TUN","iso2":"TN","phoneCode":"216","capital":"d5f683ea-94d8-473d-b8d5-fed2e291a4db","currency":"TND"}]
+[
+  {
+    "id": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
+    "en": "Tunisia",
+    "ru": "Тунис",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "phoneCode": "216",
+    "capital": null,
+    "currency": "TND"
+  }
+]

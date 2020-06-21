@@ -1,1 +1,12 @@
-[{"id":"3e89aecc-4937-4f97-a65e-1bdc23429277","name":"Canada","ru":"Canada","iso3":"CAN","iso2":"CA","phoneCode":"1","capital":"f513ad42-00af-4444-a5c7-b745acea5225","currency":"CAD"}]
+[
+  {
+    "id": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "en": "Canada",
+    "ru": "канада",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "phoneCode": "1",
+    "capital": null,
+    "currency": "CAD"
+  }
+]

@@ -1,1 +1,674 @@
-[{"id":"f92706bf-951b-4374-8819-972a6701c3e7","name":"Aerodrom Municipality","ru":"Aerodrom Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"01"},{"id":"737ad05b-b90e-41e1-8293-0efca2ec9cf1","name":"Aračinovo Municipality","ru":"Aračinovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"02"},{"id":"4e4fb13e-41f2-4cc3-973c-3c1480068492","name":"Štip Municipality","ru":"Štip Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"83"},{"id":"3d4abc11-ce3a-4e3a-a482-fc0e75c5974c","name":"Šuto Orizari Municipality","ru":"Šuto Orizari Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"84"},{"id":"66790ad4-f4f9-4ad6-92d3-0265b73a1b23","name":"Želino Municipality","ru":"Želino Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"30"},{"id":"d7a9896a-bc6d-4e7a-baa6-5754d0e8dcbf","name":"Čaška Municipality","ru":"Čaška Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"80"},{"id":"4a2e6d4d-88d6-4a53-988d-b0022b858f90","name":"Čair Municipality","ru":"Čair Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"79"},{"id":"30729afc-9ac6-41d0-8ab2-a6266a8eb9fd","name":"Češinovo-Obleševo Municipality","ru":"Češinovo-Obleševo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"81"},{"id":"fd9ec828-5478-414c-afdd-b012660a9e97","name":"Čučer-Sandevo Municipality","ru":"Čučer-Sandevo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"82"},{"id":"fae3be67-a00b-4a68-984c-d9750fcc5c56","name":"Berovo Municipality","ru":"Berovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"03"},{"id":"f070fb6e-56a7-4676-ad87-06c091285ee9","name":"Bitola Municipality","ru":"Bitola Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"04"},{"id":"687e9657-2ab0-4545-b4cb-b552a6c03846","name":"Bogdanci Municipality","ru":"Bogdanci Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"05"},{"id":"409dec47-ce21-4957-b382-68f07e9b0537","name":"Bogovinje Municipality","ru":"Bogovinje Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"06"},{"id":"e6455d77-fb27-4031-bb09-914fcee506c2","name":"Bosilovo Municipality","ru":"Bosilovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"07"},{"id":"98c0b5c1-59ef-4d79-8fc9-5964c2a11094","name":"Brvenica Municipality","ru":"Brvenica Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"08"},{"id":"1d690ac0-b5ee-4e5a-9600-761602a87748","name":"Butel Municipality","ru":"Butel Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"09"},{"id":"5c841005-7b68-4f4d-88df-326f08d081a2","name":"Centar Župa Municipality","ru":"Centar Župa Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"78"},{"id":"08f43dc7-9f35-43ab-9aae-8036be61f0a3","name":"Centar Municipality","ru":"Centar Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"77"},{"id":"c78f9eb8-e270-48af-9713-de112131e420","name":"Debarca Municipality","ru":"Debarca Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"22"},{"id":"e842a55e-a26e-46ca-b8a4-532460d072cd","name":"Delčevo Municipality","ru":"Delčevo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"23"},{"id":"6bb489ab-9ac9-485e-a223-d7bd391e6e3f","name":"Demir Hisar Municipality","ru":"Demir Hisar Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"25"},{"id":"e4565884-244d-49fe-bdd9-3912f606f16d","name":"Demir Kapija Municipality","ru":"Demir Kapija Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"24"},{"id":"361f4a0d-f21a-4bf4-b22c-d852af7e8ec1","name":"Dojran Municipality","ru":"Dojran Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"26"},{"id":"75346e59-46b9-4eb3-baf0-d6036db00f5a","name":"Dolneni Municipality","ru":"Dolneni Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"27"},{"id":"22c6104d-4fbe-4765-9eef-24c8a217efad","name":"Drugovo Municipality","ru":"Drugovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"28"},{"id":"aa60a5f3-66db-4637-ac23-420eeaf588b2","name":"Gazi Baba Municipality","ru":"Gazi Baba Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"17"},{"id":"76e7fe1b-a971-47d7-a3ef-7501db9789b7","name":"Gevgelija Municipality","ru":"Gevgelija Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"18"},{"id":"b672a59f-b370-4ec9-932d-a502eff3af9b","name":"Gjorče Petrov Municipality","ru":"Gjorče Petrov Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"29"},{"id":"fc89d29a-e730-477e-bcf3-99445056e21e","name":"Gostivar Municipality","ru":"Gostivar Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"19"},{"id":"28b50af5-55f6-46ef-a7e5-ed4c0e80462d","name":"Gradsko Municipality","ru":"Gradsko Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"20"},{"id":"459550ee-1ef6-4ffd-a3b0-22fea679115e","name":"Greater Skopje","ru":"Greater Skopje","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"85"},{"id":"4505d34b-fe95-4fb4-8ce4-777a12fa8a6a","name":"Ilinden Municipality","ru":"Ilinden Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"34"},{"id":"888faab1-15dc-4520-a714-dffb190148b7","name":"Jegunovce Municipality","ru":"Jegunovce Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"35"},{"id":"3587178a-84ca-429b-99aa-5f5b6f824be3","name":"Karbinci","ru":"Karbinci","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"37"},{"id":"69ea1ab2-5d2b-4bfe-bd6f-67b23f1c96a2","name":"Karpoš Municipality","ru":"Karpoš Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"38"},{"id":"3bc445d1-009f-405f-8f16-3a6cc8305ff4","name":"Kavadarci Municipality","ru":"Kavadarci Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"36"},{"id":"f9101726-e55f-404a-8e1c-21122223ef34","name":"Kičevo Municipality","ru":"Kičevo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"40"},{"id":"d727e6ec-e3ca-4362-9da5-b5e6d62c73ce","name":"Kisela Voda Municipality","ru":"Kisela Voda Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"39"},{"id":"09eb461c-2b74-4279-b503-c44ac836e098","name":"Kočani Municipality","ru":"Kočani Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"42"},{"id":"ede75c38-bea1-4640-8536-542377067304","name":"Konče Municipality","ru":"Konče Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"41"},{"id":"88703616-dce4-44a5-b1bf-6a8bae7dfdbf","name":"Kratovo Municipality","ru":"Kratovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"43"},{"id":"03bec211-11c9-49e1-89fe-4eea5b620cba","name":"Kriva Palanka Municipality","ru":"Kriva Palanka Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"44"},{"id":"85ed0e3a-7164-4079-9026-3f3a9e5e0f9e","name":"Krivogaštani Municipality","ru":"Krivogaštani Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"45"},{"id":"be637f0f-ae5f-485f-8608-48ed31aa06b9","name":"Kruševo Municipality","ru":"Kruševo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"46"},{"id":"f17899cb-2439-44a5-873a-31c03bba03a1","name":"Kumanovo Municipality","ru":"Kumanovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"47"},{"id":"6a68e67d-cc53-4866-9b1c-ee520970bd05","name":"Lipkovo Municipality","ru":"Lipkovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"48"},{"id":"562aa66a-ad74-43c8-a0e1-1052bf9b6247","name":"Lozovo Municipality","ru":"Lozovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"49"},{"id":"8d73bfd5-e914-4c71-866a-47c798e2bca9","name":"Makedonska Kamenica Municipality","ru":"Makedonska Kamenica Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"51"},{"id":"a5d8caed-ba69-4bc7-a22f-5e537542c6c7","name":"Makedonski Brod Municipality","ru":"Makedonski Brod Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"52"},{"id":"685bd10f-43cb-4c54-b009-3ddbf8849aba","name":"Mavrovo and Rostuša Municipality","ru":"Mavrovo and Rostuša Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"50"},{"id":"c5660132-682e-417e-ab1a-11b59b5edeae","name":"Mogila Municipality","ru":"Mogila Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"53"},{"id":"fbc699b2-fade-4ced-bd4a-787c2011d79c","name":"Negotino Municipality","ru":"Negotino Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"54"},{"id":"dbee906b-e472-4abe-bc9d-cb8e080d1963","name":"Novaci Municipality","ru":"Novaci Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"55"},{"id":"2248ee74-ad05-440e-9af1-3c7ab3d5c99f","name":"Novo Selo Municipality","ru":"Novo Selo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"56"},{"id":"086bd03b-520c-4df2-9c81-356e5082ec9a","name":"Ohrid Municipality","ru":"Ohrid Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"58"},{"id":"47760173-2ae8-4abc-b48f-4bf14265dce1","name":"Oslomej Municipality","ru":"Oslomej Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"57"},{"id":"1daa90a6-072c-4a65-b15a-be391ef89614","name":"Pehčevo Municipality","ru":"Pehčevo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"60"},{"id":"1c5664a8-ff9b-4cd3-b53a-4f1f2acaec04","name":"Petrovec Municipality","ru":"Petrovec Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"59"},{"id":"0edfa731-9dd7-4b73-bf1a-528ef9015a2b","name":"Plasnica Municipality","ru":"Plasnica Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"61"},{"id":"ea398115-767d-4709-b040-72e22a70383b","name":"Prilep Municipality","ru":"Prilep Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"62"},{"id":"d6378521-dad2-40e1-8c9e-23c0020c3dfb","name":"Probištip Municipality","ru":"Probištip Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"63"},{"id":"9048abb4-780d-4f82-81cb-176e5e0f0f57","name":"Radoviš Municipality","ru":"Radoviš Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"64"},{"id":"a1ed4304-2abf-4e2f-b9ea-486be2ca29f9","name":"Rankovce Municipality","ru":"Rankovce Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"65"},{"id":"3e411a2a-946d-4e34-9db3-2f94ca8dfdc2","name":"Resen Municipality","ru":"Resen Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"66"},{"id":"d46712ae-56af-434f-80d7-71fa163924aa","name":"Rosoman Municipality","ru":"Rosoman Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"67"},{"id":"ea32ca8d-1c19-4971-9978-a3bde49acd15","name":"Saraj Municipality","ru":"Saraj Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"68"},{"id":"73c2654e-cdc7-494f-8567-1740e3aabe9e","name":"Sopište Municipality","ru":"Sopište Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"70"},{"id":"e9ca14c8-d2d8-4cb2-b5d8-45a0a8b41a29","name":"Staro Nagoričane Municipality","ru":"Staro Nagoričane Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"71"},{"id":"c185c425-6d0a-444d-8576-200710dcf342","name":"Struga Municipality","ru":"Struga Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"72"},{"id":"01c6ed8b-ee93-48ab-b5b0-d69cc51a94f5","name":"Strumica Municipality","ru":"Strumica Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"73"},{"id":"f16b7ec3-d751-41ba-978e-ba45c60191ba","name":"Studeničani Municipality","ru":"Studeničani Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"74"},{"id":"255e1019-5303-49fd-8913-0ef22402bcc9","name":"Sveti Nikole Municipality","ru":"Sveti Nikole Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"69"},{"id":"ce7c0ed6-618a-4a26-aee8-d8bc81beb627","name":"Tearce Municipality","ru":"Tearce Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"75"},{"id":"1af242aa-520d-4a21-b2cd-1946331f1cad","name":"Tetovo Municipality","ru":"Tetovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"76"},{"id":"9f3f7a51-a270-40ac-b9b2-9de82eeff1cc","name":"Valandovo Municipality","ru":"Valandovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"10"},{"id":"e591133a-a28e-48ce-b193-d03c4d810701","name":"Vasilevo Municipality","ru":"Vasilevo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"11"},{"id":"edf4581e-d34f-43e1-99cc-8c13246f4426","name":"Veles Municipality","ru":"Veles Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"13"},{"id":"ea319915-3baa-401e-a7d4-604cbeef048b","name":"Vevčani Municipality","ru":"Vevčani Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"12"},{"id":"c18557ba-da01-4555-9843-2c5498a0f29d","name":"Vinica Municipality","ru":"Vinica Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"14"},{"id":"aeba7333-464e-4b44-bb51-d9f563a32e43","name":"Vraneštica Municipality","ru":"Vraneštica Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"15"},{"id":"b7cc6477-7845-4358-936d-f3b2377ab0fa","name":"Vrapčište Municipality","ru":"Vrapčište Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"16"},{"id":"30b132b9-fde1-474b-87fe-0f5835a8161c","name":"Zajas Municipality","ru":"Zajas Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"31"},{"id":"11d2b8f4-6b92-43dc-bd5b-e1e44a748812","name":"Zelenikovo Municipality","ru":"Zelenikovo Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"32"},{"id":"32cabd26-83e1-4b97-9b51-da0ee237e48b","name":"Zrnovci Municipality","ru":"Zrnovci Municipality","country":"a0191ace-09a2-4f56-9f88-a50cacd79ae1","countryCode":"MK","stateCode":"33"}]
+[
+  {
+    "id": "002b32b8-101d-4d0a-85f6-2d9e76f8baba",
+    "en": "Aerodrom Municipality",
+    "ru": "Аэродром Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "01"
+  },
+  {
+    "id": "19be138b-b810-4d72-a0e4-a7fbadb35354",
+    "en": "Aračinovo Municipality",
+    "ru": "Aračinovo муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "02"
+  },
+  {
+    "id": "37ae7d8b-77e1-4238-a637-3b7ff8ae63b1",
+    "en": "Štip Municipality",
+    "ru": "Штипский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "83"
+  },
+  {
+    "id": "462ad20d-e261-462c-a826-7eb1362befa8",
+    "en": "Šuto Orizari Municipality",
+    "ru": "Šuto Orizari Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "84"
+  },
+  {
+    "id": "9c6e941d-206e-41b6-b750-40b8bc274746",
+    "en": "Želino Municipality",
+    "ru": "Желино, община",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "30"
+  },
+  {
+    "id": "2fd80551-3065-4fe9-bc2b-93863727fe83",
+    "en": "Čaška Municipality",
+    "ru": "Čaška муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "80"
+  },
+  {
+    "id": "e5b84f6e-2960-4241-8836-1335adce0fd1",
+    "en": "Čair Municipality",
+    "ru": "Чаир Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "79"
+  },
+  {
+    "id": "68ef10da-fbd2-495d-a99d-a2ec1f98613c",
+    "en": "Češinovo-Obleševo Municipality",
+    "ru": "Чешиново-Облешевский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "81"
+  },
+  {
+    "id": "b40a52dd-9724-4896-a639-2d050c5e4233",
+    "en": "Čučer-Sandevo Municipality",
+    "ru": "Чучер-Сандевский край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "82"
+  },
+  {
+    "id": "3bb65bcd-ff7e-4af2-b789-a31d2e9e7554",
+    "en": "Berovo Municipality",
+    "ru": "Берово Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "03"
+  },
+  {
+    "id": "5b0dee1f-d215-4b5f-be7c-e050f47c0ff5",
+    "en": "Bitola Municipality",
+    "ru": "Битола Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "04"
+  },
+  {
+    "id": "4ee3c045-aaf2-4f39-8f6d-22e23d87795a",
+    "en": "Bogdanci Municipality",
+    "ru": "Богданцкий край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "05"
+  },
+  {
+    "id": "747eafff-0067-49d2-8826-2de0b989dda4",
+    "en": "Bogovinje Municipality",
+    "ru": "Боговинье Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "06"
+  },
+  {
+    "id": "f3468b06-4380-4038-80e4-5f3ee2ca5101",
+    "en": "Bosilovo Municipality",
+    "ru": "Босилово Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "07"
+  },
+  {
+    "id": "ed003410-cfff-4f3e-9eaa-d3f64bbddb62",
+    "en": "Brvenica Municipality",
+    "ru": "Brvenica муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "08"
+  },
+  {
+    "id": "1082fa6f-dbc2-4675-a677-56c4adfe5c49",
+    "en": "Butel Municipality",
+    "ru": "Butel Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "09"
+  },
+  {
+    "id": "9fc1605d-4ffa-4667-95e9-140c04040ed1",
+    "en": "Centar Župa Municipality",
+    "ru": "Центр Жупа Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "78"
+  },
+  {
+    "id": "1ff7eec8-f446-4b27-8e81-08b36b8c45f4",
+    "en": "Centar Municipality",
+    "ru": "Центар Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "77"
+  },
+  {
+    "id": "0557f965-2fd2-49c7-88cf-d4b746f26247",
+    "en": "Debarca Municipality",
+    "ru": "Дебарка Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "22"
+  },
+  {
+    "id": "60aa3bd6-ea4c-47ad-9409-1761cbb9018d",
+    "en": "Delčevo Municipality",
+    "ru": "Delčevo муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "23"
+  },
+  {
+    "id": "b96b07a0-f6f0-4eb8-8a76-a2de57605bc3",
+    "en": "Demir Hisar Municipality",
+    "ru": "Демир Хисар Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "25"
+  },
+  {
+    "id": "40e6f5cf-87f5-47a8-892a-e494ec3ba221",
+    "en": "Demir Kapija Municipality",
+    "ru": "Демир Капия Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "24"
+  },
+  {
+    "id": "f9b9c58c-ab5c-4471-8a7b-bccc6b7a1526",
+    "en": "Dojran Municipality",
+    "ru": "Dojran Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "26"
+  },
+  {
+    "id": "1b6b137f-707b-4a71-a23b-12875803473a",
+    "en": "Dolneni Municipality",
+    "ru": "Дольненьский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "27"
+  },
+  {
+    "id": "5fb42460-e8f3-4f1d-8ade-89c74a26fc6e",
+    "en": "Drugovo Municipality",
+    "ru": "Другово муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "28"
+  },
+  {
+    "id": "bb8a25cd-7743-41aa-94e3-96fd90437e02",
+    "en": "Gazi Baba Municipality",
+    "ru": "Гази Баба Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "17"
+  },
+  {
+    "id": "65b023a7-bff5-48ea-aee4-70e3140896e7",
+    "en": "Gevgelija Municipality",
+    "ru": "Гевгелия Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "18"
+  },
+  {
+    "id": "44b01376-f3e4-49ea-8683-8e69b664f8cb",
+    "en": "Gjorče Petrov Municipality",
+    "ru": "Gjorče Петров муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "29"
+  },
+  {
+    "id": "14b0011e-fd68-43b1-bc48-c83e290d5531",
+    "en": "Gostivar Municipality",
+    "ru": "Гостивар Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "19"
+  },
+  {
+    "id": "cb43c826-9a44-49ab-9033-9911f548e286",
+    "en": "Gradsko Municipality",
+    "ru": "Градский край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "20"
+  },
+  {
+    "id": "550bb161-7a0b-4158-8db6-730f2858bfc3",
+    "en": "Greater Skopje",
+    "ru": "Большой Скопье",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "85"
+  },
+  {
+    "id": "eb437e02-b875-4683-8e47-7e1f0b8e15ae",
+    "en": "Ilinden Municipality",
+    "ru": "Илинден Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "34"
+  },
+  {
+    "id": "f0807a2a-b50c-48b0-a6b1-312b83f6aa6a",
+    "en": "Jegunovce Municipality",
+    "ru": "Jegunovce муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "35"
+  },
+  {
+    "id": "04fb0f22-9d0e-49e4-a200-65af987ad0f6",
+    "en": "Karbinci",
+    "ru": "Карбинцы",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "37"
+  },
+  {
+    "id": "731a6392-d09f-4ada-8540-2160f33b6183",
+    "en": "Karpoš Municipality",
+    "ru": "Карпош муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "38"
+  },
+  {
+    "id": "667efe4c-15ba-4696-a77e-b673b71a6977",
+    "en": "Kavadarci Municipality",
+    "ru": "Kavadarci Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "36"
+  },
+  {
+    "id": "f6cef177-1964-423a-822d-948a57b02941",
+    "en": "Kičevo Municipality",
+    "ru": "Кичево Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "40"
+  },
+  {
+    "id": "add07cc5-67e1-4f4a-8f76-c0e506280d5d",
+    "en": "Kisela Voda Municipality",
+    "ru": "Кисела Вода Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "39"
+  },
+  {
+    "id": "fe7a129d-b686-4180-9fd3-ee8401feaa56",
+    "en": "Kočani Municipality",
+    "ru": "Кочани Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "42"
+  },
+  {
+    "id": "f98f36be-7b9c-4dcf-86a1-7777e86113e6",
+    "en": "Konče Municipality",
+    "ru": "Конче Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "41"
+  },
+  {
+    "id": "79e93ea7-ddd3-454d-9d08-6f93fd7a8aff",
+    "en": "Kratovo Municipality",
+    "ru": "Кратово Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "43"
+  },
+  {
+    "id": "705c68a9-22a0-42fc-8328-ae6a52e02dd2",
+    "en": "Kriva Palanka Municipality",
+    "ru": "Крива Паланка муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "44"
+  },
+  {
+    "id": "0b5e12c5-123f-4c6f-8188-01343387b2e8",
+    "en": "Krivogaštani Municipality",
+    "ru": "Кривогаштанский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "45"
+  },
+  {
+    "id": "0617025c-b2af-4bb3-b890-1cef16ab7326",
+    "en": "Kruševo Municipality",
+    "ru": "Крушевский край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "46"
+  },
+  {
+    "id": "5bc9909f-97ca-4be9-85dd-efe0136a2eb0",
+    "en": "Kumanovo Municipality",
+    "ru": "Куманово Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "47"
+  },
+  {
+    "id": "9a81fd34-46c2-42f3-bc13-1dbb6ccf8583",
+    "en": "Lipkovo Municipality",
+    "ru": "Липковский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "48"
+  },
+  {
+    "id": "04e358b2-a49b-4b66-9b2a-f54a2f445112",
+    "en": "Lozovo Municipality",
+    "ru": "Лозово Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "49"
+  },
+  {
+    "id": "659b362d-c515-482b-b1b2-01a4961b6913",
+    "en": "Makedonska Kamenica Municipality",
+    "ru": "Македонская община Каменица",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "51"
+  },
+  {
+    "id": "75916e80-fcb6-467d-8dc6-096f97758feb",
+    "en": "Makedonski Brod Municipality",
+    "ru": "Македонский Брод Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "52"
+  },
+  {
+    "id": "9bd6da60-13e7-4ae1-9847-4758eeace38d",
+    "en": "Mavrovo and Rostuša Municipality",
+    "ru": "Маврово и Ростушская волость",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "50"
+  },
+  {
+    "id": "b2c2de91-484b-4383-915a-4558fac9afcc",
+    "en": "Mogila Municipality",
+    "ru": "Могилевская область",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "53"
+  },
+  {
+    "id": "5bb44e2a-a25c-4820-89c7-f2a731cf8425",
+    "en": "Negotino Municipality",
+    "ru": "Неготинский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "54"
+  },
+  {
+    "id": "f9ef016a-205d-481c-84d6-db9f021d4f82",
+    "en": "Novaci Municipality",
+    "ru": "Новацкий край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "55"
+  },
+  {
+    "id": "5e233eef-2a54-428b-8833-a2b3baceaaec",
+    "en": "Novo Selo Municipality",
+    "ru": "Ново Село Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "56"
+  },
+  {
+    "id": "be0f17c1-ad98-49b9-ad3a-2ea21ba68cfc",
+    "en": "Ohrid Municipality",
+    "ru": "Охрид Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "58"
+  },
+  {
+    "id": "1c145463-7d45-4990-ba85-7f64a3101620",
+    "en": "Oslomej Municipality",
+    "ru": "Oslomej муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "57"
+  },
+  {
+    "id": "7efc4e76-b42d-46b4-8538-f894cc67b048",
+    "en": "Pehčevo Municipality",
+    "ru": "Pehčevo муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "60"
+  },
+  {
+    "id": "354d8f67-3eef-42ef-9cfa-a5e50bba3035",
+    "en": "Petrovec Municipality",
+    "ru": "Петровец Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "59"
+  },
+  {
+    "id": "e127f8d9-395f-4de8-85d8-2c27617a37ab",
+    "en": "Plasnica Municipality",
+    "ru": "Plasnica муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "61"
+  },
+  {
+    "id": "b7b9b536-677b-4dd6-b80d-d2eccceb3e01",
+    "en": "Prilep Municipality",
+    "ru": "Прилепский край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "62"
+  },
+  {
+    "id": "768c5c7d-0f8b-40c0-bd0d-d21372dec3cb",
+    "en": "Probištip Municipality",
+    "ru": "Пробиштип Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "63"
+  },
+  {
+    "id": "68d94987-cd6c-4d91-89ca-eea38377597e",
+    "en": "Radoviš Municipality",
+    "ru": "Радовиш муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "64"
+  },
+  {
+    "id": "f3f4c0b9-5eee-403d-b3df-8aaf3fb42e05",
+    "en": "Rankovce Municipality",
+    "ru": "Rankovce Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "65"
+  },
+  {
+    "id": "55012cad-cf1b-4bfe-baf7-7d1801072faa",
+    "en": "Resen Municipality",
+    "ru": "Резен Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "66"
+  },
+  {
+    "id": "c575d91b-d102-430a-892c-b21913ebf488",
+    "en": "Rosoman Municipality",
+    "ru": "Росоманский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "67"
+  },
+  {
+    "id": "66cade95-d692-49b7-85ac-24d6096a9db2",
+    "en": "Saraj Municipality",
+    "ru": "Сарайский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "68"
+  },
+  {
+    "id": "651c5d80-f571-4066-808b-bd8a00576665",
+    "en": "Sopište Municipality",
+    "ru": "Сопиште Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "70"
+  },
+  {
+    "id": "0daf7e94-5782-4649-92a8-c4c8d5b39235",
+    "en": "Staro Nagoričane Municipality",
+    "ru": "Старо Нагоричане Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "71"
+  },
+  {
+    "id": "e5ae6476-16e3-4524-bff0-142959f58655",
+    "en": "Struga Municipality",
+    "ru": "Струга муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "72"
+  },
+  {
+    "id": "07dfba69-16fe-4ca4-a341-c6c277783fdb",
+    "en": "Strumica Municipality",
+    "ru": "Струмица Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "73"
+  },
+  {
+    "id": "85c62959-4eef-43c2-9256-2d5587fe7092",
+    "en": "Studeničani Municipality",
+    "ru": "Студеничанский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "74"
+  },
+  {
+    "id": "fb38ad0c-557c-4a71-9700-cb3392e45e7a",
+    "en": "Sveti Nikole Municipality",
+    "ru": "Свети Никольский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "69"
+  },
+  {
+    "id": "e96d2e1a-37d9-46d5-ab04-08e5e6dae501",
+    "en": "Tearce Municipality",
+    "ru": "Tearce Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "75"
+  },
+  {
+    "id": "ac9c47d8-2eed-416f-bd4a-37e3c3ee83ca",
+    "en": "Tetovo Municipality",
+    "ru": "Тетово Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "76"
+  },
+  {
+    "id": "724d48f0-b692-4a78-95b9-59444a7e4d08",
+    "en": "Valandovo Municipality",
+    "ru": "Валандовский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "10"
+  },
+  {
+    "id": "d899d758-3415-4bf9-b0f9-c56b81fe7ed1",
+    "en": "Vasilevo Municipality",
+    "ru": "Васильевский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "11"
+  },
+  {
+    "id": "9b507e73-845b-4701-9981-053e0cb519a7",
+    "en": "Veles Municipality",
+    "ru": "Велес Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "13"
+  },
+  {
+    "id": "d40b7bcb-c323-4b32-b751-0ab10ee35bd3",
+    "en": "Vevčani Municipality",
+    "ru": "Вевчанский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "12"
+  },
+  {
+    "id": "ef50c04c-120c-4d1f-9b43-b71140cfb996",
+    "en": "Vinica Municipality",
+    "ru": "Виница Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "14"
+  },
+  {
+    "id": "4529017e-791a-4db8-a319-a9f788124cf2",
+    "en": "Vraneštica Municipality",
+    "ru": "Вранештицкий край",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "15"
+  },
+  {
+    "id": "d5f7e79f-d520-48c0-bfb2-3fe6e5e50fc9",
+    "en": "Vrapčište Municipality",
+    "ru": "Vrapčište муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "16"
+  },
+  {
+    "id": "b9c45cf4-9487-4d1a-9f8a-8b05a611563d",
+    "en": "Zajas Municipality",
+    "ru": "Zajas муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "31"
+  },
+  {
+    "id": "eab5238d-d1c1-40a4-8fad-2941ac5e1706",
+    "en": "Zelenikovo Municipality",
+    "ru": "Зелениковский муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "32"
+  },
+  {
+    "id": "bd53f4e5-31e0-479d-9ba9-a5a1e7a00b25",
+    "en": "Zrnovci Municipality",
+    "ru": "Zrnovci Муниципалитет",
+    "country": "76edd015-cce7-4670-b308-dc6da60e23c3",
+    "countryCode": "MK",
+    "stateCode": "33"
+  }
+]

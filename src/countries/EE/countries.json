@@ -1,1 +1,12 @@
-[{"id":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","name":"Estonia","ru":"Estonia","iso3":"EST","iso2":"EE","phoneCode":"372","capital":"a0e5a011-f891-43d3-b7a9-d7ecde8c5dfc","currency":"EUR"}]
+[
+  {
+    "id": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "en": "Estonia",
+    "ru": "Эстония",
+    "iso3": "EST",
+    "iso2": "EE",
+    "phoneCode": "372",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

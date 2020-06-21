@@ -1,1 +1,82 @@
-[{"id":"cb111576-886d-43c6-af4c-0d1aa1e7fb6f","name":"Central Equatoria","ru":"Central Equatoria","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"EC"},{"id":"8c7808ed-ce96-4761-94b4-4939080cb831","name":"Eastern Equatoria","ru":"Eastern Equatoria","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"EE"},{"id":"d2c584cd-8797-4e76-8688-6cc0d0e9237f","name":"Jonglei State","ru":"Jonglei State","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"JG"},{"id":"39f252f9-020a-4d2c-b6e4-b45c1844d4da","name":"Lakes","ru":"Lakes","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"LK"},{"id":"9dc2ed6c-85fb-44df-872f-a9894b146b33","name":"Northern Bahr el Ghazal","ru":"Northern Bahr el Ghazal","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"BN"},{"id":"4097fd38-3a99-4239-b8f6-3ae35049c671","name":"Unity","ru":"Unity","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"UY"},{"id":"667d22cd-4380-4946-a508-173578711ea6","name":"Upper Nile","ru":"Upper Nile","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"NU"},{"id":"72f60138-342d-482d-9679-e9bc2f7c804a","name":"Warrap","ru":"Warrap","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"WR"},{"id":"f70b6ee1-a6fe-4dba-bbd8-42f2f3255a6b","name":"Western Bahr el Ghazal","ru":"Western Bahr el Ghazal","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"BW"},{"id":"7c89e9ea-80ef-47a2-8b04-d4ba6947e870","name":"Western Equatoria","ru":"Western Equatoria","country":"6b2a80a5-e165-488c-8634-f3e8c0700413","countryCode":"SS","stateCode":"EW"}]
+[
+  {
+    "id": "bcde1d3e-851e-417a-b547-9d6f8cfd1f40",
+    "en": "Central Equatoria",
+    "ru": "Центральная Экватория",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "EC"
+  },
+  {
+    "id": "01c1fce1-8ac9-4a45-8fb3-87cf2dcdb6cb",
+    "en": "Eastern Equatoria",
+    "ru": "Восточная Экватория",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "EE"
+  },
+  {
+    "id": "783c155a-e936-48eb-b8d0-a266c5c60939",
+    "en": "Jonglei State",
+    "ru": "Jonglei государство",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "JG"
+  },
+  {
+    "id": "9b0467ea-3d70-46d6-a705-8eb72953c431",
+    "en": "Lakes",
+    "ru": "озер",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "LK"
+  },
+  {
+    "id": "da8bed1a-0871-4845-a0aa-9d2b1f3c32cd",
+    "en": "Northern Bahr el Ghazal",
+    "ru": "Северный Бахр-эль-Газаль",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "BN"
+  },
+  {
+    "id": "fe67c06a-01f4-4181-b494-f16bc55bf70a",
+    "en": "Unity",
+    "ru": "Единство региона",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "UY"
+  },
+  {
+    "id": "c7449a91-eea6-43e1-87d8-7220537a4aac",
+    "en": "Upper Nile",
+    "ru": "Верхний Нил",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "NU"
+  },
+  {
+    "id": "44365323-deda-461f-968f-76b1ab812f79",
+    "en": "Warrap",
+    "ru": "варрап",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "WR"
+  },
+  {
+    "id": "b6bd7855-6395-42eb-8889-b9541c3352b9",
+    "en": "Western Bahr el Ghazal",
+    "ru": "Западный Бахр-эль-Газаль",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "BW"
+  },
+  {
+    "id": "bfaa52c0-2f08-46a6-9c94-c1bb9c1959a7",
+    "en": "Western Equatoria",
+    "ru": "Западная Экватория",
+    "country": "3a1f2ede-ad43-4586-b3d3-1b910beee114",
+    "countryCode": "SS",
+    "stateCode": "EW"
+  }
+]

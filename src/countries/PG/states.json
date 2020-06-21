@@ -1,1 +1,170 @@
-[{"id":"382a7dc7-f3fd-4f3b-8999-3a935b87b2ab","name":"Bougainville","ru":"Bougainville","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"NSB"},{"id":"10d96655-cdb7-47e8-8ec9-06c0909fbcfb","name":"Central Province","ru":"Central Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"CPM"},{"id":"99dff4b1-39b6-47c0-917e-d110b1d24d0f","name":"Chimbu Province","ru":"Chimbu Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"CPK"},{"id":"0c50abef-feeb-4186-99c6-d5bd7e41c1f1","name":"East New Britain","ru":"East New Britain","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"EBR"},{"id":"b85a0fee-93aa-453b-885a-1e90e71beb98","name":"Eastern Highlands Province","ru":"Eastern Highlands Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"EHG"},{"id":"04b5a0bd-a8f1-4181-a778-79f09bf45828","name":"Enga Province","ru":"Enga Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"EPW"},{"id":"c7e13636-bcc6-4587-b51e-e74748a0496d","name":"Gulf","ru":"Gulf","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"GPK"},{"id":"4e9dfd70-2558-4bed-9b7a-fa0ce89ec68c","name":"Hela","ru":"Hela","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"HLA"},{"id":"1146d93c-23ef-46a2-9736-d1e5a02cd71c","name":"Jiwaka Province","ru":"Jiwaka Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"JWK"},{"id":"41cf9ca7-33db-4148-aab1-c56a5b3c47e4","name":"Madang Province","ru":"Madang Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"MPM"},{"id":"38565817-6702-4c1c-bfc5-aa00b9fa22ae","name":"Manus Province","ru":"Manus Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"MRL"},{"id":"553f2a82-8a43-4676-846f-05a1b8ff3810","name":"Milne Bay Province","ru":"Milne Bay Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"MBA"},{"id":"6de2a7e5-9aef-4e64-8aeb-9d593bbd984a","name":"Morobe Province","ru":"Morobe Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"MPL"},{"id":"30c798f7-1351-4011-b650-8de2fb75f13d","name":"New Ireland Province","ru":"New Ireland Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"NIK"},{"id":"4e0c80bd-e1da-4618-abd5-f857bd6d6802","name":"Oro Province","ru":"Oro Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"NPP"},{"id":"23b046b1-25f7-4d09-bd1c-02e5f240d3a3","name":"Port Moresby","ru":"Port Moresby","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"NCD"},{"id":"f83f9650-349c-47d5-bf8b-7c4552171a83","name":"Sandaun Province","ru":"Sandaun Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"SAN"},{"id":"08bed67f-a6aa-4a11-8bf0-7a9012d6cedb","name":"Southern Highlands Province","ru":"Southern Highlands Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"SHM"},{"id":"619325ec-a1ed-4d83-ba9a-31488ee28335","name":"West New Britain Province","ru":"West New Britain Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"WBK"},{"id":"81202a13-45b4-4b9b-b62d-4b19c7be49c7","name":"Western Highlands Province","ru":"Western Highlands Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"WHM"},{"id":"19bf3b28-113e-43dc-9536-59167c108a2d","name":"Western Province","ru":"Western Province","country":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","countryCode":"PG","stateCode":"WPD"}]
+[
+  {
+    "id": "c55e8b64-f87a-46c3-9f6f-e34e15bde5db",
+    "en": "Bougainville",
+    "ru": "Бугенвиль",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "NSB"
+  },
+  {
+    "id": "e5f02395-e654-41af-b124-6a0526d41bc7",
+    "en": "Central Province",
+    "ru": "Центральная губерния",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "CPM"
+  },
+  {
+    "id": "10cdd957-5f4a-4fda-824f-46ce9b49945f",
+    "en": "Chimbu Province",
+    "ru": "Чимбу провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "CPK"
+  },
+  {
+    "id": "1bac3e7a-a3e3-4e10-87af-474f53df27aa",
+    "en": "East New Britain",
+    "ru": "Восток Новая Британия",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "EBR"
+  },
+  {
+    "id": "4a99a8f8-3732-4c30-8cd9-6f06d3b2d8ab",
+    "en": "Eastern Highlands Province",
+    "ru": "Восточная горная провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "EHG"
+  },
+  {
+    "id": "add58aac-333c-44d8-8702-b05105a780e7",
+    "en": "Enga Province",
+    "ru": "Энгская губерния",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "EPW"
+  },
+  {
+    "id": "91adc40b-d456-4fa9-80eb-4b1cd1066e6b",
+    "en": "Gulf",
+    "ru": "залив",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "GPK"
+  },
+  {
+    "id": "57cfaef6-09e7-4595-b49e-de6e16e27a6f",
+    "en": "Hela",
+    "ru": "хела",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "HLA"
+  },
+  {
+    "id": "e64ee729-0211-4277-8701-7fe4b6683521",
+    "en": "Jiwaka Province",
+    "ru": "Дживака провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "JWK"
+  },
+  {
+    "id": "98e7e7b7-86a6-4868-bb9f-8f6b65897f04",
+    "en": "Madang Province",
+    "ru": "Маданг (провинция)",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "MPM"
+  },
+  {
+    "id": "c35088db-08ee-42d8-8971-8e866a64eeb9",
+    "en": "Manus Province",
+    "ru": "Манусская губерния",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "MRL"
+  },
+  {
+    "id": "56d49568-e73f-475b-a260-170ad1425408",
+    "en": "Milne Bay Province",
+    "ru": "Провинция Милн Бэй",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "MBA"
+  },
+  {
+    "id": "4bd06822-377e-4b90-85ca-356122f50ed1",
+    "en": "Morobe Province",
+    "ru": "Моробе провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "MPL"
+  },
+  {
+    "id": "355f1115-8f86-4d05-b086-1bd129066ee2",
+    "en": "New Ireland Province",
+    "ru": "Новая Ирландия провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "NIK"
+  },
+  {
+    "id": "d7c1f42b-b2e3-4ef3-b2e0-8c1dee28965e",
+    "en": "Oro Province",
+    "ru": "Оро провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "NPP"
+  },
+  {
+    "id": "1ddd1afd-428c-49cc-a6ae-59710d07c17d",
+    "en": "Port Moresby",
+    "ru": "Порт-Морсби",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "NCD"
+  },
+  {
+    "id": "085a937c-383c-484d-a36e-027a1ea4aa2b",
+    "en": "Sandaun Province",
+    "ru": "Сандаун провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "SAN"
+  },
+  {
+    "id": "32379229-4930-400d-96d2-97ddd9459337",
+    "en": "Southern Highlands Province",
+    "ru": "Южная Горная Провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "SHM"
+  },
+  {
+    "id": "f2262c8a-53ff-410a-9892-c5788bb63a82",
+    "en": "West New Britain Province",
+    "ru": "Запад Новая Британская провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "WBK"
+  },
+  {
+    "id": "7f0e71cc-3669-4395-b933-fe33640cc48b",
+    "en": "Western Highlands Province",
+    "ru": "Западная Горная Область",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "WHM"
+  },
+  {
+    "id": "6898cd25-7172-4a1a-bb40-49de61f5b92c",
+    "en": "Western Province",
+    "ru": "Западная провинция",
+    "country": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "countryCode": "PG",
+    "stateCode": "WPD"
+  }
+]

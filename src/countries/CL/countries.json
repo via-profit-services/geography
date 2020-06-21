@@ -1,1 +1,12 @@
-[{"id":"681fea76-a29e-484a-b3c4-4d7312ecbc47","name":"Chile","ru":"Chile","iso3":"CHL","iso2":"CL","phoneCode":"56","capital":"d00667fe-a85b-4193-944c-961786514598","currency":"CLP"}]
+[
+  {
+    "id": "6156616b-465f-4bb0-bc9e-5bc15138706d",
+    "en": "Chile",
+    "ru": "чили",
+    "iso3": "CHL",
+    "iso2": "CL",
+    "phoneCode": "56",
+    "capital": null,
+    "currency": "CLP"
+  }
+]

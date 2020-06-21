@@ -1,1 +1,82 @@
-[{"id":"1a84275e-98d2-41a6-9e38-8791477b6c5a","name":"Bulawayo Province","ru":"Bulawayo Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"BU"},{"id":"f3480bc3-c478-4507-897d-7847bad59e01","name":"Harare Province","ru":"Harare Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"HA"},{"id":"d6453785-5836-47db-8afb-7fa5984c9a45","name":"Manicaland","ru":"Manicaland","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MA"},{"id":"0d23b370-703d-4a93-ad72-1e2da4aac1f0","name":"Mashonaland Central Province","ru":"Mashonaland Central Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MC"},{"id":"bdbd9c1a-f360-4633-8752-48c73379ca69","name":"Mashonaland East Province","ru":"Mashonaland East Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"ME"},{"id":"89eaddbc-44b4-4771-b3f4-afe81ca57d55","name":"Mashonaland West Province","ru":"Mashonaland West Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MW"},{"id":"b99d539f-4a3b-43ef-bfb9-e8c476ea8ade","name":"Masvingo Province","ru":"Masvingo Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MV"},{"id":"96606b4b-ec3b-4fe7-983c-0583567a7320","name":"Matabeleland North Province","ru":"Matabeleland North Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MN"},{"id":"cfa4b480-62d9-4f68-a87d-32a719663b62","name":"Matabeleland South Province","ru":"Matabeleland South Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MS"},{"id":"2f1cd027-2a4e-4a27-bdb3-b70428b90af2","name":"Midlands Province","ru":"Midlands Province","country":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","countryCode":"ZW","stateCode":"MI"}]
+[
+  {
+    "id": "2741d021-e187-47b7-bcb5-6369a93a4898",
+    "en": "Bulawayo Province",
+    "ru": "Булавайо провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "BU"
+  },
+  {
+    "id": "58d19e7a-1d0c-4f10-9373-4f7f7b74623c",
+    "en": "Harare Province",
+    "ru": "Хараре провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "HA"
+  },
+  {
+    "id": "a24a458f-a215-4675-a6be-fcef08b246dd",
+    "en": "Manicaland",
+    "ru": "Маникаль",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MA"
+  },
+  {
+    "id": "9386580a-7236-4c47-a9fe-81a2f3b95794",
+    "en": "Mashonaland Central Province",
+    "ru": "Машоналанд Центральная Провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MC"
+  },
+  {
+    "id": "c1f9ce6b-3d93-4c95-a68b-1e10d98eb91d",
+    "en": "Mashonaland East Province",
+    "ru": "Машоналенд Восточная провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "ME"
+  },
+  {
+    "id": "cf0d681e-d738-42bc-b71c-273393129988",
+    "en": "Mashonaland West Province",
+    "ru": "Машоналенд Западная провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MW"
+  },
+  {
+    "id": "11bbea29-577a-462d-ad2f-255b61b30214",
+    "en": "Masvingo Province",
+    "ru": "Масвинго провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MV"
+  },
+  {
+    "id": "02614b84-335b-4098-988d-d1bd05062610",
+    "en": "Matabeleland North Province",
+    "ru": "Матабелеланд Северная Провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MN"
+  },
+  {
+    "id": "63e23ac3-8a5a-4f35-b505-590eb5c91850",
+    "en": "Matabeleland South Province",
+    "ru": "Матабелеланд Южная Провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MS"
+  },
+  {
+    "id": "8775dfe4-295a-4735-845b-9d2d11989064",
+    "en": "Midlands Province",
+    "ru": "Мидлендс провинция",
+    "country": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "countryCode": "ZW",
+    "stateCode": "MI"
+  }
+]

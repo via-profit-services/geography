@@ -1,1 +1,50 @@
-[{"id":"e7ce1b60-995e-4880-902f-f97aafee6024","name":"Al Ahmadi Governorate","ru":"Al Ahmadi Governorate","country":"c82f755c-819c-4254-8bb2-49936997e345","countryCode":"KW","stateCode":"AH"},{"id":"13c980a3-b7d3-404a-9310-188cd1ddd52b","name":"Al Farwaniyah Governorate","ru":"Al Farwaniyah Governorate","country":"c82f755c-819c-4254-8bb2-49936997e345","countryCode":"KW","stateCode":"FA"},{"id":"8ba5b11c-afea-4e4f-b9ba-36220b0cbcf0","name":"Al Jahra Governorate","ru":"Al Jahra Governorate","country":"c82f755c-819c-4254-8bb2-49936997e345","countryCode":"KW","stateCode":"JA"},{"id":"78d61a1d-52f7-485c-9b62-b9576e7dd504","name":"Capital Governorate","ru":"Capital Governorate","country":"c82f755c-819c-4254-8bb2-49936997e345","countryCode":"KW","stateCode":"KU"},{"id":"c98999d4-50ad-4749-bbc8-176de2047e16","name":"Hawalli Governorate","ru":"Hawalli Governorate","country":"c82f755c-819c-4254-8bb2-49936997e345","countryCode":"KW","stateCode":"HA"},{"id":"96b93672-bb5a-4271-b84d-ca0c804390b3","name":"Mubarak Al-Kabeer Governorate","ru":"Mubarak Al-Kabeer Governorate","country":"c82f755c-819c-4254-8bb2-49936997e345","countryCode":"KW","stateCode":"MU"}]
+[
+  {
+    "id": "bb247983-2480-4808-90b3-f56e92ec7476",
+    "en": "Al Ahmadi Governorate",
+    "ru": "провинция Аль Ахмади",
+    "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
+    "countryCode": "KW",
+    "stateCode": "AH"
+  },
+  {
+    "id": "f6a74125-0f45-4219-b85d-6a67da2db8d4",
+    "en": "Al Farwaniyah Governorate",
+    "ru": "Аль Фарвания мухафаза",
+    "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
+    "countryCode": "KW",
+    "stateCode": "FA"
+  },
+  {
+    "id": "cf9dcf35-121b-4f52-8e15-71ea5cc19110",
+    "en": "Al Jahra Governorate",
+    "ru": "мухафаза Аль-Джахра",
+    "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
+    "countryCode": "KW",
+    "stateCode": "JA"
+  },
+  {
+    "id": "6e276610-fe05-451a-aabc-0f9cc29dda7d",
+    "en": "Capital Governorate",
+    "ru": "столичная губерния",
+    "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
+    "countryCode": "KW",
+    "stateCode": "KU"
+  },
+  {
+    "id": "2c3d94eb-527d-4733-a0e3-4baba3174d34",
+    "en": "Hawalli Governorate",
+    "ru": "губернаторство Хавалли",
+    "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
+    "countryCode": "KW",
+    "stateCode": "HA"
+  },
+  {
+    "id": "396bdae8-d5f9-4943-82d2-a0e9be6fcb39",
+    "en": "Mubarak Al-Kabeer Governorate",
+    "ru": "Мубарак Аль-Кабир мухафаза",
+    "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
+    "countryCode": "KW",
+    "stateCode": "MU"
+  }
+]

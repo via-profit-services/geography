@@ -1,1 +1,90 @@
-[{"id":"432151a9-9ca4-4557-8d55-11fb962db62a","name":"Cabo Delgado Province","ru":"Cabo Delgado Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"P"},{"id":"022589c3-63cd-4e8a-9b2a-4fd3f886e76c","name":"Gaza Province","ru":"Gaza Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"G"},{"id":"c463416e-1cd1-4ccd-8871-58b0187d002b","name":"Inhambane Province","ru":"Inhambane Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"I"},{"id":"fcdfefe2-3fc4-4d10-858d-9f1e6f7990f4","name":"Manica Province","ru":"Manica Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"B"},{"id":"7efee9ff-7c6a-44e4-8659-76f07aeafb8c","name":"Maputo","ru":"Maputo","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"MPM"},{"id":"9c7e1445-1c66-455b-a42e-08dd3c6fff3b","name":"Maputo Province","ru":"Maputo Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"L"},{"id":"0c5edc0a-350d-481d-bb35-663c04c093c2","name":"Nampula Province","ru":"Nampula Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"N"},{"id":"e70e7910-cffa-441b-818e-5bd8303a7d05","name":"Niassa Province","ru":"Niassa Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"A"},{"id":"c1c4d49c-a8be-4e94-be3a-7c0a8a4e4a21","name":"Sofala Province","ru":"Sofala Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"S"},{"id":"76b01bb7-4e4a-4883-8444-0967c0056bb4","name":"Tete Province","ru":"Tete Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"T"},{"id":"6981904f-90da-4ede-9a23-2f766206582a","name":"Zambezia Province","ru":"Zambezia Province","country":"21ec9317-c011-4820-b42e-4623daf4b778","countryCode":"MZ","stateCode":"Q"}]
+[
+  {
+    "id": "f8bceb6c-f14c-47c6-a019-2f5f4373a598",
+    "en": "Cabo Delgado Province",
+    "ru": "Кабо Делгадо провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "P"
+  },
+  {
+    "id": "9cb8e48b-a516-4cfb-ae2a-f7be51b0efb9",
+    "en": "Gaza Province",
+    "ru": "Сектор Газа",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "G"
+  },
+  {
+    "id": "a9275913-8e58-477b-a368-b1d10c909bd4",
+    "en": "Inhambane Province",
+    "ru": "Инхамбане провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "I"
+  },
+  {
+    "id": "9ed90875-a688-4e76-b897-0f321a290318",
+    "en": "Manica Province",
+    "ru": "Маница провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "B"
+  },
+  {
+    "id": "2a544794-f221-4081-9f94-67de0f9b8639",
+    "en": "Maputo",
+    "ru": "Мапуту",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "MPM"
+  },
+  {
+    "id": "f23680a8-2fc5-4dcc-9ef6-2522a5cf2957",
+    "en": "Maputo Province",
+    "ru": "Мапуту провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "L"
+  },
+  {
+    "id": "67f5f497-00e8-4f88-918a-09ef4257dd6e",
+    "en": "Nampula Province",
+    "ru": "Нампула провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "N"
+  },
+  {
+    "id": "234e4f2d-7d5c-4e12-8ed8-11a456688e7e",
+    "en": "Niassa Province",
+    "ru": "Ниасская губерния",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "A"
+  },
+  {
+    "id": "feebe155-aa82-4848-8751-fb19de62ec5e",
+    "en": "Sofala Province",
+    "ru": "Софальский край",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "S"
+  },
+  {
+    "id": "c77b240d-ca21-4728-a37d-70fb668d5d12",
+    "en": "Tete Province",
+    "ru": "Тете провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "T"
+  },
+  {
+    "id": "652f1d6e-192f-4b97-a464-85cfe84c3830",
+    "en": "Zambezia Province",
+    "ru": "Замбезия провинция",
+    "country": "823fc90e-4952-4d24-921c-f77266f29414",
+    "countryCode": "MZ",
+    "stateCode": "Q"
+  }
+]

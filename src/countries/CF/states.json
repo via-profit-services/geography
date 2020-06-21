@@ -1,1 +1,138 @@
-[{"id":"11f634d3-c07b-4229-947f-0e2d40a62d39","name":"Bamingui-Bangoran Prefecture","ru":"Bamingui-Bangoran Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"BB"},{"id":"df99a8f7-f4d1-4fb2-95e0-eb8d5bb57875","name":"Bangui","ru":"Bangui","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"BGF"},{"id":"1e665314-9ba9-4115-936d-3a24c061400c","name":"Basse-Kotto Prefecture","ru":"Basse-Kotto Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"BK"},{"id":"b25d22f9-c153-4b57-b38d-9b1c425e88c9","name":"Haut-Mbomou Prefecture","ru":"Haut-Mbomou Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"HM"},{"id":"e37fd19d-a465-4aa3-9880-4a65f3b3921a","name":"Haute-Kotto Prefecture","ru":"Haute-Kotto Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"HK"},{"id":"0716c33b-0883-4390-8035-45494f0ed4cb","name":"Kémo Prefecture","ru":"Kémo Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"KG"},{"id":"dac5e1f5-b177-4edf-b6de-c995de88ff13","name":"Lobaye Prefecture","ru":"Lobaye Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"LB"},{"id":"bdfa399e-6d1a-49f2-b66e-2903528332ca","name":"Mambéré-Kadéï","ru":"Mambéré-Kadéï","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"HS"},{"id":"096cda8d-519b-434d-a0c7-d1f397850de1","name":"Mbomou Prefecture","ru":"Mbomou Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"MB"},{"id":"a2647dd7-aa63-496a-8172-75a8852a625c","name":"Nana-Grébizi Economic Prefecture","ru":"Nana-Grébizi Economic Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"KB"},{"id":"042539bd-c61b-4005-b702-d96eb641996b","name":"Nana-Mambéré Prefecture","ru":"Nana-Mambéré Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"NM"},{"id":"eb21807b-c402-4cb2-81c7-d6b39d3bfaa6","name":"Ombella-M'Poko Prefecture","ru":"Ombella-M'Poko Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"MP"},{"id":"3b2b21d9-0cef-42a1-b6ff-b5583d809cf1","name":"Ouaka Prefecture","ru":"Ouaka Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"UK"},{"id":"7d69741d-2517-4ce5-a955-dce336def410","name":"Ouham Prefecture","ru":"Ouham Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"AC"},{"id":"3295400e-5571-4233-ace2-4f2920c977bd","name":"Ouham-Pendé Prefecture","ru":"Ouham-Pendé Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"OP"},{"id":"1e324be2-3b1a-416b-8721-5696074a5e6d","name":"Sangha-Mbaéré","ru":"Sangha-Mbaéré","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"SE"},{"id":"817957b6-cf5f-447e-882a-3877a2738321","name":"Vakaga Prefecture","ru":"Vakaga Prefecture","country":"faa1f281-ca1f-471f-8412-54a4c6c92be4","countryCode":"CF","stateCode":"VK"}]
+[
+  {
+    "id": "0f0f2650-fb19-404a-b30d-e4559b79994c",
+    "en": "Bamingui-Bangoran Prefecture",
+    "ru": "Баминги-Бангоран префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "BB"
+  },
+  {
+    "id": "903dc31d-be28-4297-a94a-f7d70d07d4d4",
+    "en": "Bangui",
+    "ru": "Банги",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "BGF"
+  },
+  {
+    "id": "900b86e6-1c92-4b51-b3ed-ba837fed03c0",
+    "en": "Basse-Kotto Prefecture",
+    "ru": "префектура Бассе-Котто",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "BK"
+  },
+  {
+    "id": "84233675-4f83-4cd4-b657-264954f52018",
+    "en": "Haut-Mbomou Prefecture",
+    "ru": "Haut-Mbomou префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "HM"
+  },
+  {
+    "id": "9c5e21ae-44de-4bd5-9647-e3ff7859d152",
+    "en": "Haute-Kotto Prefecture",
+    "ru": "префектура Верхний Котто",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "HK"
+  },
+  {
+    "id": "0184fc4a-8adb-4128-9ad3-504e26b6626c",
+    "en": "Kémo Prefecture",
+    "ru": "Kémo префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "KG"
+  },
+  {
+    "id": "bb59a4c5-8224-4c49-a59c-5ec140332244",
+    "en": "Lobaye Prefecture",
+    "ru": "Лобайская префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "LB"
+  },
+  {
+    "id": "65cbd147-91dc-42c2-8a4a-28245b35d512",
+    "en": "Mambéré-Kadéï",
+    "ru": "Мамбере-Кадей",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "HS"
+  },
+  {
+    "id": "9506a584-1368-4848-83cb-1aa8d7b40e0f",
+    "en": "Mbomou Prefecture",
+    "ru": "Мбомоу Префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "MB"
+  },
+  {
+    "id": "6122d7c8-adab-4e8d-92e6-cacf0a4b5c4f",
+    "en": "Nana-Grébizi Economic Prefecture",
+    "ru": "Нана-Гребизи Экономическая префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "KB"
+  },
+  {
+    "id": "b9ffac06-b6ec-4552-b6f1-943c528ec6b3",
+    "en": "Nana-Mambéré Prefecture",
+    "ru": "префектура Нана-Мамбере",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "NM"
+  },
+  {
+    "id": "fb6a376a-5d76-4cbe-bc69-11c90f1c767b",
+    "en": "Ombella-M'Poko Prefecture",
+    "ru": "Ombella-M'Poko префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "MP"
+  },
+  {
+    "id": "0e8d4d5e-c0de-48f4-b20d-6a9d07b0c79c",
+    "en": "Ouaka Prefecture",
+    "ru": "Префектура Оуака",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "UK"
+  },
+  {
+    "id": "e9d344e4-9ca3-4282-8518-fca6d117d02d",
+    "en": "Ouham Prefecture",
+    "ru": "префектура Уам",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "AC"
+  },
+  {
+    "id": "e4a3b9ae-1d9d-43a2-ac0d-7a5aa2354031",
+    "en": "Ouham-Pendé Prefecture",
+    "ru": "префектура Уам-Пенде",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "OP"
+  },
+  {
+    "id": "227b2658-f7bd-4dec-b996-c507d5ebc324",
+    "en": "Sangha-Mbaéré",
+    "ru": "Сангха-Мбаере",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "SE"
+  },
+  {
+    "id": "5ffa7075-0629-4bbb-9ad2-2da28d3f5e89",
+    "en": "Vakaga Prefecture",
+    "ru": "Вакага префектура",
+    "country": "a96a6e9e-2b18-46cd-a65d-516f1b8b2de0",
+    "countryCode": "CF",
+    "stateCode": "VK"
+  }
+]

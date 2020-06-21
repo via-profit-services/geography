@@ -1,1 +1,156 @@
-[{"id":"82407f66-1dd9-434d-b2c4-6d41db34c2da","name":"Mabaruma","ru":"Mabaruma","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"8d1a2c9b-a31f-40eb-99ce-9c276c264bf1","stateCode":"BA","latitude":"8.20000000","longitude":"-59.78333000"},{"id":"970063d7-7a81-4603-916f-3fe1306f47dd","name":"Bartica","ru":"Bartica","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"843cece5-cd99-4db0-8a11-27162b8f5d9e","stateCode":"CU","latitude":"6.40799000","longitude":"-58.62192000"},{"id":"4d1669b6-d009-41bb-b62f-54500ccd5b0c","name":"Georgetown","ru":"Georgetown","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"7cc7b9bc-dd06-4066-aaa2-281615cb668e","stateCode":"DE","latitude":"6.80448000","longitude":"-58.15527000"},{"id":"b4de0d4c-263b-4cc2-a96b-e1dd9744467f","name":"Mahaica Village","ru":"Mahaica Village","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"7cc7b9bc-dd06-4066-aaa2-281615cb668e","stateCode":"DE","latitude":"6.68405000","longitude":"-57.92181000"},{"id":"5c87f61f-17fa-454a-aef0-7097137d5e6b","name":"New Amsterdam","ru":"New Amsterdam","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"9dfc812e-71b9-483c-ad04-eaa3df8638c8","stateCode":"EB","latitude":"6.24793000","longitude":"-57.51710000"},{"id":"67b378e2-8a36-428e-a0af-bdee1ca9cefe","name":"Skeldon","ru":"Skeldon","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"9dfc812e-71b9-483c-ad04-eaa3df8638c8","stateCode":"EB","latitude":"5.88333000","longitude":"-57.13333000"},{"id":"e9c3d00b-e93d-4465-a136-a7956068fd6b","name":"Parika","ru":"Parika","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"d2459602-d4b7-4a3d-af5b-f1ca54fb2069","stateCode":"ES","latitude":"6.83712000","longitude":"-58.42941000"},{"id":"a12106e2-a878-4f1b-8f84-f3d93cae1e7d","name":"Vreed-en-Hoop","ru":"Vreed-en-Hoop","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"d2459602-d4b7-4a3d-af5b-f1ca54fb2069","stateCode":"ES","latitude":"6.80927000","longitude":"-58.19798000"},{"id":"ee81e151-f775-4cf0-8855-d933ede348d4","name":"Mahaicony Village","ru":"Mahaicony Village","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"d1cdc9d0-f84a-459a-91b5-ec8cea29d44e","stateCode":"MA","latitude":"6.57633000","longitude":"-57.80486000"},{"id":"f68cc4d6-c039-4bc1-8b34-b8e79c87620c","name":"Rosignol","ru":"Rosignol","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"d1cdc9d0-f84a-459a-91b5-ec8cea29d44e","stateCode":"MA","latitude":"6.27095000","longitude":"-57.53697000"},{"id":"bee70503-390c-4c24-8bc8-62f72d25423d","name":"Anna Regina","ru":"Anna Regina","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"5cd9f42e-89a6-4653-9f12-5cd8d1ce6cd3","stateCode":"PM","latitude":"7.26439000","longitude":"-58.50769000"},{"id":"99f26f15-bb54-4c7d-9529-58e7220fb8e4","name":"Mahdia","ru":"Mahdia","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"0a57834b-3e7c-483a-a1bb-e9d58e2888fd","stateCode":"PT","latitude":"5.26667000","longitude":"-59.15000000"},{"id":"64c423a9-13ed-4f71-a5b2-f6e68274c059","name":"Linden","ru":"Linden","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"de92d71d-84e0-4bae-8f61-84e48bb82fde","stateCode":"UD","latitude":"6.00809000","longitude":"-58.30714000"},{"id":"148d3279-04d4-41f7-bc7a-dd471aaef536","name":"Lethem","ru":"Lethem","country":"789ad0ad-2c1a-4a19-a65c-719726c3c5e2","countryCode":"GY","state":"93816680-62d3-4cde-a95c-c72818f98923","stateCode":"UT","latitude":"3.38333000","longitude":"-59.80000000"}]
+[
+  {
+    "id": "b227c9d0-ece7-4b9e-a942-0f053d8e4562",
+    "en": "Mabaruma",
+    "ru": "Мабарума",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "8c9b351b-603d-403f-bdc6-8cfe0e8090d5",
+    "stateCode": "BA",
+    "latitude": "8.20000000",
+    "longitude": "-59.78333000"
+  },
+  {
+    "id": "b2deace1-8ecd-462d-9dca-c169a02b9091",
+    "en": "Bartica",
+    "ru": "Бартика",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "de7aadef-2dac-430c-a550-2a7a4a94b853",
+    "stateCode": "CU",
+    "latitude": "6.40799000",
+    "longitude": "-58.62192000"
+  },
+  {
+    "id": "51a7fc76-3bd6-43e1-a4ec-183881cfda90",
+    "en": "Georgetown",
+    "ru": "Джорджтаун",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "8a42155c-e322-4320-be58-79fc4a09b2a6",
+    "stateCode": "DE",
+    "latitude": "6.80448000",
+    "longitude": "-58.15527000"
+  },
+  {
+    "id": "a62994fd-9bcf-41d4-b83a-73f580f50d1f",
+    "en": "Mahaica Village",
+    "ru": "Mahaica Village",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "8a42155c-e322-4320-be58-79fc4a09b2a6",
+    "stateCode": "DE",
+    "latitude": "6.68405000",
+    "longitude": "-57.92181000"
+  },
+  {
+    "id": "30204a30-152a-4a11-8c6d-d6b0e6b83f93",
+    "en": "New Amsterdam",
+    "ru": "Новый Амстердам",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "3b9d4e1c-ee76-48b4-9078-6577311dd693",
+    "stateCode": "EB",
+    "latitude": "6.24793000",
+    "longitude": "-57.51710000"
+  },
+  {
+    "id": "d7cf38b5-fbbc-4bd9-ada8-d00f5aa46a49",
+    "en": "Skeldon",
+    "ru": "Скелдон",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "3b9d4e1c-ee76-48b4-9078-6577311dd693",
+    "stateCode": "EB",
+    "latitude": "5.88333000",
+    "longitude": "-57.13333000"
+  },
+  {
+    "id": "6edc7da7-565b-4440-b704-f79f2e2433f5",
+    "en": "Parika",
+    "ru": "Парика",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "d3614038-c6ee-443a-88ae-3e60d0c17eca",
+    "stateCode": "ES",
+    "latitude": "6.83712000",
+    "longitude": "-58.42941000"
+  },
+  {
+    "id": "985ee7e1-d726-4587-970d-11f8ceac9012",
+    "en": "Vreed-en-Hoop",
+    "ru": "Врид-ан-Хооп",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "d3614038-c6ee-443a-88ae-3e60d0c17eca",
+    "stateCode": "ES",
+    "latitude": "6.80927000",
+    "longitude": "-58.19798000"
+  },
+  {
+    "id": "22e78c23-9c51-4afd-a090-bffcd5c086eb",
+    "en": "Mahaicony Village",
+    "ru": "Махайкони деревня",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "c180303c-9667-43bb-81b2-6fa6449fea39",
+    "stateCode": "MA",
+    "latitude": "6.57633000",
+    "longitude": "-57.80486000"
+  },
+  {
+    "id": "7c94f2d5-b237-43b0-937e-006ad4b6a05e",
+    "en": "Rosignol",
+    "ru": "Росиньоль",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "c180303c-9667-43bb-81b2-6fa6449fea39",
+    "stateCode": "MA",
+    "latitude": "6.27095000",
+    "longitude": "-57.53697000"
+  },
+  {
+    "id": "9af5d231-09ac-43cb-8372-3464e32323dc",
+    "en": "Anna Regina",
+    "ru": "Анна Регина",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "cb4e9572-efbe-41c5-8b03-b5fa69ab7bd8",
+    "stateCode": "PM",
+    "latitude": "7.26439000",
+    "longitude": "-58.50769000"
+  },
+  {
+    "id": "6a7e1040-a9a7-42a2-b67e-3a1db6d45ba6",
+    "en": "Mahdia",
+    "ru": "Махдия",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "849b8a85-b473-42e4-9eaf-45c17884d078",
+    "stateCode": "PT",
+    "latitude": "5.26667000",
+    "longitude": "-59.15000000"
+  },
+  {
+    "id": "da70f9ea-9948-46e7-a7ed-8a241866c5f2",
+    "en": "Linden",
+    "ru": "Линден",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "2ff06b83-024e-4ba6-9840-ebbbe4f00e55",
+    "stateCode": "UD",
+    "latitude": "6.00809000",
+    "longitude": "-58.30714000"
+  },
+  {
+    "id": "9ba2a9a8-171f-4084-85e0-d4a4efeda3d0",
+    "en": "Lethem",
+    "ru": "Летем",
+    "country": "13b642c5-05ee-481b-b6ea-690dabd73a38",
+    "countryCode": "GY",
+    "state": "c0ba05db-5ae7-42c5-b329-3761f5c198c0",
+    "stateCode": "UT",
+    "latitude": "3.38333000",
+    "longitude": "-59.80000000"
+  }
+]

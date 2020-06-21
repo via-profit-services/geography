@@ -3,11 +3,16 @@
  * This code will be download JSON files from repository https://github.com/dr5hn/countries-states-cities-database
  * into the `/source` directory
  */
-
 const fs = require('fs');
 const https = require('https');
 const path = require('path');
 const chalk = require('chalk');
+
+console.log(chalk.red('=================='));
+console.log(chalk.red('====== FUSE ======'));
+console.log(chalk.red('=================='));
+process.exit();
+
 
 const repository = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/raw';
 

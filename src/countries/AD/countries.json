@@ -1,1 +1,12 @@
-[{"id":"4c901909-1f7b-4876-9ba3-3a796b032aba","name":"Andorra","ru":"Andorra","iso3":"AND","iso2":"AD","phoneCode":"376","capital":"4501c992-20bc-4b8a-91c1-ee9a14afa4c0","currency":"EUR"}]
+[
+  {
+    "id": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "en": "Andorra",
+    "ru": "Андорра",
+    "iso3": "AND",
+    "iso2": "AD",
+    "phoneCode": "376",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

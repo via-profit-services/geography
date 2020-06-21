@@ -1,1 +1,138 @@
-[{"id":"87c6ce52-f122-4247-be52-d7f688695ecf","name":"Alto Paraguay Department","ru":"Alto Paraguay Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"16"},{"id":"4eaa90c1-780d-4a09-aaf4-b69c14fd073a","name":"Alto Paraná Department","ru":"Alto Paraná Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"10"},{"id":"dd2d65b0-24ba-4ffb-9bf7-b24ef5a8bcc4","name":"Amambay Department","ru":"Amambay Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"13"},{"id":"a4b782c9-18f6-4da7-99ad-3f02cb953fb7","name":"Ñeembucú Department","ru":"Ñeembucú Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"12"},{"id":"236ee7b6-af49-45cd-908e-b22f77f8d434","name":"Boquerón Department","ru":"Boquerón Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"19"},{"id":"58155d10-0039-49f7-ba39-7b1733eebda5","name":"Caaguazú","ru":"Caaguazú","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"5"},{"id":"8203313a-9639-40af-b66d-40cd44eff3e5","name":"Caazapá","ru":"Caazapá","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"6"},{"id":"d73fd606-6ad1-40c2-a2c1-34ae68f64efb","name":"Canindeyú","ru":"Canindeyú","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"14"},{"id":"d2b72fd8-2baa-426e-92f9-bfff903b27ea","name":"Central Department","ru":"Central Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"11"},{"id":"013d09ef-8215-4f23-9c1b-e67b523698d8","name":"Concepción Department","ru":"Concepción Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"1"},{"id":"853cda5c-4b8b-4b4a-a628-d3f24787a39c","name":"Cordillera Department","ru":"Cordillera Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"3"},{"id":"61dd6a69-0f00-45f6-89d3-b3e60a149880","name":"Guairá Department","ru":"Guairá Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"4"},{"id":"b04d4a02-4adf-4514-b95e-402b0b5df797","name":"Itapúa","ru":"Itapúa","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"7"},{"id":"26719542-72a0-45f5-b382-3061456c776d","name":"Misiones Department","ru":"Misiones Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"8"},{"id":"e22d464d-458a-45bc-9468-92734caf11a8","name":"Paraguarí Department","ru":"Paraguarí Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"9"},{"id":"688ec1c1-c5fb-4dd1-b46d-6b61d5f60414","name":"Presidente Hayes Department","ru":"Presidente Hayes Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"15"},{"id":"7b56747d-4513-4f6d-a5af-4a244bd45039","name":"San Pedro Department","ru":"San Pedro Department","country":"ba98334c-79b7-45de-8843-88f1bb038efa","countryCode":"PY","stateCode":"2"}]
+[
+  {
+    "id": "52ad0f6a-b2d3-4900-ad52-c3e190fd8589",
+    "en": "Alto Paraguay Department",
+    "ru": "Альто Парагвай департамент",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "16"
+  },
+  {
+    "id": "d9680824-ec21-4b18-adcb-8845c8b53c6f",
+    "en": "Alto Paraná Department",
+    "ru": "Альто Парана Департамент",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "10"
+  },
+  {
+    "id": "83428b49-c1ad-4d37-a63b-fb77321aa603",
+    "en": "Amambay Department",
+    "ru": "Амамбайский районный отдел",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "13"
+  },
+  {
+    "id": "e324a060-2be7-485c-94b5-1afa8d93a894",
+    "en": "Ñeembucú Department",
+    "ru": "областной департамент Чимбуку",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "12"
+  },
+  {
+    "id": "d6dbff0c-f7cf-49f8-ad89-35da39d0fc26",
+    "en": "Boquerón Department",
+    "ru": "Бокерон департамент",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "19"
+  },
+  {
+    "id": "7fda8412-e283-4864-abbc-fe9bc6de18a5",
+    "en": "Caaguazú",
+    "ru": "Caaguazú",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "5"
+  },
+  {
+    "id": "f2bf6818-1551-4441-ab55-09cc654708c9",
+    "en": "Caazapá",
+    "ru": "Caazapá",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "6"
+  },
+  {
+    "id": "19fe9daa-c080-4a7c-bf65-956ef515b228",
+    "en": "Canindeyú",
+    "ru": "Canindeyú",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "14"
+  },
+  {
+    "id": "5f5da775-fa8d-4f67-9d01-2830b6ff57e8",
+    "en": "Central Department",
+    "ru": "областное центральное управление",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "11"
+  },
+  {
+    "id": "e23ee272-8158-42e4-a5e7-63bc91d2a677",
+    "en": "Concepción Department",
+    "ru": "областной департамент Консепсьон",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "1"
+  },
+  {
+    "id": "c4ebd81c-092a-40e9-b4bb-fd235ec9ff60",
+    "en": "Cordillera Department",
+    "ru": "Кордильерский районный отдел",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "3"
+  },
+  {
+    "id": "49fc398b-27a0-4bc2-9180-de8b12563b78",
+    "en": "Guairá Department",
+    "ru": "Guairá Департамент",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "4"
+  },
+  {
+    "id": "2852339a-686b-40b6-9225-cb3bcd6f5470",
+    "en": "Itapúa",
+    "ru": "Итапуа",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "7"
+  },
+  {
+    "id": "e2832019-3392-4a0a-aee9-3bbe5b8cb797",
+    "en": "Misiones Department",
+    "ru": "Департамент регионов",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "8"
+  },
+  {
+    "id": "309b59b5-b163-492b-8d7f-99b38a9e9328",
+    "en": "Paraguarí Department",
+    "ru": "региональный департамент Парагуари",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "9"
+  },
+  {
+    "id": "07e91dd0-a278-4518-844f-55007e4f2fec",
+    "en": "Presidente Hayes Department",
+    "ru": "президенты Хейс департамент",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "15"
+  },
+  {
+    "id": "2cc840f7-a948-4df5-8e7b-07bdcf6098f9",
+    "en": "San Pedro Department",
+    "ru": "Сан-Педро департамент",
+    "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
+    "countryCode": "PY",
+    "stateCode": "2"
+  }
+]

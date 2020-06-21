@@ -1,1 +1,122 @@
-[{"id":"5f3cd26a-89f4-4db0-b309-c61ca57f206b","name":"Bomi County","ru":"Bomi County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"BM"},{"id":"16612576-e289-4a5c-bf69-cfbb6a0db089","name":"Bong County","ru":"Bong County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"BG"},{"id":"b5fcf052-dece-40d1-aae8-13e16a85abc1","name":"Gbarpolu County","ru":"Gbarpolu County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"GP"},{"id":"8b52fcbe-30eb-4120-b37e-157dc68c4c4e","name":"Grand Bassa County","ru":"Grand Bassa County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"GB"},{"id":"e37a6488-fd8e-4ed3-bb8c-3b30845ae53f","name":"Grand Cape Mount County","ru":"Grand Cape Mount County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"CM"},{"id":"7fae93c4-bc70-4558-884d-3b667ba8fc8d","name":"Grand Gedeh County","ru":"Grand Gedeh County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"GG"},{"id":"22bce014-0fb5-468c-94cd-03faa85e2f0c","name":"Grand Kru County","ru":"Grand Kru County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"GK"},{"id":"6a1ca182-647f-4166-b6d0-ae399e15db28","name":"Lofa County","ru":"Lofa County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"LO"},{"id":"d8d842ec-546b-4f03-895a-3fc14ae17c42","name":"Margibi County","ru":"Margibi County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"MG"},{"id":"f15e02b9-3ca9-443b-9d20-b2ae90dd76d9","name":"Maryland County","ru":"Maryland County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"MY"},{"id":"83959a8a-10e8-4cea-9d85-15636797a442","name":"Montserrado County","ru":"Montserrado County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"MO"},{"id":"232da83e-6c9e-4f11-a963-40d889d3596b","name":"Nimba","ru":"Nimba","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"NI"},{"id":"f46f29d9-5b04-4df5-a2d1-de9b863fc317","name":"River Cess County","ru":"River Cess County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"RI"},{"id":"7c3932c1-3976-41bf-b08c-72f38ad90e42","name":"River Gee County","ru":"River Gee County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"RG"},{"id":"ea6659f6-475c-4b7d-837f-3dad8fc76573","name":"Sinoe County","ru":"Sinoe County","country":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","countryCode":"LR","stateCode":"SI"}]
+[
+  {
+    "id": "416f2322-3102-4d39-82c0-6337affc7e43",
+    "en": "Bomi County",
+    "ru": "Бомский повят",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "BM"
+  },
+  {
+    "id": "ac15208f-f48e-4b2e-be80-4dc41559adf0",
+    "en": "Bong County",
+    "ru": "Бонг уезд",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "BG"
+  },
+  {
+    "id": "b14f5c19-5005-4e83-8b50-fa55a9e3e2fc",
+    "en": "Gbarpolu County",
+    "ru": "Гбарполу уезд",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "GP"
+  },
+  {
+    "id": "bdeec682-8a51-4346-9a32-50791c4135c9",
+    "en": "Grand Bassa County",
+    "ru": "Grand Bassa County",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "GB"
+  },
+  {
+    "id": "b8d8ead2-56dc-4194-954f-71eacdbf6fe5",
+    "en": "Grand Cape Mount County",
+    "ru": "Гранд Кейп Маунт Каунти",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "CM"
+  },
+  {
+    "id": "fad1472e-35df-41b1-a475-98d85004c831",
+    "en": "Grand Gedeh County",
+    "ru": "Grand Gedeh County",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "GG"
+  },
+  {
+    "id": "c54eb1a4-f180-4a0c-b134-572274d7de33",
+    "en": "Grand Kru County",
+    "ru": "Гранд Крю Каунти",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "GK"
+  },
+  {
+    "id": "c3e85a92-6a60-4ee0-a9fa-756607dafb07",
+    "en": "Lofa County",
+    "ru": "Лофа уезд",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "LO"
+  },
+  {
+    "id": "3c1fd664-ffae-4438-93ec-9b550ebcb6ee",
+    "en": "Margibi County",
+    "ru": "Маргиби уезд",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "MG"
+  },
+  {
+    "id": "de9f0a9b-38d7-47c2-9f9e-31eed4f4c562",
+    "en": "Maryland County",
+    "ru": "Мэриленд Каунти",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "MY"
+  },
+  {
+    "id": "5faae422-0b5a-47ce-a27e-0bf205259c94",
+    "en": "Montserrado County",
+    "ru": "Монтсеррад Каунти",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "MO"
+  },
+  {
+    "id": "a1c97235-e907-477f-abaa-a42f7d8ff2f9",
+    "en": "Nimba",
+    "ru": "Нимба",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "NI"
+  },
+  {
+    "id": "934f11f4-fca7-4a7b-9c72-2e25f6f36771",
+    "en": "River Cess County",
+    "ru": "Река Сесс Каунти",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "RI"
+  },
+  {
+    "id": "aa4f7cea-a4da-42f5-9bc2-3af838321bf1",
+    "en": "River Gee County",
+    "ru": "Река Джи Каунти",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "RG"
+  },
+  {
+    "id": "553a1360-aff1-4846-835a-a6d3a82ce5ee",
+    "en": "Sinoe County",
+    "ru": "Синое уезд",
+    "country": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "countryCode": "LR",
+    "stateCode": "SI"
+  }
+]

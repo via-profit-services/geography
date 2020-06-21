@@ -1,1 +1,12 @@
-[{"id":"d9019911-b07a-467f-9e93-6fad0c9a9daf","name":"Azerbaijan","ru":"Azerbaijan","iso3":"AZE","iso2":"AZ","phoneCode":"994","capital":"66117051-a7ff-4226-967a-0b7e63a0edf8","currency":"AZN"}]
+[
+  {
+    "id": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "en": "Azerbaijan",
+    "ru": "Азербайджан",
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "phoneCode": "994",
+    "capital": null,
+    "currency": "AZN"
+  }
+]

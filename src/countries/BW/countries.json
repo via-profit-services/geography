@@ -1,1 +1,12 @@
-[{"id":"b759f6c9-0c98-46f6-b570-4cd8b4da4565","name":"Botswana","ru":"Botswana","iso3":"BWA","iso2":"BW","phoneCode":"267","capital":"07d5bb9e-453c-41fc-9047-56f0ab11c2cb","currency":"BWP"}]
+[
+  {
+    "id": "bac5419d-93e6-4536-9dfd-74bcf6e72975",
+    "en": "Botswana",
+    "ru": "Ботсвана",
+    "iso3": "BWA",
+    "iso2": "BW",
+    "phoneCode": "267",
+    "capital": null,
+    "currency": "BWP"
+  }
+]

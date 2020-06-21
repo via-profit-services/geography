@@ -1,1 +1,12 @@
-[{"id":"e5c897f7-9ba7-4f95-ac50-c39a93a106e0","name":"Saint-Barthelemy","ru":"Saint-Barthelemy","iso3":"BLM","iso2":"BL","phoneCode":"590","capital":null,"currency":"EUR"}]
+[
+  {
+    "id": "3519072d-36a8-4c5f-b64b-114052a86a99",
+    "en": "Saint-Barthelemy",
+    "ru": "Сен-Бартельми",
+    "iso3": "BLM",
+    "iso2": "BL",
+    "phoneCode": "590",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

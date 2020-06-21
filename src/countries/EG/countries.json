@@ -1,1 +1,12 @@
-[{"id":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","name":"Egypt","ru":"Egypt","iso3":"EGY","iso2":"EG","phoneCode":"20","capital":"c4e2bf44-cb58-48eb-bea8-a3aaaf64fa41","currency":"EGP"}]
+[
+  {
+    "id": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "en": "Egypt",
+    "ru": "египет",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "phoneCode": "20",
+    "capital": null,
+    "currency": "EGP"
+  }
+]

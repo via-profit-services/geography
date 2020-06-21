@@ -9,11 +9,16 @@
 const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
-// const translate = require('translation-google');
 const uuidv4 = require('uuid').v4;
 const cities = require('../source/cities');
 const countries = require('../source/countries');
 const states = require('../source/states');
+
+
+console.log(chalk.red('=================='));
+console.log(chalk.red('====== FUSE ======'));
+console.log(chalk.red('=================='));
+process.exit();
 
 const replacements = {
   countries: {},
@@ -29,7 +34,7 @@ const bootstrap = async () => {
 
     return {
       id: uuidv4(),
-      name: city.name,
+      en: city.name,
       ru: city.name,
       country: replacements.countries[city.country_id],
       countryCode: city.country_code,
@@ -48,7 +53,7 @@ const bootstrap = async () => {
 
     return {
       id: replacements.countries[country.id],
-      name: country.name,
+      en: country.name,
       ru: country.name,
       iso3: country.iso3,
       iso2: country.iso2,
@@ -61,7 +66,7 @@ const bootstrap = async () => {
   const newStates = states.map((state) => {
     return {
       id: replacements.states[state.id] || uuidv4(),
-      name: state.name,
+      en: state.name,
       ru: state.name,
       country: replacements.countries[state.country_id],
       countryCode: state.country_code,

@@ -1,1 +1,12 @@
-[{"id":"87ee5005-9465-4be9-bdda-f31070489b99","name":"Yemen","ru":"Yemen","iso3":"YEM","iso2":"YE","phoneCode":"967","capital":"9c85784c-c056-4a5e-a510-b11cee6ec812","currency":"YER"}]
+[
+  {
+    "id": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "en": "Yemen",
+    "ru": "Йемен",
+    "iso3": "YEM",
+    "iso2": "YE",
+    "phoneCode": "967",
+    "capital": null,
+    "currency": "YER"
+  }
+]

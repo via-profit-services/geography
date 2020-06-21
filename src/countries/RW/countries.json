@@ -1,1 +1,12 @@
-[{"id":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","name":"Rwanda","ru":"Rwanda","iso3":"RWA","iso2":"RW","phoneCode":"250","capital":"fe761891-4615-402c-9302-bdb4c0a7dbc5","currency":"RWF"}]
+[
+  {
+    "id": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "en": "Rwanda",
+    "ru": "Руанда",
+    "iso3": "RWA",
+    "iso2": "RW",
+    "phoneCode": "250",
+    "capital": null,
+    "currency": "RWF"
+  }
+]

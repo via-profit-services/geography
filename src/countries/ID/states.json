@@ -1,1 +1,306 @@
-[{"id":"9456d95c-332d-4b46-bd60-d1158ec7af00","name":"Aceh","ru":"Aceh","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"AC"},{"id":"abc79449-fcab-4a35-8dac-da292ddb2303","name":"Bali","ru":"Bali","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"BA"},{"id":"fb860539-4fd6-4084-8bdf-a70152e45c4b","name":"Bangka Belitung Islands","ru":"Bangka Belitung Islands","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"BB"},{"id":"a293e577-684a-4fda-a2c9-079421305325","name":"Banten","ru":"Banten","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"BT"},{"id":"2de88646-a865-4d73-a474-70e01af45637","name":"Bengkulu","ru":"Bengkulu","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"BE"},{"id":"01c128e3-2c92-4843-b26c-ac0587d7b55b","name":"Central Java","ru":"Central Java","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"JT"},{"id":"81c544f1-f96b-49ec-8b16-dc738a3dda0a","name":"Central Kalimantan","ru":"Central Kalimantan","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"KT"},{"id":"92f239d1-025e-48b8-b5d3-52c3fe2de3ab","name":"Central Sulawesi","ru":"Central Sulawesi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"ST"},{"id":"8b3159e6-08ed-4583-b708-2900fbf3cb7b","name":"East Java","ru":"East Java","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"JI"},{"id":"ebd5e92f-e797-4d88-95c3-9125ba137ced","name":"East Kalimantan","ru":"East Kalimantan","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"KI"},{"id":"b3879871-d364-4ae1-ae9c-6fed94d083e7","name":"East Nusa Tenggara","ru":"East Nusa Tenggara","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"NT"},{"id":"05c269ea-ab8e-4a45-b728-3933aed0fbdd","name":"Gorontalo","ru":"Gorontalo","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"GO"},{"id":"f4a634b7-4165-4d75-93ce-1d1990b8370e","name":"Jakarta","ru":"Jakarta","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"JK"},{"id":"1fe5d1d7-5893-471e-b037-427f035886d5","name":"Jambi","ru":"Jambi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"JA"},{"id":"511ae392-d100-4833-a3dd-d9fa5e1fd184","name":"Kalimantan","ru":"Kalimantan","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"KA"},{"id":"bbb33ab0-68ad-433d-8210-842c27db28cf","name":"Lampung","ru":"Lampung","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"LA"},{"id":"c0d6872e-0728-48f9-80c1-4824592f6015","name":"Lesser Sunda Islands","ru":"Lesser Sunda Islands","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"NU"},{"id":"9d89fa29-2ab5-4d22-9657-3613e74db659","name":"Maluku","ru":"Maluku","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"MA"},{"id":"a2182d0e-b90f-458f-9fb8-a3e36f2e639f","name":"Maluku Islands","ru":"Maluku Islands","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"ML"},{"id":"34d29db7-bbff-4ad7-a7c0-d2665275306f","name":"North Kalimantan","ru":"North Kalimantan","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"KU"},{"id":"591f1645-0912-414b-8f57-feab90481c6b","name":"North Maluku","ru":"North Maluku","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"MU"},{"id":"99114ca9-aa0a-487b-8e36-dd64f5e8df97","name":"North Sulawesi","ru":"North Sulawesi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SA"},{"id":"91d5aaaa-06ea-4dc7-8800-138f680c4011","name":"North Sumatra","ru":"North Sumatra","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SU"},{"id":"8ca90866-e8ad-439d-acaf-93986bca5b4a","name":"Papua","ru":"Papua","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"PA"},{"id":"e37d88f5-fc30-49fc-b717-f05557af1ec2","name":"Riau","ru":"Riau","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"RI"},{"id":"5526d27d-386f-4987-b512-5354d568c35c","name":"Riau Islands","ru":"Riau Islands","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"KR"},{"id":"f6ea6090-8878-44f7-8777-26aaef76eae6","name":"South Kalimantan","ru":"South Kalimantan","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"KS"},{"id":"927cd66a-848b-4d7e-9119-0f57226471b8","name":"South Sulawesi","ru":"South Sulawesi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SN"},{"id":"3ad403d5-bbe5-4650-a0b1-5fe6d1c75084","name":"South Sumatra","ru":"South Sumatra","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SS"},{"id":"fc8814d4-528a-451c-a6d0-fc3667c76081","name":"Southeast Sulawesi","ru":"Southeast Sulawesi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SG"},{"id":"d0dc9c2c-7362-4568-924b-a40986721f8a","name":"Special Region of Yogyakarta","ru":"Special Region of Yogyakarta","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"YO"},{"id":"6e5e004c-428a-4a4d-8273-e9a5b53c5d0b","name":"Sulawesi","ru":"Sulawesi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SL"},{"id":"9ead4de4-c18c-4401-aede-9b0892f156b6","name":"Sumatra","ru":"Sumatra","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SM"},{"id":"d7438840-aee2-43f8-9874-19becff5eb1e","name":"West Java","ru":"West Java","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"JB"},{"id":"0f7ffa4d-672a-452b-8264-5afaa1da50cf","name":"West Nusa Tenggara","ru":"West Nusa Tenggara","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"NB"},{"id":"0f492c55-9a56-4719-bc0b-04d292453147","name":"West Papua","ru":"West Papua","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"PB"},{"id":"a8991f1c-77bb-45a3-b8e0-e1b91f5bc49a","name":"West Sulawesi","ru":"West Sulawesi","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SR"},{"id":"e0d2e61e-3c06-416b-bb01-fce715e3bd14","name":"West Sumatra","ru":"West Sumatra","country":"f2552878-138b-4ba9-accf-c09557d8b10b","countryCode":"ID","stateCode":"SB"}]
+[
+  {
+    "id": "ac672e78-5779-47ad-b96c-f70b5e54dcbb",
+    "en": "Aceh",
+    "ru": "Ачех",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "AC"
+  },
+  {
+    "id": "890ae784-3ff0-4edb-977b-c72cbfc1ba98",
+    "en": "Bali",
+    "ru": "Бали",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "BA"
+  },
+  {
+    "id": "17c50423-41c9-4be5-b107-440dd646d0bd",
+    "en": "Bangka Belitung Islands",
+    "ru": "Бангка Белитунг Острова",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "BB"
+  },
+  {
+    "id": "905003b2-422f-44f2-b5d6-a6badcba3749",
+    "en": "Banten",
+    "ru": "Бантен",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "BT"
+  },
+  {
+    "id": "1180d4b8-ac55-48b5-b33a-6e4debe8d264",
+    "en": "Bengkulu",
+    "ru": "Бенгкулу",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "BE"
+  },
+  {
+    "id": "ac7d92fa-397c-4895-a2a9-c20211ba3ddb",
+    "en": "Central Java",
+    "ru": "Центральная Ява",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "JT"
+  },
+  {
+    "id": "21be647b-66c6-4288-a7a5-7780dc1b6a76",
+    "en": "Central Kalimantan",
+    "ru": "Центральный Калимантан",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "KT"
+  },
+  {
+    "id": "be33d2c7-6ec4-4c82-8f48-d66e34da7d4a",
+    "en": "Central Sulawesi",
+    "ru": "Центральный Сулавеси",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "ST"
+  },
+  {
+    "id": "7afc3d75-135d-4b8a-b577-b36f72f510e8",
+    "en": "East Java",
+    "ru": "Восточная Ява",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "JI"
+  },
+  {
+    "id": "3fa2e340-a440-40d7-8ede-e50b14e4304b",
+    "en": "East Kalimantan",
+    "ru": "Восточный Калимантан",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "KI"
+  },
+  {
+    "id": "b6a4f933-0d0f-409b-b2e5-c7610e058951",
+    "en": "East Nusa Tenggara",
+    "ru": "Восточная Нуса Тенгара",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "NT"
+  },
+  {
+    "id": "686d459c-e7b2-4703-81d6-f5f8f02d8eda",
+    "en": "Gorontalo",
+    "ru": "Горонтало",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "GO"
+  },
+  {
+    "id": "dcab0dd5-6662-4232-879d-69e69149cebc",
+    "en": "Jakarta",
+    "ru": "Джакарта",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "JK"
+  },
+  {
+    "id": "0d2c8772-d6aa-4f42-a4db-f7632fa409bb",
+    "en": "Jambi",
+    "ru": "Джамби",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "JA"
+  },
+  {
+    "id": "40b5e8e6-85af-4a5a-84c7-6046f14426a0",
+    "en": "Kalimantan",
+    "ru": "Калимантан",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "KA"
+  },
+  {
+    "id": "0745d6c9-0fbf-46d0-97ac-f51906a147d5",
+    "en": "Lampung",
+    "ru": "Лампунг",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "LA"
+  },
+  {
+    "id": "35a95ac8-b0f3-446b-939b-ae402e20a1fa",
+    "en": "Lesser Sunda Islands",
+    "ru": "Малые Зондские острова",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "NU"
+  },
+  {
+    "id": "2f3dc6d7-9205-4a37-9c97-f5c932cc13d8",
+    "en": "Maluku",
+    "ru": "Малуку",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "MA"
+  },
+  {
+    "id": "9e810ef6-acc6-4946-8543-4afe718fba23",
+    "en": "Maluku Islands",
+    "ru": "Малуку острова",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "ML"
+  },
+  {
+    "id": "e55028a0-5d72-489f-87c1-a6b09600d994",
+    "en": "North Kalimantan",
+    "ru": "Северный Калимантан",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "KU"
+  },
+  {
+    "id": "12cf5265-461c-43ac-9c5f-1a57f49f892b",
+    "en": "North Maluku",
+    "ru": "Северная Малуку",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "MU"
+  },
+  {
+    "id": "92484eb2-ae48-4eb2-822f-aaf08991088e",
+    "en": "North Sulawesi",
+    "ru": "Северный Сулавеси",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SA"
+  },
+  {
+    "id": "d75deb0f-316b-40fd-a80d-8d9870946c27",
+    "en": "North Sumatra",
+    "ru": "Северная Суматра",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SU"
+  },
+  {
+    "id": "0ed56cb5-42f3-46e5-92bf-01753152ea2d",
+    "en": "Papua",
+    "ru": "Папуа",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "PA"
+  },
+  {
+    "id": "3d86bdf3-dd39-489d-a1d1-e58aa307d540",
+    "en": "Riau",
+    "ru": "Риау",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "RI"
+  },
+  {
+    "id": "95c73a9e-ec83-4a8a-a0e2-8a2ce09d9da3",
+    "en": "Riau Islands",
+    "ru": "Риау острова",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "KR"
+  },
+  {
+    "id": "07de5fd8-b078-4697-9b45-7dc8fab36962",
+    "en": "South Kalimantan",
+    "ru": "Южный Калимантан",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "KS"
+  },
+  {
+    "id": "3c0fcbf9-5efe-4150-ac65-3ce7e8bcc074",
+    "en": "South Sulawesi",
+    "ru": "Южный Сулавеси",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SN"
+  },
+  {
+    "id": "9fa00eb0-aaad-43f8-b91a-9df72a153ffc",
+    "en": "South Sumatra",
+    "ru": "Южная Суматра",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SS"
+  },
+  {
+    "id": "c68315c7-3daa-41ce-a093-5b400512c96c",
+    "en": "Southeast Sulawesi",
+    "ru": "Юго-восток Сулавеси",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SG"
+  },
+  {
+    "id": "62a48349-32da-44d4-a981-d47d7afa8dc1",
+    "en": "Special Region of Yogyakarta",
+    "ru": "Специальный регион Джокьякарта",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "YO"
+  },
+  {
+    "id": "3a0a2d42-f3c4-4172-93cc-c67a6196e570",
+    "en": "Sulawesi",
+    "ru": "Сулавеси",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SL"
+  },
+  {
+    "id": "4d8604f7-5a48-48c2-a3ad-91883f925733",
+    "en": "Sumatra",
+    "ru": "Суматра",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SM"
+  },
+  {
+    "id": "b4df9129-a0d5-4a35-b23b-4ec6012803f3",
+    "en": "West Java",
+    "ru": "Западная Ява",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "JB"
+  },
+  {
+    "id": "f41d8afe-264b-4c27-b2fd-56e171ea0f7f",
+    "en": "West Nusa Tenggara",
+    "ru": "Запад Нуса Тенгара",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "NB"
+  },
+  {
+    "id": "a6d2d31f-2662-41fa-8c95-34fcd94d4170",
+    "en": "West Papua",
+    "ru": "Западная Папуа",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "PB"
+  },
+  {
+    "id": "e7f8d29b-cb9b-41e7-b3d5-5f00eb10fbe9",
+    "en": "West Sulawesi",
+    "ru": "Западный Сулавеси",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SR"
+  },
+  {
+    "id": "9d7563f7-78e5-4d75-b5ed-cd31a5204035",
+    "en": "West Sumatra",
+    "ru": "Западная Суматра",
+    "country": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "countryCode": "ID",
+    "stateCode": "SB"
+  }
+]

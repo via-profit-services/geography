@@ -1,1 +1,90 @@
-[{"id":"2b056a2f-04e5-4d77-aac4-28381012c0fa","name":"Balzers","ru":"Balzers","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"01"},{"id":"8cb39f5f-8003-498d-a3d3-674cf831334e","name":"Eschen","ru":"Eschen","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"02"},{"id":"516881bc-4edb-411d-9a4d-96fed8f31c18","name":"Gamprin","ru":"Gamprin","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"03"},{"id":"a0f8d3aa-2b1f-4ac5-a4b8-7dac51c47bf6","name":"Mauren","ru":"Mauren","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"04"},{"id":"792f1a66-52b9-44e3-a1f2-15239ebaaa7d","name":"Planken","ru":"Planken","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"05"},{"id":"e5e60655-c902-464c-b40b-e38116591b43","name":"Ruggell","ru":"Ruggell","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"06"},{"id":"f4c7f65c-38e8-48cf-9922-8bb4c8d21e5c","name":"Schaan","ru":"Schaan","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"07"},{"id":"676f9266-f0da-4a95-bdba-71fd70676805","name":"Schellenberg","ru":"Schellenberg","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"08"},{"id":"4c93e0e8-f047-4312-805b-627f97b2ca3f","name":"Triesen","ru":"Triesen","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"09"},{"id":"e346451a-d142-4a5f-90cb-f70b178ad205","name":"Triesenberg","ru":"Triesenberg","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"10"},{"id":"7a08887b-1f0a-465f-8c8c-70cfa6471b06","name":"Vaduz","ru":"Vaduz","country":"5527948c-434b-43ec-b966-0db143549d94","countryCode":"LI","stateCode":"11"}]
+[
+  {
+    "id": "e8adaf6d-449a-4880-bba2-fcbe378d3d8b",
+    "en": "Balzers",
+    "ru": "Бальцерс",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "01"
+  },
+  {
+    "id": "39c15aa5-bbd6-4083-bf90-5bef41dd1f74",
+    "en": "Eschen",
+    "ru": "Эшен",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "02"
+  },
+  {
+    "id": "8271204c-481b-42f6-80a5-16afc2727089",
+    "en": "Gamprin",
+    "ru": "Гамприн",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "03"
+  },
+  {
+    "id": "b8ef4432-5e40-49d7-a161-e6a96e6f7e31",
+    "en": "Mauren",
+    "ru": "Маурен",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "04"
+  },
+  {
+    "id": "51d0bc7a-d0bc-4777-860a-972a6a845bdf",
+    "en": "Planken",
+    "ru": "Планкен",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "05"
+  },
+  {
+    "id": "cd2b2048-aa6d-480d-9183-be53a22700f1",
+    "en": "Ruggell",
+    "ru": "Руггелль",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "06"
+  },
+  {
+    "id": "c17ab0bb-8759-473f-8ac5-3d0360df0586",
+    "en": "Schaan",
+    "ru": "Schaan",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "07"
+  },
+  {
+    "id": "f905cc8f-e6f9-4c88-97de-a2c0d257bc51",
+    "en": "Schellenberg",
+    "ru": "Шелленберг",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "08"
+  },
+  {
+    "id": "008564f3-6e16-4026-b848-785ab6da9311",
+    "en": "Triesen",
+    "ru": "Тризен",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "09"
+  },
+  {
+    "id": "a96425af-9d98-4b90-afb3-892f8129df4c",
+    "en": "Triesenberg",
+    "ru": "Тризенберг",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "10"
+  },
+  {
+    "id": "f9d8023c-9a90-4a1a-89ee-a5e18bb13c7c",
+    "en": "Vaduz",
+    "ru": "Вадуц",
+    "country": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "countryCode": "LI",
+    "stateCode": "11"
+  }
+]

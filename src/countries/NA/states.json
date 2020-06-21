@@ -1,1 +1,114 @@
-[{"id":"9d770cba-f05d-4145-9e2b-c20cf3c75cd1","name":"Erongo Region","ru":"Erongo Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"ER"},{"id":"5e92c9d8-6656-49cd-b5e1-bfffe58fc098","name":"Hardap Region","ru":"Hardap Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"HA"},{"id":"692c425c-04c9-4185-a604-1240fcef8896","name":"Karas Region","ru":"Karas Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"KA"},{"id":"ad86a451-c3a1-4fe4-930c-f84961f254de","name":"Kavango East Region","ru":"Kavango East Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"KE"},{"id":"bcc13bd0-81a0-4820-b27c-9492bdb87242","name":"Kavango West Region","ru":"Kavango West Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"KW"},{"id":"b8092ca2-9558-4910-9bfc-399a34e7ebed","name":"Khomas Region","ru":"Khomas Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"KH"},{"id":"0e99811d-7794-4404-a822-e6e21ce2bca7","name":"Kunene Region","ru":"Kunene Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"KU"},{"id":"efe9eb4c-165a-4b3d-8118-3dd8b940c995","name":"Ohangwena Region","ru":"Ohangwena Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"OW"},{"id":"4dec0f35-f1f5-4dda-a42f-a69106e3ae25","name":"Omaheke Region","ru":"Omaheke Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"OH"},{"id":"69f4a0f2-83c7-4040-88dd-29baf4969f17","name":"Omusati Region","ru":"Omusati Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"OS"},{"id":"ea967fb2-54c0-414d-b99d-11bb09f45e20","name":"Oshana Region","ru":"Oshana Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"ON"},{"id":"d4a884dd-a73f-463a-8f6f-9f92e3ecad83","name":"Oshikoto Region","ru":"Oshikoto Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"OT"},{"id":"42839bad-36ed-4fc4-b38d-1095b502a07c","name":"Otjozondjupa Region","ru":"Otjozondjupa Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"OD"},{"id":"3e305810-4915-4ff5-b57c-54a1ee40ee53","name":"Zambezi Region","ru":"Zambezi Region","country":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","countryCode":"NA","stateCode":"CA"}]
+[
+  {
+    "id": "032cd1a5-6980-4f5e-9e11-c6563618cf9f",
+    "en": "Erongo Region",
+    "ru": "Арандис",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "ER"
+  },
+  {
+    "id": "dedd35da-b230-4f85-81cd-c2a6a3325770",
+    "en": "Hardap Region",
+    "ru": "Хентисбайты Карибиб",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "HA"
+  },
+  {
+    "id": "d5a4b5db-0842-42b8-8dd5-3333850f07ad",
+    "en": "Karas Region",
+    "ru": "Омаруру",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "KA"
+  },
+  {
+    "id": "fe30ba65-9448-4623-930f-87eb5b4cc9bc",
+    "en": "Kavango East Region",
+    "ru": "Отжимбингве",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "KE"
+  },
+  {
+    "id": "eb5d291f-86e6-493c-89d6-e71fa6fd3f32",
+    "en": "Kavango West Region",
+    "ru": "Свакопмунд",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "KW"
+  },
+  {
+    "id": "aef7e413-27d6-4890-994f-41001972531c",
+    "en": "Khomas Region",
+    "ru": "Свакопмунд избирательный округ",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "KH"
+  },
+  {
+    "id": "2278245f-40df-41ae-acfa-476b7306ceb1",
+    "en": "Kunene Region",
+    "ru": "Усакос",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "KU"
+  },
+  {
+    "id": "76d8b3a2-07a8-4830-a45a-b5edb8f57250",
+    "en": "Ohangwena Region",
+    "ru": "Уолфиш-Бей",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "OW"
+  },
+  {
+    "id": "6ff53068-ed6e-41e3-a147-395241be2416",
+    "en": "Omaheke Region",
+    "ru": "Аранос",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "OH"
+  },
+  {
+    "id": "6c784e5c-88c9-4fb7-8444-66250add5e05",
+    "en": "Omusati Region",
+    "ru": "Хоачанас",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "OS"
+  },
+  {
+    "id": "80109dfb-e5b5-491d-af7f-a43c7f795f89",
+    "en": "Oshana Region",
+    "ru": "Maltahöhe",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "ON"
+  },
+  {
+    "id": "726a2213-a109-417f-81aa-95ed66f7a669",
+    "en": "Oshikoto Region",
+    "ru": "Мариенталь",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "OT"
+  },
+  {
+    "id": "11834180-137d-4b4f-acc3-e0f0f9489a7f",
+    "en": "Otjozondjupa Region",
+    "ru": "Рехобот",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "OD"
+  },
+  {
+    "id": "1eae895c-a430-4242-ae36-8cf46340ec24",
+    "en": "Zambezi Region",
+    "ru": "Бетани",
+    "country": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "countryCode": "NA",
+    "stateCode": "CA"
+  }
+]

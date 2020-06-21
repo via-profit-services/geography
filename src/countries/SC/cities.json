@@ -1,1 +1,90 @@
-[{"id":"e76038e4-3698-43b3-9984-f28b505c87e9","name":"Anse Boileau","ru":"Anse Boileau","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"1b6ffecc-e563-4e72-b92f-abbf665c656d","stateCode":"02","latitude":"-4.71667000","longitude":"55.48333000"},{"id":"7bdf646d-d2d8-4805-9f5b-de7a6be63add","name":"Anse Royale","ru":"Anse Royale","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"8ae0e766-53da-434f-9122-e9273f8eeda9","stateCode":"05","latitude":"-4.73333000","longitude":"55.51667000"},{"id":"1c7d69b5-6d98-4785-93c6-8b4adba38598","name":"Beau Vallon","ru":"Beau Vallon","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"6a5a556e-ecd4-4f68-a894-3353e2d79fe1","stateCode":"08","latitude":"-4.62091000","longitude":"55.43015000"},{"id":"9230abd2-7d67-4b53-9bd0-0563d48a4b13","name":"Bel Ombre","ru":"Bel Ombre","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"5fc0262f-b96d-4c2f-9acd-8ce2066e2fb5","stateCode":"10","latitude":"-4.61667000","longitude":"55.41667000"},{"id":"a6e49b9e-0b53-4f30-9565-c9d98fccfe40","name":"Cascade","ru":"Cascade","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"2e4e463b-115d-4bc0-bbd7-63029435e2c2","stateCode":"11","latitude":"-4.66667000","longitude":"55.50000000"},{"id":"759106a7-3e76-45f3-aa9e-da68cab3a144","name":"Victoria","ru":"Victoria","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"7506b2cb-ef44-42db-b701-da155a544ad5","stateCode":"16","latitude":"-4.62001000","longitude":"55.45501000"},{"id":"420831f8-13a4-4833-890c-dd77de217858","name":"Port Glaud","ru":"Port Glaud","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"27b34542-d2dd-4f7a-b16a-fcf3609b575d","stateCode":"21","latitude":"-4.66667000","longitude":"55.41667000"},{"id":"96ea27dc-1413-4fbf-9f8c-1f8fd2e51a0f","name":"Takamaka","ru":"Takamaka","country":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","countryCode":"SC","state":"f12fea29-8775-4a3a-b73b-aba114d2f796","stateCode":"23","latitude":"-4.76667000","longitude":"55.50000000"}]
+[
+  {
+    "id": "e2174caa-077a-4f9e-9a01-4513660aa614",
+    "en": "Anse Boileau",
+    "ru": "Анс Буало",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "d381ad41-33ab-45c5-8981-eae89405d846",
+    "stateCode": "02",
+    "latitude": "-4.71667000",
+    "longitude": "55.48333000"
+  },
+  {
+    "id": "39f2a049-9059-4662-9537-d75827c98a12",
+    "en": "Anse Royale",
+    "ru": "Анс Рояль",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "fab7d78e-8cf5-42d2-a9db-d4d9e0da110c",
+    "stateCode": "05",
+    "latitude": "-4.73333000",
+    "longitude": "55.51667000"
+  },
+  {
+    "id": "16265fa6-0379-4559-8722-3b7a040c5efc",
+    "en": "Beau Vallon",
+    "ru": "Бо Валлон",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "aef9c787-fac4-42d2-a00c-d67a87765fc4",
+    "stateCode": "08",
+    "latitude": "-4.62091000",
+    "longitude": "55.43015000"
+  },
+  {
+    "id": "02a05fd6-6fac-43fa-b7ae-834540993de5",
+    "en": "Bel Ombre",
+    "ru": "Бель Омбре",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "5c19c854-a3ff-4529-a8ae-7465335413ce",
+    "stateCode": "10",
+    "latitude": "-4.61667000",
+    "longitude": "55.41667000"
+  },
+  {
+    "id": "a831ab97-cbca-422f-8b94-151a1b61b1d2",
+    "en": "Cascade",
+    "ru": "Каскад",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "adabb2ee-6736-46bf-bfd6-4b7a7dd0875e",
+    "stateCode": "11",
+    "latitude": "-4.66667000",
+    "longitude": "55.50000000"
+  },
+  {
+    "id": "981d594b-742f-4103-9aec-9e25aa7a7b56",
+    "en": "Victoria",
+    "ru": "Виктория",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "08c01b9c-aa0a-4972-90c0-656edcb5b06c",
+    "stateCode": "16",
+    "latitude": "-4.62001000",
+    "longitude": "55.45501000"
+  },
+  {
+    "id": "1eabfb44-03c9-4e15-9c02-99272d6c75a7",
+    "en": "Port Glaud",
+    "ru": "порт глауд",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "51ccc361-c106-44f2-b26b-1f433f1b742e",
+    "stateCode": "21",
+    "latitude": "-4.66667000",
+    "longitude": "55.41667000"
+  },
+  {
+    "id": "032727cc-b97e-4d4c-ae75-bd6b9f63b94d",
+    "en": "Takamaka",
+    "ru": "Такамака",
+    "country": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "countryCode": "SC",
+    "state": "e186f3c4-0bd9-4c14-9d59-310733767ad2",
+    "stateCode": "23",
+    "latitude": "-4.76667000",
+    "longitude": "55.50000000"
+  }
+]
