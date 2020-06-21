@@ -1,1 +1,370 @@
-[{"id":"38fe8097-1c87-4a4b-9bc5-13dcf9e88de6","name":"Aichi Prefecture","ru":"Aichi Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"23"},{"id":"9d4eb9cc-7fad-47e9-9e2a-520ce665496e","name":"Akita Prefecture","ru":"Akita Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"05"},{"id":"c4bb1ddc-b01f-4783-aef0-2e4eba253e05","name":"Aomori Prefecture","ru":"Aomori Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"02"},{"id":"889c65db-b23b-4e70-b4a4-f117128c0da1","name":"Ōita Prefecture","ru":"Ōita Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"44"},{"id":"77f298dd-48c9-463b-8054-203b44d361a2","name":"Ōsaka Prefecture","ru":"Ōsaka Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"27"},{"id":"c6f57b03-86d1-4ced-99e9-b7d73f9d72fd","name":"Chiba Prefecture","ru":"Chiba Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"12"},{"id":"0640982f-c82b-42ef-b19e-875895a87a7e","name":"Ehime Prefecture","ru":"Ehime Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"38"},{"id":"52cd90e8-d312-4f68-af83-342db6892726","name":"Fukui Prefecture","ru":"Fukui Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"18"},{"id":"e2ce2ebc-0c4c-4adb-8059-3912db730992","name":"Fukuoka Prefecture","ru":"Fukuoka Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"40"},{"id":"f9fd75c9-df84-47c6-8409-ca59a7e1e9b8","name":"Fukushima Prefecture","ru":"Fukushima Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"07"},{"id":"7bda20a4-5be1-4423-8a84-68eb10b3bf3d","name":"Gifu Prefecture","ru":"Gifu Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"21"},{"id":"990dd15e-b94e-49de-84a6-f3ba727745f3","name":"Gunma Prefecture","ru":"Gunma Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"10"},{"id":"e678ed95-1e5f-4167-8a2f-cd03cc65fb6b","name":"Hiroshima Prefecture","ru":"Hiroshima Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"34"},{"id":"7c6e1678-2f3a-4562-8a56-e66005a014d5","name":"Hokkaidō Prefecture","ru":"Hokkaidō Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"01"},{"id":"21fb463e-887f-4336-833b-62da302de4ef","name":"Hyōgo Prefecture","ru":"Hyōgo Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"28"},{"id":"3b731be7-b076-4e42-9d7f-51adb28680e2","name":"Ibaraki Prefecture","ru":"Ibaraki Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"08"},{"id":"e04cd63f-6517-4873-a13a-bca505f79f32","name":"Ishikawa Prefecture","ru":"Ishikawa Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"17"},{"id":"5af49920-1e03-4e17-affb-d386a99351fd","name":"Iwate Prefecture","ru":"Iwate Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"03"},{"id":"782f4a65-9ee0-433c-a24d-97d0d6b10b48","name":"Kagawa Prefecture","ru":"Kagawa Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"37"},{"id":"2ac31577-7a4f-4189-9126-a26f78ae3753","name":"Kagoshima Prefecture","ru":"Kagoshima Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"46"},{"id":"711b8527-8f72-4ccc-94ea-277dd8875062","name":"Kanagawa Prefecture","ru":"Kanagawa Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"14"},{"id":"146ab23b-3dc2-4273-90c5-7aac6737fe6b","name":"Kumamoto Prefecture","ru":"Kumamoto Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"43"},{"id":"649bcfcf-f8a8-4211-b3b1-1ad2abbaf14c","name":"Kyōto Prefecture","ru":"Kyōto Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"26"},{"id":"fd8ff789-23fc-48d2-974f-6269bb046703","name":"Mie Prefecture","ru":"Mie Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"24"},{"id":"b4c3dfd9-6d9c-45cf-bb6a-c1af653c27d6","name":"Miyagi Prefecture","ru":"Miyagi Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"04"},{"id":"821f8700-ac02-4ea7-aa69-980558bf1f0d","name":"Miyazaki Prefecture","ru":"Miyazaki Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"45"},{"id":"8fead801-73f1-43ea-ab48-0f8673537377","name":"Nagano Prefecture","ru":"Nagano Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"20"},{"id":"ba719407-86a3-465f-a2c0-e3cbc8442c51","name":"Nagasaki Prefecture","ru":"Nagasaki Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"42"},{"id":"2ba0009d-c3fa-4648-aba2-f76bca33a92b","name":"Nara Prefecture","ru":"Nara Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"29"},{"id":"1dace8af-a9fa-4fbf-a8c9-46c0f4943513","name":"Niigata Prefecture","ru":"Niigata Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"15"},{"id":"9878db2a-6700-4419-88ff-84991fcb8c35","name":"Okayama Prefecture","ru":"Okayama Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"33"},{"id":"853740fa-ee06-4cbd-abe6-044bd3d0c48a","name":"Okinawa Prefecture","ru":"Okinawa Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"47"},{"id":"6c06c354-23ba-4921-bce5-775c690c2849","name":"Saga Prefecture","ru":"Saga Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"41"},{"id":"7042e067-7a99-465c-8394-d63d7c0eaeee","name":"Saitama Prefecture","ru":"Saitama Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"11"},{"id":"4ed5da3f-19e4-4f47-95ef-7352f1c38d48","name":"Shiga Prefecture","ru":"Shiga Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"25"},{"id":"a06053b0-51db-490a-9d08-aff194f5e1fd","name":"Shimane Prefecture","ru":"Shimane Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"32"},{"id":"43985a4e-f98e-4fda-9066-0426ac6ba333","name":"Shizuoka Prefecture","ru":"Shizuoka Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"22"},{"id":"a9d36f09-1130-4ba2-a183-b5d6aedfeccf","name":"Tochigi Prefecture","ru":"Tochigi Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"09"},{"id":"382536de-efc9-4b97-92d1-1f727fbcbe8f","name":"Tokushima Prefecture","ru":"Tokushima Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"36"},{"id":"f57c3134-b89f-4a93-826a-8ce7b4950a7e","name":"Tokyo","ru":"Tokyo","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"13"},{"id":"d2e42134-5bed-4d73-b70c-d9506b8cb362","name":"Tottori Prefecture","ru":"Tottori Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"31"},{"id":"521b9e2f-778b-4e05-aa4e-4718e0729095","name":"Toyama Prefecture","ru":"Toyama Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"16"},{"id":"9b886926-9bae-4016-bc6b-54a9184e6a21","name":"Wakayama Prefecture","ru":"Wakayama Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"30"},{"id":"9986f446-847a-4874-b8e7-ab30e835e830","name":"Yamagata Prefecture","ru":"Yamagata Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"06"},{"id":"cd4f7930-7520-4531-89e0-0870f69a0f79","name":"Yamaguchi Prefecture","ru":"Yamaguchi Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"35"},{"id":"fb10eb6e-b1c9-44db-b283-6211e2eeca74","name":"Yamanashi Prefecture","ru":"Yamanashi Prefecture","country":"ad987aed-a4db-4909-9916-139e65e4b858","countryCode":"JP","stateCode":"19"}]
+[
+  {
+    "id": "d993e92a-64ea-4d0d-9575-c1e4c15792d3",
+    "en": "Aichi Prefecture",
+    "ru": "префектура Айти",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "23"
+  },
+  {
+    "id": "416e1fb4-9fb5-4ad8-808d-f3bafdb57aa5",
+    "en": "Akita Prefecture",
+    "ru": "префектура Акита",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "05"
+  },
+  {
+    "id": "90e4a898-1077-4587-b5c9-b03d44159dee",
+    "en": "Aomori Prefecture",
+    "ru": "Аомори префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "02"
+  },
+  {
+    "id": "3dd11096-5288-4d9e-a678-9dc3666c8000",
+    "en": "Ōita Prefecture",
+    "ru": "Ōita префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "44"
+  },
+  {
+    "id": "7abab303-2c3b-46bb-b23a-ddf17c15d197",
+    "en": "Ōsaka Prefecture",
+    "ru": "Осака префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "27"
+  },
+  {
+    "id": "951a1a5b-34b1-474f-8273-886f8f44763a",
+    "en": "Chiba Prefecture",
+    "ru": "префектура Тиба",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "12"
+  },
+  {
+    "id": "9b80d5fe-b519-4798-a5b8-0a99d1aae4b4",
+    "en": "Ehime Prefecture",
+    "ru": "Ehime префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "38"
+  },
+  {
+    "id": "98870b08-cfec-461f-a779-fe3554790858",
+    "en": "Fukui Prefecture",
+    "ru": "Фукуи",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "18"
+  },
+  {
+    "id": "d7b92653-960b-4746-9cd4-4c5dfaf84806",
+    "en": "Fukuoka Prefecture",
+    "ru": "префектура Фукуока",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "40"
+  },
+  {
+    "id": "46ee54d5-60bc-4ff8-9426-b908c6bff2f4",
+    "en": "Fukushima Prefecture",
+    "ru": "Фукусима",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "07"
+  },
+  {
+    "id": "a71e6f86-5c21-4825-a5f1-9e48427fd0ac",
+    "en": "Gifu Prefecture",
+    "ru": "префектура Гифу",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "21"
+  },
+  {
+    "id": "63bd06a1-388a-4d93-bdd5-1ca9008b8a3f",
+    "en": "Gunma Prefecture",
+    "ru": "Гунма префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "10"
+  },
+  {
+    "id": "dca00503-94df-4646-9dc8-127c3f9868cf",
+    "en": "Hiroshima Prefecture",
+    "ru": "Хиросима префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "34"
+  },
+  {
+    "id": "0d41e791-5b87-4ee8-a6d3-be2d93c484f1",
+    "en": "Hokkaidō Prefecture",
+    "ru": "Хоккайдо префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "01"
+  },
+  {
+    "id": "3691b31b-73ca-423c-a550-ecb27b818a29",
+    "en": "Hyōgo Prefecture",
+    "ru": "Hyōgo префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "28"
+  },
+  {
+    "id": "275935b8-4747-4dc5-b729-afa1ab927778",
+    "en": "Ibaraki Prefecture",
+    "ru": "Ибараки",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "08"
+  },
+  {
+    "id": "3a0d3d03-5617-4725-8688-f1cb36286bf9",
+    "en": "Ishikawa Prefecture",
+    "ru": "Исикава префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "17"
+  },
+  {
+    "id": "7bbd15e0-771d-4600-96be-046c4b596493",
+    "en": "Iwate Prefecture",
+    "ru": "Iwate префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "03"
+  },
+  {
+    "id": "06a56fc3-2d05-43a4-b9d0-d95263b2d546",
+    "en": "Kagawa Prefecture",
+    "ru": "Кагава префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "37"
+  },
+  {
+    "id": "00e3df1a-2d4b-44ff-92a9-b931b1305514",
+    "en": "Kagoshima Prefecture",
+    "ru": "Кагосима префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "46"
+  },
+  {
+    "id": "345a6d33-b5f9-42d0-aa26-53c55cfdbf69",
+    "en": "Kanagawa Prefecture",
+    "ru": "Канагава префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "14"
+  },
+  {
+    "id": "0d965bdc-48a1-47f4-9411-b8d1f0e15afa",
+    "en": "Kumamoto Prefecture",
+    "ru": "Кумамото префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "43"
+  },
+  {
+    "id": "b23e9d91-a5e9-4e20-bd7c-694a00ff0c60",
+    "en": "Kyōto Prefecture",
+    "ru": "Kyōto префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "26"
+  },
+  {
+    "id": "b58cfac6-4fe3-4176-84f5-fca8a28ae9c1",
+    "en": "Mie Prefecture",
+    "ru": "Ми префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "24"
+  },
+  {
+    "id": "efeea0b6-e461-4e93-9179-62d7bda28461",
+    "en": "Miyagi Prefecture",
+    "ru": "префектура Мияги",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "04"
+  },
+  {
+    "id": "25f1a3c9-8794-4cd9-9bc5-a599631df98e",
+    "en": "Miyazaki Prefecture",
+    "ru": "Миядзаки префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "45"
+  },
+  {
+    "id": "a2a22938-662c-44b0-863c-53c5d03bd4ff",
+    "en": "Nagano Prefecture",
+    "ru": "префектура Нагано",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "20"
+  },
+  {
+    "id": "46a9189a-83ea-4aac-913a-29bdf1773a8f",
+    "en": "Nagasaki Prefecture",
+    "ru": "префектура Нагасаки",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "42"
+  },
+  {
+    "id": "7a35635f-fc61-4c6e-bdd0-1ee49fbb88ef",
+    "en": "Nara Prefecture",
+    "ru": "префектура Нара",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "29"
+  },
+  {
+    "id": "e82e7626-e300-4450-a683-897408ba1a78",
+    "en": "Niigata Prefecture",
+    "ru": "префектура Ниигата",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "15"
+  },
+  {
+    "id": "f864d855-eeae-4c6d-9760-922739192ce2",
+    "en": "Okayama Prefecture",
+    "ru": "Окаяма префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "33"
+  },
+  {
+    "id": "45bbac8b-dc7b-4c3f-b754-fecf15a55a8a",
+    "en": "Okinawa Prefecture",
+    "ru": "префектура Окинава",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "47"
+  },
+  {
+    "id": "bde3caac-11ee-412d-9332-044b9c425267",
+    "en": "Saga Prefecture",
+    "ru": "Сага префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "41"
+  },
+  {
+    "id": "e6df18c9-22bb-46f8-9143-24744b57c90a",
+    "en": "Saitama Prefecture",
+    "ru": "префектура Сайтама",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "11"
+  },
+  {
+    "id": "ff672297-1b5d-4488-9e06-99644a2ff01c",
+    "en": "Shiga Prefecture",
+    "ru": "префектура Сига",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "25"
+  },
+  {
+    "id": "6750554f-b899-4506-a9b3-c20faa3c81cc",
+    "en": "Shimane Prefecture",
+    "ru": "префектура Симанэ",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "32"
+  },
+  {
+    "id": "2ce207cb-a236-40a8-b2a0-692bbd7e0e63",
+    "en": "Shizuoka Prefecture",
+    "ru": "Сидзуока префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "22"
+  },
+  {
+    "id": "b8821f77-e7a9-4c57-9b70-4b0158efd089",
+    "en": "Tochigi Prefecture",
+    "ru": "Точиги префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "09"
+  },
+  {
+    "id": "633d1a63-5ced-40f9-87d6-34004c7dcf92",
+    "en": "Tokushima Prefecture",
+    "ru": "Токусима префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "36"
+  },
+  {
+    "id": "7d79dd39-0bb5-4d17-b4fd-8ebdbcd9a69b",
+    "en": "Tokyo",
+    "ru": "Токио",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "13"
+  },
+  {
+    "id": "be74b732-791d-4cd9-8f24-e68dd08434d7",
+    "en": "Tottori Prefecture",
+    "ru": "Тоттори префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "31"
+  },
+  {
+    "id": "8e56c67e-adb8-4ae8-acb9-2c1db395ceef",
+    "en": "Toyama Prefecture",
+    "ru": "Тояма префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "16"
+  },
+  {
+    "id": "3359e386-3f5a-47a7-86a1-0c62888aaaff",
+    "en": "Wakayama Prefecture",
+    "ru": "Вакаяма префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "30"
+  },
+  {
+    "id": "ee7a7042-6f40-409e-8893-c7f7208eb0b3",
+    "en": "Yamagata Prefecture",
+    "ru": "Ямагата префектура",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "06"
+  },
+  {
+    "id": "87301681-3395-4818-a008-0ff72ef8efcf",
+    "en": "Yamaguchi Prefecture",
+    "ru": "Ямагути",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "35"
+  },
+  {
+    "id": "6be9a410-b18e-4ef5-a99b-57fed982acd4",
+    "en": "Yamanashi Prefecture",
+    "ru": "префектура Яманаси",
+    "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "countryCode": "JP",
+    "stateCode": "19"
+  }
+]

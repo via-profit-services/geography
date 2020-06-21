@@ -1,1 +1,12 @@
-[{"id":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","name":"Eritrea","ru":"Eritrea","iso3":"ERI","iso2":"ER","phoneCode":"291","capital":"9cce3226-4070-4509-a9bc-f0ab4eb38d3d","currency":"ERN"}]
+[
+  {
+    "id": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "en": "Eritrea",
+    "ru": "Эритрея",
+    "iso3": "ERI",
+    "iso2": "ER",
+    "phoneCode": "291",
+    "capital": null,
+    "currency": "ERN"
+  }
+]

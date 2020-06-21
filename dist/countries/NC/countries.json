@@ -1,1 +1,12 @@
-[{"id":"2aefc4e9-5ce1-41b5-bffa-22e9f6b20642","name":"New Caledonia","ru":"New Caledonia","iso3":"NCL","iso2":"NC","phoneCode":"687","capital":null,"currency":"XPF"}]
+[
+  {
+    "id": "ca662d1c-a724-4a9b-9b58-0700ac67ec52",
+    "en": "New Caledonia",
+    "ru": "Новая Каледония",
+    "iso3": "NCL",
+    "iso2": "NC",
+    "phoneCode": "687",
+    "capital": null,
+    "currency": "XPF"
+  }
+]

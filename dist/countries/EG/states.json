@@ -1,1 +1,210 @@
-[{"id":"cd3320ce-fac9-4ec6-a82c-4bf5fbc0dfee","name":"Alexandria Governorate","ru":"Alexandria Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"ALX"},{"id":"c1eb39ec-44b2-431b-aa65-b6a94d82564d","name":"Aswan Governorate","ru":"Aswan Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"ASN"},{"id":"286993b6-4e3e-4429-9c0a-d6d6d549e2c7","name":"Asyut Governorate","ru":"Asyut Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"AST"},{"id":"26d33f07-eee0-4ba6-958e-8d8527846322","name":"Beheira Governorate","ru":"Beheira Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"BH"},{"id":"1171488f-9c3a-4f3c-9c59-c8370e7cadda","name":"Beni Suef Governorate","ru":"Beni Suef Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"BNS"},{"id":"f80be793-0f0b-471c-9b41-9b375290d5ea","name":"Cairo Governorate","ru":"Cairo Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"C"},{"id":"0c7c2940-f806-4d40-b128-356c97aabda0","name":"Dakahlia Governorate","ru":"Dakahlia Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"DK"},{"id":"7b989578-8f0a-4b49-9b92-caa5a10a41eb","name":"Damietta Governorate","ru":"Damietta Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"DT"},{"id":"d7a4b6bc-fb30-46f0-9a9c-00d0acaca520","name":"Faiyum Governorate","ru":"Faiyum Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"FYM"},{"id":"027c058e-f4b4-46ed-a093-1ce6b0672391","name":"Gharbia Governorate","ru":"Gharbia Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"GH"},{"id":"746a8951-334b-4175-8c69-4a1d5b2f2eed","name":"Giza Governorate","ru":"Giza Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"GZ"},{"id":"ae497211-4c67-40f8-b095-04a933c30299","name":"Ismailia Governorate","ru":"Ismailia Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"IS"},{"id":"1f0fcf49-086a-43ec-96c5-13bbbbb20b2d","name":"Kafr el-Sheikh Governorate","ru":"Kafr el-Sheikh Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"KFS"},{"id":"9c211429-9456-4f93-9f3b-661d00bcdbd9","name":"Luxor Governorate","ru":"Luxor Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"LX"},{"id":"ba3a1290-8f57-4373-9c57-5272d1c9680f","name":"Matrouh Governorate","ru":"Matrouh Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"MT"},{"id":"53f27a30-ef54-4faa-b060-77a116e25928","name":"Minya Governorate","ru":"Minya Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"MN"},{"id":"a951802d-6821-42f0-8f75-c9521f2aed34","name":"Monufia Governorate","ru":"Monufia Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"MNF"},{"id":"55cb8c32-3212-4afc-83cf-001d68ec5ea6","name":"New Valley Governorate","ru":"New Valley Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"WAD"},{"id":"39c12e36-c75f-410e-a82d-cf9a08a7987a","name":"North Sinai Governorate","ru":"North Sinai Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"SIN"},{"id":"868ca5f7-8b4c-4d0b-93ed-aec3acc82f14","name":"Port Said Governorate","ru":"Port Said Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"PTS"},{"id":"2754e036-3bfb-430c-9f4a-0a3d3dd897a1","name":"Qalyubia Governorate","ru":"Qalyubia Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"KB"},{"id":"334575f6-e487-47af-bfcd-a7789c565870","name":"Qena Governorate","ru":"Qena Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"KN"},{"id":"39d1f0ff-b98c-4fd1-b10a-f8e81598491d","name":"Red Sea Governorate","ru":"Red Sea Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"BA"},{"id":"282ba9c4-61c2-4bb0-a2f6-623b6272899d","name":"Sohag Governorate","ru":"Sohag Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"SHG"},{"id":"c15005d9-b7cd-4fe6-b997-7d6406e31cef","name":"South Sinai Governorate","ru":"South Sinai Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"JS"},{"id":"6f2c146f-ca61-471f-b82a-812d938bc2a6","name":"Suez Governorate","ru":"Suez Governorate","country":"d8bec8a6-ce9c-452c-899e-ffbcd7c9cd90","countryCode":"EG","stateCode":"SUZ"}]
+[
+  {
+    "id": "741eee21-5f7f-4c19-96f2-68237052fb5b",
+    "en": "Alexandria Governorate",
+    "ru": "Александрийская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "ALX"
+  },
+  {
+    "id": "af1ca6ea-d016-413f-9262-9ad220b98604",
+    "en": "Aswan Governorate",
+    "ru": "Асуанская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "ASN"
+  },
+  {
+    "id": "abf912fe-4947-4831-a147-3ae542514cd6",
+    "en": "Asyut Governorate",
+    "ru": "Асютская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "AST"
+  },
+  {
+    "id": "00f81b30-7b40-492d-92f4-9d724d47ec45",
+    "en": "Beheira Governorate",
+    "ru": "провинция Бехейра",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "BH"
+  },
+  {
+    "id": "c3e293ff-b02d-40ea-978f-f1bb3f307d6a",
+    "en": "Beni Suef Governorate",
+    "ru": "Бени Суеф мухафаза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "BNS"
+  },
+  {
+    "id": "8453173a-8157-44dd-ae8c-55a3ea276cda",
+    "en": "Cairo Governorate",
+    "ru": "Каирская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "C"
+  },
+  {
+    "id": "2ca3c20f-f31d-4f6f-a96a-452e0a30e2b5",
+    "en": "Dakahlia Governorate",
+    "ru": "провинция Дакахлия",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "DK"
+  },
+  {
+    "id": "2128374a-fc44-44f8-97a4-1615154f7101",
+    "en": "Damietta Governorate",
+    "ru": "провинция Дамиетта",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "DT"
+  },
+  {
+    "id": "06ebe95f-dce0-4cce-9cdf-602353c7f21a",
+    "en": "Faiyum Governorate",
+    "ru": "губернаторство Фаюм",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "FYM"
+  },
+  {
+    "id": "7d7abc29-fba9-495c-8e77-f59391271526",
+    "en": "Gharbia Governorate",
+    "ru": "Гарбия мухафаза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "GH"
+  },
+  {
+    "id": "83ca29fc-ac8e-48a3-b2ca-3cbd0896bd81",
+    "en": "Giza Governorate",
+    "ru": "губернаторство Гиза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "GZ"
+  },
+  {
+    "id": "7e63023e-0985-4dac-b999-0b9fef6b0b65",
+    "en": "Ismailia Governorate",
+    "ru": "Исмаилия мухафаза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "IS"
+  },
+  {
+    "id": "49016315-f49d-432c-950c-e47411e7e14f",
+    "en": "Kafr el-Sheikh Governorate",
+    "ru": "Кафр-эш-Шейх мухафаза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "KFS"
+  },
+  {
+    "id": "debff536-9ee0-456f-ac93-d88a7c292864",
+    "en": "Luxor Governorate",
+    "ru": "Луксорская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "LX"
+  },
+  {
+    "id": "4be6b387-f045-4569-944a-527ba9f9a48f",
+    "en": "Matrouh Governorate",
+    "ru": "губерния Матрух",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "MT"
+  },
+  {
+    "id": "b1223103-fab7-4b61-a4c9-66b32640b283",
+    "en": "Minya Governorate",
+    "ru": "Минская область",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "MN"
+  },
+  {
+    "id": "9b563873-0abe-4c8a-911e-9e245e0f25f1",
+    "en": "Monufia Governorate",
+    "ru": "губернаторство Монуфия",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "MNF"
+  },
+  {
+    "id": "de6e1dd0-8d29-4f40-87fe-196b1eb40e65",
+    "en": "New Valley Governorate",
+    "ru": "провинция Новая долина",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "WAD"
+  },
+  {
+    "id": "bdfab65a-3fef-4c36-ad5e-fc739b749f0e",
+    "en": "North Sinai Governorate",
+    "ru": "Синайская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "SIN"
+  },
+  {
+    "id": "7ecf3f8e-9e97-42e1-9f8d-48646281f90a",
+    "en": "Port Said Governorate",
+    "ru": "Порт-Саид, мухафаза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "PTS"
+  },
+  {
+    "id": "134842e5-761e-4c25-a00d-4406302f09a1",
+    "en": "Qalyubia Governorate",
+    "ru": "губерния Калюбия",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "KB"
+  },
+  {
+    "id": "a1fddfb9-1403-4fd3-9dcb-ad8a5813aaad",
+    "en": "Qena Governorate",
+    "ru": "провинция Кена",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "KN"
+  },
+  {
+    "id": "10007a32-1cb5-4206-a788-c981bc9d1b67",
+    "en": "Red Sea Governorate",
+    "ru": "губернаторство Красное море",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "BA"
+  },
+  {
+    "id": "235966e4-5895-4c97-96bd-26c59c47a176",
+    "en": "Sohag Governorate",
+    "ru": "Сохаг мухафаза",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "SHG"
+  },
+  {
+    "id": "246e3340-3867-4e9f-961c-bd85821abd0b",
+    "en": "South Sinai Governorate",
+    "ru": "Южно-Синайская губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "JS"
+  },
+  {
+    "id": "0746114a-305c-437d-abc5-d99b38607449",
+    "en": "Suez Governorate",
+    "ru": "Суэцкая губерния",
+    "country": "de80fd68-08fd-41a5-a065-1ba500b3ccb9",
+    "countryCode": "EG",
+    "stateCode": "SUZ"
+  }
+]

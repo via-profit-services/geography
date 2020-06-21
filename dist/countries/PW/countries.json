@@ -1,1 +1,12 @@
-[{"id":"2020aa28-ac5c-4097-bae2-2fb185f5e478","name":"Palau","ru":"Palau","iso3":"PLW","iso2":"PW","phoneCode":"680","capital":null,"currency":"USD"}]
+[
+  {
+    "id": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "en": "Palau",
+    "ru": "Палау",
+    "iso3": "PLW",
+    "iso2": "PW",
+    "phoneCode": "680",
+    "capital": null,
+    "currency": "USD"
+  }
+]

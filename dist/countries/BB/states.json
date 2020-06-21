@@ -1,1 +1,90 @@
-[{"id":"d000b3a6-da39-4afc-ad08-7bc7e2c3381b","name":"Christ Church","ru":"Christ Church","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"01"},{"id":"782f5208-6f80-46ea-abb3-b9d4831024bc","name":"Saint Andrew","ru":"Saint Andrew","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"02"},{"id":"ce3a6324-5ef5-46b4-abe8-d69db1fad336","name":"Saint George","ru":"Saint George","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"03"},{"id":"e14d128a-681d-45c8-8511-7b2a8f9783c3","name":"Saint James","ru":"Saint James","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"04"},{"id":"c873e61c-4dff-435b-b220-a89c5f59e299","name":"Saint John","ru":"Saint John","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"05"},{"id":"ce8fc5ea-4319-47ed-891f-97de61ace9c8","name":"Saint Joseph","ru":"Saint Joseph","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"06"},{"id":"c81e0397-e620-425b-9be1-c1ea9d4ec26d","name":"Saint Lucy","ru":"Saint Lucy","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"07"},{"id":"665948bc-db4a-41ea-a037-5b6170ff969c","name":"Saint Michael","ru":"Saint Michael","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"08"},{"id":"ace12ecb-2731-4977-b4a8-1cb50c0defd6","name":"Saint Peter","ru":"Saint Peter","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"09"},{"id":"5d4e962c-964d-45eb-9765-9fbe3c9163a5","name":"Saint Philip","ru":"Saint Philip","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"10"},{"id":"5be113ab-8c20-4b6e-a0d4-785d891e26f1","name":"Saint Thomas","ru":"Saint Thomas","country":"2fc1c46c-4c6e-4cfa-ac18-84532185f9d5","countryCode":"BB","stateCode":"11"}]
+[
+  {
+    "id": "eaeeb756-b21f-40e5-98fb-1794d0874c60",
+    "en": "Christ Church",
+    "ru": "областная церковь Христа",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "01"
+  },
+  {
+    "id": "387d2d4f-dc1f-4362-b069-da53e99d0715",
+    "en": "Saint Andrew",
+    "ru": "Святой Андрей",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "02"
+  },
+  {
+    "id": "8d2f9493-4b74-40dd-bdff-53dbbccd8980",
+    "en": "Saint George",
+    "ru": "Святой Георгий",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "03"
+  },
+  {
+    "id": "26f13d3d-0556-4437-8988-30f64f515731",
+    "en": "Saint James",
+    "ru": "Сент-Джеймс",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "04"
+  },
+  {
+    "id": "b9013a72-aa14-4841-a579-52d5c38a4cae",
+    "en": "Saint John",
+    "ru": "Сент-Джон",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "05"
+  },
+  {
+    "id": "e24f2a80-74ea-4502-8423-9dae89a092f4",
+    "en": "Saint Joseph",
+    "ru": "Святой Иосиф",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "06"
+  },
+  {
+    "id": "eabbcdb5-0885-4740-963a-e1b394b73859",
+    "en": "Saint Lucy",
+    "ru": "Сент-Люси",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "07"
+  },
+  {
+    "id": "716fec22-deb0-4933-ac30-e3d18cda0519",
+    "en": "Saint Michael",
+    "ru": "Святой Михаил",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "08"
+  },
+  {
+    "id": "4595f5e9-fb7f-4d0e-9a96-62e5419deaa7",
+    "en": "Saint Peter",
+    "ru": "Святой Петр",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "09"
+  },
+  {
+    "id": "b7844194-3310-4369-965f-dee5906e4657",
+    "en": "Saint Philip",
+    "ru": "Святой Филипп",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "10"
+  },
+  {
+    "id": "7c777c23-7049-40c8-9f4d-9992c7b43025",
+    "en": "Saint Thomas",
+    "ru": "Сент-Томас",
+    "country": "c7c24836-ef97-4bfc-a788-e317d5e72107",
+    "countryCode": "BB",
+    "stateCode": "11"
+  }
+]

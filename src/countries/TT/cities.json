@@ -1,1 +1,277 @@
-[{"id":"b0339d24-2c0b-4040-8a5c-05cee5b11d61","name":"Arima","ru":"Arima","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"ff44387c-fdec-4a0e-8c7e-143cbbcde4c1","stateCode":"ARI","latitude":"10.63737000","longitude":"-61.28228000"},{"id":"996c0218-81ad-47f4-8bb8-dad9fc8abaa0","name":"Chaguanas","ru":"Chaguanas","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"266a1c7c-8239-4414-a79a-1b57dffe8333","stateCode":"CHA","latitude":"10.51667000","longitude":"-61.41667000"},{"id":"363aef5f-5deb-4816-8b1b-0e3411a0bf17","name":"Ward of Chaguanas","ru":"Ward of Chaguanas","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"266a1c7c-8239-4414-a79a-1b57dffe8333","stateCode":"CHA","latitude":"10.50000000","longitude":"-61.38333000"},{"id":"b6e6f6b0-8269-49b1-8fd3-14897015a313","name":"Couva","ru":"Couva","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"846c84be-0b7a-461c-b059-b9e6090d7ac6","stateCode":"CTT","latitude":"10.42248000","longitude":"-61.46748000"},{"id":"7f8558d3-12c1-49d3-9bba-a56d68c0c5ee","name":"Tabaquite","ru":"Tabaquite","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"846c84be-0b7a-461c-b059-b9e6090d7ac6","stateCode":"CTT","latitude":"10.38824000","longitude":"-61.29704000"},{"id":"8b0c68e5-5ed5-46df-930d-dbd309e5a8b6","name":"Petit Valley","ru":"Petit Valley","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"b58679e5-57a9-45a3-bd71-660fd2d8b604","stateCode":"DMN","latitude":"10.69974000","longitude":"-61.54717000"},{"id":"674cffa8-06a2-48f2-b02a-3a67f8db4782","name":"Ward of Diego Martin","ru":"Ward of Diego Martin","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"b58679e5-57a9-45a3-bd71-660fd2d8b604","stateCode":"DMN","latitude":"10.70000000","longitude":"-61.58333000"},{"id":"bea7d189-467a-4626-a840-1c2f126ba25c","name":"Scarborough","ru":"Scarborough","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"aadf8fe8-5845-4ed4-9b33-2f3d5df38632","stateCode":"ETO","latitude":"11.18229000","longitude":"-60.73525000"},{"id":"836fff1b-454a-4f23-a9d8-aa175390ed94","name":"Debe","ru":"Debe","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"d3f1be89-bd27-4a7c-b144-5c1e0a2800eb","stateCode":"PED","latitude":"10.20846000","longitude":"-61.45273000"},{"id":"2cc87839-11bd-4fb2-bfc9-5bcc62973c0c","name":"Peñal","ru":"Peñal","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"d3f1be89-bd27-4a7c-b144-5c1e0a2800eb","stateCode":"PED","latitude":"10.16667000","longitude":"-61.46667000"},{"id":"9c09fb65-4981-4059-afbb-098acc3a126f","name":"Point Fortin","ru":"Point Fortin","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"4f3b2f9f-2185-4c52-9faf-9cb18208cb23","stateCode":"PTF","latitude":"10.17411000","longitude":"-61.68407000"},{"id":"8b9a3547-bc44-4d6b-b802-e6fc0d8812a4","name":"Mucurapo","ru":"Mucurapo","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"93c41bca-e18a-4d62-bf69-fe60f2b7cefc","stateCode":"POS","latitude":"10.66253000","longitude":"-61.53697000"},{"id":"ad02903c-c0d2-4f49-acce-b833b952027e","name":"Port of Spain","ru":"Port of Spain","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"93c41bca-e18a-4d62-bf69-fe60f2b7cefc","stateCode":"POS","latitude":"10.66668000","longitude":"-61.51889000"},{"id":"ac8cfbd4-aab2-4eac-8eaa-a301c38baa24","name":"Princes Town","ru":"Princes Town","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"9f1ef9a9-cd2a-4f91-98d0-b561a2942d47","stateCode":"PRT","latitude":"10.27184000","longitude":"-61.37103000"},{"id":"ad41ce42-b72c-46cf-9297-ff1c9e370fdd","name":"Marabella","ru":"Marabella","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"59ce01de-5978-4ee8-a11a-6cb00f1d3c1d","stateCode":"SFO","latitude":"10.30618000","longitude":"-61.44671000"},{"id":"206e000c-3728-4cfb-a82b-05a0e5bb133d","name":"Mon Repos","ru":"Mon Repos","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"59ce01de-5978-4ee8-a11a-6cb00f1d3c1d","stateCode":"SFO","latitude":"10.27979000","longitude":"-61.44590000"},{"id":"100cf40e-7bfe-46cf-b7e7-e7ffab04fffb","name":"San Fernando","ru":"San Fernando","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"59ce01de-5978-4ee8-a11a-6cb00f1d3c1d","stateCode":"SFO","latitude":"10.27969000","longitude":"-61.46835000"},{"id":"57be72a2-0b0c-40c0-86e1-239d660672ca","name":"Laventille","ru":"Laventille","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"845794ab-8e1f-4603-8b82-78db62a6ef11","stateCode":"SJL","latitude":"10.64917000","longitude":"-61.49889000"},{"id":"302acfb4-92ac-40e8-b1c8-a5d8624ad7c6","name":"Sangre Grande","ru":"Sangre Grande","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"df6a6fdf-af94-4a81-9620-c18607ea5eef","stateCode":"SGE","latitude":"10.58705000","longitude":"-61.13008000"},{"id":"a2b18339-f690-4791-b707-ce86224980cd","name":"Siparia","ru":"Siparia","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"cb53b0a0-904e-4de8-bbb7-bdf98f63cdbc","stateCode":"SIP","latitude":"10.14525000","longitude":"-61.50740000"},{"id":"7dc03501-506f-4695-b7f6-b721a50633b7","name":"Ward of Siparia","ru":"Ward of Siparia","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"cb53b0a0-904e-4de8-bbb7-bdf98f63cdbc","stateCode":"SIP","latitude":"10.15000000","longitude":"-61.46667000"},{"id":"52bc4633-d91b-4a90-834a-b162261c3729","name":"Arouca","ru":"Arouca","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"747fe20b-490b-47ff-aa9a-31c84b7844b7","stateCode":"TUP","latitude":"10.62877000","longitude":"-61.33487000"},{"id":"a4bbb553-51d9-465b-b491-a4c37245af32","name":"Paradise","ru":"Paradise","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"747fe20b-490b-47ff-aa9a-31c84b7844b7","stateCode":"TUP","latitude":"10.65298000","longitude":"-61.36298000"},{"id":"e11ca8f6-9535-4b23-adee-34337b2a783e","name":"Tunapuna","ru":"Tunapuna","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"747fe20b-490b-47ff-aa9a-31c84b7844b7","stateCode":"TUP","latitude":"10.65245000","longitude":"-61.38878000"},{"id":"4fe0c606-9a3d-4557-a3a4-7cadc78ad57e","name":"Rio Claro","ru":"Rio Claro","country":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","countryCode":"TT","state":"4a6a6272-a48f-465c-baf0-cf0f0b2880a2","stateCode":"WTO","latitude":"10.30594000","longitude":"-61.17556000"}]
+[
+  {
+    "id": "13bcee09-5c3d-4fa9-9d24-78a707e36a27",
+    "en": "Arima",
+    "ru": "Арима",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "0bde2ff9-a347-495c-acb0-6713c2812399",
+    "stateCode": "ARI",
+    "latitude": "10.63737000",
+    "longitude": "-61.28228000"
+  },
+  {
+    "id": "bdcf68cd-8e4c-48c6-b283-c8a2f46050c8",
+    "en": "Chaguanas",
+    "ru": "Чагуанас",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "431ad74a-6bc7-4c36-9e88-fa63b7767f1e",
+    "stateCode": "CHA",
+    "latitude": "10.51667000",
+    "longitude": "-61.41667000"
+  },
+  {
+    "id": "b462b872-0c4e-48c8-b94b-984a402281fe",
+    "en": "Ward of Chaguanas",
+    "ru": "городская палата Чагуанас",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "431ad74a-6bc7-4c36-9e88-fa63b7767f1e",
+    "stateCode": "CHA",
+    "latitude": "10.50000000",
+    "longitude": "-61.38333000"
+  },
+  {
+    "id": "4c54831b-9211-4d36-9746-b8b2dc19fdfe",
+    "en": "Couva",
+    "ru": "Кува",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "47888753-96a2-4341-8bfe-3932c881918f",
+    "stateCode": "CTT",
+    "latitude": "10.42248000",
+    "longitude": "-61.46748000"
+  },
+  {
+    "id": "8bd3a53f-4389-4da6-af55-106508fcdb4a",
+    "en": "Tabaquite",
+    "ru": "Табаквит",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "47888753-96a2-4341-8bfe-3932c881918f",
+    "stateCode": "CTT",
+    "latitude": "10.38824000",
+    "longitude": "-61.29704000"
+  },
+  {
+    "id": "2492febd-b3f7-4116-a0c5-9528ad409cb7",
+    "en": "Petit Valley",
+    "ru": "Petit Valley",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "90b8003d-b255-44e2-88b1-a61702ee7459",
+    "stateCode": "DMN",
+    "latitude": "10.69974000",
+    "longitude": "-61.54717000"
+  },
+  {
+    "id": "9fbc5e6a-6083-4e07-8ab1-bc1880fbac4d",
+    "en": "Ward of Diego Martin",
+    "ru": "Уорд Диего Мартина",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "90b8003d-b255-44e2-88b1-a61702ee7459",
+    "stateCode": "DMN",
+    "latitude": "10.70000000",
+    "longitude": "-61.58333000"
+  },
+  {
+    "id": "2154e77e-d7a3-4ab0-a05d-4a76aa39714c",
+    "en": "Scarborough",
+    "ru": "Скарборо",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "b985ce0d-bf41-4cce-83a1-d41304566020",
+    "stateCode": "ETO",
+    "latitude": "11.18229000",
+    "longitude": "-60.73525000"
+  },
+  {
+    "id": "214d3d9e-17fa-443a-a960-ec7aaa6cce3c",
+    "en": "Debe",
+    "ru": "Дебе",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "b27c1d31-cf3f-4d6a-98b1-45d276dc35c7",
+    "stateCode": "PED",
+    "latitude": "10.20846000",
+    "longitude": "-61.45273000"
+  },
+  {
+    "id": "8a87e60b-d89c-4613-97fc-e920d5b8da90",
+    "en": "Peñal",
+    "ru": "Пеньяль",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "b27c1d31-cf3f-4d6a-98b1-45d276dc35c7",
+    "stateCode": "PED",
+    "latitude": "10.16667000",
+    "longitude": "-61.46667000"
+  },
+  {
+    "id": "768a375a-55e1-4e6c-aa25-36408e455f8d",
+    "en": "Point Fortin",
+    "ru": "Пойнт Фортин",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "b86c2038-35ab-47c3-aeee-19a3984d521f",
+    "stateCode": "PTF",
+    "latitude": "10.17411000",
+    "longitude": "-61.68407000"
+  },
+  {
+    "id": "9b278a13-748e-48ca-b4d3-01183e3a0bfa",
+    "en": "Mucurapo",
+    "ru": "Мукурапо",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "3cfc7c45-095c-4396-b6b2-db8ee8d8c07b",
+    "stateCode": "POS",
+    "latitude": "10.66253000",
+    "longitude": "-61.53697000"
+  },
+  {
+    "id": "ca145290-8b0e-457e-acaa-81e4c81f29ed",
+    "en": "Port of Spain",
+    "ru": "Порт-оф-Спейн",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "3cfc7c45-095c-4396-b6b2-db8ee8d8c07b",
+    "stateCode": "POS",
+    "latitude": "10.66668000",
+    "longitude": "-61.51889000"
+  },
+  {
+    "id": "92c7f0ac-6949-44a9-ba50-aca87b5e2523",
+    "en": "Princes Town",
+    "ru": "князей город",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "6107553c-71db-42c4-9fb2-72f245e2229f",
+    "stateCode": "PRT",
+    "latitude": "10.27184000",
+    "longitude": "-61.37103000"
+  },
+  {
+    "id": "fdd6e633-90d8-48bc-b14e-5e8e99beb4dc",
+    "en": "Marabella",
+    "ru": "Марабелла",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "51306532-45a6-4bc4-94a1-555c9b9afca8",
+    "stateCode": "SFO",
+    "latitude": "10.30618000",
+    "longitude": "-61.44671000"
+  },
+  {
+    "id": "2cf51cda-b2e3-4636-b8ef-e6b4c82cb23f",
+    "en": "Mon Repos",
+    "ru": "пн репо",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "51306532-45a6-4bc4-94a1-555c9b9afca8",
+    "stateCode": "SFO",
+    "latitude": "10.27979000",
+    "longitude": "-61.44590000"
+  },
+  {
+    "id": "41400940-859a-405d-89f3-1334f2dc7df6",
+    "en": "San Fernando",
+    "ru": "Сан Фернандо",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "51306532-45a6-4bc4-94a1-555c9b9afca8",
+    "stateCode": "SFO",
+    "latitude": "10.27969000",
+    "longitude": "-61.46835000"
+  },
+  {
+    "id": "530ac97c-56aa-48d0-bcd7-1cf0ff07c6fe",
+    "en": "Laventille",
+    "ru": "Лавентиль",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "fd75db43-09a7-4b3a-9bb6-e5c769823ed5",
+    "stateCode": "SJL",
+    "latitude": "10.64917000",
+    "longitude": "-61.49889000"
+  },
+  {
+    "id": "e6e05c9a-9a05-42f4-b42c-21abd93e2210",
+    "en": "Sangre Grande",
+    "ru": "Сангре Гранде",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "819f74f1-c312-469b-84c0-a7e2514ee00e",
+    "stateCode": "SGE",
+    "latitude": "10.58705000",
+    "longitude": "-61.13008000"
+  },
+  {
+    "id": "0cb71ebc-b99a-445a-85bf-3b1914e23c18",
+    "en": "Siparia",
+    "ru": "Сипария",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "58943867-4d44-4b0c-a7cb-5f55a04e7616",
+    "stateCode": "SIP",
+    "latitude": "10.14525000",
+    "longitude": "-61.50740000"
+  },
+  {
+    "id": "9dcd693b-9402-4fe9-bf88-fd5a3951b2d0",
+    "en": "Ward of Siparia",
+    "ru": "городская палата Сипарии",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "58943867-4d44-4b0c-a7cb-5f55a04e7616",
+    "stateCode": "SIP",
+    "latitude": "10.15000000",
+    "longitude": "-61.46667000"
+  },
+  {
+    "id": "db3a2d2d-eed6-4b8f-801d-40178b465203",
+    "en": "Arouca",
+    "ru": "Арока",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "e8e14b6e-8c5d-4752-8a60-b3ecc5b80e2b",
+    "stateCode": "TUP",
+    "latitude": "10.62877000",
+    "longitude": "-61.33487000"
+  },
+  {
+    "id": "10d06b24-f132-4ecd-9e61-165c70ec8320",
+    "en": "Paradise",
+    "ru": "рай",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "e8e14b6e-8c5d-4752-8a60-b3ecc5b80e2b",
+    "stateCode": "TUP",
+    "latitude": "10.65298000",
+    "longitude": "-61.36298000"
+  },
+  {
+    "id": "5662dd1a-8645-4c00-875a-679292b107cd",
+    "en": "Tunapuna",
+    "ru": "Тунапуна",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "e8e14b6e-8c5d-4752-8a60-b3ecc5b80e2b",
+    "stateCode": "TUP",
+    "latitude": "10.65245000",
+    "longitude": "-61.38878000"
+  },
+  {
+    "id": "cac2c337-e3ab-43c4-bf5b-34d287ef68ef",
+    "en": "Rio Claro",
+    "ru": "Рио Кларо",
+    "country": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "countryCode": "TT",
+    "state": "6559c7e0-5941-466d-9903-aab97861d822",
+    "stateCode": "WTO",
+    "latitude": "10.30594000",
+    "longitude": "-61.17556000"
+  }
+]

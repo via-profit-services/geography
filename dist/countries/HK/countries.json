@@ -1,1 +1,12 @@
-[{"id":"5b296a53-44bf-4ecd-a1fc-15c0687f957b","name":"Hong Kong S.A.R.","ru":"Hong Kong S.A.R.","iso3":"HKG","iso2":"HK","phoneCode":"852","capital":null,"currency":"HKD"}]
+[
+  {
+    "id": "302b651f-2e2b-43ea-a151-8746aec33854",
+    "en": "Hong Kong S.A.R.",
+    "ru": "Гонконг С.А.Р.",
+    "iso3": "HKG",
+    "iso2": "HK",
+    "phoneCode": "852",
+    "capital": null,
+    "currency": "HKD"
+  }
+]

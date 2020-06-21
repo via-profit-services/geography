@@ -1,1 +1,222 @@
-[{"id":"37df7d5c-c5d3-4807-9419-c9ba1d61f7b8","name":"Alice Town","ru":"Alice Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"523831bb-c9c4-456a-aa29-e477aad62d27","stateCode":"BI","latitude":"25.72800000","longitude":"-79.29721000"},{"id":"87073d78-fb32-40ef-9623-4f1a00192d5c","name":"Arthur’s Town","ru":"Arthur’s Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"a94d2ea3-ecf7-4c98-ba58-c67684f21e6e","stateCode":"CI","latitude":"24.62240000","longitude":"-75.67151000"},{"id":"3d3f3dee-0cd3-4b4d-b5b0-1dfb7ab026e2","name":"Marsh Harbour","ru":"Marsh Harbour","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"9ca75d19-591b-4aaa-aab2-f17e2d6f8bfa","stateCode":"CO","latitude":"26.54124000","longitude":"-77.06360000"},{"id":"75136fb7-55a5-4e6f-a6e7-5ac4fb403392","name":"Colonel Hill","ru":"Colonel Hill","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"04d8c9d3-f6d6-46e0-b45f-d3b76ce8be24","stateCode":"CK","latitude":"22.75450000","longitude":"-74.20415000"},{"id":"5aeb3251-8c48-4658-b647-584c1633cf13","name":"High Rock","ru":"High Rock","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"ad153cc5-ba40-4eec-991d-be17a5c3ac61","stateCode":"EG","latitude":"26.60999000","longitude":"-78.27863000"},{"id":"e915d07c-1ed6-43a3-97c2-abaa73ddb08c","name":"George Town","ru":"George Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"b283d301-4801-4720-94c5-86bda371f548","stateCode":"EX","latitude":"23.51616000","longitude":"-75.78665000"},{"id":"63972627-db6e-4017-a361-4557ddfa524b","name":"Freeport","ru":"Freeport","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"9bacbdc7-de98-4af0-84be-9002321be2b4","stateCode":"FP","latitude":"26.53333000","longitude":"-78.70000000"},{"id":"664a4334-bd4b-4adc-ab78-5b038ddd87bf","name":"Lucaya","ru":"Lucaya","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"9bacbdc7-de98-4af0-84be-9002321be2b4","stateCode":"FP","latitude":"26.53333000","longitude":"-78.66667000"},{"id":"56d69ffb-ff03-4e04-b76c-2dd75f6d30a5","name":"Dunmore Town","ru":"Dunmore Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"2eb6ed23-7d39-4aef-bc4c-790103cc777a","stateCode":"HI","latitude":"25.50216000","longitude":"-76.63633000"},{"id":"08f1d634-646b-4de1-8436-f6b37a694b9a","name":"Matthew Town","ru":"Matthew Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"90f98890-8f0b-43c6-9792-907158a1d7e9","stateCode":"IN","latitude":"20.94982000","longitude":"-73.67346000"},{"id":"a1200c88-4799-49a5-9653-4c5194486c47","name":"Clarence Town","ru":"Clarence Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"94b1cacd-cb67-48bf-b1bb-900b348ecf78","stateCode":"LI","latitude":"23.10000000","longitude":"-74.98333000"},{"id":"0f2bf04c-0cb2-4a96-a5ca-0f918e05868e","name":"Abraham’s Bay","ru":"Abraham’s Bay","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"0e97647d-bb43-4299-8604-cf7e1e5f49b6","stateCode":"MG","latitude":"22.36667000","longitude":"-72.96667000"},{"id":"80b8f59b-e869-4827-af1f-01e834b294eb","name":"Cooper’s Town","ru":"Cooper’s Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"2a0cdd15-4237-43d1-8aee-28a01b40e4d2","stateCode":"NO","latitude":"26.87137000","longitude":"-77.51131000"},{"id":"6751067b-c173-41ff-8771-a74299a28bf9","name":"Andros Town","ru":"Andros Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"1970f75b-b0a6-4856-9cf0-468b690b6e42","stateCode":"NS","latitude":"24.70502000","longitude":"-77.76912000"},{"id":"5274d6d1-aa7c-4163-860a-708a66ed619e","name":"San Andros","ru":"San Andros","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"1970f75b-b0a6-4856-9cf0-468b690b6e42","stateCode":"NS","latitude":"25.06667000","longitude":"-78.05000000"},{"id":"b8651c6b-1de1-4879-b153-63e89bcd5ad3","name":"Duncan Town","ru":"Duncan Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"bbd40b30-fce3-45f3-b0d4-36a46d0ed7b5","stateCode":"RI","latitude":"22.19083000","longitude":"-75.72583000"},{"id":"375a55e5-952e-4c51-8d86-281ef84b668c","name":"Port Nelson","ru":"Port Nelson","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"f3268a9c-0b49-4bdc-97dd-1fa8a40e89f2","stateCode":"RC","latitude":"23.64967000","longitude":"-74.84157000"},{"id":"fb9e88dd-626e-4ca7-8008-7849f5b60839","name":"Cockburn Town","ru":"Cockburn Town","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"8d01b549-66f6-45c6-b322-de62eaad749a","stateCode":"SS","latitude":"24.05179000","longitude":"-74.53138000"},{"id":"a83d6be9-86fb-435a-b8d5-8111f76b9f58","name":"Spanish Wells","ru":"Spanish Wells","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"8ed40e9c-ada8-4c86-9dd5-6ec34649133f","stateCode":"SW","latitude":"25.54717000","longitude":"-76.76405000"},{"id":"3fcb5271-c599-469a-93d8-16bbbf1aa527","name":"West End","ru":"West End","country":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","countryCode":"BS","state":"42c286f4-595e-44b7-90bb-4d648ff0ae1c","stateCode":"WG","latitude":"26.68711000","longitude":"-78.97702000"}]
+[
+  {
+    "id": "08950122-dc5c-4f19-bc35-4927b71c7e3a",
+    "en": "Alice Town",
+    "ru": "Алиса город",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "a5fee46b-b6e5-4813-b281-38128ec8fdd1",
+    "stateCode": "BI",
+    "latitude": "25.72800000",
+    "longitude": "-79.29721000"
+  },
+  {
+    "id": "a848eb32-d04b-4c55-8a1f-525b629d938d",
+    "en": "Arthur’s Town",
+    "ru": "Артур Таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "ec2053e2-49b8-43eb-b4d1-9c533cba257c",
+    "stateCode": "CI",
+    "latitude": "24.62240000",
+    "longitude": "-75.67151000"
+  },
+  {
+    "id": "77e85c65-da7a-4eb7-8361-ec23cad3e765",
+    "en": "Marsh Harbour",
+    "ru": "Марш Харбор",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "a4fdc966-e2e2-4b6f-a34a-a9ecdd571caa",
+    "stateCode": "CO",
+    "latitude": "26.54124000",
+    "longitude": "-77.06360000"
+  },
+  {
+    "id": "cad1fa52-4338-4927-aa15-2d0a9423a754",
+    "en": "Colonel Hill",
+    "ru": "полковник холм",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "7f65408e-f7de-4411-9f09-1f36fd23bf5b",
+    "stateCode": "CK",
+    "latitude": "22.75450000",
+    "longitude": "-74.20415000"
+  },
+  {
+    "id": "fd1a14bc-2c70-496c-92a8-80b6a2297cc9",
+    "en": "High Rock",
+    "ru": "Хай Рок",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "45aaf55c-851b-46e4-85cf-f754476fd47c",
+    "stateCode": "EG",
+    "latitude": "26.60999000",
+    "longitude": "-78.27863000"
+  },
+  {
+    "id": "dc76f7ec-bfe2-4785-a3ff-cd117c2f00a3",
+    "en": "George Town",
+    "ru": "Джорджтаун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "6aa42e06-7fd4-4ce7-92a1-09cc49817a6e",
+    "stateCode": "EX",
+    "latitude": "23.51616000",
+    "longitude": "-75.78665000"
+  },
+  {
+    "id": "d3145ab5-f4fe-4827-bff9-d543b5ff8a73",
+    "en": "Freeport",
+    "ru": "Фрипорт",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "b8bda0b2-107a-4258-bba5-a0aea3692e8d",
+    "stateCode": "FP",
+    "latitude": "26.53333000",
+    "longitude": "-78.70000000"
+  },
+  {
+    "id": "13296429-4a6d-4c15-97f3-2a3cf580f1fa",
+    "en": "Lucaya",
+    "ru": "Лучая",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "b8bda0b2-107a-4258-bba5-a0aea3692e8d",
+    "stateCode": "FP",
+    "latitude": "26.53333000",
+    "longitude": "-78.66667000"
+  },
+  {
+    "id": "a2518668-31d0-48eb-816e-c1b69926736d",
+    "en": "Dunmore Town",
+    "ru": "Данмор Таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "3a5ba121-96fd-412c-9bb2-dc28a4082b43",
+    "stateCode": "HI",
+    "latitude": "25.50216000",
+    "longitude": "-76.63633000"
+  },
+  {
+    "id": "ee9eeb9d-28ca-49c7-b491-635d438b54ce",
+    "en": "Matthew Town",
+    "ru": "Мэтью Таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "f2aec665-704c-4ebd-a05f-bdd05e0e9494",
+    "stateCode": "IN",
+    "latitude": "20.94982000",
+    "longitude": "-73.67346000"
+  },
+  {
+    "id": "9ff5707b-3270-4807-9c42-0841bafd20ce",
+    "en": "Clarence Town",
+    "ru": "кларенс таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "893fb344-367c-439f-ad4c-33b7a1737f7f",
+    "stateCode": "LI",
+    "latitude": "23.10000000",
+    "longitude": "-74.98333000"
+  },
+  {
+    "id": "8fe758b6-ff16-4a5d-9b96-d419219a1cdc",
+    "en": "Abraham’s Bay",
+    "ru": "бухта Авраама",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "77c1d4dd-a595-44c7-a9ae-4467c8b29010",
+    "stateCode": "MG",
+    "latitude": "22.36667000",
+    "longitude": "-72.96667000"
+  },
+  {
+    "id": "86b3390c-b9f8-4cf5-8233-8e628cb6a10d",
+    "en": "Cooper’s Town",
+    "ru": "Купер Таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "f1e2043d-6f09-4e33-9539-b78f672d6982",
+    "stateCode": "NO",
+    "latitude": "26.87137000",
+    "longitude": "-77.51131000"
+  },
+  {
+    "id": "8e23b0aa-5f60-4f59-8143-7d07551a4645",
+    "en": "Andros Town",
+    "ru": "Андрос город",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "34e75d1e-4301-473c-9072-7a5f309b1c90",
+    "stateCode": "NS",
+    "latitude": "24.70502000",
+    "longitude": "-77.76912000"
+  },
+  {
+    "id": "6cfc2370-9f7c-4f42-ae66-635a6d5e7736",
+    "en": "San Andros",
+    "ru": "Сан Андрос",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "34e75d1e-4301-473c-9072-7a5f309b1c90",
+    "stateCode": "NS",
+    "latitude": "25.06667000",
+    "longitude": "-78.05000000"
+  },
+  {
+    "id": "efee4673-06fc-4dd0-a756-d1bf8a3cb52c",
+    "en": "Duncan Town",
+    "ru": "Дункан Таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "31086780-bb2e-4782-900b-8d1f801ceced",
+    "stateCode": "RI",
+    "latitude": "22.19083000",
+    "longitude": "-75.72583000"
+  },
+  {
+    "id": "2603f9d2-a577-442e-a575-0c31822a6b89",
+    "en": "Port Nelson",
+    "ru": "Порт Нельсон",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "a6d0c8fd-ffb2-4597-807e-b818012e3868",
+    "stateCode": "RC",
+    "latitude": "23.64967000",
+    "longitude": "-74.84157000"
+  },
+  {
+    "id": "c9b40f8d-df7f-4a05-a59a-bfda4fb8c071",
+    "en": "Cockburn Town",
+    "ru": "Кокберн Таун",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "63d4c873-4597-4971-992b-4b595e61702b",
+    "stateCode": "SS",
+    "latitude": "24.05179000",
+    "longitude": "-74.53138000"
+  },
+  {
+    "id": "0c2a2dc2-55f3-43c4-9254-3b0bfacfc6ee",
+    "en": "Spanish Wells",
+    "ru": "Испанский Уэллс",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "b96fbe06-2c22-44fd-8df3-e169b58f5708",
+    "stateCode": "SW",
+    "latitude": "25.54717000",
+    "longitude": "-76.76405000"
+  },
+  {
+    "id": "7e9e624d-d72d-4992-9e36-8ae79fb82b77",
+    "en": "West End",
+    "ru": "Уэст-Энд",
+    "country": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "countryCode": "BS",
+    "state": "66ee73c4-800c-4b7d-b119-2ff4ad0c84f5",
+    "stateCode": "WG",
+    "latitude": "26.68711000",
+    "longitude": "-78.97702000"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"248c5135-03c1-46be-9fc6-7a5e6f5da2c3","name":"Saint-Martin (French part)","ru":"Saint-Martin (French part)","iso3":"MAF","iso2":"MF","phoneCode":"590","capital":"3104e5c3-dd98-411f-ad23-310814b61705","currency":"EUR"}]
+[
+  {
+    "id": "86fa8409-44f9-465a-8726-37ae6f51338d",
+    "en": "Saint-Martin (French part)",
+    "ru": "Сен-Мартен (французская часть)",
+    "iso3": "MAF",
+    "iso2": "MF",
+    "phoneCode": "590",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

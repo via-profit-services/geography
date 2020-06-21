@@ -1,1 +1,12 @@
-[{"id":"82ba8dc5-69cc-4625-9b8d-eb8e15615400","name":"Tonga","ru":"Tonga","iso3":"TON","iso2":"TO","phoneCode":"676","capital":null,"currency":"TOP"}]
+[
+  {
+    "id": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "en": "Tonga",
+    "ru": "Тонга",
+    "iso3": "TON",
+    "iso2": "TO",
+    "phoneCode": "676",
+    "capital": null,
+    "currency": "TOP"
+  }
+]

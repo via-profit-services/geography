@@ -1,1 +1,210 @@
-[{"id":"8caf9c9e-a356-428b-854d-a26f6bc62280","name":"Acre","ru":"Acre","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"AC"},{"id":"fa18c3a7-8f69-43d2-829e-a925ae6527de","name":"Alagoas","ru":"Alagoas","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"AL"},{"id":"f3321669-1673-4587-b5e7-c6f5a1d8b6d8","name":"Amapá","ru":"Amapá","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"AP"},{"id":"c8dd2b43-1c70-4b86-bcc1-54b38d1ac62a","name":"Amazonas","ru":"Amazonas","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"AM"},{"id":"87623c81-c8db-4f55-a033-58882bd555fa","name":"Bahia","ru":"Bahia","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"BA"},{"id":"a016eb07-bed1-41e6-ac5e-170f5729c011","name":"Ceará","ru":"Ceará","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"CE"},{"id":"0b699570-d1fc-4515-a62d-17e606ecb6ef","name":"Espírito Santo","ru":"Espírito Santo","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"ES"},{"id":"2d622231-5d3f-4a7d-a34a-706de1d08a6c","name":"Federal District","ru":"Federal District","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"DF"},{"id":"e6b85cf4-2be4-4d3c-9a93-a11f04b77552","name":"Goiás","ru":"Goiás","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"GO"},{"id":"df1866e2-3889-4b9b-9052-73dff171d5cb","name":"Maranhão","ru":"Maranhão","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"MA"},{"id":"25f6ea57-f177-44c3-85c7-aa2eddd90fe5","name":"Mato Grosso","ru":"Mato Grosso","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"MT"},{"id":"521267c8-0b5f-4dba-b9a9-4b8be1361ce0","name":"Mato Grosso do Sul","ru":"Mato Grosso do Sul","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"MS"},{"id":"f0c1a1bb-e0fd-40eb-985f-a649309e1977","name":"Minas Gerais","ru":"Minas Gerais","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"MG"},{"id":"573131d9-4fa9-467f-adca-2edccb060613","name":"Paraíba","ru":"Paraíba","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"PB"},{"id":"d27d1231-93b3-4c94-8c9d-753dbe5d7f75","name":"Paraná","ru":"Paraná","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"PR"},{"id":"57442221-66e5-41eb-9ef3-e0012b563f21","name":"Pará","ru":"Pará","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"PA"},{"id":"e6bf9287-22cc-4d91-ad4d-26b139f9fe76","name":"Pernambuco","ru":"Pernambuco","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"PE"},{"id":"c2f72271-194d-4dc2-8201-626d860919b8","name":"Piauí","ru":"Piauí","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"PI"},{"id":"b26375e1-fba8-4ffd-b41b-611597db0b89","name":"Rio de Janeiro","ru":"Rio de Janeiro","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"RJ"},{"id":"82c300d7-865b-4373-93d7-be2aeab353b4","name":"Rio Grande do Norte","ru":"Rio Grande do Norte","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"RN"},{"id":"9e0066db-0aac-4e1f-aed9-9993ee80837b","name":"Rio Grande do Sul","ru":"Rio Grande do Sul","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"RS"},{"id":"d2a0e608-d7a7-4c54-9138-c0523a347056","name":"Rondônia","ru":"Rondônia","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"RO"},{"id":"c38e6463-a887-4687-a9a9-690f9021e864","name":"Santa Catarina","ru":"Santa Catarina","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"SC"},{"id":"1a672b76-716a-4f99-ba40-341a54e79eed","name":"São Paulo","ru":"São Paulo","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"SP"},{"id":"c6e8e566-c932-4b2e-bbce-aece8f0563c1","name":"Sergipe","ru":"Sergipe","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"SE"},{"id":"afeee6c8-a521-4c28-b404-6053faf37af4","name":"Tocantins","ru":"Tocantins","country":"fc754828-bdbc-4a30-8367-4965370cc9f3","countryCode":"BR","stateCode":"TO"}]
+[
+  {
+    "id": "ea768fa7-0db3-4b98-bbab-bc32d872735b",
+    "en": "Acre",
+    "ru": "Акко",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "AC"
+  },
+  {
+    "id": "87091b13-b753-473c-83f4-db43ee4c20b2",
+    "en": "Alagoas",
+    "ru": "Алагоас",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "AL"
+  },
+  {
+    "id": "59add933-b0d3-4303-91b6-e10d2ef9560e",
+    "en": "Amapá",
+    "ru": "Амапа",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "AP"
+  },
+  {
+    "id": "e56b4d4f-ac27-481b-94bc-877ddcd93c32",
+    "en": "Amazonas",
+    "ru": "Амазонас",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "AM"
+  },
+  {
+    "id": "1806ba11-890f-4dfa-aae3-21828c4c11cd",
+    "en": "Bahia",
+    "ru": "Баия",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "BA"
+  },
+  {
+    "id": "d494a03e-59c7-486f-b339-75ce592d2660",
+    "en": "Ceará",
+    "ru": "Сеара",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "CE"
+  },
+  {
+    "id": "0f733fe9-9e34-40ed-942a-8875e32e21c3",
+    "en": "Espírito Santo",
+    "ru": "Эспириту-Санту",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "ES"
+  },
+  {
+    "id": "98874c09-f9cf-40ff-9f8b-5b9a8b878001",
+    "en": "Federal District",
+    "ru": "федеральный округ",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "DF"
+  },
+  {
+    "id": "5fe085c8-9b55-4d8d-9ea4-4335a720942e",
+    "en": "Goiás",
+    "ru": "Гояс",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "GO"
+  },
+  {
+    "id": "251f8f4f-9bc2-4a85-8a3e-c7d77c0a6cf4",
+    "en": "Maranhão",
+    "ru": "Мараньян",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "MA"
+  },
+  {
+    "id": "8a76b378-eda7-420d-b348-6f1a0b3a38cf",
+    "en": "Mato Grosso",
+    "ru": "Мату-Гросу",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "MT"
+  },
+  {
+    "id": "a20b0d22-6dd5-45c6-9b65-b161cfb6dbe5",
+    "en": "Mato Grosso do Sul",
+    "ru": "Мату-Гросу-ду-Сул",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "MS"
+  },
+  {
+    "id": "8959daf3-2f72-4306-83c5-c0a29ec745d8",
+    "en": "Minas Gerais",
+    "ru": "Минас-Жерайс",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "MG"
+  },
+  {
+    "id": "218fab31-09b0-48a3-9ef8-03d349a65efb",
+    "en": "Paraíba",
+    "ru": "Параиба",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "PB"
+  },
+  {
+    "id": "3c4d20d3-f452-4285-bc56-982bf34b4dc5",
+    "en": "Paraná",
+    "ru": "Парана",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "PR"
+  },
+  {
+    "id": "914e4815-d176-4cff-89e7-2cd38dfa4d71",
+    "en": "Pará",
+    "ru": "Пара",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "PA"
+  },
+  {
+    "id": "c3d8c1f5-69fe-4e3d-bfea-e5d1db498529",
+    "en": "Pernambuco",
+    "ru": "Пернамбуку",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "PE"
+  },
+  {
+    "id": "7300aacf-38f3-47f2-b0e6-27693ba6ffcd",
+    "en": "Piauí",
+    "ru": "Пиауи",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "PI"
+  },
+  {
+    "id": "1caaca67-6341-4c77-a4a0-af4f0944c144",
+    "en": "Rio de Janeiro",
+    "ru": "Рио-де-Жанейро",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "RJ"
+  },
+  {
+    "id": "39286d26-aaa5-47de-968f-def5d1f10b1c",
+    "en": "Rio Grande do Norte",
+    "ru": "Риу-Гранди-ду-Норти",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "RN"
+  },
+  {
+    "id": "76ce01c1-0eeb-4d18-9377-8d355ff552f9",
+    "en": "Rio Grande do Sul",
+    "ru": "Риу-Гранди-ду-Сул",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "RS"
+  },
+  {
+    "id": "9f943012-26e6-4d42-95ad-2eb8f2ce2e11",
+    "en": "Rondônia",
+    "ru": "Рондония",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "RO"
+  },
+  {
+    "id": "233ea251-a8a8-4c98-a035-ee487917899c",
+    "en": "Santa Catarina",
+    "ru": "Санта-Катарина",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "SC"
+  },
+  {
+    "id": "4dbadfd1-f1fe-44ed-9c25-03d2faeb7215",
+    "en": "São Paulo",
+    "ru": "Сан-Паулу",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "SP"
+  },
+  {
+    "id": "32f3e67e-7e4b-4f0a-8ce5-4d0640318c33",
+    "en": "Sergipe",
+    "ru": "Сержипи",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "SE"
+  },
+  {
+    "id": "10113d93-50a3-4b06-b3d8-6cf56fe03b81",
+    "en": "Tocantins",
+    "ru": "Токантинс",
+    "country": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "countryCode": "BR",
+    "stateCode": "TO"
+  }
+]

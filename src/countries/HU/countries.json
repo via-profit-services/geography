@@ -1,1 +1,12 @@
-[{"id":"b33c23cb-1f6b-47b1-a0cb-d27aabb55a57","name":"Hungary","ru":"Hungary","iso3":"HUN","iso2":"HU","phoneCode":"36","capital":"c521148e-38bd-4aae-80d0-08eec4142f87","currency":"HUF"}]
+[
+  {
+    "id": "7f2ff7f1-abca-4fde-bfe4-e359f8379f84",
+    "en": "Hungary",
+    "ru": "Венгрия",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "phoneCode": "36",
+    "capital": null,
+    "currency": "HUF"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"4e5a7e29-d5c2-4739-b102-2c8fdb4a02d9","name":"Jordan","ru":"Jordan","iso3":"JOR","iso2":"JO","phoneCode":"962","capital":"cd0701e1-8b93-41b1-a2b5-8d2c8ccea888","currency":"JOD"}]
+[
+  {
+    "id": "440cede8-8e7d-4453-8b39-08453d008056",
+    "en": "Jordan",
+    "ru": "Иордания",
+    "iso3": "JOR",
+    "iso2": "JO",
+    "phoneCode": "962",
+    "capital": null,
+    "currency": "JOD"
+  }
+]

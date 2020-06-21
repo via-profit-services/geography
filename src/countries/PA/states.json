@@ -1,1 +1,106 @@
-[{"id":"94a21f8d-8753-4de8-93fd-65969fa3a156","name":"Bocas del Toro Province","ru":"Bocas del Toro Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"1"},{"id":"677736d2-83f4-42b0-8fe3-e586ce58f284","name":"Chiriquí Province","ru":"Chiriquí Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"4"},{"id":"f8ffe17e-689b-466d-87d6-3d42f9de49b6","name":"Coclé Province","ru":"Coclé Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"2"},{"id":"fcf7d464-8d8c-4911-86f9-6b9a345a4917","name":"Colón Province","ru":"Colón Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"3"},{"id":"4f8434c8-f758-40d1-947c-52619308dd0a","name":"Darién Province","ru":"Darién Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"5"},{"id":"e19c88ff-b5e5-45d8-a6cd-2feba88dee63","name":"Emberá-Wounaan Comarca","ru":"Emberá-Wounaan Comarca","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"EM"},{"id":"f1a84fe5-bd75-4851-a366-7f37a51c49cf","name":"Guna Yala","ru":"Guna Yala","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"KY"},{"id":"270a2d5e-07cb-4ce9-afaa-81ecb3a65a62","name":"Herrera Province","ru":"Herrera Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"6"},{"id":"3abe7f90-f3f4-459a-afa0-76ab6dba0f49","name":"Los Santos Province","ru":"Los Santos Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"7"},{"id":"eec0dbc9-aa13-4785-be33-e87d8e69a609","name":"Ngöbe-Buglé Comarca","ru":"Ngöbe-Buglé Comarca","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"NB"},{"id":"ec128a1f-7cbc-4b91-982e-7b0ade619d33","name":"Panamá Oeste Province","ru":"Panamá Oeste Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"10"},{"id":"cd1ee478-a76f-4b8f-a6f3-fd6f08b23634","name":"Panamá Province","ru":"Panamá Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"8"},{"id":"c14b0ac7-a073-4d42-b205-21c5bed609bf","name":"Veraguas Province","ru":"Veraguas Province","country":"4438d8f1-8026-441f-99aa-fe04a23b2a63","countryCode":"PA","stateCode":"9"}]
+[
+  {
+    "id": "2431e971-e23f-4b87-8352-c3c03966c687",
+    "en": "Bocas del Toro Province",
+    "ru": "Бокас-дель-Торо провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "1"
+  },
+  {
+    "id": "5f1b9136-5375-4528-88fa-cea8c9840833",
+    "en": "Chiriquí Province",
+    "ru": "Chiriquí провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "4"
+  },
+  {
+    "id": "aced716a-665d-4436-8b63-f22a3c6d8956",
+    "en": "Coclé Province",
+    "ru": "Кокле (провинция)",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "2"
+  },
+  {
+    "id": "e2bf4d72-2305-4205-b201-a269464fab3c",
+    "en": "Colón Province",
+    "ru": "Колон провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "3"
+  },
+  {
+    "id": "62f26659-db46-4d43-975b-919548afa24a",
+    "en": "Darién Province",
+    "ru": "Дарьенская губерния",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "5"
+  },
+  {
+    "id": "2bf4bfbb-568d-43f5-bf27-eae64023662d",
+    "en": "Emberá-Wounaan Comarca",
+    "ru": "Эмбер-Воуана Комарка",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "EM"
+  },
+  {
+    "id": "aa388e9c-cb8e-40ee-a181-5883a2906f02",
+    "en": "Guna Yala",
+    "ru": "Гуна Яла",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "KY"
+  },
+  {
+    "id": "bb341550-18f3-46fd-b202-f1a51337d62b",
+    "en": "Herrera Province",
+    "ru": "Эррера провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "6"
+  },
+  {
+    "id": "20a26914-cb26-454a-bbc4-866dfa2f424c",
+    "en": "Los Santos Province",
+    "ru": "Лос Сантос провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "7"
+  },
+  {
+    "id": "0a0dd4f1-de50-4e47-ad7f-140975042c45",
+    "en": "Ngöbe-Buglé Comarca",
+    "ru": "Нгобе-Бугле Комарка",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "NB"
+  },
+  {
+    "id": "0cb940c2-e6d5-43f3-b1f3-c1853538e825",
+    "en": "Panamá Oeste Province",
+    "ru": "Панама Оэсте Провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "10"
+  },
+  {
+    "id": "ace7979c-36ed-463e-a74e-a2607407e58a",
+    "en": "Panamá Province",
+    "ru": "Панама провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "8"
+  },
+  {
+    "id": "819ec6d5-7369-4773-8c66-9aed3e4a6cd5",
+    "en": "Veraguas Province",
+    "ru": "Верагуас провинция",
+    "country": "6c5913fa-f1ca-4fba-bb5b-8cb36b752fd4",
+    "countryCode": "PA",
+    "stateCode": "9"
+  }
+]

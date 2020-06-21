@@ -1,1 +1,1002 @@
-[{"id":"fd43a980-2748-4c9b-9c64-73e93fcb67b5","name":"Abim District","ru":"Abim District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"314"},{"id":"61a40c15-000c-4b41-8771-fdad1f9b8a1d","name":"Adjumani District","ru":"Adjumani District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"301"},{"id":"b3cb3235-e467-4925-897c-842968a11ea0","name":"Agago District","ru":"Agago District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"322"},{"id":"9683b443-36c3-49b2-891e-68a721a28734","name":"Alebtong District","ru":"Alebtong District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"323"},{"id":"861dc730-09bc-4e64-9905-fe9aceb6019c","name":"Amolatar District","ru":"Amolatar District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"315"},{"id":"1e26498e-354a-42f0-8466-b2bc91d787e9","name":"Amudat District","ru":"Amudat District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"324"},{"id":"223ff9d9-b55d-4adc-8c86-192a2a56e7cc","name":"Amuria District","ru":"Amuria District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"216"},{"id":"7081a653-9631-4c8e-8e43-72d434ef372d","name":"Amuru District","ru":"Amuru District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"316"},{"id":"30b9fab0-c4f8-4eb2-8610-0b27246302da","name":"Apac District","ru":"Apac District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"302"},{"id":"a032b5d7-ec47-4068-8d0d-ef9765ce1b17","name":"Arua District","ru":"Arua District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"303"},{"id":"dca63570-3330-4498-9bf3-acbf0fa1bca3","name":"Budaka District","ru":"Budaka District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"217"},{"id":"611de3de-4061-4923-9b82-80ca60d91f49","name":"Bududa District","ru":"Bududa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"218"},{"id":"cfc7ee7c-43e0-4e79-ace8-1879d68d094e","name":"Bugiri District","ru":"Bugiri District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"201"},{"id":"e4f39f7e-e1ea-4b4a-b3b7-a52aac856fae","name":"Buhweju District","ru":"Buhweju District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"420"},{"id":"c1796485-67fd-466d-8ac7-3b46817dbea1","name":"Buikwe District","ru":"Buikwe District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"117"},{"id":"efb250f5-1cc3-4593-a621-1fc51277c4f2","name":"Bukedea District","ru":"Bukedea District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"219"},{"id":"817146e4-6ea3-447c-9655-ada922ef82d8","name":"Bukomansimbi District","ru":"Bukomansimbi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"118"},{"id":"fbf795d4-48e6-491b-80c2-9a686b507591","name":"Bukwo District","ru":"Bukwo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"220"},{"id":"54edcec2-211a-4a9c-92a4-b4aac4ee75a1","name":"Bulambuli District","ru":"Bulambuli District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"225"},{"id":"745f6370-ba8c-4555-8b7e-278c99d37880","name":"Buliisa District","ru":"Buliisa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"416"},{"id":"d355c86f-780b-4ece-9c30-2e12c567ab50","name":"Bundibugyo District","ru":"Bundibugyo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"401"},{"id":"63a67ff0-bbf3-4146-9801-2784cc1fb97e","name":"Bunyangabu District","ru":"Bunyangabu District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"430"},{"id":"7450532d-484b-444d-a23c-6d1341ff2f47","name":"Bushenyi District","ru":"Bushenyi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"402"},{"id":"86fff7e6-b60e-4314-b565-8cea3a2ce011","name":"Busia District","ru":"Busia District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"202"},{"id":"663125a7-9e78-448f-83b8-e554c5dff392","name":"Butaleja District","ru":"Butaleja District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"221"},{"id":"3e1d2ac8-20f6-40dd-a1f1-3039a32eb3da","name":"Butambala District","ru":"Butambala District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"119"},{"id":"e6730f24-87ba-4e39-be75-0e1fdd2755d3","name":"Butebo District","ru":"Butebo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"233"},{"id":"96be72a2-7f45-4491-841d-73f3084540fa","name":"Buvuma District","ru":"Buvuma District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"120"},{"id":"6b6443b7-dc1c-45b6-8ef3-f642703a5391","name":"Buyende District","ru":"Buyende District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"226"},{"id":"36a18312-96e2-4fc2-a963-03b70eb49aac","name":"Central Region","ru":"Central Region","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"C"},{"id":"c45a5700-e248-4651-853c-7016730b9b2a","name":"Dokolo District","ru":"Dokolo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"317"},{"id":"169a2c4f-2c09-4c9d-94dc-ccb8eaf09fdc","name":"Eastern Region","ru":"Eastern Region","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"E"},{"id":"16202354-b6c6-435d-8495-88cba66841d0","name":"Gomba District","ru":"Gomba District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"121"},{"id":"1a56e082-0057-4e54-806f-ff228492e64b","name":"Gulu District","ru":"Gulu District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"304"},{"id":"f0ca1907-b5e7-43ed-8187-fa66eeac2fa5","name":"Ibanda District","ru":"Ibanda District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"417"},{"id":"30a01c39-e02c-4846-be19-aa8c12646c28","name":"Iganga District","ru":"Iganga District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"203"},{"id":"5ff4e110-4f34-47a6-b3e3-649ccd292063","name":"Isingiro District","ru":"Isingiro District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"418"},{"id":"31de2891-5a0c-4624-9e5d-9a40af87d1b6","name":"Jinja District","ru":"Jinja District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"204"},{"id":"0ffdd45b-982f-4921-abfb-263e3272feea","name":"Kaabong District","ru":"Kaabong District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"318"},{"id":"e7071034-fa40-46b1-a1ca-af1142818c2d","name":"Kabale District","ru":"Kabale District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"404"},{"id":"e1f6ad3d-b166-47c0-ac9a-be0abec4d39c","name":"Kabarole District","ru":"Kabarole District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"405"},{"id":"c1f3679f-3188-47c0-9b1e-c2cfca2ce3c9","name":"Kaberamaido District","ru":"Kaberamaido District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"213"},{"id":"2155af87-646d-41a7-a4f1-1ea1af044993","name":"Kagadi District","ru":"Kagadi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"427"},{"id":"7c24a180-3ae9-4cb3-b0eb-73b82e5b1be8","name":"Kakumiro District","ru":"Kakumiro District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"428"},{"id":"92b1be32-1a7c-43e2-8855-b04c8cfbc1c0","name":"Kalangala District","ru":"Kalangala District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"101"},{"id":"703e6670-b992-4960-8045-aba958da6b8d","name":"Kaliro District","ru":"Kaliro District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"222"},{"id":"a1692feb-20b3-44e8-9204-19ed8567e853","name":"Kalungu District","ru":"Kalungu District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"122"},{"id":"e43a6d89-22f6-4032-8ce1-57df49afca15","name":"Kampala District","ru":"Kampala District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"102"},{"id":"5cf799a8-bc94-4d0e-9a31-e75fa5fe87dd","name":"Kamuli District","ru":"Kamuli District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"205"},{"id":"57e21ffd-12aa-41f6-ba79-367a932714cd","name":"Kamwenge District","ru":"Kamwenge District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"413"},{"id":"03ac187a-ac96-43a0-8178-dd93f25e2c8a","name":"Kanungu District","ru":"Kanungu District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"414"},{"id":"b565ccf2-9134-4212-97e1-c3a1cd995df1","name":"Kapchorwa District","ru":"Kapchorwa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"206"},{"id":"9c9dc538-4341-449a-b1ba-ac93d8ae0b97","name":"Kasese District","ru":"Kasese District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"406"},{"id":"b6c03b2a-e2a0-47f4-8446-156ef8031c16","name":"Katakwi District","ru":"Katakwi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"207"},{"id":"0430e93a-e0cc-4df4-8b7c-a0d340ebb491","name":"Kayunga District","ru":"Kayunga District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"112"},{"id":"19f0b726-99b9-49d6-a97a-197046fb88cb","name":"Kibaale District","ru":"Kibaale District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"407"},{"id":"1def59bd-c5e4-428c-a87c-986b940f1ddd","name":"Kiboga District","ru":"Kiboga District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"103"},{"id":"0f77ff82-460a-4788-ab38-64c0a77f13d6","name":"Kibuku District","ru":"Kibuku District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"227"},{"id":"96838d19-86f5-4d5b-83c2-5a44b9e6bba2","name":"Kiruhura District","ru":"Kiruhura District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"419"},{"id":"5a4f9088-3b25-41d6-8606-dedad03e6070","name":"Kiryandongo District","ru":"Kiryandongo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"421"},{"id":"279fa42c-eca2-4b09-bc6d-0ff32ad2b118","name":"Kisoro District","ru":"Kisoro District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"408"},{"id":"ddb2808e-73f8-4d34-b40f-1f266e9fd0b3","name":"Kitgum District","ru":"Kitgum District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"305"},{"id":"a8b86189-d158-4674-a7db-1d379217e841","name":"Koboko District","ru":"Koboko District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"319"},{"id":"61c39f14-7292-4794-aaee-dfaa61408f91","name":"Kole District","ru":"Kole District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"325"},{"id":"96aea1c7-2000-4b84-a917-2a063e08d21e","name":"Kotido District","ru":"Kotido District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"306"},{"id":"bcdfd6cb-0824-4de4-8175-6dee3798425a","name":"Kumi District","ru":"Kumi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"208"},{"id":"f6115b13-8e67-4465-bfaf-7e513ffa05f5","name":"Kween District","ru":"Kween District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"228"},{"id":"baf119ac-29db-4321-88cd-772d4e0dad19","name":"Kyankwanzi District","ru":"Kyankwanzi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"123"},{"id":"deecb45d-aa6f-4983-b4e4-9b2f2442bc20","name":"Kyegegwa District","ru":"Kyegegwa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"422"},{"id":"4d9f37e2-d084-44d1-b222-880c5aae2a7c","name":"Kyenjojo District","ru":"Kyenjojo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"415"},{"id":"ee1e1521-39e9-42d0-b83e-b8a281eda0ab","name":"Kyotera District","ru":"Kyotera District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"125"},{"id":"23217f62-b01f-4e1e-bba4-d305d928de85","name":"Lamwo District","ru":"Lamwo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"326"},{"id":"b9467f9e-9cc7-4797-99fe-beae03923b2b","name":"Lira District","ru":"Lira District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"307"},{"id":"ce67ecf8-fef2-4d31-a9ac-b2a0122b8cb9","name":"Luuka District","ru":"Luuka District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"229"},{"id":"f6acee93-fd04-49a7-9309-86e750b86c1e","name":"Luwero District","ru":"Luwero District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"104"},{"id":"36c6d36c-6c69-45aa-a69f-5d6cf40a6c5c","name":"Lwengo District","ru":"Lwengo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"124"},{"id":"64a58ed2-4cee-4e08-87dd-6683ddfdcdd7","name":"Lyantonde District","ru":"Lyantonde District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"114"},{"id":"05c07037-854a-4a50-9d6a-c4ac8be93dea","name":"Manafwa District","ru":"Manafwa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"223"},{"id":"49fbcbf9-116e-4d48-b9d5-5acfaf5a40e1","name":"Maracha District","ru":"Maracha District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"320"},{"id":"d59e4a46-ceb0-43a9-87bd-9be4189ffcef","name":"Masaka District","ru":"Masaka District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"105"},{"id":"9828a075-26f7-41a1-b579-2b55bf8a414e","name":"Masindi District","ru":"Masindi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"409"},{"id":"817028f3-66a4-4341-b433-e9855dd2a896","name":"Mayuge District","ru":"Mayuge District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"214"},{"id":"f13cd121-ea76-44b1-9c84-9a35dd38b408","name":"Mbale District","ru":"Mbale District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"209"},{"id":"0ec90a1b-1683-4f2d-93b6-de55340f3e04","name":"Mbarara District","ru":"Mbarara District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"410"},{"id":"05c218aa-d78b-4ed6-acd6-fecfe736af6d","name":"Mitooma District","ru":"Mitooma District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"423"},{"id":"940672e1-afd6-4807-9004-7a54d403b973","name":"Mityana District","ru":"Mityana District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"115"},{"id":"974d562a-5dfa-46aa-ba18-9e15f09dd629","name":"Moroto District","ru":"Moroto District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"308"},{"id":"60339708-46c8-4c8c-8771-2b6d1dbb0d5f","name":"Moyo District","ru":"Moyo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"309"},{"id":"aaab4abc-927e-4b79-bad2-c347ba65b91b","name":"Mpigi District","ru":"Mpigi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"106"},{"id":"7da4ef97-c6c0-4989-8086-17ab370aac25","name":"Mubende District","ru":"Mubende District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"107"},{"id":"ffc504fe-5c5b-438f-9481-ad94d4cc1961","name":"Mukono District","ru":"Mukono District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"108"},{"id":"f35d1d4c-9d76-49fe-b589-aa014198d3ca","name":"Nakapiripirit District","ru":"Nakapiripirit District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"311"},{"id":"35c9e032-42ba-4c03-bfeb-834b2e5062ee","name":"Nakaseke District","ru":"Nakaseke District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"116"},{"id":"c48f1789-e756-4180-b0ce-39388ad92bfb","name":"Nakasongola District","ru":"Nakasongola District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"109"},{"id":"63580fd5-c403-4662-bc2b-eea17587cc40","name":"Namayingo District","ru":"Namayingo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"230"},{"id":"972b5a1f-2a5a-4a00-af63-fcc9ac177bc7","name":"Namisindwa District","ru":"Namisindwa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"234"},{"id":"a59fdfc2-6a08-402c-9e23-91fba7ffdea5","name":"Namutumba District","ru":"Namutumba District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"224"},{"id":"e94ddfe4-e429-468a-9364-acb1005d9425","name":"Napak District","ru":"Napak District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"327"},{"id":"705d419b-8862-44ff-b408-b826ef226d2d","name":"Nebbi District","ru":"Nebbi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"310"},{"id":"0fd7b218-714e-43e5-a0ec-0f48efff6f1f","name":"Ngora District","ru":"Ngora District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"231"},{"id":"92770f97-f050-4e82-a243-0505a05f20ca","name":"Northern Region","ru":"Northern Region","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"N"},{"id":"0d62129e-7222-43e0-86ca-35d13c2cec84","name":"Ntoroko District","ru":"Ntoroko District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"424"},{"id":"357dbfb1-c71b-4b46-95e9-e64f09389a94","name":"Ntungamo District","ru":"Ntungamo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"411"},{"id":"89f1b08f-564b-4110-9e9e-9264b2bb294c","name":"Nwoya District","ru":"Nwoya District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"328"},{"id":"b3eb6fc6-573b-47e1-9941-2ee94b4cbddc","name":"Omoro District","ru":"Omoro District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"331"},{"id":"656d5196-c5de-4b88-a5b8-058b143d8d8e","name":"Otuke District","ru":"Otuke District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"329"},{"id":"126ebd2f-0f66-4926-be63-0302e7be6f59","name":"Oyam District","ru":"Oyam District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"321"},{"id":"94672e78-5318-49bb-8fa6-7132e7e7701b","name":"Pader District","ru":"Pader District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"312"},{"id":"bcade79a-1c0c-4e37-ae6c-e823c21ab7fb","name":"Pakwach District","ru":"Pakwach District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"332"},{"id":"eb305170-06fd-42e3-b6ca-83266a491851","name":"Pallisa District","ru":"Pallisa District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"210"},{"id":"95243f27-935d-42fc-85bf-93b5a4b76736","name":"Rakai District","ru":"Rakai District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"110"},{"id":"a7721501-da33-4009-a9f0-48fc44162a94","name":"Rubanda District","ru":"Rubanda District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"429"},{"id":"824f567e-457b-4e63-922b-a1fa19cf68f4","name":"Rubirizi District","ru":"Rubirizi District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"425"},{"id":"0ea48866-13b3-4966-b165-31a0b31a4622","name":"Rukiga District","ru":"Rukiga District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"431"},{"id":"45494c84-2339-4d27-a411-ed0611da3ad4","name":"Rukungiri District","ru":"Rukungiri District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"412"},{"id":"7bcf7a63-f017-411f-b464-0bf6bee513ab","name":"Sembabule District","ru":"Sembabule District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"111"},{"id":"9389156b-90e0-4414-adb8-f664e387c471","name":"Serere District","ru":"Serere District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"232"},{"id":"1dd83c81-ef9b-4c76-aa1f-50e240cfa3ed","name":"Sheema District","ru":"Sheema District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"426"},{"id":"d76ff5f0-e47d-4124-8221-70d9c20720ca","name":"Sironko District","ru":"Sironko District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"215"},{"id":"619de223-9016-4add-943c-d20942f68484","name":"Soroti District","ru":"Soroti District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"211"},{"id":"21e4dcde-54a4-4562-9443-99bccd932c6f","name":"Tororo District","ru":"Tororo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"212"},{"id":"44445ecb-0f13-4406-b8df-45a0f1b1327f","name":"Wakiso District","ru":"Wakiso District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"113"},{"id":"ea41280c-5895-4ef6-829f-e9bc61cf6361","name":"Western Region","ru":"Western Region","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"W"},{"id":"60cc4e9f-4671-4100-8893-d64429011da5","name":"Yumbe District","ru":"Yumbe District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"313"},{"id":"95daf203-5a48-4fc7-8b9c-072e8f65674e","name":"Zombo District","ru":"Zombo District","country":"bf489185-e907-4744-8e3f-ab5137f1901f","countryCode":"UG","stateCode":"330"}]
+[
+  {
+    "id": "de00aee3-0c7e-4f78-a8be-e91b57d8ecc6",
+    "en": "Abim District",
+    "ru": "Абимский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "314"
+  },
+  {
+    "id": "04317b33-c1f5-4a25-8552-d1b8dce9818b",
+    "en": "Adjumani District",
+    "ru": "Аджуманский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "301"
+  },
+  {
+    "id": "27013038-dda2-40f4-af93-d1f9563b7bea",
+    "en": "Agago District",
+    "ru": "Agago район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "322"
+  },
+  {
+    "id": "7038d5e0-367b-4e2b-81e3-9cf19fc54d09",
+    "en": "Alebtong District",
+    "ru": "Alebtong район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "323"
+  },
+  {
+    "id": "9a8e6c88-b1ba-4690-9a44-f7d65fd05e21",
+    "en": "Amolatar District",
+    "ru": "Амолатарский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "315"
+  },
+  {
+    "id": "7b53c6cc-e399-4574-9ccc-27e0799a9321",
+    "en": "Amudat District",
+    "ru": "Амудатский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "324"
+  },
+  {
+    "id": "411bfa3d-65d6-49c0-9681-6c4c35c6c6dc",
+    "en": "Amuria District",
+    "ru": "Амурский округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "216"
+  },
+  {
+    "id": "f848c5f9-d656-4a07-a4d5-8142550e1af0",
+    "en": "Amuru District",
+    "ru": "Амурский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "316"
+  },
+  {
+    "id": "28d1bef0-2991-42fa-9455-c3b483461b80",
+    "en": "Apac District",
+    "ru": "Apac округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "302"
+  },
+  {
+    "id": "4fbb6b0f-a1ea-4bf0-8664-d1d900eb0577",
+    "en": "Arua District",
+    "ru": "Аруа район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "303"
+  },
+  {
+    "id": "a3d949ff-bde8-4618-a4f2-4473aa46f460",
+    "en": "Budaka District",
+    "ru": "Будакский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "217"
+  },
+  {
+    "id": "6b55636e-d1d1-4983-961f-c35254d4d006",
+    "en": "Bududa District",
+    "ru": "Будудинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "218"
+  },
+  {
+    "id": "83085b02-cde8-4cde-87eb-a8fdd11cb02f",
+    "en": "Bugiri District",
+    "ru": "Бугирский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "201"
+  },
+  {
+    "id": "3fa0f0e2-0119-4fc5-bd24-57780c5bb490",
+    "en": "Buhweju District",
+    "ru": "Buhweju район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "420"
+  },
+  {
+    "id": "54156969-fb07-4657-a507-4ee24580e815",
+    "en": "Buikwe District",
+    "ru": "Буйкве округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "117"
+  },
+  {
+    "id": "3f6ffada-00a8-443c-8902-d96be869689d",
+    "en": "Bukedea District",
+    "ru": "Bukedea район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "219"
+  },
+  {
+    "id": "0020bdb1-5615-4a33-bc63-26a3c48bc6cf",
+    "en": "Bukomansimbi District",
+    "ru": "Букомансимби район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "118"
+  },
+  {
+    "id": "52e3bd18-1dde-4dd6-be50-fff91b2072c3",
+    "en": "Bukwo District",
+    "ru": "Букво р-н",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "220"
+  },
+  {
+    "id": "adeca179-139a-4dbd-bb76-8816483c8f6c",
+    "en": "Bulambuli District",
+    "ru": "Буламбулинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "225"
+  },
+  {
+    "id": "56e652e4-79eb-485a-afb5-24602b1aded8",
+    "en": "Buliisa District",
+    "ru": "Булииза район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "416"
+  },
+  {
+    "id": "2cfa89c1-8d5e-4a25-83bd-26537e69e506",
+    "en": "Bundibugyo District",
+    "ru": "Бундибугё район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "401"
+  },
+  {
+    "id": "f6f35f82-ea7b-494c-905d-88de9768b565",
+    "en": "Bunyangabu District",
+    "ru": "Буньянгабу район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "430"
+  },
+  {
+    "id": "3346cfad-19cf-4950-8e86-cbacd7207eba",
+    "en": "Bushenyi District",
+    "ru": "район Бушенский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "402"
+  },
+  {
+    "id": "de3907f6-0199-4dfa-85ed-b87a9a36d64a",
+    "en": "Busia District",
+    "ru": "Busia район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "202"
+  },
+  {
+    "id": "4d22dd41-b546-4bcf-a948-3e5d5ae64751",
+    "en": "Butaleja District",
+    "ru": "Буталейский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "221"
+  },
+  {
+    "id": "d19390ea-4e2e-4c8d-b2e1-59fe5e73ce1e",
+    "en": "Butambala District",
+    "ru": "Бутамбала район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "119"
+  },
+  {
+    "id": "0dc98ace-02b8-4b2a-aaa9-737cce388465",
+    "en": "Butebo District",
+    "ru": "Бутебо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "233"
+  },
+  {
+    "id": "a1b93c24-7f2c-468f-a86f-d6047b912783",
+    "en": "Buvuma District",
+    "ru": "Бувумский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "120"
+  },
+  {
+    "id": "6f9aaf94-98a1-4c45-8827-817b1b01615b",
+    "en": "Buyende District",
+    "ru": "Буйенде район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "226"
+  },
+  {
+    "id": "02cd7431-47b9-4417-83da-bf05b85e1ff5",
+    "en": "Central Region",
+    "ru": "Центральный регион",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "C"
+  },
+  {
+    "id": "eaaaabf5-375d-498b-8792-a91262ae0e08",
+    "en": "Dokolo District",
+    "ru": "Доколо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "317"
+  },
+  {
+    "id": "3a9e991f-7ca8-4130-ba7b-e7e3bbabc2ea",
+    "en": "Eastern Region",
+    "ru": "Восточный регион",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "E"
+  },
+  {
+    "id": "60628acd-37b2-40c0-a2cb-a7bcd29561f5",
+    "en": "Gomba District",
+    "ru": "Гомба район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "121"
+  },
+  {
+    "id": "cb972676-0d86-4745-9de7-7f4d8067d96c",
+    "en": "Gulu District",
+    "ru": "Гулу район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "304"
+  },
+  {
+    "id": "db78e470-bd3a-4d3b-897b-6f9552b666d6",
+    "en": "Ibanda District",
+    "ru": "Ибандинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "417"
+  },
+  {
+    "id": "90b0a869-da16-458a-83b8-f55ab010b988",
+    "en": "Iganga District",
+    "ru": "Иганга район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "203"
+  },
+  {
+    "id": "d626247e-2385-4096-8ca3-57b166b60e49",
+    "en": "Isingiro District",
+    "ru": "Исингиро район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "418"
+  },
+  {
+    "id": "4eea9b8e-fb15-4ba7-b896-e70ba92826a1",
+    "en": "Jinja District",
+    "ru": "Джинджа район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "204"
+  },
+  {
+    "id": "73403ad4-ffc6-49bb-892e-3843e5182522",
+    "en": "Kaabong District",
+    "ru": "Каабонг округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "318"
+  },
+  {
+    "id": "485811a8-dc4a-44a6-b6f3-bf8cf70cf117",
+    "en": "Kabale District",
+    "ru": "Кабальский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "404"
+  },
+  {
+    "id": "841c0228-bdba-447c-8b02-e40272ccc5ff",
+    "en": "Kabarole District",
+    "ru": "Кабарольский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "405"
+  },
+  {
+    "id": "591b9951-ec0a-43df-9ba7-a2bb53242477",
+    "en": "Kaberamaido District",
+    "ru": "Kaberamaido район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "213"
+  },
+  {
+    "id": "2c1af41a-d5b2-4a67-99d1-d66275ed19bb",
+    "en": "Kagadi District",
+    "ru": "Кагадинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "427"
+  },
+  {
+    "id": "ed81bf25-5435-40f3-93de-b73f7c169d4b",
+    "en": "Kakumiro District",
+    "ru": "Какумиро район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "428"
+  },
+  {
+    "id": "4d5e39ac-6dde-4e53-8a64-f21882735acf",
+    "en": "Kalangala District",
+    "ru": "Калангалинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "101"
+  },
+  {
+    "id": "e1900076-d5af-4267-98fc-559f8deeff32",
+    "en": "Kaliro District",
+    "ru": "Калиро район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "222"
+  },
+  {
+    "id": "05df3490-deec-42df-81d1-52e385b15e61",
+    "en": "Kalungu District",
+    "ru": "Калунгу район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "122"
+  },
+  {
+    "id": "d40c32a6-8bb6-4cad-bd9c-f9ae702f7f5c",
+    "en": "Kampala District",
+    "ru": "Кампала район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "102"
+  },
+  {
+    "id": "4608236c-67f6-4c7c-ad8f-86eeec3c77b9",
+    "en": "Kamuli District",
+    "ru": "Камульский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "205"
+  },
+  {
+    "id": "b45f0adc-fdfa-4099-8e93-0bd59f88af56",
+    "en": "Kamwenge District",
+    "ru": "Камвенге Район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "413"
+  },
+  {
+    "id": "82472a70-6081-4198-9652-68e6ee65a33c",
+    "en": "Kanungu District",
+    "ru": "Канунгу район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "414"
+  },
+  {
+    "id": "bfe681b7-aaa4-4ff6-84f0-5e45e9131d5a",
+    "en": "Kapchorwa District",
+    "ru": "Капчорва округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "206"
+  },
+  {
+    "id": "e8923bfc-02e7-4d41-aee7-1d7ad518512f",
+    "en": "Kasese District",
+    "ru": "Касесский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "406"
+  },
+  {
+    "id": "0b476306-313f-46c1-8f26-4bf9751560c3",
+    "en": "Katakwi District",
+    "ru": "Катакви Район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "207"
+  },
+  {
+    "id": "ab0d93da-f322-497d-bc46-8698debaa637",
+    "en": "Kayunga District",
+    "ru": "Каюнгинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "112"
+  },
+  {
+    "id": "e94f490f-e40d-4254-9ca7-44f40e54775c",
+    "en": "Kibaale District",
+    "ru": "Кибаале район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "407"
+  },
+  {
+    "id": "2ee830a7-6c93-43aa-8c8f-2eece36e5308",
+    "en": "Kiboga District",
+    "ru": "Кибогский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "103"
+  },
+  {
+    "id": "3c8f7bf5-cd32-46e6-8828-4c0a83976323",
+    "en": "Kibuku District",
+    "ru": "Кибуку район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "227"
+  },
+  {
+    "id": "52fbed64-ed69-46d8-8fe8-4a011129fbc2",
+    "en": "Kiruhura District",
+    "ru": "Кирухурский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "419"
+  },
+  {
+    "id": "661290bb-a750-490b-bcb8-89df203e6db6",
+    "en": "Kiryandongo District",
+    "ru": "Кирьяндонго район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "421"
+  },
+  {
+    "id": "cb0df957-7881-4ae5-ba06-97ac7035aa64",
+    "en": "Kisoro District",
+    "ru": "Кисоро район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "408"
+  },
+  {
+    "id": "3ff62584-2e21-4f48-9d92-cd22bc30d151",
+    "en": "Kitgum District",
+    "ru": "Китгумский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "305"
+  },
+  {
+    "id": "489c06d5-897c-4233-af82-69068546d1f7",
+    "en": "Koboko District",
+    "ru": "Кобоко район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "319"
+  },
+  {
+    "id": "b2cf1718-3f26-4a1a-9f14-ce442a3fb08f",
+    "en": "Kole District",
+    "ru": "Коле округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "325"
+  },
+  {
+    "id": "fa6434d1-6a47-442b-b6e9-51d0921428a7",
+    "en": "Kotido District",
+    "ru": "Котидо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "306"
+  },
+  {
+    "id": "26592d81-65d9-4e65-92e0-bf44e6cfbe02",
+    "en": "Kumi District",
+    "ru": "Куми район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "208"
+  },
+  {
+    "id": "595399be-c1db-4e33-b339-71116187389a",
+    "en": "Kween District",
+    "ru": "Квин Район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "228"
+  },
+  {
+    "id": "f1e78bc5-dff7-45ce-bd49-705a8704cf03",
+    "en": "Kyankwanzi District",
+    "ru": "Kyankwanzi район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "123"
+  },
+  {
+    "id": "be7ab64b-f3be-4ebc-aa66-8b3c8a23d5ec",
+    "en": "Kyegegwa District",
+    "ru": "Kyegegwa район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "422"
+  },
+  {
+    "id": "3113d548-9e57-43df-9d27-288345f3a40d",
+    "en": "Kyenjojo District",
+    "ru": "Kyenjojo район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "415"
+  },
+  {
+    "id": "39090b9b-c99f-453b-95f3-eb7c5929fa3f",
+    "en": "Kyotera District",
+    "ru": "Киотера район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "125"
+  },
+  {
+    "id": "59874f6b-a5e2-4794-8b40-903d8f0f938c",
+    "en": "Lamwo District",
+    "ru": "Lamwo район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "326"
+  },
+  {
+    "id": "c0f49ac9-23d8-48f0-beb5-413d82dca811",
+    "en": "Lira District",
+    "ru": "лира район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "307"
+  },
+  {
+    "id": "6a6fb8f7-d027-4cb5-992a-9894ba91bc98",
+    "en": "Luuka District",
+    "ru": "Луукский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "229"
+  },
+  {
+    "id": "ea417a5c-ccf2-44b5-a47d-358358f2c49a",
+    "en": "Luwero District",
+    "ru": "Luwero район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "104"
+  },
+  {
+    "id": "414f3e54-1212-42d1-a279-a63396fb650d",
+    "en": "Lwengo District",
+    "ru": "Lwengo район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "124"
+  },
+  {
+    "id": "2d618daa-8e71-4ead-a755-b558c52f9e2f",
+    "en": "Lyantonde District",
+    "ru": "Лянтондэ Район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "114"
+  },
+  {
+    "id": "5222212a-b044-4afc-9a81-e867c977db55",
+    "en": "Manafwa District",
+    "ru": "Манафва округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "223"
+  },
+  {
+    "id": "2fdabff8-6e41-4a2b-a515-e9e37e7493d8",
+    "en": "Maracha District",
+    "ru": "Марачевский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "320"
+  },
+  {
+    "id": "51aecd72-0a61-4a83-bf19-5b73ac184ed0",
+    "en": "Masaka District",
+    "ru": "Масакский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "105"
+  },
+  {
+    "id": "f1c1d443-7078-4dc6-b70c-9704a60e98fc",
+    "en": "Masindi District",
+    "ru": "Масиндинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "409"
+  },
+  {
+    "id": "b41e1773-6cff-472d-a90a-125655f063e7",
+    "en": "Mayuge District",
+    "ru": "Маюге округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "214"
+  },
+  {
+    "id": "da2ce505-e539-4ea6-a9ec-71edd4911aec",
+    "en": "Mbale District",
+    "ru": "Мбале округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "209"
+  },
+  {
+    "id": "ce0bd2f0-6280-4d97-9977-2cdad9170ba8",
+    "en": "Mbarara District",
+    "ru": "Мбарарский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "410"
+  },
+  {
+    "id": "4eee399d-4d4d-4e1b-bd3a-9414985c4c17",
+    "en": "Mitooma District",
+    "ru": "Митума район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "423"
+  },
+  {
+    "id": "974a1696-9dc6-4765-86da-57787babccb1",
+    "en": "Mityana District",
+    "ru": "Митянский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "115"
+  },
+  {
+    "id": "568f43e7-c405-44ad-8d9d-75d5723dcfeb",
+    "en": "Moroto District",
+    "ru": "Морото округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "308"
+  },
+  {
+    "id": "05ca2bce-544a-472e-8c17-30f9c4d281aa",
+    "en": "Moyo District",
+    "ru": "Мойо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "309"
+  },
+  {
+    "id": "b384e10b-d786-426c-88db-91b72dc8cd1f",
+    "en": "Mpigi District",
+    "ru": "Мпиги район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "106"
+  },
+  {
+    "id": "c27f774b-257e-4ce5-b133-abc882f89d64",
+    "en": "Mubende District",
+    "ru": "Мубенде район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "107"
+  },
+  {
+    "id": "4114c121-ab2d-4b9f-a290-febea8abb371",
+    "en": "Mukono District",
+    "ru": "Муконо округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "108"
+  },
+  {
+    "id": "d6fb4e69-fe9a-4a23-917d-7d218b0dd511",
+    "en": "Nakapiripirit District",
+    "ru": "Накапирипирит округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "311"
+  },
+  {
+    "id": "4665f44e-fb26-438e-b5e9-32891aebf1cc",
+    "en": "Nakaseke District",
+    "ru": "Накасекский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "116"
+  },
+  {
+    "id": "a0755ea3-748b-4e00-81f0-da35e69203c3",
+    "en": "Nakasongola District",
+    "ru": "Накасонгольский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "109"
+  },
+  {
+    "id": "517c282c-d193-4a63-988e-7ecdb3ff24eb",
+    "en": "Namayingo District",
+    "ru": "Namayingo район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "230"
+  },
+  {
+    "id": "e75acca5-acb7-449d-9d97-63bd8d30714a",
+    "en": "Namisindwa District",
+    "ru": "Намисиндва округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "234"
+  },
+  {
+    "id": "bef92bdd-5fd0-42a0-86ec-a9b29030ce75",
+    "en": "Namutumba District",
+    "ru": "Намутумба район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "224"
+  },
+  {
+    "id": "9a7a4fae-9083-42d0-bd8b-554e41fccd06",
+    "en": "Napak District",
+    "ru": "Напакский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "327"
+  },
+  {
+    "id": "75088458-0372-44e3-b871-54cfe94fffe9",
+    "en": "Nebbi District",
+    "ru": "Небби округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "310"
+  },
+  {
+    "id": "809929b4-b8a8-4176-aad8-d07ae5389917",
+    "en": "Ngora District",
+    "ru": "Нгорский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "231"
+  },
+  {
+    "id": "28c4fca4-d352-4fc1-a2f1-2b069ad09a47",
+    "en": "Northern Region",
+    "ru": "Северный регион",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "N"
+  },
+  {
+    "id": "59cb458f-dbff-4d08-815d-065ec2d982de",
+    "en": "Ntoroko District",
+    "ru": "Нтороко район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "424"
+  },
+  {
+    "id": "1e255304-c2de-4958-8dd8-8731c581acd7",
+    "en": "Ntungamo District",
+    "ru": "Нтунгамо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "411"
+  },
+  {
+    "id": "b2162c42-ddd9-4490-847b-9eef5d061a8d",
+    "en": "Nwoya District",
+    "ru": "Nwoya район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "328"
+  },
+  {
+    "id": "430c1dc3-0148-4542-9eab-ff01b7bd2ec4",
+    "en": "Omoro District",
+    "ru": "Оморский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "331"
+  },
+  {
+    "id": "0207b270-248a-48fa-8717-8ca4600ab52c",
+    "en": "Otuke District",
+    "ru": "Отуке район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "329"
+  },
+  {
+    "id": "fb284581-5365-41cb-9ae5-683e96f14057",
+    "en": "Oyam District",
+    "ru": "Оямский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "321"
+  },
+  {
+    "id": "05726969-4141-46bd-b954-bd383c2a3012",
+    "en": "Pader District",
+    "ru": "Падерский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "312"
+  },
+  {
+    "id": "a98396da-d0b0-46b8-aa3a-4efbf41ae177",
+    "en": "Pakwach District",
+    "ru": "Pakwach район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "332"
+  },
+  {
+    "id": "5dc13ea6-671e-42cc-8021-35545a90eb97",
+    "en": "Pallisa District",
+    "ru": "Паллиса район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "210"
+  },
+  {
+    "id": "75acaafb-8c20-4d3e-afa3-32f009184041",
+    "en": "Rakai District",
+    "ru": "район Ракайский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "110"
+  },
+  {
+    "id": "e51cb522-7b51-4b43-8982-a54c19380307",
+    "en": "Rubanda District",
+    "ru": "Рубанда район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "429"
+  },
+  {
+    "id": "4d3e9578-db11-4adc-9f3c-7446a8151099",
+    "en": "Rubirizi District",
+    "ru": "Рубирицкий район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "425"
+  },
+  {
+    "id": "d2e7e031-3d6c-4514-bb48-5b893861560e",
+    "en": "Rukiga District",
+    "ru": "Рукига район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "431"
+  },
+  {
+    "id": "2b91e8cb-de23-4609-b4ee-3722548be1c4",
+    "en": "Rukungiri District",
+    "ru": "Рукунгири район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "412"
+  },
+  {
+    "id": "d5305090-0f93-4301-adf7-bf387782dfc8",
+    "en": "Sembabule District",
+    "ru": "Сембабуле район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "111"
+  },
+  {
+    "id": "47516bce-b587-42f3-927b-67b7ab124d9a",
+    "en": "Serere District",
+    "ru": "Серерский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "232"
+  },
+  {
+    "id": "1c8f94ec-1bff-4d6f-bfb8-b3bb8218d636",
+    "en": "Sheema District",
+    "ru": "Шима район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "426"
+  },
+  {
+    "id": "099b5555-7b5d-475e-b440-d62e906de775",
+    "en": "Sironko District",
+    "ru": "Сиронко район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "215"
+  },
+  {
+    "id": "69712ce6-315f-4292-b455-1099a54256eb",
+    "en": "Soroti District",
+    "ru": "Соротинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "211"
+  },
+  {
+    "id": "923401f0-ff8d-46be-8699-f584fb72e925",
+    "en": "Tororo District",
+    "ru": "Тороро округ",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "212"
+  },
+  {
+    "id": "14f213b7-a05b-4844-9d43-0c4194c9d82a",
+    "en": "Wakiso District",
+    "ru": "Вакисо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "113"
+  },
+  {
+    "id": "d744d58e-ea2c-4a38-8c12-bdf3840f1ba1",
+    "en": "Western Region",
+    "ru": "Западный регион",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "W"
+  },
+  {
+    "id": "670b2395-ab41-4f9c-839b-3561058798b0",
+    "en": "Yumbe District",
+    "ru": "Юмбинский район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "313"
+  },
+  {
+    "id": "4f243075-beaa-4ff3-ab08-8a8357ec8371",
+    "en": "Zombo District",
+    "ru": "Зомбо район",
+    "country": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "countryCode": "UG",
+    "stateCode": "330"
+  }
+]

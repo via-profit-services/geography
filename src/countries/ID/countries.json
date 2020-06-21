@@ -1,1 +1,12 @@
-[{"id":"f2552878-138b-4ba9-accf-c09557d8b10b","name":"Indonesia","ru":"Indonesia","iso3":"IDN","iso2":"ID","phoneCode":"62","capital":"d62ca65d-4203-4dca-8037-04743de4ee21","currency":"IDR"}]
+[
+  {
+    "id": "94506e6e-59b7-4b58-93cd-5352ea9f1d48",
+    "en": "Indonesia",
+    "ru": "Индонезия",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "phoneCode": "62",
+    "capital": null,
+    "currency": "IDR"
+  }
+]

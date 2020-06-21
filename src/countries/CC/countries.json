@@ -1,1 +1,12 @@
-[{"id":"bed7baa7-22e2-42ab-9bca-07f0847127e4","name":"Cocos (Keeling) Islands","ru":"Cocos (Keeling) Islands","iso3":"CCK","iso2":"CC","phoneCode":"61","capital":null,"currency":"AUD"}]
+[
+  {
+    "id": "dea48f1b-06b1-477d-959a-0ffa39ab5b98",
+    "en": "Cocos (Keeling) Islands",
+    "ru": "Кокосовых (Килинг) островов",
+    "iso3": "CCK",
+    "iso2": "CC",
+    "phoneCode": "61",
+    "capital": null,
+    "currency": "AUD"
+  }
+]

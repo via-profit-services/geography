@@ -1,1 +1,12 @@
-[{"id":"671736d6-31c2-4fc4-90f5-0ee296890747","name":"Myanmar","ru":"Myanmar","iso3":"MMR","iso2":"MM","phoneCode":"95","capital":"f780124b-977d-4cd7-90e2-a6aaade04195","currency":"MMK"}]
+[
+  {
+    "id": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "en": "Myanmar",
+    "ru": "Мьянма",
+    "iso3": "MMR",
+    "iso2": "MM",
+    "phoneCode": "95",
+    "capital": null,
+    "currency": "MMK"
+  }
+]

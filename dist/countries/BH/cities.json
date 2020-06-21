@@ -1,1 +1,101 @@
-[{"id":"df83c86e-3ae7-4a57-b537-8230822c34b5","name":"Jidd Ḩafş","ru":"Jidd Ḩafş","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"1646a861-1e7b-422b-b06d-a73a22aa5bd4","stateCode":"13","latitude":"26.21861000","longitude":"50.54778000"},{"id":"57ccf0bf-ffff-4c85-989e-2c1b0d0f0ac7","name":"Manama","ru":"Manama","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"1646a861-1e7b-422b-b06d-a73a22aa5bd4","stateCode":"13","latitude":"26.22787000","longitude":"50.58565000"},{"id":"63f74677-b2e3-45da-9cc6-c9a140765e27","name":"Sitrah","ru":"Sitrah","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"1646a861-1e7b-422b-b06d-a73a22aa5bd4","stateCode":"13","latitude":"26.15472000","longitude":"50.62056000"},{"id":"5b216e6a-eb03-4794-8594-12b0bbfebdf7","name":"Madīnat Ḩamad","ru":"Madīnat Ḩamad","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"8e0a4647-07cb-461a-b076-e8151d851373","stateCode":"16","latitude":"26.11528000","longitude":"50.50694000"},{"id":"2b769775-95db-4596-9a72-de8829d797dd","name":"Al Ḩadd","ru":"Al Ḩadd","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"0182a9c5-fc7f-441a-b390-4fa775e53708","stateCode":"15","latitude":"26.24556000","longitude":"50.65417000"},{"id":"5ad6c426-2ef2-4de4-9a1f-910a5ba7b49a","name":"Al Muharraq","ru":"Al Muharraq","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"0182a9c5-fc7f-441a-b390-4fa775e53708","stateCode":"15","latitude":"26.25722000","longitude":"50.61194000"},{"id":"a8b5c13b-b341-47db-8d39-d4505f743234","name":"Ar Rifā‘","ru":"Ar Rifā‘","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"476b4990-c78d-4a22-9165-f3c3cddd0405","stateCode":"14","latitude":"26.13000000","longitude":"50.55500000"},{"id":"a4bad096-3cad-49bb-b945-ffa0eb20c347","name":"Dār Kulayb","ru":"Dār Kulayb","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"476b4990-c78d-4a22-9165-f3c3cddd0405","stateCode":"14","latitude":"26.06861000","longitude":"50.50389000"},{"id":"ebd98c2c-2b61-44c2-9b2b-675c72516ea7","name":"Madīnat ‘Īsá","ru":"Madīnat ‘Īsá","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","state":"476b4990-c78d-4a22-9165-f3c3cddd0405","stateCode":"14","latitude":"26.17361000","longitude":"50.54778000"}]
+[
+  {
+    "id": "eb3c269f-93e9-41ae-bd89-c17d59b2e505",
+    "en": "Jidd Ḩafş",
+    "ru": "Джидд Шафш",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "0df1ad32-8041-40e2-a5ba-96be88a472a2",
+    "stateCode": "13",
+    "latitude": "26.21861000",
+    "longitude": "50.54778000"
+  },
+  {
+    "id": "ed4d9201-407e-4b87-a2d3-0f8e5a51f856",
+    "en": "Manama",
+    "ru": "Манама",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "0df1ad32-8041-40e2-a5ba-96be88a472a2",
+    "stateCode": "13",
+    "latitude": "26.22787000",
+    "longitude": "50.58565000"
+  },
+  {
+    "id": "4e74accd-b272-4536-bfef-0fc9a151b181",
+    "en": "Sitrah",
+    "ru": "Ситра",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "0df1ad32-8041-40e2-a5ba-96be88a472a2",
+    "stateCode": "13",
+    "latitude": "26.15472000",
+    "longitude": "50.62056000"
+  },
+  {
+    "id": "52bd70c8-0a8c-4f83-82ed-89837980def4",
+    "en": "Madīnat Ḩamad",
+    "ru": "Мадинат Шамад",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "7a3f30a6-e894-465e-8306-910073d6ad73",
+    "stateCode": "16",
+    "latitude": "26.11528000",
+    "longitude": "50.50694000"
+  },
+  {
+    "id": "db108340-8354-497c-bf4e-a9fbcb2c61e8",
+    "en": "Al Ḩadd",
+    "ru": "Аль-Жадд",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "6df67f90-3b23-443f-b99a-0ffeb14ad902",
+    "stateCode": "15",
+    "latitude": "26.24556000",
+    "longitude": "50.65417000"
+  },
+  {
+    "id": "c86fb1fe-2663-4d12-9a23-3927656a6076",
+    "en": "Al Muharraq",
+    "ru": "Аль Мухаррак",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "6df67f90-3b23-443f-b99a-0ffeb14ad902",
+    "stateCode": "15",
+    "latitude": "26.25722000",
+    "longitude": "50.61194000"
+  },
+  {
+    "id": "5e76bf5f-291b-4d80-a169-8fde1d56d79f",
+    "en": "Ar Rifā‘",
+    "ru": "Ар Рифа ‘",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "26761267-8ed6-4b19-a5c9-ca62cafcc077",
+    "stateCode": "14",
+    "latitude": "26.13000000",
+    "longitude": "50.55500000"
+  },
+  {
+    "id": "39fd7b6a-0d84-414e-a796-e0bc8b5f4974",
+    "en": "Dār Kulayb",
+    "ru": "Дар Кулайб",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "26761267-8ed6-4b19-a5c9-ca62cafcc077",
+    "stateCode": "14",
+    "latitude": "26.06861000",
+    "longitude": "50.50389000"
+  },
+  {
+    "id": "3f9aacff-7e3e-4b49-9d49-4fd01729f1c7",
+    "en": "Madīnat ‘Īsá",
+    "ru": "Madīnat Ī ásá",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "state": "26761267-8ed6-4b19-a5c9-ca62cafcc077",
+    "stateCode": "14",
+    "latitude": "26.17361000",
+    "longitude": "50.54778000"
+  }
+]

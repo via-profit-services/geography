@@ -1,1 +1,162 @@
-[{"id":"018aca73-ca02-4b11-86c9-d8855f72346a","name":"Šibenik-Knin County","ru":"Šibenik-Knin County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"15"},{"id":"28eed945-7212-447d-9b59-bedd73938599","name":"Bjelovar-Bilogora County","ru":"Bjelovar-Bilogora County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"07"},{"id":"1962b808-670c-4cd1-8f5d-265553e1654c","name":"Brod-Posavina County","ru":"Brod-Posavina County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"12"},{"id":"dd887bf6-11cd-4928-9b4f-9df27ae7b148","name":"Dubrovnik-Neretva County","ru":"Dubrovnik-Neretva County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"19"},{"id":"58377f7b-e989-4eef-b244-9d931edb8ea6","name":"Istria County","ru":"Istria County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"18"},{"id":"4e37b994-15a1-46e9-9a02-8443eb5e57ec","name":"Koprivnica-Križevci County","ru":"Koprivnica-Križevci County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"06"},{"id":"afe6076c-77d2-4374-98d2-c7f5cab73262","name":"Krapina-Zagorje County","ru":"Krapina-Zagorje County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"02"},{"id":"891d0708-a4b8-493a-823f-4ead904ded01","name":"Lika-Senj County","ru":"Lika-Senj County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"09"},{"id":"a74c98b3-116e-4bbc-b008-8f3ea70757f0","name":"Međimurje County","ru":"Međimurje County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"20"},{"id":"10a1f938-0031-44bd-91d9-7134b1f2aa5f","name":"Osijek-Baranja County","ru":"Osijek-Baranja County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"14"},{"id":"d2d3879a-8cba-43b5-93a4-c9779a46e0ff","name":"Požega-Slavonia County","ru":"Požega-Slavonia County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"11"},{"id":"a9298155-8b0f-4c79-a381-193c69599e63","name":"Primorje-Gorski Kotar County","ru":"Primorje-Gorski Kotar County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"08"},{"id":"d3703e9b-f56b-4df1-adca-98edf0c19f29","name":"Sisak-Moslavina County","ru":"Sisak-Moslavina County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"03"},{"id":"b41ffdfd-b176-49e9-8fbc-2310713fc4dc","name":"Split-Dalmatia County","ru":"Split-Dalmatia County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"17"},{"id":"6195eb53-3cc7-48f0-84c4-86ebe95a3bca","name":"Varaždin County","ru":"Varaždin County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"05"},{"id":"5ed70f43-a33c-4545-baed-1b959b6858c9","name":"Virovitica-Podravina County","ru":"Virovitica-Podravina County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"10"},{"id":"1a932b57-18ff-4f90-afdd-8c5cdbf9211d","name":"Vukovar-Syrmia County","ru":"Vukovar-Syrmia County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"16"},{"id":"3c8a872a-5ed7-4567-aa60-bb385029c62a","name":"Zadar County","ru":"Zadar County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"13"},{"id":"22e10b5e-0c81-4c5b-b2d7-7cf2044dcdd1","name":"Zagreb","ru":"Zagreb","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"21"},{"id":"7e6cd810-f852-49be-9540-38db1ffde030","name":"Zagreb County","ru":"Zagreb County","country":"4bcba895-3a7c-4546-aaa2-47225185e7a5","countryCode":"HR","stateCode":"01"}]
+[
+  {
+    "id": "95ebf5ef-b5fb-44aa-8156-48479284791f",
+    "en": "Šibenik-Knin County",
+    "ru": "Шибеник-Книн повят",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "15"
+  },
+  {
+    "id": "12297062-d824-4090-b3fa-6f62c65f517d",
+    "en": "Bjelovar-Bilogora County",
+    "ru": "Беловар-Белогорский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "07"
+  },
+  {
+    "id": "33b9b274-48b8-4063-8a24-1542ba267968",
+    "en": "Brod-Posavina County",
+    "ru": "Брод-Посавинский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "12"
+  },
+  {
+    "id": "11cb279d-7bae-45a5-893d-b5895e1222ac",
+    "en": "Dubrovnik-Neretva County",
+    "ru": "Дубровник-Неретванский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "19"
+  },
+  {
+    "id": "99119684-d3b2-463f-845c-2621dafcbad3",
+    "en": "Istria County",
+    "ru": "Истрийская жупания",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "18"
+  },
+  {
+    "id": "36dd7a12-8ad4-4a57-bf1d-6b49f45c7703",
+    "en": "Koprivnica-Križevci County",
+    "ru": "Копривница-Крижевский повят",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "06"
+  },
+  {
+    "id": "21d4819a-7e54-4670-af3d-20ed55047ee5",
+    "en": "Krapina-Zagorje County",
+    "ru": "Крапина-Загорский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "02"
+  },
+  {
+    "id": "7dff7ce4-0166-41b2-a0d1-295f34ef01e4",
+    "en": "Lika-Senj County",
+    "ru": "Лика-Сеньский повят",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "09"
+  },
+  {
+    "id": "92cb93b9-8424-4b48-adfc-322042c4368d",
+    "en": "Međimurje County",
+    "ru": "Меджимурье уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "20"
+  },
+  {
+    "id": "09f6759d-5ae6-4350-9b41-fd2e4a452306",
+    "en": "Osijek-Baranja County",
+    "ru": "Осиек-Баранья уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "14"
+  },
+  {
+    "id": "db2232ab-0a4b-4d4e-87ee-17976e3ddc97",
+    "en": "Požega-Slavonia County",
+    "ru": "Пожега-Славонский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "11"
+  },
+  {
+    "id": "a7361d48-5680-449b-ba80-746e5619df69",
+    "en": "Primorje-Gorski Kotar County",
+    "ru": "Приморье-Горский Котарский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "08"
+  },
+  {
+    "id": "68b9ebd0-4d5c-4994-a2bf-f116b9f561d8",
+    "en": "Sisak-Moslavina County",
+    "ru": "Сисак-Мославина уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "03"
+  },
+  {
+    "id": "25afb7a9-c8be-4e66-9449-9b07fd46c006",
+    "en": "Split-Dalmatia County",
+    "ru": "Сплит-Далмация уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "17"
+  },
+  {
+    "id": "35f20951-a0b8-4c59-8dae-7134b0af0501",
+    "en": "Varaždin County",
+    "ru": "Вараждинский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "05"
+  },
+  {
+    "id": "4b30673b-69d8-42d0-8f66-cf8466204ed7",
+    "en": "Virovitica-Podravina County",
+    "ru": "Вировитица-Подравинский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "10"
+  },
+  {
+    "id": "1d4225f4-8ad8-493b-a832-a9fa8b4c476b",
+    "en": "Vukovar-Syrmia County",
+    "ru": "Вуковар-Сырмийский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "16"
+  },
+  {
+    "id": "4ee2dafc-7e58-4064-aece-1c4ca25b8732",
+    "en": "Zadar County",
+    "ru": "Задарский уезд",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "13"
+  },
+  {
+    "id": "33035624-b83d-461b-a090-c3b7bfdc5363",
+    "en": "Zagreb",
+    "ru": "Загреб",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "21"
+  },
+  {
+    "id": "1c8f8e8b-25ee-4eec-95b0-50fd4c9622e0",
+    "en": "Zagreb County",
+    "ru": "Загребский повят",
+    "country": "e4b4ca6f-8439-498b-8006-f3185b5f8927",
+    "countryCode": "HR",
+    "stateCode": "01"
+  }
+]

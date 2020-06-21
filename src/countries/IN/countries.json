@@ -1,1 +1,12 @@
-[{"id":"3b6c20fe-3756-41df-afb7-7d3991cd459b","name":"India","ru":"India","iso3":"IND","iso2":"IN","phoneCode":"91","capital":"33c1d8a4-9f0c-4976-8b31-2a44cb41c721","currency":"INR"}]
+[
+  {
+    "id": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "en": "India",
+    "ru": "Индия",
+    "iso3": "IND",
+    "iso2": "IN",
+    "phoneCode": "91",
+    "capital": null,
+    "currency": "INR"
+  }
+]

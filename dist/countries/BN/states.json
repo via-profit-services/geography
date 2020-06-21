@@ -1,1 +1,34 @@
-[{"id":"3bd34744-fc7f-44d1-818c-882eae5d678c","name":"Belait District","ru":"Belait District","country":"ea1c95ae-870d-49fe-aacd-d01370c1e881","countryCode":"BN","stateCode":"BE"},{"id":"531d836a-ea7d-490c-bda5-04f39d8cc8df","name":"Brunei-Muara District","ru":"Brunei-Muara District","country":"ea1c95ae-870d-49fe-aacd-d01370c1e881","countryCode":"BN","stateCode":"BM"},{"id":"3aa41876-b7ac-4f38-b511-ba124a924bab","name":"Temburong District","ru":"Temburong District","country":"ea1c95ae-870d-49fe-aacd-d01370c1e881","countryCode":"BN","stateCode":"TE"},{"id":"e4b0334a-1154-4159-931a-b5bf3497b20f","name":"Tutong District","ru":"Tutong District","country":"ea1c95ae-870d-49fe-aacd-d01370c1e881","countryCode":"BN","stateCode":"TU"}]
+[
+  {
+    "id": "38946e73-9743-4e97-809b-4bcc082104cd",
+    "en": "Belait District",
+    "ru": "Белайтский район",
+    "country": "c87bff4e-3c15-4fe0-9bcc-dd36a5f7c34b",
+    "countryCode": "BN",
+    "stateCode": "BE"
+  },
+  {
+    "id": "4793364e-1ba3-45cd-abb9-2b77dd152513",
+    "en": "Brunei-Muara District",
+    "ru": "Бруней-Муара округ",
+    "country": "c87bff4e-3c15-4fe0-9bcc-dd36a5f7c34b",
+    "countryCode": "BN",
+    "stateCode": "BM"
+  },
+  {
+    "id": "1bfb41a8-bd04-40e6-839a-f30253aff93c",
+    "en": "Temburong District",
+    "ru": "Тембуронг округ",
+    "country": "c87bff4e-3c15-4fe0-9bcc-dd36a5f7c34b",
+    "countryCode": "BN",
+    "stateCode": "TE"
+  },
+  {
+    "id": "9b412514-4341-4330-9bd1-a7bd2c1990a5",
+    "en": "Tutong District",
+    "ru": "Тутонг округ",
+    "country": "c87bff4e-3c15-4fe0-9bcc-dd36a5f7c34b",
+    "countryCode": "BN",
+    "stateCode": "TU"
+  }
+]

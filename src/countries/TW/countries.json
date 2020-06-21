@@ -1,1 +1,12 @@
-[{"id":"e1a6c558-cb22-43bb-88e1-76a71b5dad67","name":"Taiwan","ru":"Taiwan","iso3":"TWN","iso2":"TW","phoneCode":"886","capital":"f44f036b-0278-4581-ab0a-24f3fd73fee3","currency":"TWD"}]
+[
+  {
+    "id": "cb068dee-681f-4a42-aee9-b416101cd5a9",
+    "en": "Taiwan",
+    "ru": "Тайвань",
+    "iso3": "TWN",
+    "iso2": "TW",
+    "phoneCode": "886",
+    "capital": null,
+    "currency": "TWD"
+  }
+]

@@ -1,1 +1,50 @@
-[{"id":"24ff9be6-19c1-45dd-91b8-963494724b15","name":"Belize District","ru":"Belize District","country":"2a6cc18c-10a4-484a-9e57-df25d8ad8e7e","countryCode":"BZ","stateCode":"BZ"},{"id":"cf58267e-e17f-465b-8559-7d30f5eaa1f7","name":"Cayo District","ru":"Cayo District","country":"2a6cc18c-10a4-484a-9e57-df25d8ad8e7e","countryCode":"BZ","stateCode":"CY"},{"id":"4ef51953-7227-4f9a-aba8-784b2e6bd907","name":"Corozal District","ru":"Corozal District","country":"2a6cc18c-10a4-484a-9e57-df25d8ad8e7e","countryCode":"BZ","stateCode":"CZL"},{"id":"b683c7f5-51e7-45f0-896a-ad7d7d15afe1","name":"Orange Walk District","ru":"Orange Walk District","country":"2a6cc18c-10a4-484a-9e57-df25d8ad8e7e","countryCode":"BZ","stateCode":"OW"},{"id":"49f87c82-f465-481d-a6c2-fce04a77bb96","name":"Stann Creek District","ru":"Stann Creek District","country":"2a6cc18c-10a4-484a-9e57-df25d8ad8e7e","countryCode":"BZ","stateCode":"SC"},{"id":"ea60b3e8-6654-4b57-9e7d-a08a337d7e75","name":"Toledo District","ru":"Toledo District","country":"2a6cc18c-10a4-484a-9e57-df25d8ad8e7e","countryCode":"BZ","stateCode":"TOL"}]
+[
+  {
+    "id": "6c6eb89a-739c-42b8-a695-70e7a1c9762b",
+    "en": "Belize District",
+    "ru": "Белиз округ",
+    "country": "8dc4ed28-0c69-4620-bbbf-eae8702b9e84",
+    "countryCode": "BZ",
+    "stateCode": "BZ"
+  },
+  {
+    "id": "ce62dbaa-ed97-45ba-ad46-1512c30c4750",
+    "en": "Cayo District",
+    "ru": "Кайо округ",
+    "country": "8dc4ed28-0c69-4620-bbbf-eae8702b9e84",
+    "countryCode": "BZ",
+    "stateCode": "CY"
+  },
+  {
+    "id": "b2f64af4-3175-45e9-ae01-176cc55d1e05",
+    "en": "Corozal District",
+    "ru": "Корозальский район",
+    "country": "8dc4ed28-0c69-4620-bbbf-eae8702b9e84",
+    "countryCode": "BZ",
+    "stateCode": "CZL"
+  },
+  {
+    "id": "973d8f45-f36b-4dae-ac0f-a7b66f99e39b",
+    "en": "Orange Walk District",
+    "ru": "Orange Walk Район",
+    "country": "8dc4ed28-0c69-4620-bbbf-eae8702b9e84",
+    "countryCode": "BZ",
+    "stateCode": "OW"
+  },
+  {
+    "id": "00c74e63-a4da-49db-ac54-a64f594a0329",
+    "en": "Stann Creek District",
+    "ru": "Stann Creek District",
+    "country": "8dc4ed28-0c69-4620-bbbf-eae8702b9e84",
+    "countryCode": "BZ",
+    "stateCode": "SC"
+  },
+  {
+    "id": "c238b7de-ad28-4bfc-9428-2dda8284fb8e",
+    "en": "Toledo District",
+    "ru": "Толедо район",
+    "country": "8dc4ed28-0c69-4620-bbbf-eae8702b9e84",
+    "countryCode": "BZ",
+    "stateCode": "TOL"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"b488b434-d3d1-4ea3-9c50-b3391f40cf70","name":"East Timor","ru":"East Timor","iso3":"TLS","iso2":"TL","phoneCode":"670","capital":"179584c5-1e34-46da-9e18-186949945595","currency":"USD"}]
+[
+  {
+    "id": "9eac07ec-4807-4350-b37f-a6acd747ef8c",
+    "en": "East Timor",
+    "ru": "Восточный Тимор",
+    "iso3": "TLS",
+    "iso2": "TL",
+    "phoneCode": "670",
+    "capital": null,
+    "currency": "USD"
+  }
+]

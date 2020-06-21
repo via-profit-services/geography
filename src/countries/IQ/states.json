@@ -1,1 +1,146 @@
-[{"id":"64fb8438-4068-4a48-9bde-4befd2580da3","name":"Al Anbar Governorate","ru":"Al Anbar Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"AN"},{"id":"46488d48-71c6-414c-9c72-762f0fe181d8","name":"Al Muthanna Governorate","ru":"Al Muthanna Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"MU"},{"id":"2e53967c-2f4b-45fe-ae28-873e59612e3f","name":"Al-Qādisiyyah Governorate","ru":"Al-Qādisiyyah Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"QA"},{"id":"4b78420a-d63c-47e6-b8d3-036bdafa0c38","name":"Babylon Governorate","ru":"Babylon Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"BB"},{"id":"b427be02-bd6b-4839-9a38-7c1ad957c16d","name":"Baghdad Governorate","ru":"Baghdad Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"BG"},{"id":"9ffd3b57-2768-474d-aabb-77c151fa2653","name":"Basra Governorate","ru":"Basra Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"BA"},{"id":"651a0f28-69ef-4591-a3bc-df0088aa80b4","name":"Dhi Qar Governorate","ru":"Dhi Qar Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"DQ"},{"id":"58c341a4-f56e-4e6c-bfd5-b8c5c06ef244","name":"Diyala Governorate","ru":"Diyala Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"DI"},{"id":"9e36fbe5-486a-4bd8-aa21-3eebe2d69410","name":"Dohuk Governorate","ru":"Dohuk Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"DA"},{"id":"996cdd67-7601-4cf5-abfe-9ced72236c62","name":"Erbil Governorate","ru":"Erbil Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"AR"},{"id":"1e29b997-3090-4eeb-8503-32c2697aaf85","name":"Karbala Governorate","ru":"Karbala Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"KA"},{"id":"2fda7410-0634-43e2-958b-7532edcadeaa","name":"Kirkuk Governorate","ru":"Kirkuk Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"KI"},{"id":"74f30229-9d65-4f32-b315-54ac221f7cd2","name":"Maysan Governorate","ru":"Maysan Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"MA"},{"id":"ac11dc1a-f5ee-4dee-8437-899e608ef107","name":"Najaf Governorate","ru":"Najaf Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"NA"},{"id":"29a2991b-479c-42c6-8e08-94eabc8f32c9","name":"Nineveh Governorate","ru":"Nineveh Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"NI"},{"id":"350a795b-9acc-47b6-b0e4-9843d12c6f4b","name":"Saladin Governorate","ru":"Saladin Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"SD"},{"id":"bc2cfae7-33e1-4d28-a7bf-872d6ecc8d31","name":"Sulaymaniyah Governorate","ru":"Sulaymaniyah Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"SU"},{"id":"7c5e6372-bbd7-4adc-ad72-531ad1551efc","name":"Wasit Governorate","ru":"Wasit Governorate","country":"4880ec80-0438-42be-bbaa-35e398c5b1c8","countryCode":"IQ","stateCode":"WA"}]
+[
+  {
+    "id": "0be4a0d2-7851-4a3b-a229-686a08b91371",
+    "en": "Al Anbar Governorate",
+    "ru": "Аль Анбар мухафаза",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "AN"
+  },
+  {
+    "id": "43716433-74c2-4f53-bd2a-da82bc291c80",
+    "en": "Al Muthanna Governorate",
+    "ru": "Аль Мутанна мухафаза",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "MU"
+  },
+  {
+    "id": "a1473425-400f-4bce-aa97-cbacd3b84a32",
+    "en": "Al-Qādisiyyah Governorate",
+    "ru": "Аль-Кадисийя область",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "QA"
+  },
+  {
+    "id": "0844de75-7382-4ca6-9a98-83a567df1353",
+    "en": "Babylon Governorate",
+    "ru": "Вавилонская губерния",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "BB"
+  },
+  {
+    "id": "37864f19-ef7e-4104-96ca-129d3e6a8e52",
+    "en": "Baghdad Governorate",
+    "ru": "Багдадская область",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "BG"
+  },
+  {
+    "id": "3acffb97-3a7f-487c-b16d-9c572f9d713d",
+    "en": "Basra Governorate",
+    "ru": "губерния Басра",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "BA"
+  },
+  {
+    "id": "f30a3f25-bb13-418e-8cc7-26563aeda4f9",
+    "en": "Dhi Qar Governorate",
+    "ru": "провинция Ди Кар Кар",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "DQ"
+  },
+  {
+    "id": "4d77fa41-04be-49cc-a46b-63b68edba94c",
+    "en": "Diyala Governorate",
+    "ru": "Дияла (мухафаза)",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "DI"
+  },
+  {
+    "id": "8e465661-2307-4d6d-8a8d-9929024f91af",
+    "en": "Dohuk Governorate",
+    "ru": "Дохук мухафаза",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "DA"
+  },
+  {
+    "id": "031b192b-a7f8-42ff-8745-37633cdd096f",
+    "en": "Erbil Governorate",
+    "ru": "губернаторство Эрбиль",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "AR"
+  },
+  {
+    "id": "8e256b6c-e0c0-4835-baa5-b9e4663891ba",
+    "en": "Karbala Governorate",
+    "ru": "губернаторство Кербела",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "KA"
+  },
+  {
+    "id": "21d59a3a-58fd-435c-9e78-41f64e3d8647",
+    "en": "Kirkuk Governorate",
+    "ru": "провинция Киркук",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "KI"
+  },
+  {
+    "id": "dd4afef6-9101-431f-b292-6cd1e29bb06b",
+    "en": "Maysan Governorate",
+    "ru": "Майсанская область",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "MA"
+  },
+  {
+    "id": "df60015d-c0da-4335-96b6-b74637073117",
+    "en": "Najaf Governorate",
+    "ru": "Наджаф мухафаза",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "NA"
+  },
+  {
+    "id": "1932368e-d7d6-4fbe-8dcd-95bdfc08e0db",
+    "en": "Nineveh Governorate",
+    "ru": "Ниневия (мухафаза)",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "NI"
+  },
+  {
+    "id": "7a7819ad-730f-461e-b00b-44b47ca14965",
+    "en": "Saladin Governorate",
+    "ru": "Саладинская губерния",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "SD"
+  },
+  {
+    "id": "c2f8eb35-878e-4068-9ee5-070ce427433d",
+    "en": "Sulaymaniyah Governorate",
+    "ru": "Сулейманийская область",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "SU"
+  },
+  {
+    "id": "182f7ea2-5c80-4d3a-8e1d-2d23aebb816d",
+    "en": "Wasit Governorate",
+    "ru": "губернаторство Васит",
+    "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
+    "countryCode": "IQ",
+    "stateCode": "WA"
+  }
+]

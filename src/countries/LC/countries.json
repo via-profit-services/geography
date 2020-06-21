@@ -1,1 +1,12 @@
-[{"id":"ce281be7-e389-4ce9-ad12-fede0dc4bdea","name":"Saint Lucia","ru":"Saint Lucia","iso3":"LCA","iso2":"LC","phoneCode":"+1-758","capital":"a1646659-aeb8-4ac6-aaf6-781f9f52ac8a","currency":"XCD"}]
+[
+  {
+    "id": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
+    "en": "Saint Lucia",
+    "ru": "Сент-Люсия",
+    "iso3": "LCA",
+    "iso2": "LC",
+    "phoneCode": "+1-758",
+    "capital": null,
+    "currency": "XCD"
+  }
+]

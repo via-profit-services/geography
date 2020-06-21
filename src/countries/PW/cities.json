@@ -1,1 +1,178 @@
-[{"id":"14581f91-ee14-4404-8a59-7aaa8e61dabc","name":"Ngchemiangel","ru":"Ngchemiangel","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"c53d05ce-efcb-492b-ae00-1d01599e1935","stateCode":"002","latitude":"7.44613000","longitude":"134.47678000"},{"id":"4d35beba-5501-4dcd-b11d-de755c97123a","name":"Ngetkib","ru":"Ngetkib","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"f5c48f35-5f2c-45a0-bf69-9abc60f161e2","stateCode":"004","latitude":"7.36451000","longitude":"134.51484000"},{"id":"c79f9f4f-0811-45b7-84ec-f8aa06ce72f3","name":"Angaur State","ru":"Angaur State","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"b2d25b60-8108-42b7-b7bb-519314ab3af5","stateCode":"010","latitude":"6.90601000","longitude":"134.12997000"},{"id":"d1526913-1241-4ed7-ab8c-440a7d907bdd","name":"Tobi Village","ru":"Tobi Village","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"358e5e8b-dbb1-4249-abc4-415b2f2422f4","stateCode":"050","latitude":"3.00488000","longitude":"131.12168000"},{"id":"8c8e9361-81ce-4329-aad5-5c7834caaed6","name":"Kayangel","ru":"Kayangel","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"e139f3da-7e4e-4685-b1e9-94aa593e6c66","stateCode":"100","latitude":"8.08228000","longitude":"134.71725000"},{"id":"923a1931-5f74-4110-b948-3571e8692b74","name":"Koror","ru":"Koror","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"02b2b090-39dd-48bc-80f7-c5ba5011c317","stateCode":"150","latitude":"7.33978000","longitude":"134.47326000"},{"id":"60dede77-fde2-43ce-94dc-771ecd4a710b","name":"Koror Town","ru":"Koror Town","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"02b2b090-39dd-48bc-80f7-c5ba5011c317","stateCode":"150","latitude":"7.34257000","longitude":"134.47888000"},{"id":"7412932f-70d2-4b7b-8e85-a8b652b58724","name":"Melekeok Village","ru":"Melekeok Village","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"e965a9da-fb80-4edb-a911-fad76ccbb388","stateCode":"212","latitude":"7.49567000","longitude":"134.63671000"},{"id":"1d46a4a3-2ffc-43cd-93d9-5a347b304ebb","name":"Ulimang","ru":"Ulimang","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"5801c927-67b5-4677-ad00-220b79d9bc52","stateCode":"214","latitude":"7.62416000","longitude":"134.64208000"},{"id":"b278b116-a008-4500-a57e-550f8332441f","name":"Mengellang","ru":"Mengellang","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"25bfecb9-5e7f-4f36-80ad-16ce53cd9e0c","stateCode":"218","latitude":"7.69570000","longitude":"134.63054000"},{"id":"1ce25327-5303-4ac9-82cf-2760004539a4","name":"Ngardmau","ru":"Ngardmau","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"3f60bc5d-961a-48c6-9035-b25a277c11ab","stateCode":"222","latitude":"7.60986000","longitude":"134.57440000"},{"id":"b716b82d-6dbe-4a1b-bbea-7c5ef03a3556","name":"Ngchesar Hamlet","ru":"Ngchesar Hamlet","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"fc5cc9b5-526a-4c66-9dee-5b9ff9e3c726","stateCode":"226","latitude":"7.46932000","longitude":"134.60991000"},{"id":"8c26f82a-b601-4896-825f-88d7d552d88c","name":"Imeong Hamlet","ru":"Imeong Hamlet","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"d02b2e20-5fc0-4f2d-b558-5788223c49fd","stateCode":"227","latitude":"7.53134000","longitude":"134.52713000"},{"id":"a6521e35-fc80-47d5-baf7-1fd12d50a3b0","name":"Ngerkeai","ru":"Ngerkeai","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"2a47034a-42cf-4168-86ca-b511204ed8ba","stateCode":"228","latitude":"7.55456000","longitude":"134.63612000"},{"id":"e1d246f7-ba21-45ca-aa77-d163dc99cc14","name":"Kloulklubed","ru":"Kloulklubed","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"c5159174-c9a5-4d17-b0ba-999a1649899a","stateCode":"350","latitude":"7.04192000","longitude":"134.25561000"},{"id":"8aa310c0-3e93-4362-89df-6fe88aa971da","name":"Sonsorol Village","ru":"Sonsorol Village","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","state":"944fdd6c-423f-47df-a6a3-9319e9502c36","stateCode":"370","latitude":"5.32608000","longitude":"132.21943000"}]
+[
+  {
+    "id": "c55c770c-e6f1-4249-af80-bce40bfda640",
+    "en": "Ngchemiangel",
+    "ru": "Нгчемянгель",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "868fad6c-d534-4b48-8797-0222ef9ccc8d",
+    "stateCode": "002",
+    "latitude": "7.44613000",
+    "longitude": "134.47678000"
+  },
+  {
+    "id": "6b9bb2eb-c015-427a-af35-f4f711340688",
+    "en": "Ngetkib",
+    "ru": "Нгеткиб",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "ca1c34dd-1d50-42d7-9e5b-48e622343205",
+    "stateCode": "004",
+    "latitude": "7.36451000",
+    "longitude": "134.51484000"
+  },
+  {
+    "id": "bdeb6ec3-351a-4522-980e-4381a227a2c0",
+    "en": "Angaur State",
+    "ru": "Ангаур штат",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "37ff1838-764a-4892-8e52-77e9a5dbfeec",
+    "stateCode": "010",
+    "latitude": "6.90601000",
+    "longitude": "134.12997000"
+  },
+  {
+    "id": "425fb5ec-23c7-4a0c-9d6a-ba601b809d2c",
+    "en": "Tobi Village",
+    "ru": "Tobi Village",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "56dc88e9-9af2-470c-9812-63929e1eb775",
+    "stateCode": "050",
+    "latitude": "3.00488000",
+    "longitude": "131.12168000"
+  },
+  {
+    "id": "b013bd3e-cc5d-4ca5-95e6-00e1bf76c643",
+    "en": "Kayangel",
+    "ru": "Каянгель",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "8259dc29-a2ab-436e-99a0-7d2f7101eb9f",
+    "stateCode": "100",
+    "latitude": "8.08228000",
+    "longitude": "134.71725000"
+  },
+  {
+    "id": "fdb99a11-fb83-438e-ada8-eb3a91895076",
+    "en": "Koror",
+    "ru": "Корор",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "529a56d3-b3ff-430b-8996-5fb2b792327b",
+    "stateCode": "150",
+    "latitude": "7.33978000",
+    "longitude": "134.47326000"
+  },
+  {
+    "id": "8318fe43-3961-42d1-939b-f558bd9aab2a",
+    "en": "Koror Town",
+    "ru": "Корор Таун",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "529a56d3-b3ff-430b-8996-5fb2b792327b",
+    "stateCode": "150",
+    "latitude": "7.34257000",
+    "longitude": "134.47888000"
+  },
+  {
+    "id": "1332aca9-22ce-4763-9d08-5334d6101832",
+    "en": "Melekeok Village",
+    "ru": "Мелекеок деревня",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "9d4cfb7e-e9b7-4cf3-85a1-bbdc01b8a1ac",
+    "stateCode": "212",
+    "latitude": "7.49567000",
+    "longitude": "134.63671000"
+  },
+  {
+    "id": "e3504c40-d7b9-4849-8e4a-a3c77d5fe5a2",
+    "en": "Ulimang",
+    "ru": "Улиманг",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "dfdaf8ef-06cd-41f1-aacf-a6ec59561597",
+    "stateCode": "214",
+    "latitude": "7.62416000",
+    "longitude": "134.64208000"
+  },
+  {
+    "id": "5759440d-da5f-41b2-8f4c-c4f870b4596e",
+    "en": "Mengellang",
+    "ru": "Менгелланг",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "a42cc6f9-77e4-401d-921d-444095197630",
+    "stateCode": "218",
+    "latitude": "7.69570000",
+    "longitude": "134.63054000"
+  },
+  {
+    "id": "91fd5574-a411-418e-bf4f-e9f7aef20ade",
+    "en": "Ngardmau",
+    "ru": "Нгардмау",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "1fabc828-03ec-4a93-8fb7-8faac8aaa43e",
+    "stateCode": "222",
+    "latitude": "7.60986000",
+    "longitude": "134.57440000"
+  },
+  {
+    "id": "da47d620-75bf-40f3-be70-cd1b841c4bee",
+    "en": "Ngchesar Hamlet",
+    "ru": "Ngchesar Hamlet",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "b7a95243-01fe-457f-be08-50edcd581c09",
+    "stateCode": "226",
+    "latitude": "7.46932000",
+    "longitude": "134.60991000"
+  },
+  {
+    "id": "4dc8093c-5942-4ae4-bf6a-6ebf9fc7578b",
+    "en": "Imeong Hamlet",
+    "ru": "Imeong Hamlet",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "451b0c0f-73cc-4840-80d2-f4ae46740fde",
+    "stateCode": "227",
+    "latitude": "7.53134000",
+    "longitude": "134.52713000"
+  },
+  {
+    "id": "10c1a1c9-86cb-4048-b0b9-d56472b27019",
+    "en": "Ngerkeai",
+    "ru": "Нгеркеаи",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "7f439c0b-53cb-42f9-be63-e13a9563bd61",
+    "stateCode": "228",
+    "latitude": "7.55456000",
+    "longitude": "134.63612000"
+  },
+  {
+    "id": "5cb5048e-449b-4a67-846e-ef679733a1fc",
+    "en": "Kloulklubed",
+    "ru": "Клоулклубед",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "8ee4dfe1-4c27-43dd-870b-035a9dc8ca96",
+    "stateCode": "350",
+    "latitude": "7.04192000",
+    "longitude": "134.25561000"
+  },
+  {
+    "id": "ec651879-7179-4fd4-91c3-7b8c73ad0507",
+    "en": "Sonsorol Village",
+    "ru": "Sonsorol Village",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "state": "69a8adb1-f709-4dda-843b-a1eb5ab8a6f4",
+    "stateCode": "370",
+    "latitude": "5.32608000",
+    "longitude": "132.21943000"
+  }
+]

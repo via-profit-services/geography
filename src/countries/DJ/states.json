@@ -1,1 +1,50 @@
-[{"id":"2a0644a0-2e76-4fda-a321-3832359875cf","name":"Ali Sabieh Region","ru":"Ali Sabieh Region","country":"f8e2b408-4b17-40d7-b055-962b96c25667","countryCode":"DJ","stateCode":"AS"},{"id":"339f15b7-2e27-4600-aea7-d252f0df0e70","name":"Arta Region","ru":"Arta Region","country":"f8e2b408-4b17-40d7-b055-962b96c25667","countryCode":"DJ","stateCode":"AR"},{"id":"0ab5ae41-818d-4802-a95a-26e29df0f2d4","name":"Dikhil Region","ru":"Dikhil Region","country":"f8e2b408-4b17-40d7-b055-962b96c25667","countryCode":"DJ","stateCode":"DI"},{"id":"57a21769-c797-4e6f-92fc-476c54cb025a","name":"Djibouti","ru":"Djibouti","country":"f8e2b408-4b17-40d7-b055-962b96c25667","countryCode":"DJ","stateCode":"DJ"},{"id":"3558ca7d-9436-4d7d-94fb-21fc73fc12dc","name":"Obock Region","ru":"Obock Region","country":"f8e2b408-4b17-40d7-b055-962b96c25667","countryCode":"DJ","stateCode":"OB"},{"id":"d7149d21-aba3-4eb2-8dcd-e48178d6f122","name":"Tadjourah Region","ru":"Tadjourah Region","country":"f8e2b408-4b17-40d7-b055-962b96c25667","countryCode":"DJ","stateCode":"TA"}]
+[
+  {
+    "id": "afbe45fa-117d-4035-8c50-4ef6c0c4465b",
+    "en": "Ali Sabieh Region",
+    "ru": "Али Сабие область",
+    "country": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "countryCode": "DJ",
+    "stateCode": "AS"
+  },
+  {
+    "id": "a1328ee0-7fb2-4180-8e5b-f9b381accc19",
+    "en": "Arta Region",
+    "ru": "Арта Регион",
+    "country": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "countryCode": "DJ",
+    "stateCode": "AR"
+  },
+  {
+    "id": "64ce67e7-e148-4a4c-9bdd-a581dee6170b",
+    "en": "Dikhil Region",
+    "ru": "Дихильская область",
+    "country": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "countryCode": "DJ",
+    "stateCode": "DI"
+  },
+  {
+    "id": "0a058a3c-747f-42da-adf2-9360499531b8",
+    "en": "Djibouti",
+    "ru": "Джибути",
+    "country": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "countryCode": "DJ",
+    "stateCode": "DJ"
+  },
+  {
+    "id": "a88e8bdd-770b-461f-bdb4-c0a2f0406239",
+    "en": "Obock Region",
+    "ru": "Обокская область",
+    "country": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "countryCode": "DJ",
+    "stateCode": "OB"
+  },
+  {
+    "id": "16d967c8-32d2-4560-a76c-dcc1109cfce5",
+    "en": "Tadjourah Region",
+    "ru": "Таджура область",
+    "country": "124863b4-d006-4e1e-9efc-c7c7d8089e89",
+    "countryCode": "DJ",
+    "stateCode": "TA"
+  }
+]

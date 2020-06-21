@@ -1,1 +1,338 @@
-[{"id":"4b52b015-68d0-4a82-a24a-8cd77401755f","name":"Alo","ru":"Alo","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"WF-AL"},{"id":"21f8fd8c-2479-4a58-a3e6-71a03ac9ce11","name":"Alsace","ru":"Alsace","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"A"},{"id":"dbea73c9-cdc6-47c3-931d-de758fd19867","name":"Aquitaine","ru":"Aquitaine","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"B"},{"id":"7858914b-d6d1-4afb-bbea-b338aa97d595","name":"Auvergne","ru":"Auvergne","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"C"},{"id":"326df0f4-f83e-4186-a221-4affc73071d8","name":"Auvergne-Rhône-Alpes","ru":"Auvergne-Rhône-Alpes","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"ARA"},{"id":"ded16e22-37d2-49a4-bb25-59a88545d085","name":"Île-de-France","ru":"Île-de-France","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"IDF"},{"id":"a1600470-364a-4ddc-ab5b-09d6923111bb","name":"Bourgogne-Franche-Comté","ru":"Bourgogne-Franche-Comté","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"BFC"},{"id":"7f371224-4307-4b1b-9e8d-c3a37138eca1","name":"Brittany","ru":"Brittany","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"BRE"},{"id":"d10bffeb-1d23-43bf-9449-5f37a03eadad","name":"Burgundy","ru":"Burgundy","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"D"},{"id":"dd12c344-74d7-43a0-a223-608dc91ea756","name":"Centre-Val de Loire","ru":"Centre-Val de Loire","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"CVL"},{"id":"6c0cbf97-61c6-4200-8e52-894eee27aee5","name":"Champagne-Ardenne","ru":"Champagne-Ardenne","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"G"},{"id":"c24b2256-ef4f-4a87-a6ac-d02ab1846e4b","name":"Corsica","ru":"Corsica","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"COR"},{"id":"c6278746-c16c-48f5-8389-4853d84b5ae3","name":"Franche-Comté","ru":"Franche-Comté","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"I"},{"id":"72be9283-36f3-40ba-a4c7-2bc83da75438","name":"French Guiana","ru":"French Guiana","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"GF"},{"id":"0eb715a1-62a9-4fea-917c-9a7aa9dec700","name":"French Polynesia","ru":"French Polynesia","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"PF"},{"id":"41d7511e-8fae-47c2-9d19-fb3324f37dcd","name":"Grand Est","ru":"Grand Est","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"GES"},{"id":"ffe50e69-26f6-4736-908a-81212e76b840","name":"Guadeloupe","ru":"Guadeloupe","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"GP"},{"id":"1d7ed9f4-096e-433b-9911-4c023b92a924","name":"Hauts-de-France","ru":"Hauts-de-France","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"HDF"},{"id":"803477fa-dd31-4201-98c1-6d129ee83680","name":"Languedoc-Roussillon","ru":"Languedoc-Roussillon","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"K"},{"id":"2b3419fc-89b5-462c-a972-0e2c219cd1a8","name":"Limousin","ru":"Limousin","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"L"},{"id":"9d85efe3-5d79-4800-b8ff-e2bccbbcb75c","name":"Lorraine","ru":"Lorraine","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"M"},{"id":"14a71854-7721-48b3-a084-2565f91fe97f","name":"Lower Normandy","ru":"Lower Normandy","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"P"},{"id":"b4ad49ae-ddd7-41fd-804e-be06bfc441c7","name":"Martinique","ru":"Martinique","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"MQ"},{"id":"1794d185-52f7-47e1-8375-1c9e5c1b6ed7","name":"Mayotte","ru":"Mayotte","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"YT"},{"id":"4779bad1-fc53-49c4-b4a3-fc7493002277","name":"Nord-Pas-de-Calais","ru":"Nord-Pas-de-Calais","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"O"},{"id":"c19e108a-0591-4b94-8d76-e817d709b930","name":"Normandy","ru":"Normandy","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"NOR"},{"id":"821350ba-a6e6-4d6f-a2ae-99ffc8c3b6d8","name":"Nouvelle-Aquitaine","ru":"Nouvelle-Aquitaine","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"NAQ"},{"id":"5eefdcd4-6d6d-496b-945f-7075fd3e4877","name":"Occitania","ru":"Occitania","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"OCC"},{"id":"8d70b18d-3826-48be-bd55-f822a0ce1b1e","name":"Paris","ru":"Paris","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"75"},{"id":"a6d6185a-bb7b-4d2d-b772-b1499d59dc06","name":"Pays de la Loire","ru":"Pays de la Loire","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"PDL"},{"id":"51afc6d6-3a12-499f-98cf-96d41502e466","name":"Picardy","ru":"Picardy","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"S"},{"id":"f3b83ba2-530b-425e-ae5b-290cb36b2315","name":"Poitou-Charentes","ru":"Poitou-Charentes","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"T"},{"id":"dafd0243-495e-4543-8390-586d9a03c485","name":"Provence-Alpes-Côte d'Azur","ru":"Provence-Alpes-Côte d'Azur","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"PAC"},{"id":"c5246711-793f-408a-8e52-f932609b5b9b","name":"Réunion","ru":"Réunion","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"RE"},{"id":"21ece11d-4322-49e1-ad79-b7c6a4d187ff","name":"Rhône-Alpes","ru":"Rhône-Alpes","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"V"},{"id":"3cca4e6f-4223-4497-a352-d1153cbeb553","name":"Saint Barthélemy","ru":"Saint Barthélemy","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"BL"},{"id":"75bc89f0-e0e8-45fe-8ea0-9befd77d3422","name":"Saint Martin","ru":"Saint Martin","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"MF"},{"id":"689ca6be-ffbe-4709-8f26-b3eb5683f422","name":"Saint Pierre and Miquelon","ru":"Saint Pierre and Miquelon","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"PM"},{"id":"a97c1e2e-886f-48f7-b7d4-bff958ba7ce2","name":"Sigave","ru":"Sigave","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"WF-SG"},{"id":"2673fcd6-cecf-4715-9420-d6214accf594","name":"Upper Normandy","ru":"Upper Normandy","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"Q"},{"id":"72f480d1-e631-4d1e-a4be-7cfccb7da95a","name":"Uvea","ru":"Uvea","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"WF-UV"},{"id":"60b52fa2-935b-4747-8659-71dcf773b6d1","name":"Wallis and Futuna","ru":"Wallis and Futuna","country":"635251e2-3c43-4201-a736-bc156d043655","countryCode":"FR","stateCode":"WF"}]
+[
+  {
+    "id": "f76eb5a3-7e14-4166-9da7-fae78c215dfb",
+    "en": "Alo",
+    "ru": "Ало",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "WF-AL"
+  },
+  {
+    "id": "af548552-2125-4270-84c7-65b245577ed8",
+    "en": "Alsace",
+    "ru": "Эльзас",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "A"
+  },
+  {
+    "id": "84da3b83-1c7e-4ca3-8b5b-3e7c78d6bfa2",
+    "en": "Aquitaine",
+    "ru": "Аквитания",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "B"
+  },
+  {
+    "id": "dc4467c0-66a5-48f1-a761-db32fb72bb6f",
+    "en": "Auvergne",
+    "ru": "Овернь",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "C"
+  },
+  {
+    "id": "0035d8cd-6564-442d-acaa-3ab15de95a24",
+    "en": "Auvergne-Rhône-Alpes",
+    "ru": "Овернь-Рона-Альпы",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "ARA"
+  },
+  {
+    "id": "b19a83cd-07b8-4ce1-8c2c-88800984ba5f",
+    "en": "Île-de-France",
+    "ru": "Иль-де-Франс",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "IDF"
+  },
+  {
+    "id": "7218fe24-7af6-4e64-a37c-f3f5c0d18ed9",
+    "en": "Bourgogne-Franche-Comté",
+    "ru": "Бургундия-Франш-Конте",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "BFC"
+  },
+  {
+    "id": "32675cca-c9d0-4834-9112-c20a095a63f3",
+    "en": "Brittany",
+    "ru": "Бретань",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "BRE"
+  },
+  {
+    "id": "1ca4fc4f-4758-48ae-95f5-2d7aef4c9157",
+    "en": "Burgundy",
+    "ru": "Бургундия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "D"
+  },
+  {
+    "id": "906b2ab7-5614-400f-93d9-12c2742c75c7",
+    "en": "Centre-Val de Loire",
+    "ru": "Центр Валь де Луара",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "CVL"
+  },
+  {
+    "id": "45123b22-0c8c-478a-9af1-5c354012ec32",
+    "en": "Champagne-Ardenne",
+    "ru": "Шампань-Арденны",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "G"
+  },
+  {
+    "id": "78972c00-1606-4c45-b739-ff4e62ee9225",
+    "en": "Corsica",
+    "ru": "Корсика",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "COR"
+  },
+  {
+    "id": "e04f9bc3-57c9-4bed-b122-1be916753f29",
+    "en": "Franche-Comté",
+    "ru": "Франш-Конте",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "I"
+  },
+  {
+    "id": "d64ed1e6-ed15-4b31-891d-3e075aa6a154",
+    "en": "French Guiana",
+    "ru": "Французская Гвиана",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "GF"
+  },
+  {
+    "id": "113da021-f119-4767-874b-34fc4a6b7323",
+    "en": "French Polynesia",
+    "ru": "Французская Полинезия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "PF"
+  },
+  {
+    "id": "f70976eb-f9df-4761-81c6-9c4fb0f8dd17",
+    "en": "Grand Est",
+    "ru": "Гранд Эст",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "GES"
+  },
+  {
+    "id": "c1998d4f-3a1c-4fa4-a0cc-8f59ce560074",
+    "en": "Guadeloupe",
+    "ru": "Гваделупа",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "GP"
+  },
+  {
+    "id": "5aa24ffb-c6af-430b-a663-3fb5cb899a42",
+    "en": "Hauts-de-France",
+    "ru": "О-де-Франс",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "HDF"
+  },
+  {
+    "id": "4e55e040-5ac2-4fe7-b651-8828ddb2c424",
+    "en": "Languedoc-Roussillon",
+    "ru": "Лангедок-Руссильон",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "K"
+  },
+  {
+    "id": "a15e8265-8a91-475b-a4b9-c5b6c17dea0b",
+    "en": "Limousin",
+    "ru": "Лимузен",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "L"
+  },
+  {
+    "id": "f3c48b08-747f-4199-805f-35f566081963",
+    "en": "Lorraine",
+    "ru": "Лотарингия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "M"
+  },
+  {
+    "id": "eed38ae6-14ec-4111-b72b-d1222d45447c",
+    "en": "Lower Normandy",
+    "ru": "Нижняя Нормандия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "P"
+  },
+  {
+    "id": "2d1a3b99-31b3-45ae-8b84-2cc7749762de",
+    "en": "Martinique",
+    "ru": "Мартиника",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "MQ"
+  },
+  {
+    "id": "d077e630-124e-4f2c-8b20-a5c49d578d99",
+    "en": "Mayotte",
+    "ru": "Майотта",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "YT"
+  },
+  {
+    "id": "ae83aedc-72ba-448e-ab18-5efbe89e77ec",
+    "en": "Nord-Pas-de-Calais",
+    "ru": "Норд-Па-де-Кале",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "O"
+  },
+  {
+    "id": "05e9be98-fa37-47ae-823e-ec3d071c7682",
+    "en": "Normandy",
+    "ru": "Нормандия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "NOR"
+  },
+  {
+    "id": "b614c875-94df-4aba-8a50-543533528187",
+    "en": "Nouvelle-Aquitaine",
+    "ru": "Нувель-Аквитания",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "NAQ"
+  },
+  {
+    "id": "984c4111-066d-4acf-b841-cf963dd96553",
+    "en": "Occitania",
+    "ru": "Окситания",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "OCC"
+  },
+  {
+    "id": "8896b063-ae0e-4062-9da4-babe1406a9f5",
+    "en": "Paris",
+    "ru": "Париж",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "75"
+  },
+  {
+    "id": "a60c8542-f831-4af3-8e3c-29e3dd38e7c4",
+    "en": "Pays de la Loire",
+    "ru": "Пэи де ла Луар",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "PDL"
+  },
+  {
+    "id": "5f95a98d-04bd-441c-bf22-557210b5c48d",
+    "en": "Picardy",
+    "ru": "Пикардия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "S"
+  },
+  {
+    "id": "51226f37-2e14-4e7f-abfc-c3b33e9cab44",
+    "en": "Poitou-Charentes",
+    "ru": "Пуату-Шаранта",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "T"
+  },
+  {
+    "id": "113010ed-869e-45bc-814b-2a4e9ba10abb",
+    "en": "Provence-Alpes-Côte d'Azur",
+    "ru": "Прованс-Альпы-Лазурный берег",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "PAC"
+  },
+  {
+    "id": "a70fb7ee-3569-43a6-a1e9-fa7db3288c7a",
+    "en": "Réunion",
+    "ru": "Реюньон",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "RE"
+  },
+  {
+    "id": "c47a8b8f-a0b5-4930-8b65-b7ab0c0b53bb",
+    "en": "Rhône-Alpes",
+    "ru": "Рона-Альпы",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "V"
+  },
+  {
+    "id": "a777fa67-1ee5-48c9-acda-86f1999bc863",
+    "en": "Saint Barthélemy",
+    "ru": "Сен-Бартельми",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "BL"
+  },
+  {
+    "id": "15503976-9d1e-4c13-93a8-6e09f77043f5",
+    "en": "Saint Martin",
+    "ru": "Сен-Мартен",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "MF"
+  },
+  {
+    "id": "852731fc-1b34-4326-bd1e-1d592339cb18",
+    "en": "Saint Pierre and Miquelon",
+    "ru": "Сен-Пьер и Микелон",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "PM"
+  },
+  {
+    "id": "678f556f-b80a-491c-9905-df4870673d0c",
+    "en": "Sigave",
+    "ru": "Сигаве",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "WF-SG"
+  },
+  {
+    "id": "2b4792d6-7c4d-4bff-aa09-3a1ebb12b146",
+    "en": "Upper Normandy",
+    "ru": "Верхняя Нормандия",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "Q"
+  },
+  {
+    "id": "eafe86a1-adf0-4fd1-88e1-c8cfd4c0066a",
+    "en": "Uvea",
+    "ru": "Увеа",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "WF-UV"
+  },
+  {
+    "id": "a08f281a-c03a-43f9-b4eb-42eee1bbf368",
+    "en": "Wallis and Futuna",
+    "ru": "Уоллис и Футуна",
+    "country": "365db666-2805-404a-808d-74d37c43a220",
+    "countryCode": "FR",
+    "stateCode": "WF"
+  }
+]

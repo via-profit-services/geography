@@ -1,1 +1,12 @@
-[{"id":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","name":"Belarus","ru":"Belarus","iso3":"BLR","iso2":"BY","phoneCode":"375","capital":"24bceb00-f8ab-4f47-92c9-56e3776c8b69","currency":"BYR"}]
+[
+  {
+    "id": "14943873-8696-4690-aab0-d10439ca2d61",
+    "en": "Belarus",
+    "ru": "Беларусь",
+    "iso3": "BLR",
+    "iso2": "BY",
+    "phoneCode": "375",
+    "capital": null,
+    "currency": "BYR"
+  }
+]

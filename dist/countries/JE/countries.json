@@ -1,1 +1,12 @@
-[{"id":"6c123054-85e0-4719-a965-e91d2ebb3755","name":"Jersey","ru":"Jersey","iso3":"JEY","iso2":"JE","phoneCode":"+44-1534","capital":null,"currency":"GBP"}]
+[
+  {
+    "id": "a434ab98-3037-444d-9db5-8b3507687481",
+    "en": "Jersey",
+    "ru": "Джерси",
+    "iso3": "JEY",
+    "iso2": "JE",
+    "phoneCode": "+44-1534",
+    "capital": null,
+    "currency": "GBP"
+  }
+]

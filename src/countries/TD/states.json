@@ -1,1 +1,186 @@
-[{"id":"def032fa-a65f-4a4a-a420-20a09fb4701b","name":"Bahr el Gazel","ru":"Bahr el Gazel","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"BG"},{"id":"71f0d356-2882-4fe0-b27f-78c1dbb45e4f","name":"Batha Region","ru":"Batha Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"BA"},{"id":"f04579cd-92e4-4593-8414-a9be16667cdf","name":"Borkou","ru":"Borkou","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"BO"},{"id":"d1a51b7b-d143-4ebf-8b86-09aa25701640","name":"Ennedi Region","ru":"Ennedi Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"EN"},{"id":"20624aac-6828-4fa3-8ed5-89b1df91be2a","name":"Ennedi-Est","ru":"Ennedi-Est","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"EE"},{"id":"d741fff1-c229-4476-92e1-f91575594ed9","name":"Ennedi-Ouest","ru":"Ennedi-Ouest","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"EO"},{"id":"498264dd-079f-4699-b200-3ada544ed756","name":"Guéra Region","ru":"Guéra Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"GR"},{"id":"18c1ac32-7c0b-4638-9376-bd9efc6cef53","name":"Hadjer-Lamis","ru":"Hadjer-Lamis","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"HL"},{"id":"03fc4226-34cb-4493-bea4-257324effed3","name":"Kanem Region","ru":"Kanem Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"KA"},{"id":"bba2aa82-ae2d-4ffa-b2dc-e9aa43cec56c","name":"Lac Region","ru":"Lac Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"LC"},{"id":"2bd9e214-7b9e-4ee9-939b-e591074129bb","name":"Logone Occidental Region","ru":"Logone Occidental Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"LO"},{"id":"3a248c7f-a045-4acf-9bd4-caf0c771a4f6","name":"Logone Oriental Region","ru":"Logone Oriental Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"LR"},{"id":"104c4a74-ac5b-4e92-97c1-c1be20f867b5","name":"Mandoul Region","ru":"Mandoul Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"MA"},{"id":"986525f9-fe18-4b6a-945d-530981a17b5b","name":"Mayo-Kebbi Est Region","ru":"Mayo-Kebbi Est Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"ME"},{"id":"36f8959b-dc65-4e5d-85f0-6b17a91667c6","name":"Mayo-Kebbi Ouest Region","ru":"Mayo-Kebbi Ouest Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"MO"},{"id":"c6b82dca-ba74-4571-abe2-5317d57a9079","name":"Moyen-Chari Region","ru":"Moyen-Chari Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"MC"},{"id":"92355138-af04-40ca-8405-552c33e343b3","name":"N'Djamena","ru":"N'Djamena","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"ND"},{"id":"3e0c162c-921a-4eab-911b-353bcfa1d4f5","name":"Ouaddaï Region","ru":"Ouaddaï Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"OD"},{"id":"5ce58706-ed44-4852-ae8c-985084120c16","name":"Salamat Region","ru":"Salamat Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"SA"},{"id":"3abea959-82cc-409f-9c7f-71141af8709d","name":"Sila Region","ru":"Sila Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"SI"},{"id":"75f86461-666f-4284-95fe-d770225ee9a9","name":"Tandjilé Region","ru":"Tandjilé Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"TA"},{"id":"68bd1d07-5f88-4b91-b1d8-c353ccb49d8e","name":"Tibesti Region","ru":"Tibesti Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"TI"},{"id":"8a57b50a-a32a-44a2-9d66-01bcb0c34d0f","name":"Wadi Fira Region","ru":"Wadi Fira Region","country":"face368e-67c3-4bee-b965-30b3335fa643","countryCode":"TD","stateCode":"WF"}]
+[
+  {
+    "id": "c3f3f71f-cee6-40c4-925b-a225a575e429",
+    "en": "Bahr el Gazel",
+    "ru": "Бахр эль Газель",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "BG"
+  },
+  {
+    "id": "ff58b563-197a-4036-b8f6-c83c759996c9",
+    "en": "Batha Region",
+    "ru": "батха область",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "BA"
+  },
+  {
+    "id": "d0bd8aa6-8304-4ecb-b13a-b53c4e0df8c9",
+    "en": "Borkou",
+    "ru": "Боркоу",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "BO"
+  },
+  {
+    "id": "0cf84b65-5e61-46a6-8f89-24c13c7bf2a4",
+    "en": "Ennedi Region",
+    "ru": "Эннеди Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "EN"
+  },
+  {
+    "id": "e59f58a3-0a30-4da0-98b0-e43ad8630d22",
+    "en": "Ennedi-Est",
+    "ru": "Эннеди-Восток",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "EE"
+  },
+  {
+    "id": "da2b679b-ce45-4331-ab0b-9806dc276f87",
+    "en": "Ennedi-Ouest",
+    "ru": "Эннеди-Уэст",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "EO"
+  },
+  {
+    "id": "4dae05eb-7f37-4628-8a3b-b78f9cd76614",
+    "en": "Guéra Region",
+    "ru": "Гера Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "GR"
+  },
+  {
+    "id": "702d3686-e73e-459d-86d1-3fdee2920c1a",
+    "en": "Hadjer-Lamis",
+    "ru": "Хаджер-Ламис",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "HL"
+  },
+  {
+    "id": "dbc77316-4595-488a-a6ef-cc3c4ebe562c",
+    "en": "Kanem Region",
+    "ru": "Канем Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "KA"
+  },
+  {
+    "id": "a97266ed-052e-46c4-923a-11e255eeb2ab",
+    "en": "Lac Region",
+    "ru": "Лакская область",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "LC"
+  },
+  {
+    "id": "b6a89f83-d26c-4aac-876d-7e29fa728e55",
+    "en": "Logone Occidental Region",
+    "ru": "Логоне Западный Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "LO"
+  },
+  {
+    "id": "39b90ee9-a593-4e2b-8dd7-a22a2b3ae6fe",
+    "en": "Logone Oriental Region",
+    "ru": "логоне восточный регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "LR"
+  },
+  {
+    "id": "fee8408c-70b4-47ed-bb9c-33e807031b4c",
+    "en": "Mandoul Region",
+    "ru": "Мандул Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "MA"
+  },
+  {
+    "id": "3f167732-721d-4b2a-b0ca-36a9603582cf",
+    "en": "Mayo-Kebbi Est Region",
+    "ru": "Майо-Кебби Est Region",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "ME"
+  },
+  {
+    "id": "496252fe-4a62-438e-b464-4f390f9cd545",
+    "en": "Mayo-Kebbi Ouest Region",
+    "ru": "Майо-Кебби Регион Уэст",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "MO"
+  },
+  {
+    "id": "0aeb13a2-ecab-445a-bbf5-39b2e903b8e2",
+    "en": "Moyen-Chari Region",
+    "ru": "Мойен-Чари Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "MC"
+  },
+  {
+    "id": "ec388452-d8c6-4a22-9531-a672cc483ac9",
+    "en": "N'Djamena",
+    "ru": "Нджамена",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "ND"
+  },
+  {
+    "id": "df64cf64-a294-4700-9f12-204d8e5e9569",
+    "en": "Ouaddaï Region",
+    "ru": "Уаддайский край",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "OD"
+  },
+  {
+    "id": "171bab0b-3d3f-4ce1-94c8-14005553f4fc",
+    "en": "Salamat Region",
+    "ru": "Саламатская область",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "SA"
+  },
+  {
+    "id": "09d5d522-aad9-413e-b8fd-94f2728901d1",
+    "en": "Sila Region",
+    "ru": "Сила Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "SI"
+  },
+  {
+    "id": "8216aa4c-99d9-4094-bf15-305ffbe55cbd",
+    "en": "Tandjilé Region",
+    "ru": "Танджильский край",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "TA"
+  },
+  {
+    "id": "2fc28f58-aa2d-4ebc-8992-a8f056c87156",
+    "en": "Tibesti Region",
+    "ru": "Тибештия область",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "TI"
+  },
+  {
+    "id": "9020949a-def7-40e1-ab1b-b7679af42557",
+    "en": "Wadi Fira Region",
+    "ru": "Вади Фира Регион",
+    "country": "3944eacd-dd77-4c5d-bb47-e2f82fc22435",
+    "countryCode": "TD",
+    "stateCode": "WF"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"a6af3ee1-7869-4872-8069-9d2c61a051be","name":"Austria","ru":"Austria","iso3":"AUT","iso2":"AT","phoneCode":"43","capital":"28bbfdb2-ace7-442c-ab81-2ce2e7a9eb2c","currency":"EUR"}]
+[
+  {
+    "id": "549d4e58-7238-407b-9c5b-81c5683251f4",
+    "en": "Austria",
+    "ru": "Австрия",
+    "iso3": "AUT",
+    "iso2": "AT",
+    "phoneCode": "43",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

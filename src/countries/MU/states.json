@@ -1,1 +1,138 @@
-[{"id":"34e187fe-4874-41cc-964b-cf89d77cd877","name":"Agaléga","ru":"Agaléga","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"AG"},{"id":"f8bbdd75-6ea2-4b75-b485-eb83a7f0ea49","name":"Beau Bassin-Rose Hill","ru":"Beau Bassin-Rose Hill","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"BR"},{"id":"8f030c10-f265-4d98-9d8a-062b2fbd45f4","name":"Cargados Carajos","ru":"Cargados Carajos","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"CC"},{"id":"09a5c4f2-4509-4fa3-bd26-8ea26dcf5b90","name":"Curepipe","ru":"Curepipe","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"CU"},{"id":"09bc0aa1-4d65-49ff-8b2d-14acf19238a7","name":"Flacq District","ru":"Flacq District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"FL"},{"id":"52673695-211d-4ab7-b46b-397f0d7cd126","name":"Grand Port District","ru":"Grand Port District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"GP"},{"id":"385ac72c-276e-4fc8-ba1d-bf4290dd64fd","name":"Moka District","ru":"Moka District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"MO"},{"id":"05a55c5f-278a-44bd-8ce4-b998ea8de90a","name":"Pamplemousses District","ru":"Pamplemousses District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"PA"},{"id":"db2c9e6f-b2bc-484c-b11b-1da88d836489","name":"Plaines Wilhems District","ru":"Plaines Wilhems District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"PW"},{"id":"de70f8dd-4ece-49b9-b511-907547a81b73","name":"Port Louis","ru":"Port Louis","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"PU"},{"id":"4806aa0b-6d1b-4934-9d34-0c7079c8cd7f","name":"Port Louis District","ru":"Port Louis District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"PL"},{"id":"0332eeb0-f382-4365-ad9d-2d27ad54bc6b","name":"Quatre Bornes","ru":"Quatre Bornes","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"QB"},{"id":"7d83bf62-5b1c-4a2a-8922-572362918844","name":"Rivière du Rempart District","ru":"Rivière du Rempart District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"RR"},{"id":"94201772-f1a2-4134-b093-66ceaf66c9ce","name":"Rivière Noire District","ru":"Rivière Noire District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"BL"},{"id":"349db43f-c834-44f0-b9fe-6ab50059bd64","name":"Rodrigues","ru":"Rodrigues","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"RO"},{"id":"9fb87a45-f19e-46e5-a902-3baa7ed88a80","name":"Savanne District","ru":"Savanne District","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"SA"},{"id":"0492b99c-e752-4e10-b3f5-1f611ceb52ed","name":"Vacoas-Phoenix","ru":"Vacoas-Phoenix","country":"1133f22e-cc42-44b6-8997-37824d73fc00","countryCode":"MU","stateCode":"VP"}]
+[
+  {
+    "id": "6993ebc0-32ab-45c0-a2dc-068aac954703",
+    "en": "Agaléga",
+    "ru": "Агалега",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "AG"
+  },
+  {
+    "id": "858935a9-f604-437c-b773-06df17b91a5a",
+    "en": "Beau Bassin-Rose Hill",
+    "ru": "Бо Бассен-Роуз Хилл",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "BR"
+  },
+  {
+    "id": "0ea2c3c8-b301-489c-ab0a-6690ff95b471",
+    "en": "Cargados Carajos",
+    "ru": "Каргадос Карахос",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "CC"
+  },
+  {
+    "id": "c31f3db4-7947-417d-a9f1-eddda806bcf0",
+    "en": "Curepipe",
+    "ru": "Кюрпип",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "CU"
+  },
+  {
+    "id": "f00b93b1-8842-455f-9cab-fd389e0d12a6",
+    "en": "Flacq District",
+    "ru": "Flacq район",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "FL"
+  },
+  {
+    "id": "e31ef266-ed23-4082-b509-a573ea03c849",
+    "en": "Grand Port District",
+    "ru": "Гранд Порт Район",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "GP"
+  },
+  {
+    "id": "efbdcf93-bd63-4686-9619-2493fc23e5e6",
+    "en": "Moka District",
+    "ru": "Мокий район",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "MO"
+  },
+  {
+    "id": "b07243f4-6589-455a-9547-821a59ef1fe0",
+    "en": "Pamplemousses District",
+    "ru": "Памплемус округ",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "PA"
+  },
+  {
+    "id": "e4bc22b1-3d4f-402d-9085-af1f1164af57",
+    "en": "Plaines Wilhems District",
+    "ru": "равнины вильгемский округ",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "PW"
+  },
+  {
+    "id": "11bfe1f1-cc23-4f07-8251-7296d0b24ec4",
+    "en": "Port Louis",
+    "ru": "Порт-Луи",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "PU"
+  },
+  {
+    "id": "c692355e-403d-4f45-88e1-5fa1be658825",
+    "en": "Port Louis District",
+    "ru": "Порт-Луи",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "PL"
+  },
+  {
+    "id": "c474dbf3-0360-4924-92f6-00483338f17d",
+    "en": "Quatre Bornes",
+    "ru": "Quatre Bornes",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "QB"
+  },
+  {
+    "id": "1d4c0581-967b-4f19-9632-611bbb6b23b2",
+    "en": "Rivière du Rempart District",
+    "ru": "Ривьер дю Ремпарт округ",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "RR"
+  },
+  {
+    "id": "555bfeb8-efdc-4d1c-8406-969a3ec0a6b9",
+    "en": "Rivière Noire District",
+    "ru": "Ривьер Нуар округ",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "BL"
+  },
+  {
+    "id": "0d7a9f5f-2756-495d-bded-b57273b1ffcb",
+    "en": "Rodrigues",
+    "ru": "Родригес",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "RO"
+  },
+  {
+    "id": "a1c6bc59-5e56-4d8c-b27a-019cfc95a0e6",
+    "en": "Savanne District",
+    "ru": "Саваннский район",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "SA"
+  },
+  {
+    "id": "fd3c063a-3a10-4c88-92ff-4d976a765966",
+    "en": "Vacoas-Phoenix",
+    "ru": "Vacoas-Phoenix",
+    "country": "374a9396-040c-4e36-bf2e-97704177d3e3",
+    "countryCode": "MU",
+    "stateCode": "VP"
+  }
+]

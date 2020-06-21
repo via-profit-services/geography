@@ -1,1 +1,12 @@
-[{"id":"89f7761b-99ea-4779-9ef0-d1367c61ca95","name":"Bolivia","ru":"Bolivia","iso3":"BOL","iso2":"BO","phoneCode":"591","capital":"cfbcbbf6-7f1f-4e4a-940e-1c28255aca8d","currency":"BOB"}]
+[
+  {
+    "id": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "en": "Bolivia",
+    "ru": "Боливия",
+    "iso3": "BOL",
+    "iso2": "BO",
+    "phoneCode": "591",
+    "capital": null,
+    "currency": "BOB"
+  }
+]

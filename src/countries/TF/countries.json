@@ -1,1 +1,12 @@
-[{"id":"2ad472ee-4152-48dd-91b8-04f2f20f6dcd","name":"French Southern Territories","ru":"French Southern Territories","iso3":"ATF","iso2":"TF","phoneCode":"","capital":null,"currency":"EUR"}]
+[
+  {
+    "id": "0b7827b3-4d71-4105-85ab-b49fb5acf63d",
+    "en": "French Southern Territories",
+    "ru": "Французские Южные Территории",
+    "iso3": "ATF",
+    "iso2": "TF",
+    "phoneCode": "",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

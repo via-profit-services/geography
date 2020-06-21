@@ -1,1 +1,18 @@
-[{"id":"3ed95646-2e76-408b-9241-7237e806ed26","name":"Ralik Chain","ru":"Ralik Chain","country":"9c904f2c-cb4f-4483-a071-4b74b17e77c5","countryCode":"MH","stateCode":"L"},{"id":"b7ca4ca5-3bd4-42f5-bac9-b4d7f858c736","name":"Ratak Chain","ru":"Ratak Chain","country":"9c904f2c-cb4f-4483-a071-4b74b17e77c5","countryCode":"MH","stateCode":"T"}]
+[
+  {
+    "id": "17a9ba85-3d14-4165-bfda-16cbef496775",
+    "en": "Ralik Chain",
+    "ru": "Ралик Сеть",
+    "country": "90eb3550-06ad-44a2-bfb7-148853127cf6",
+    "countryCode": "MH",
+    "stateCode": "L"
+  },
+  {
+    "id": "8d2a64c8-8cad-41c3-a8ce-c08bb6d43bc6",
+    "en": "Ratak Chain",
+    "ru": "Ратак Сеть",
+    "country": "90eb3550-06ad-44a2-bfb7-148853127cf6",
+    "countryCode": "MH",
+    "stateCode": "T"
+  }
+]

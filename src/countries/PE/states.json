@@ -1,1 +1,202 @@
-[{"id":"906bedf8-969a-43d1-a756-2c4e35399db5","name":"Amazonas","ru":"Amazonas","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"AMA"},{"id":"86b83320-86ea-4852-b23d-cb3ff1324815","name":"Apurímac","ru":"Apurímac","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"APU"},{"id":"b610ffbd-cd21-46c5-9f6f-5fbb7a0febee","name":"Arequipa","ru":"Arequipa","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"ARE"},{"id":"c9382826-1aae-43ab-a250-ab849d5aee4e","name":"Ayacucho","ru":"Ayacucho","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"AYA"},{"id":"6e898d0c-094c-4d36-979b-b52da9b6eb1c","name":"Áncash","ru":"Áncash","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"ANC"},{"id":"ce10367e-2f13-4d1e-a57c-be34b646adfa","name":"Cajamarca","ru":"Cajamarca","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"CAJ"},{"id":"8607628e-c2fa-439c-a8a0-e3e10a8fe991","name":"Callao","ru":"Callao","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"CAL"},{"id":"95482598-0087-4fad-aefb-2d58b2b4a049","name":"Cusco","ru":"Cusco","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"CUS"},{"id":"050e7efe-e032-42d6-96cd-5656584167d8","name":"Huancavelica","ru":"Huancavelica","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"HUV"},{"id":"c7ed6233-06fe-48c9-a401-373a4636cbca","name":"Huanuco","ru":"Huanuco","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"HUC"},{"id":"10a3dad2-b47c-400f-a525-beb902a3b465","name":"Ica","ru":"Ica","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"ICA"},{"id":"6d3d8489-a995-49ce-b5cf-c5d8468f5cf3","name":"Junín","ru":"Junín","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"JUN"},{"id":"e359b70d-1325-45f2-9666-055633dbf96b","name":"La Libertad","ru":"La Libertad","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"LAL"},{"id":"64781bca-5fe0-4932-a565-9c19c27081e1","name":"Lambayeque","ru":"Lambayeque","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"LAM"},{"id":"9364fea4-3afd-46f3-85e8-adedd8ad1b14","name":"Lima","ru":"Lima","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"LIM"},{"id":"61764bcb-7c1f-4b09-9bb5-b4e7f9e1e891","name":"Lima Province","ru":"Lima Province","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"LMA"},{"id":"89de5697-3895-4724-843d-6120d7ffe056","name":"Madre de Dios","ru":"Madre de Dios","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"MDD"},{"id":"1cab90be-a96b-4854-95a5-965537c036b5","name":"Moquegua","ru":"Moquegua","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"MOQ"},{"id":"0aea9ad8-59d5-4993-89e3-a058297c7511","name":"Pasco","ru":"Pasco","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"PAS"},{"id":"041a0db0-3569-4a8b-9c97-b76914ad1787","name":"Piura","ru":"Piura","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"PIU"},{"id":"0750a4c8-1da8-442d-83da-503275632c6d","name":"Puno","ru":"Puno","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"PUN"},{"id":"befc8ed9-ca56-4e67-8ace-67cd46225d88","name":"San Martín","ru":"San Martín","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"SAM"},{"id":"b3240ea2-ba14-4144-a593-e678f240b63a","name":"Tacna","ru":"Tacna","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"TAC"},{"id":"95f82e83-aa61-4051-b338-ca954cffa42c","name":"Tumbes","ru":"Tumbes","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"TUM"},{"id":"dc0b6424-b3bd-49f6-8844-b34ced27c8b0","name":"Ucayali","ru":"Ucayali","country":"22a7ad39-0ed6-4024-9311-6a45868ff74a","countryCode":"PE","stateCode":"UCA"}]
+[
+  {
+    "id": "b9f79774-28da-419d-98b6-98b2986f0f36",
+    "en": "Amazonas",
+    "ru": "Амазонас",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "AMA"
+  },
+  {
+    "id": "2b847991-f147-4c43-a986-31fe1f186b0f",
+    "en": "Apurímac",
+    "ru": "Апуримак",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "APU"
+  },
+  {
+    "id": "6874b206-46e4-40cd-8d2f-ddaaf5949b16",
+    "en": "Arequipa",
+    "ru": "Арекипа",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "ARE"
+  },
+  {
+    "id": "38003648-c82f-4439-8575-1eff85549b94",
+    "en": "Ayacucho",
+    "ru": "Аякучо",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "AYA"
+  },
+  {
+    "id": "0bc946cc-1e8f-4dab-89c8-f8140f582198",
+    "en": "Áncash",
+    "ru": "Анкаш",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "ANC"
+  },
+  {
+    "id": "18ed7e29-f844-4a52-835d-ca8a92d4f071",
+    "en": "Cajamarca",
+    "ru": "Кахамарка",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "CAJ"
+  },
+  {
+    "id": "15bc32d7-3cce-4011-b51a-a748dfe109b0",
+    "en": "Callao",
+    "ru": "Кальяо",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "CAL"
+  },
+  {
+    "id": "4f2c2ec0-fb47-4618-8f77-c9a3fc755dd1",
+    "en": "Cusco",
+    "ru": "Куско",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "CUS"
+  },
+  {
+    "id": "587f9923-89f4-43e5-b6b3-d2e158e9ff42",
+    "en": "Huancavelica",
+    "ru": "Уанкавелика",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "HUV"
+  },
+  {
+    "id": "0bb82763-5951-4be3-9265-e8ed9081a24b",
+    "en": "Huanuco",
+    "ru": "Уануко",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "HUC"
+  },
+  {
+    "id": "5483bcbc-e4c6-4bf7-9ef4-a42f185c0cbe",
+    "en": "Ica",
+    "ru": "Ика",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "ICA"
+  },
+  {
+    "id": "0c1e98a2-6ac2-491d-b7fd-d8e2ccfee5fc",
+    "en": "Junín",
+    "ru": "Junín",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "JUN"
+  },
+  {
+    "id": "cf45d7d4-d5bd-4c5a-a962-e98372285f1f",
+    "en": "La Libertad",
+    "ru": "Либертад",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "LAL"
+  },
+  {
+    "id": "05de2f16-dff0-4c31-9f2f-38bbd5ed0ecd",
+    "en": "Lambayeque",
+    "ru": "Ламбаек",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "LAM"
+  },
+  {
+    "id": "2381ee1b-568d-4e74-8ed5-da1b36cac029",
+    "en": "Lima",
+    "ru": "Лима",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "LIM"
+  },
+  {
+    "id": "97c2cd8f-12fe-4d3d-9dea-daf8ca209e4d",
+    "en": "Lima Province",
+    "ru": "Лима провинция",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "LMA"
+  },
+  {
+    "id": "d03a8b10-c00f-45aa-a9af-9b900598a6ef",
+    "en": "Madre de Dios",
+    "ru": "Мадре де Диос",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "MDD"
+  },
+  {
+    "id": "c3054828-adbd-49b9-8902-10feafa18eef",
+    "en": "Moquegua",
+    "ru": "Мокегуа",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "MOQ"
+  },
+  {
+    "id": "77c249b4-4549-4e68-b1d1-6573ca7e96a6",
+    "en": "Pasco",
+    "ru": "Паско",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "PAS"
+  },
+  {
+    "id": "d93a7101-3469-417d-b8d0-c23a660c5657",
+    "en": "Piura",
+    "ru": "Пьюра",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "PIU"
+  },
+  {
+    "id": "6b0f07d8-89de-49a7-bc7e-297bb0095983",
+    "en": "Puno",
+    "ru": "Пуно",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "PUN"
+  },
+  {
+    "id": "066d5b22-b331-4f09-b3c1-6c54c8c7fd5a",
+    "en": "San Martín",
+    "ru": "Сан Мартин",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "SAM"
+  },
+  {
+    "id": "fc126216-f920-4055-9fd1-329a11001b28",
+    "en": "Tacna",
+    "ru": "Такна",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "TAC"
+  },
+  {
+    "id": "fb194e77-137c-4868-82ad-4c3e1d57a34a",
+    "en": "Tumbes",
+    "ru": "Тумбес",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "TUM"
+  },
+  {
+    "id": "2895a079-1716-438f-abf2-0c05bc916d78",
+    "en": "Ucayali",
+    "ru": "Укаяли",
+    "country": "3585e8b5-ed89-4cc6-a359-ddeebebc7a0d",
+    "countryCode": "PE",
+    "stateCode": "UCA"
+  }
+]

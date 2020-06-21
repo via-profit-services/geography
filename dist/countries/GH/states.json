@@ -1,1 +1,82 @@
-[{"id":"aa74b47d-5790-45aa-aabf-5541ef41a152","name":"Ashanti Region","ru":"Ashanti Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"AH"},{"id":"2000e228-4120-4a11-946b-c9a7a8e4b526","name":"Brong-Ahafo Region","ru":"Brong-Ahafo Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"BA"},{"id":"7eb32c7c-b904-49c1-9cb7-0e3221eceb71","name":"Central Region","ru":"Central Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"CP"},{"id":"c187e7e6-7b77-4434-8568-c73db162d703","name":"Eastern Region","ru":"Eastern Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"EP"},{"id":"488bf528-2583-486d-8354-ed9fb592414c","name":"Greater Accra Region","ru":"Greater Accra Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"AA"},{"id":"6e923658-e66b-4e0b-b257-da54e8ce2024","name":"Northern Region","ru":"Northern Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"NP"},{"id":"407d28c2-1fce-457a-891d-7d8cf4eed1b5","name":"Upper East Region","ru":"Upper East Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"UE"},{"id":"74c243bf-5c95-4f6c-9930-74d0dbf367e8","name":"Upper West Region","ru":"Upper West Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"UW"},{"id":"00c9542d-e072-4961-a1f8-fcb50d3c8fb9","name":"Volta Region","ru":"Volta Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"TV"},{"id":"c5de15ed-fe0f-43f5-90f3-91c78980b2ae","name":"Western Region","ru":"Western Region","country":"17aeb732-0baa-4d8f-95e7-48a7bec9cd67","countryCode":"GH","stateCode":"WP"}]
+[
+  {
+    "id": "efc222d9-73ad-4606-a8d1-0658d6a0c49f",
+    "en": "Ashanti Region",
+    "ru": "Ашанти область",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "AH"
+  },
+  {
+    "id": "b65478dc-a749-4db7-8d40-c3b02a4c5cf9",
+    "en": "Brong-Ahafo Region",
+    "ru": "Бронг-Ахафо Регион",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "BA"
+  },
+  {
+    "id": "14374d00-cf6e-4727-9583-bde324d36ac3",
+    "en": "Central Region",
+    "ru": "Центральный регион",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "CP"
+  },
+  {
+    "id": "797214d9-37eb-48af-a08d-c783ca08ea67",
+    "en": "Eastern Region",
+    "ru": "Восточный регион",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "EP"
+  },
+  {
+    "id": "24f23e01-bb1e-4d9e-8322-7523fa52ae52",
+    "en": "Greater Accra Region",
+    "ru": "Большая Аккра",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "AA"
+  },
+  {
+    "id": "594b42fb-8d81-4f04-9f70-e78fe98be827",
+    "en": "Northern Region",
+    "ru": "Северный регион",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "NP"
+  },
+  {
+    "id": "d17ef079-ac50-404d-a710-6b8dba96eeac",
+    "en": "Upper East Region",
+    "ru": "Верхний Восток",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "UE"
+  },
+  {
+    "id": "d2a3da36-7aac-44a5-b92d-5cfb2c0df764",
+    "en": "Upper West Region",
+    "ru": "Верхний Запад Регион",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "UW"
+  },
+  {
+    "id": "60b85e53-12ec-4bd3-a011-bd8e52f64b56",
+    "en": "Volta Region",
+    "ru": "вольта",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "TV"
+  },
+  {
+    "id": "638b2b9c-e268-47b6-8608-b1aa87dd5d94",
+    "en": "Western Region",
+    "ru": "Западный регион",
+    "country": "c12fda62-8810-4b60-a5d0-4b6b475277ff",
+    "countryCode": "GH",
+    "stateCode": "WP"
+  }
+]

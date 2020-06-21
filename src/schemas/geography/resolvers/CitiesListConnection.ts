@@ -22,8 +22,6 @@ const CitiesListConnection: IFieldResolver<any, Context, TInputFilter> = async (
     const citiesConnection = await citiesListService.getCities(filter);
     const connection = buildCursorConnection(citiesConnection, 'cities');
 
-    loaders.cities.clearAll();
-
     citiesConnection.nodes.forEach((node) => {
       loaders.cities.prime(node.id, node);
     });

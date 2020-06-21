@@ -1,1 +1,12 @@
-[{"id":"21ec9317-c011-4820-b42e-4623daf4b778","name":"Mozambique","ru":"Mozambique","iso3":"MOZ","iso2":"MZ","phoneCode":"258","capital":"07d031f9-ac3f-4a2e-8cc2-1221b6c2fb93","currency":"MZN"}]
+[
+  {
+    "id": "823fc90e-4952-4d24-921c-f77266f29414",
+    "en": "Mozambique",
+    "ru": "Мозамбик",
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "phoneCode": "258",
+    "capital": null,
+    "currency": "MZN"
+  }
+]

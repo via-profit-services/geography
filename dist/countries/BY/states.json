@@ -1,1 +1,58 @@
-[{"id":"2bf5b5c2-98cb-4ab0-b8e0-09ac602300f4","name":"Brest Region","ru":"Brest Region","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"BR"},{"id":"68a247ba-a89d-4449-9eb9-cc72019f5fd5","name":"Gomel Region","ru":"Gomel Region","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"HO"},{"id":"d70d22d5-59ed-4b06-af00-ac1c5d19a0e1","name":"Grodno Region","ru":"Grodno Region","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"HR"},{"id":"f7ff1e04-b289-4992-9258-692d3c4f06d7","name":"Minsk","ru":"Minsk","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"HM"},{"id":"5f79e486-bc08-4e69-9770-668dba9d5685","name":"Minsk Region","ru":"Minsk Region","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"MI"},{"id":"a42e8111-c560-4d92-b50f-843a295667f0","name":"Mogilev Region","ru":"Mogilev Region","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"MA"},{"id":"ad30dfea-627c-4ca4-9720-b4584e33ec0d","name":"Vitebsk Region","ru":"Vitebsk Region","country":"83989b4b-ed32-45a6-b7ff-f6f00954e3bb","countryCode":"BY","stateCode":"VI"}]
+[
+  {
+    "id": "32bb9a59-aeca-4bd8-8f75-db12320ac9db",
+    "en": "Brest Region",
+    "ru": "Брестская область",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "BR"
+  },
+  {
+    "id": "0739746f-e27f-49b3-93fa-8074cd2ae3ef",
+    "en": "Gomel Region",
+    "ru": "Гомельская область",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "HO"
+  },
+  {
+    "id": "ba897345-5268-438f-afeb-de1a1de9e741",
+    "en": "Grodno Region",
+    "ru": "Гродненская область",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "HR"
+  },
+  {
+    "id": "5b3fca01-74b2-43d9-bc53-44b967386ec4",
+    "en": "Minsk",
+    "ru": "минская",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "HM"
+  },
+  {
+    "id": "ee929578-e87b-47f2-9a97-bcd87dacc2f3",
+    "en": "Minsk Region",
+    "ru": "Минская область",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "MI"
+  },
+  {
+    "id": "50a08c88-4e14-4e83-97f8-b3ee2c9adfad",
+    "en": "Mogilev Region",
+    "ru": "Могилевская область",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "MA"
+  },
+  {
+    "id": "8587880d-b860-44ba-b75e-1516905d0d03",
+    "en": "Vitebsk Region",
+    "ru": "Витебская область",
+    "country": "14943873-8696-4690-aab0-d10439ca2d61",
+    "countryCode": "BY",
+    "stateCode": "VI"
+  }
+]

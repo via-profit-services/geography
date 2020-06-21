@@ -1,1 +1,12 @@
-[{"id":"12372726-3abd-43c8-9184-70b77b9857e3","name":"Slovakia","ru":"Slovakia","iso3":"SVK","iso2":"SK","phoneCode":"421","capital":"4fde314a-eaad-489f-b79d-48944ded301d","currency":"EUR"}]
+[
+  {
+    "id": "15c54ec6-c88e-4349-b9cf-f0d004781994",
+    "en": "Slovakia",
+    "ru": "Словакия",
+    "iso3": "SVK",
+    "iso2": "SK",
+    "phoneCode": "421",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

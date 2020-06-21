@@ -1,1 +1,266 @@
-[{"id":"65d3847f-dba8-4b44-ab7c-d973ae4138a7","name":"Badakhshan","ru":"Badakhshan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"BDS"},{"id":"76f88808-5274-4242-9047-0067cbb6c0ab","name":"Badghis","ru":"Badghis","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"BDG"},{"id":"2659fbd0-a08e-462e-9dee-9cd58efc392f","name":"Baghlan","ru":"Baghlan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"BGL"},{"id":"f2ec7c7d-c4ee-4eaf-87da-602d0207679a","name":"Balkh","ru":"Balkh","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"BAL"},{"id":"710d7587-b6b5-41bc-ae0e-84a00aeb3801","name":"Bamyan","ru":"Bamyan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"BAM"},{"id":"511222c9-0735-47a4-a881-17c59f915869","name":"Daykundi","ru":"Daykundi","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"DAY"},{"id":"c343fcf6-5de9-4e47-be5f-83c46ec5e705","name":"Farah","ru":"Farah","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"FRA"},{"id":"0c28bee8-e3b2-4504-ab23-60b567727a37","name":"Faryab","ru":"Faryab","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"FYB"},{"id":"af6a7514-681a-4f1f-95b9-518bed9ac793","name":"Ghazni","ru":"Ghazni","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"GHA"},{"id":"c5445ee7-a32e-45a8-8eec-cb9f0e074681","name":"Ghōr","ru":"Ghōr","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"GHO"},{"id":"8448b199-eaa0-40c2-b859-58d97285a214","name":"Helmand","ru":"Helmand","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"HEL"},{"id":"ed5ccb59-3a80-4bbe-bcaa-dbcea2403074","name":"Herat","ru":"Herat","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"HER"},{"id":"9d045b41-57a2-475a-a80b-f72afa90c3b2","name":"Jowzjan","ru":"Jowzjan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"JOW"},{"id":"51512d9b-7025-408c-908b-9ff2f6e02cec","name":"Kabul","ru":"Kabul","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"KAB"},{"id":"c8d78ce9-9b60-483a-9e1a-cbd7d23f045c","name":"Kandahar","ru":"Kandahar","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"KAN"},{"id":"2df42ef8-d97c-4454-9a1e-c9bb30856d84","name":"Kapisa","ru":"Kapisa","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"KAP"},{"id":"6fa9ab4f-ee2f-4bb0-ac58-777b1c10c82f","name":"Khost","ru":"Khost","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"KHO"},{"id":"551c0f74-140c-4d77-916d-0311a80c3aba","name":"Kunar","ru":"Kunar","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"KNR"},{"id":"a7179d87-3bdb-42fe-87d5-ff67ccf974c6","name":"Kunduz Province","ru":"Kunduz Province","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"KDZ"},{"id":"70b5c927-0900-4a16-8b7a-e7af26a8ed3e","name":"Laghman","ru":"Laghman","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"LAG"},{"id":"ca20a116-8612-4823-842d-9b169e9be919","name":"Logar","ru":"Logar","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"LOG"},{"id":"1efcaf5f-dad4-4a09-aa02-58447fa8136d","name":"Nangarhar","ru":"Nangarhar","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"NAN"},{"id":"d09c6477-d071-4eb6-ae9f-9ba10d2c1b03","name":"Nimruz","ru":"Nimruz","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"NIM"},{"id":"ebe43113-ef2a-4341-9b73-a3eb12123bd5","name":"Nuristan","ru":"Nuristan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"NUR"},{"id":"a487e396-ebdb-409f-b42f-d9c16f0d0194","name":"Paktia","ru":"Paktia","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"PIA"},{"id":"c279515c-c249-4e5e-b2cd-118f718870a3","name":"Paktika","ru":"Paktika","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"PKA"},{"id":"4ab7a67c-af82-4dff-8c31-3545c56509e8","name":"Panjshir","ru":"Panjshir","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"PAN"},{"id":"bc03df04-ba39-4209-b6d9-cbd256828fe8","name":"Parwan","ru":"Parwan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"PAR"},{"id":"3675e907-5375-4116-9237-6dfd6e1c0677","name":"Samangan","ru":"Samangan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"SAM"},{"id":"2e6bf002-7604-4f19-a5d1-8e0ad86e7656","name":"Sar-e Pol","ru":"Sar-e Pol","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"SAR"},{"id":"2d7e772b-a09e-4c2e-a231-e6b3c024b9dd","name":"Takhar","ru":"Takhar","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"TAK"},{"id":"225019e5-4b41-4a68-b7e0-c5a2c92d5ab7","name":"Urozgan","ru":"Urozgan","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"URU"},{"id":"dbcdfb74-7387-410f-8c26-83fa3429222d","name":"Zabul","ru":"Zabul","country":"3ff203c2-a495-427a-9687-9645bdf1912b","countryCode":"AF","stateCode":"ZAB"}]
+[
+  {
+    "id": "428cad62-a524-4255-8fe1-6f5f64edd931",
+    "en": "Badakhshan",
+    "ru": "Бадахшан",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "BDS"
+  },
+  {
+    "id": "98c251f6-78eb-407f-839b-2b2b6632ace9",
+    "en": "Badghis",
+    "ru": "Бадгис",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "BDG"
+  },
+  {
+    "id": "c4b790c9-ebde-4ab4-9fa8-337b10dda9fd",
+    "en": "Baghlan",
+    "ru": "Баглан",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "BGL"
+  },
+  {
+    "id": "ef0a3521-b957-48d1-901b-50164a8cebea",
+    "en": "Balkh",
+    "ru": "Балх",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "BAL"
+  },
+  {
+    "id": "4b9e2128-c468-4727-b18b-359937f59d1b",
+    "en": "Bamyan",
+    "ru": "Бамян",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "BAM"
+  },
+  {
+    "id": "bf191b5c-a1a5-40ad-899a-6570e7952962",
+    "en": "Daykundi",
+    "ru": "Дайкунди",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "DAY"
+  },
+  {
+    "id": "91448bbe-0e7d-4c72-bb10-9fe0e8a83814",
+    "en": "Farah",
+    "ru": "Фарах",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "FRA"
+  },
+  {
+    "id": "7f237b86-8090-4383-8220-765a25de15eb",
+    "en": "Faryab",
+    "ru": "Фарьяб",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "FYB"
+  },
+  {
+    "id": "0140768f-3bbb-4b20-97f6-51e07aa0713e",
+    "en": "Ghazni",
+    "ru": "Газни",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "GHA"
+  },
+  {
+    "id": "2a122854-1744-4412-87a6-488bb9a7d41c",
+    "en": "Ghōr",
+    "ru": "Ghōr",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "GHO"
+  },
+  {
+    "id": "5c1cb633-a779-4fa5-bfe5-1bccf2492958",
+    "en": "Helmand",
+    "ru": "Гильменд",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "HEL"
+  },
+  {
+    "id": "b3bf2b40-f05e-400a-b94d-57351297b64f",
+    "en": "Herat",
+    "ru": "Герат",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "HER"
+  },
+  {
+    "id": "b4ab8780-d521-4f90-800b-d1adaf8f5a4e",
+    "en": "Jowzjan",
+    "ru": "Jowzjan",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "JOW"
+  },
+  {
+    "id": "3e7c8ecd-9c72-443a-891b-d5c54a7419e0",
+    "en": "Kabul",
+    "ru": "Кабул",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "KAB"
+  },
+  {
+    "id": "c2701e99-d080-425c-bbde-b80184c0f880",
+    "en": "Kandahar",
+    "ru": "Кандагар",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "KAN"
+  },
+  {
+    "id": "1c5b33b9-8292-49c3-9ca4-c514f393465b",
+    "en": "Kapisa",
+    "ru": "Каписа",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "KAP"
+  },
+  {
+    "id": "51c6fd44-0135-4ae1-ac50-2a224048b1b3",
+    "en": "Khost",
+    "ru": "Хост",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "KHO"
+  },
+  {
+    "id": "9fcf5050-9726-4842-b458-440569e9e80b",
+    "en": "Kunar",
+    "ru": "Кунар область",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "KNR"
+  },
+  {
+    "id": "18637d43-1230-47d5-bc02-94334fbc35a0",
+    "en": "Kunduz Province",
+    "ru": "Кундузская губерния",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "KDZ"
+  },
+  {
+    "id": "ca37fa43-85f0-4e73-a43d-b3b9c4fc4ebb",
+    "en": "Laghman",
+    "ru": "Лагман",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "LAG"
+  },
+  {
+    "id": "b93e7a4e-4cc1-4891-9a17-081dbf140f06",
+    "en": "Logar",
+    "ru": "Логар",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "LOG"
+  },
+  {
+    "id": "5e08f030-b9c0-45f1-86a2-502ea909510d",
+    "en": "Nangarhar",
+    "ru": "Нангархар",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "NAN"
+  },
+  {
+    "id": "957c26f7-308c-4a80-8389-3ee88a46e925",
+    "en": "Nimruz",
+    "ru": "Нимруз",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "NIM"
+  },
+  {
+    "id": "47ace175-bb1e-4ab2-8e72-773a7136ee5e",
+    "en": "Nuristan",
+    "ru": "Нуристан",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "NUR"
+  },
+  {
+    "id": "4b1386ab-c284-48b5-9b83-db5f853bc18e",
+    "en": "Paktia",
+    "ru": "Пактия",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "PIA"
+  },
+  {
+    "id": "b24011db-1598-4c10-b138-58d943eda56e",
+    "en": "Paktika",
+    "ru": "Пактика",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "PKA"
+  },
+  {
+    "id": "097380a2-a183-44ca-827a-72124e39b768",
+    "en": "Panjshir",
+    "ru": "Панджшир",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "PAN"
+  },
+  {
+    "id": "bb3df5ba-fd8e-4090-ae97-d8733cc5f0ec",
+    "en": "Parwan",
+    "ru": "Парван",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "PAR"
+  },
+  {
+    "id": "7cc9d41e-42f5-47b6-8e4d-d22bf26888d0",
+    "en": "Samangan",
+    "ru": "Саманганская область",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "SAM"
+  },
+  {
+    "id": "42248dbf-6d84-42c9-9582-215addec2115",
+    "en": "Sar-e Pol",
+    "ru": "Сар-э Пол",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "SAR"
+  },
+  {
+    "id": "c263bbdb-4d9d-44f3-b961-b0305960f8a7",
+    "en": "Takhar",
+    "ru": "Тахар",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "TAK"
+  },
+  {
+    "id": "5da2856a-34b8-4766-9251-f4b20e263420",
+    "en": "Urozgan",
+    "ru": "Урозган",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "URU"
+  },
+  {
+    "id": "5fd511ef-ac77-4e15-97ab-ce23112f9afd",
+    "en": "Zabul",
+    "ru": "Забул",
+    "country": "ba747069-5035-4575-b545-1eb55e0e7ef1",
+    "countryCode": "AF",
+    "stateCode": "ZAB"
+  }
+]

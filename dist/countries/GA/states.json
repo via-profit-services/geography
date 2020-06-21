@@ -1,1 +1,74 @@
-[{"id":"906f1feb-8c8a-4eb5-a206-9c907a7ddb40","name":"Estuaire Province","ru":"Estuaire Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"1"},{"id":"b509915a-395a-41c3-bb68-dc397068f91d","name":"Haut-Ogooué Province","ru":"Haut-Ogooué Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"2"},{"id":"4ade36bc-7675-40f2-ab38-fbb469b1b217","name":"Moyen-Ogooué Province","ru":"Moyen-Ogooué Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"3"},{"id":"a183790e-81e3-4b2e-8b64-13b7e16eacb6","name":"Ngounié Province","ru":"Ngounié Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"4"},{"id":"d8db666a-a73a-4d4b-9cb4-0f018f6a957b","name":"Nyanga Province","ru":"Nyanga Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"5"},{"id":"ab64db6d-fb91-4d53-9247-316281ca406c","name":"Ogooué-Ivindo Province","ru":"Ogooué-Ivindo Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"6"},{"id":"651ddde8-3da3-4f46-9be8-f38c4878241c","name":"Ogooué-Lolo Province","ru":"Ogooué-Lolo Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"7"},{"id":"eb1d7aa9-5a5d-4ec5-9671-df016400347c","name":"Ogooué-Maritime Province","ru":"Ogooué-Maritime Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"8"},{"id":"b10c8132-924f-423b-8e6f-aabbb7c35df4","name":"Woleu-Ntem Province","ru":"Woleu-Ntem Province","country":"098b3410-ed97-441e-a9ac-4d88863a19d2","countryCode":"GA","stateCode":"9"}]
+[
+  {
+    "id": "b592782f-0dc9-40df-93e8-f0038370e4fb",
+    "en": "Estuaire Province",
+    "ru": "Эстуарская губерния",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "1"
+  },
+  {
+    "id": "9619b40f-0c36-4562-b6d1-ce9da86f0136",
+    "en": "Haut-Ogooué Province",
+    "ru": "Haut-Ogooué провинция",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "2"
+  },
+  {
+    "id": "c00b40ca-a0bc-4ad8-ab2d-8c287cbffe83",
+    "en": "Moyen-Ogooué Province",
+    "ru": "Мойен-Огоуэ провинция",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "3"
+  },
+  {
+    "id": "ad4da8ea-58b5-4a37-8906-da5b92b87171",
+    "en": "Ngounié Province",
+    "ru": "Ngounié провинция",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "4"
+  },
+  {
+    "id": "a7d7e9e7-43c3-47f4-b264-8d150c750dc4",
+    "en": "Nyanga Province",
+    "ru": "Ньянгская губерния",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "5"
+  },
+  {
+    "id": "a9088eed-a4f7-4f0b-ab45-b2d9ab087e09",
+    "en": "Ogooué-Ivindo Province",
+    "ru": "Огоуэ-Ивиндо провинция",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "6"
+  },
+  {
+    "id": "dd562059-dc56-4e06-8f3b-4b2d5e29516a",
+    "en": "Ogooué-Lolo Province",
+    "ru": "Ogooué-Lolo провинция",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "7"
+  },
+  {
+    "id": "80b3d69e-bf4e-405a-ad0c-e6d57a6a1b3c",
+    "en": "Ogooué-Maritime Province",
+    "ru": "Огуэ-Приморский край",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "8"
+  },
+  {
+    "id": "daed7b59-2d8e-4a2b-a6dd-6020f56c7868",
+    "en": "Woleu-Ntem Province",
+    "ru": "Woleu-Ntem провинция",
+    "country": "b53a459e-cce7-45df-b200-a5b534e766c5",
+    "countryCode": "GA",
+    "stateCode": "9"
+  }
+]

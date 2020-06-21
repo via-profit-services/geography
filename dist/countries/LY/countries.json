@@ -1,1 +1,12 @@
-[{"id":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","name":"Libya","ru":"Libya","iso3":"LBY","iso2":"LY","phoneCode":"218","capital":null,"currency":"LYD"}]
+[
+  {
+    "id": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "en": "Libya",
+    "ru": "Ливия",
+    "iso3": "LBY",
+    "iso2": "LY",
+    "phoneCode": "218",
+    "capital": null,
+    "currency": "LYD"
+  }
+]

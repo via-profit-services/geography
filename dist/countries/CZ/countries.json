@@ -1,1 +1,12 @@
-[{"id":"85786371-8a80-4fa4-b862-7daec97123e3","name":"Czech Republic","ru":"Czech Republic","iso3":"CZE","iso2":"CZ","phoneCode":"420","capital":"56e8ad2a-5d3e-43ae-a8e0-cb77a15ce551","currency":"CZK"}]
+[
+  {
+    "id": "9217db6b-b5d3-45ae-8997-3991015388b2",
+    "en": "Czech Republic",
+    "ru": "Чехия",
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "phoneCode": "420",
+    "capital": null,
+    "currency": "CZK"
+  }
+]

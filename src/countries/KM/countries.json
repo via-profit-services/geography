@@ -1,1 +1,12 @@
-[{"id":"29ee214a-6c53-4bf3-8376-f28c65f40682","name":"Comoros","ru":"Comoros","iso3":"COM","iso2":"KM","phoneCode":"269","capital":"9fc8e794-dff7-4eac-99b6-c5b0de6562b7","currency":"KMF"}]
+[
+  {
+    "id": "8574c014-7590-4c10-9b19-9c391d9abf8b",
+    "en": "Comoros",
+    "ru": "Коморские острова",
+    "iso3": "COM",
+    "iso2": "KM",
+    "phoneCode": "269",
+    "capital": null,
+    "currency": "KMF"
+  }
+]

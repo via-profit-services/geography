@@ -1,1 +1,189 @@
-[{"id":"73090255-194a-46df-abda-f1697c81a3a8","name":"Kayes","ru":"Kayes","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"446c3ba3-82c2-4b85-a2c0-fd443d7a8d69","stateCode":"11","latitude":"-4.20493000","longitude":"13.28608000"},{"id":"eddadb1b-627c-4e7b-924e-db8270623364","name":"Madingou","ru":"Madingou","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"446c3ba3-82c2-4b85-a2c0-fd443d7a8d69","stateCode":"11","latitude":"-4.15361000","longitude":"13.55000000"},{"id":"8362afb2-eb2a-4dd4-b848-9a857ddb1387","name":"Brazzaville","ru":"Brazzaville","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"c4469a1a-1450-4f18-9df7-ff29fbb678a6","stateCode":"BZV","latitude":"-4.26613000","longitude":"15.28318000"},{"id":"7418b1ee-e188-43ed-a5af-e286198bafac","name":"Makoua","ru":"Makoua","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"3381ae29-42ae-49d0-b401-d8c6d9560d5c","stateCode":"8","latitude":"0.00694000","longitude":"15.63333000"},{"id":"dc554b04-d2a0-436e-aac0-375b19e83f8f","name":"Owando","ru":"Owando","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"3381ae29-42ae-49d0-b401-d8c6d9560d5c","stateCode":"8","latitude":"-0.48193000","longitude":"15.89988000"},{"id":"bccc7a6e-08d4-413d-94af-8e6bc293179b","name":"Ewo","ru":"Ewo","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"5b27a254-3aa6-4633-b41e-85bbeae67187","stateCode":"15","latitude":"-0.87250000","longitude":"14.82056000"},{"id":"dfe17807-fbfe-4888-8d24-c79ec64e6831","name":"Sibiti","ru":"Sibiti","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"74118ea3-03bd-44d4-a3ac-85e65241dcd2","stateCode":"2","latitude":"-3.68192000","longitude":"13.34985000"},{"id":"1222833a-2381-4466-bbfd-5af9b43e6b7a","name":"Impfondo","ru":"Impfondo","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"6715de44-0c60-4447-a0b6-959cd129c393","stateCode":"7","latitude":"1.61804000","longitude":"18.05981000"},{"id":"30f0a2f5-6b99-435c-a18b-d6d846822201","name":"Dolisie","ru":"Dolisie","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"4ecdfef3-7bb5-43fc-9aa6-78df5ff7f623","stateCode":"9","latitude":"-4.19834000","longitude":"12.66664000"},{"id":"bce0c07f-cdb9-43d9-af71-72128c3a06d6","name":"Mossendjo","ru":"Mossendjo","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"4ecdfef3-7bb5-43fc-9aa6-78df5ff7f623","stateCode":"9","latitude":"-2.94968000","longitude":"12.70423000"},{"id":"f0697c23-7aa0-4280-b273-7c19e6b02318","name":"Djambala","ru":"Djambala","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"84d59773-bd9f-454f-9d4f-513447a28a08","stateCode":"14","latitude":"-2.54472000","longitude":"14.75333000"},{"id":"3183dad9-c7cb-4f99-96d6-d63881c2c177","name":"Gamboma","ru":"Gamboma","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"84d59773-bd9f-454f-9d4f-513447a28a08","stateCode":"14","latitude":"-1.87639000","longitude":"15.86444000"},{"id":"1501b195-af02-41fd-a80f-b33c87a32c7a","name":"Loandjili","ru":"Loandjili","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"0d3fcf46-34ba-4aed-ab22-a6ac5fac6d34","stateCode":"16","latitude":"-4.75611000","longitude":"11.85778000"},{"id":"29144a98-727d-4d3f-9467-c6848f767400","name":"Pointe-Noire","ru":"Pointe-Noire","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"0d3fcf46-34ba-4aed-ab22-a6ac5fac6d34","stateCode":"16","latitude":"-4.77609000","longitude":"11.86352000"},{"id":"7d29faf2-6228-40ec-91e9-f6a255f3f95c","name":"Kinkala","ru":"Kinkala","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"b2c80053-5845-466d-bfa9-fdcc84d0a469","stateCode":"12","latitude":"-4.36139000","longitude":"14.76444000"},{"id":"3feb6141-efad-4368-93c5-19a2d2e4a1c3","name":"Ouésso","ru":"Ouésso","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"f215164c-7bd1-4243-9c6e-a7f8dcdf4c08","stateCode":"13","latitude":"1.61361000","longitude":"16.05167000"},{"id":"bff889db-002b-403d-96ae-a8dd1bb2e205","name":"Sémbé","ru":"Sémbé","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","state":"f215164c-7bd1-4243-9c6e-a7f8dcdf4c08","stateCode":"13","latitude":"1.64806000","longitude":"14.58056000"}]
+[
+  {
+    "id": "de470537-c818-4c1d-99e4-ead7e67b3bb9",
+    "en": "Kayes",
+    "ru": "Каес",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "e2875a2b-c36f-498e-8b0f-4d4e8b39a30a",
+    "stateCode": "11",
+    "latitude": "-4.20493000",
+    "longitude": "13.28608000"
+  },
+  {
+    "id": "67ac3415-f147-421f-8be4-2e3b95a2ece5",
+    "en": "Madingou",
+    "ru": "Мадингу",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "e2875a2b-c36f-498e-8b0f-4d4e8b39a30a",
+    "stateCode": "11",
+    "latitude": "-4.15361000",
+    "longitude": "13.55000000"
+  },
+  {
+    "id": "cff92e8e-1166-44b0-a4b6-f28fa298219f",
+    "en": "Brazzaville",
+    "ru": "Браззавиль",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "01bece36-ffda-44c4-ad0f-7e1d35d2fdeb",
+    "stateCode": "BZV",
+    "latitude": "-4.26613000",
+    "longitude": "15.28318000"
+  },
+  {
+    "id": "d24595cd-365f-4df6-8eb4-cd9dd54f99bc",
+    "en": "Makoua",
+    "ru": "Макуа",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "0a80577e-b30d-4a09-aac2-d3b037fe40cc",
+    "stateCode": "8",
+    "latitude": "0.00694000",
+    "longitude": "15.63333000"
+  },
+  {
+    "id": "574929a9-0653-438a-bc4a-b3fbd88129b5",
+    "en": "Owando",
+    "ru": "Овандо",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "0a80577e-b30d-4a09-aac2-d3b037fe40cc",
+    "stateCode": "8",
+    "latitude": "-0.48193000",
+    "longitude": "15.89988000"
+  },
+  {
+    "id": "a9910233-aa4d-4188-aa7a-bb7f43dc9405",
+    "en": "Ewo",
+    "ru": "Эво",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "aad8d071-a077-49cd-9f54-3de2c2e3e30c",
+    "stateCode": "15",
+    "latitude": "-0.87250000",
+    "longitude": "14.82056000"
+  },
+  {
+    "id": "794276d6-2b96-4b70-9706-7668f703fabd",
+    "en": "Sibiti",
+    "ru": "Сибити",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "55f2566c-fe7c-4141-85c3-904af955653e",
+    "stateCode": "2",
+    "latitude": "-3.68192000",
+    "longitude": "13.34985000"
+  },
+  {
+    "id": "1aedbd0e-3e96-4e81-a333-c5c4957aeb61",
+    "en": "Impfondo",
+    "ru": "Импфондо",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "457ecd9b-52cf-411c-8525-4d6ff3314242",
+    "stateCode": "7",
+    "latitude": "1.61804000",
+    "longitude": "18.05981000"
+  },
+  {
+    "id": "bdc5da6e-1236-4d9f-a46e-b614b72a2393",
+    "en": "Dolisie",
+    "ru": "Долисие",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "a91c3d61-0a64-448a-9b8f-61849fdf6441",
+    "stateCode": "9",
+    "latitude": "-4.19834000",
+    "longitude": "12.66664000"
+  },
+  {
+    "id": "1ea46090-ef26-4940-b33e-0b3e3cd4331e",
+    "en": "Mossendjo",
+    "ru": "Моссенджо",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "a91c3d61-0a64-448a-9b8f-61849fdf6441",
+    "stateCode": "9",
+    "latitude": "-2.94968000",
+    "longitude": "12.70423000"
+  },
+  {
+    "id": "f2183cc5-e10d-4e7a-a824-f533e09f5658",
+    "en": "Djambala",
+    "ru": "Джамбала",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "78ee27ce-e09a-4448-9621-69681cbca782",
+    "stateCode": "14",
+    "latitude": "-2.54472000",
+    "longitude": "14.75333000"
+  },
+  {
+    "id": "85b813a0-9e42-4a56-976d-f59fee3eb0f5",
+    "en": "Gamboma",
+    "ru": "Гамбома",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "78ee27ce-e09a-4448-9621-69681cbca782",
+    "stateCode": "14",
+    "latitude": "-1.87639000",
+    "longitude": "15.86444000"
+  },
+  {
+    "id": "10dae377-a53d-4357-82ba-44c1cfa8f94c",
+    "en": "Loandjili",
+    "ru": "Лоанджили",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "455492cc-0c2c-416a-bbec-fa4b69321c2b",
+    "stateCode": "16",
+    "latitude": "-4.75611000",
+    "longitude": "11.85778000"
+  },
+  {
+    "id": "75cf69fd-e56a-4994-9417-d1419bfd6a76",
+    "en": "Pointe-Noire",
+    "ru": "Пуэнт-Нуар",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "455492cc-0c2c-416a-bbec-fa4b69321c2b",
+    "stateCode": "16",
+    "latitude": "-4.77609000",
+    "longitude": "11.86352000"
+  },
+  {
+    "id": "96944d28-ad02-4d75-bbee-2c823ff3000d",
+    "en": "Kinkala",
+    "ru": "Кинкала",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "a2deca5d-3ee2-4192-b4ae-be3de3a115ad",
+    "stateCode": "12",
+    "latitude": "-4.36139000",
+    "longitude": "14.76444000"
+  },
+  {
+    "id": "8e296ec8-5415-4d24-89ec-77c8fc209dab",
+    "en": "Ouésso",
+    "ru": "Уэссо",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "81d288f1-1935-4164-ac0b-2f8dfd99efd1",
+    "stateCode": "13",
+    "latitude": "1.61361000",
+    "longitude": "16.05167000"
+  },
+  {
+    "id": "8108a2d1-b597-4e95-85f6-d4fc818afa5c",
+    "en": "Sémbé",
+    "ru": "Сембе",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "state": "81d288f1-1935-4164-ac0b-2f8dfd99efd1",
+    "stateCode": "13",
+    "latitude": "1.64806000",
+    "longitude": "14.58056000"
+  }
+]

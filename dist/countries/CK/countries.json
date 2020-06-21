@@ -1,1 +1,12 @@
-[{"id":"7c3a260a-4a5b-4c3c-91c1-16fa15186ee2","name":"Cook Islands","ru":"Cook Islands","iso3":"COK","iso2":"CK","phoneCode":"682","capital":null,"currency":"NZD"}]
+[
+  {
+    "id": "47369ee3-1061-4366-9f86-360360a6151d",
+    "en": "Cook Islands",
+    "ru": "Островов Кука",
+    "iso3": "COK",
+    "iso2": "CK",
+    "phoneCode": "682",
+    "capital": null,
+    "currency": "NZD"
+  }
+]

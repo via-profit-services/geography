@@ -1,1 +1,12 @@
-[{"id":"5dde16de-5546-4086-a864-1dbb97d2be41","name":"Northern Mariana Islands","ru":"Northern Mariana Islands","iso3":"MNP","iso2":"MP","phoneCode":"+1-670","capital":null,"currency":"USD"}]
+[
+  {
+    "id": "b4994fc6-5139-4c01-bae8-bdcce37a50d7",
+    "en": "Northern Mariana Islands",
+    "ru": "Северные Марианские острова",
+    "iso3": "MNP",
+    "iso2": "MP",
+    "phoneCode": "+1-670",
+    "capital": null,
+    "currency": "USD"
+  }
+]

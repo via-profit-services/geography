@@ -1,1 +1,12 @@
-[{"id":"cb00608f-0739-4faa-aa50-054f2b527953","name":"Martinique","ru":"Martinique","iso3":"MTQ","iso2":"MQ","phoneCode":"596","capital":null,"currency":"EUR"}]
+[
+  {
+    "id": "59724efb-472c-4e4f-bf9f-449e4a5c5f80",
+    "en": "Martinique",
+    "ru": "Мартиника",
+    "iso3": "MTQ",
+    "iso2": "MQ",
+    "phoneCode": "596",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

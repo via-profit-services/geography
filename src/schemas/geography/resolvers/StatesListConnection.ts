@@ -22,8 +22,6 @@ const StatesListConnection: IFieldResolver<any, Context, TInputFilter> = async (
     const statesConnection = await statesListService.getStates(filter);
     const connection = buildCursorConnection(statesConnection, 'states');
 
-    loaders.states.clearAll();
-
     statesConnection.nodes.forEach((node) => {
       loaders.states.prime(node.id, node);
     });

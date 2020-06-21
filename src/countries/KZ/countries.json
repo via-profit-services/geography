@@ -1,1 +1,12 @@
-[{"id":"766899b3-3227-4d13-8380-1f181115784e","name":"Kazakhstan","ru":"Kazakhstan","iso3":"KAZ","iso2":"KZ","phoneCode":"7","capital":null,"currency":"KZT"}]
+[
+  {
+    "id": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "en": "Kazakhstan",
+    "ru": "Казахстан",
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "phoneCode": "7",
+    "capital": null,
+    "currency": "KZT"
+  }
+]

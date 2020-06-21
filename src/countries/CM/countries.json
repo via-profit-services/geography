@@ -1,1 +1,12 @@
-[{"id":"7810a4c4-3889-4d87-abdc-c6125259b72c","name":"Cameroon","ru":"Cameroon","iso3":"CMR","iso2":"CM","phoneCode":"237","capital":null,"currency":"XAF"}]
+[
+  {
+    "id": "2d4590b3-da68-4ff6-b946-abc15be58b85",
+    "en": "Cameroon",
+    "ru": "Камерун",
+    "iso3": "CMR",
+    "iso2": "CM",
+    "phoneCode": "237",
+    "capital": null,
+    "currency": "XAF"
+  }
+]

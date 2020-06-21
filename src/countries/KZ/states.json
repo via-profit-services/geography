@@ -1,1 +1,138 @@
-[{"id":"a6dc8896-98c2-45c7-b4f2-4f44dc1acbc1","name":"Akmola Region","ru":"Akmola Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"AKM"},{"id":"1401ee7e-3e0e-45f4-8ee4-616ec5ecb789","name":"Aktobe Region","ru":"Aktobe Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"AKT"},{"id":"3bb9f4c6-917d-4532-9e74-94b90786b0bb","name":"Almaty","ru":"Almaty","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"ALA"},{"id":"c00a8a61-6df6-4aaf-a5d7-ab926881ac67","name":"Almaty Region","ru":"Almaty Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"ALM"},{"id":"2232b6c5-bb71-46f1-8153-c36a5474c38d","name":"Atyrau Region","ru":"Atyrau Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"ATY"},{"id":"7534009e-a4f3-406e-a88e-99b74e3451e3","name":"Baikonur","ru":"Baikonur","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"BAY"},{"id":"7bbb40ab-494f-4948-8a3a-86af7df17762","name":"East Kazakhstan Region","ru":"East Kazakhstan Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"VOS"},{"id":"b26d0d07-d3c2-4b01-9ea8-b3eb4d542c9f","name":"Jambyl Region","ru":"Jambyl Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"ZHA"},{"id":"e33d779c-29c3-40d6-8777-2600b29667ac","name":"Karaganda Region","ru":"Karaganda Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"KAR"},{"id":"dc545733-2c43-4a96-8e59-6463890e5aac","name":"Kostanay Region","ru":"Kostanay Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"KUS"},{"id":"3949a2eb-188f-4d2d-97c8-440a1d96c7ed","name":"Kyzylorda Region","ru":"Kyzylorda Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"KZY"},{"id":"5057dc66-2a82-4bbd-8499-bcce61f519e6","name":"Mangystau Region","ru":"Mangystau Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"MAN"},{"id":"861805fe-4c6a-4299-84fe-d692aa4d8548","name":"North Kazakhstan Region","ru":"North Kazakhstan Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"SEV"},{"id":"e987dfc7-6024-40ea-b4ea-071c1147152e","name":"Nur-Sultan","ru":"Nur-Sultan","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"AST"},{"id":"20e714bc-c5de-4589-b133-2050c9902609","name":"Pavlodar Region","ru":"Pavlodar Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"PAV"},{"id":"c8a0413e-1ea7-462f-9e64-c47736221a51","name":"Turkestan Region","ru":"Turkestan Region","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"YUZ"},{"id":"2cf53486-2973-4d8c-8bea-9719792c277b","name":"West Kazakhstan Province","ru":"West Kazakhstan Province","country":"766899b3-3227-4d13-8380-1f181115784e","countryCode":"KZ","stateCode":"ZAP"}]
+[
+  {
+    "id": "38bb0b8c-a8d4-4f41-996b-0a111d72e714",
+    "en": "Akmola Region",
+    "ru": "Акмолинская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "AKM"
+  },
+  {
+    "id": "70a58d27-a882-431a-af5e-892d5773cc1b",
+    "en": "Aktobe Region",
+    "ru": "Актюбинская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "AKT"
+  },
+  {
+    "id": "9c56fe1f-3671-4dca-aeec-f189f72952ea",
+    "en": "Almaty",
+    "ru": "алматы",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "ALA"
+  },
+  {
+    "id": "f6fb69c4-22d5-45c7-8c74-b0b1aeb1aafa",
+    "en": "Almaty Region",
+    "ru": "Алматинская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "ALM"
+  },
+  {
+    "id": "9a1835e7-8fcf-476a-8a0f-a470e79efae9",
+    "en": "Atyrau Region",
+    "ru": "Атырауская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "ATY"
+  },
+  {
+    "id": "a64155f3-13ee-4915-823d-8d38a52d8bb6",
+    "en": "Baikonur",
+    "ru": "Байконур",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "BAY"
+  },
+  {
+    "id": "f9cd862c-8024-4107-b56d-6843ead999b7",
+    "en": "East Kazakhstan Region",
+    "ru": "Восточно-Казахстанская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "VOS"
+  },
+  {
+    "id": "21e51c86-3cbd-4593-a4f6-47a82fc6d902",
+    "en": "Jambyl Region",
+    "ru": "Жамбылская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "ZHA"
+  },
+  {
+    "id": "a79abbb4-c4f4-4d66-bcf6-45664a70115f",
+    "en": "Karaganda Region",
+    "ru": "Карагандинская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "KAR"
+  },
+  {
+    "id": "69ce668d-13bb-455d-8e5a-3e283cc02550",
+    "en": "Kostanay Region",
+    "ru": "Костанайская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "KUS"
+  },
+  {
+    "id": "9c60290a-f53b-4e9c-b997-1fd749753c94",
+    "en": "Kyzylorda Region",
+    "ru": "Кызылординская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "KZY"
+  },
+  {
+    "id": "6f5cfeb3-95d9-467d-9c61-63eaa6065a34",
+    "en": "Mangystau Region",
+    "ru": "Мангистауская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "MAN"
+  },
+  {
+    "id": "628bfe97-c98a-4ce2-b568-94473caccaa2",
+    "en": "North Kazakhstan Region",
+    "ru": "Северо-Казахстанская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "SEV"
+  },
+  {
+    "id": "e3127204-47b4-4bfd-baab-4efb205d2763",
+    "en": "Nur-Sultan",
+    "ru": "Нур-Султан",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "AST"
+  },
+  {
+    "id": "f6c52cbf-2c2f-4eca-9140-9801a4a1647b",
+    "en": "Pavlodar Region",
+    "ru": "Павлодарская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "PAV"
+  },
+  {
+    "id": "3790adf6-1cb0-4a25-8739-57911b5a2e24",
+    "en": "Turkestan Region",
+    "ru": "Туркестанская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "YUZ"
+  },
+  {
+    "id": "cf509942-4314-44a9-821d-48c1609a6521",
+    "en": "West Kazakhstan Province",
+    "ru": "Западно-Казахстанская область",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "stateCode": "ZAP"
+  }
+]

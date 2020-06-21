@@ -1,1 +1,12 @@
-[{"id":"134db374-0176-43e3-b15c-61d4c165b2d1","name":"China","ru":"China","iso3":"CHN","iso2":"CN","phoneCode":"86","capital":"56d1ee89-eceb-4107-979e-bc35bfeea769","currency":"CNY"}]
+[
+  {
+    "id": "41213004-aff4-4746-a482-378f3655c133",
+    "en": "China",
+    "ru": "Китай",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "phoneCode": "86",
+    "capital": null,
+    "currency": "CNY"
+  }
+]

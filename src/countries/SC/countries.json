@@ -1,1 +1,12 @@
-[{"id":"37bf4a5c-f615-42b3-9612-7a273e1f02c7","name":"Seychelles","ru":"Seychelles","iso3":"SYC","iso2":"SC","phoneCode":"248","capital":"5a4c52b9-e4e5-495e-9737-f2407bb653e9","currency":"SCR"}]
+[
+  {
+    "id": "7afe7e16-ea99-4f02-904c-a133d2b7d775",
+    "en": "Seychelles",
+    "ru": "Сейшельские Острова",
+    "iso3": "SYC",
+    "iso2": "SC",
+    "phoneCode": "248",
+    "capital": null,
+    "currency": "SCR"
+  }
+]

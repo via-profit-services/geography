@@ -1,1 +1,12 @@
-[{"id":"d7c04399-964e-44fc-bf1a-b5d87c8b8ef9","name":"Wallis And Futuna Islands","ru":"Wallis And Futuna Islands","iso3":"WLF","iso2":"WF","phoneCode":"681","capital":null,"currency":"XPF"}]
+[
+  {
+    "id": "f1b0aabb-6f1b-4321-bef2-7342d78e130f",
+    "en": "Wallis And Futuna Islands",
+    "ru": "островов Уоллис и Футуна",
+    "iso3": "WLF",
+    "iso2": "WF",
+    "phoneCode": "681",
+    "capital": null,
+    "currency": "XPF"
+  }
+]

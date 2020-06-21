@@ -1,1 +1,12 @@
-[{"id":"66059ed1-e13c-4abf-80cb-e5426ce70d32","name":"Monaco","ru":"Monaco","iso3":"MCO","iso2":"MC","phoneCode":"377","capital":null,"currency":"EUR"}]
+[
+  {
+    "id": "0c2a7b24-c92d-440b-94b9-8d878bdbb65a",
+    "en": "Monaco",
+    "ru": "Монако",
+    "iso3": "MCO",
+    "iso2": "MC",
+    "phoneCode": "377",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

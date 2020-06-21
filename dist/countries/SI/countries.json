@@ -1,1 +1,12 @@
-[{"id":"651062fe-a702-44b9-a049-13b22129dd1e","name":"Slovenia","ru":"Slovenia","iso3":"SVN","iso2":"SI","phoneCode":"386","capital":"3bb11928-6c42-4bd6-baa3-6e49494a9145","currency":"EUR"}]
+[
+  {
+    "id": "243deee8-89d7-4561-986b-f236eaae4000",
+    "en": "Slovenia",
+    "ru": "Словения",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "phoneCode": "386",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"dccb93b5-02aa-4e8c-ab3c-314014de789b","name":"Portugal","ru":"Portugal","iso3":"PRT","iso2":"PT","phoneCode":"351","capital":"e7672b43-435a-49af-a4e9-9758e7607ab6","currency":"EUR"}]
+[
+  {
+    "id": "1c1096f3-456b-4730-a700-a5e54235a31d",
+    "en": "Portugal",
+    "ru": "Португалия",
+    "iso3": "PRT",
+    "iso2": "PT",
+    "phoneCode": "351",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

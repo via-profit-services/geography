@@ -1,1 +1,602 @@
-[{"id":"f6636021-80e9-4f54-9643-f5f52d3f4a98","name":"Absheron District","ru":"Absheron District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"ABS"},{"id":"17136ce2-8b37-4fb6-8cbf-11b80fc4da7b","name":"Agdam District","ru":"Agdam District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"AGM"},{"id":"3ad47ce1-6353-4b4a-bd83-14241fe0a330","name":"Agdash District","ru":"Agdash District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"AGS"},{"id":"5593f6f3-c29d-4709-afd9-52a64318fa57","name":"Aghjabadi District","ru":"Aghjabadi District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"AGC"},{"id":"123e1658-ffce-4cca-b5b5-b38eada19a05","name":"Agstafa District","ru":"Agstafa District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"AGA"},{"id":"7c9b019f-ff30-47e5-9a84-e911ae2b3c93","name":"Agsu District","ru":"Agsu District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"AGU"},{"id":"c6a28dac-7113-4b34-bc57-945cd915776a","name":"Astara District","ru":"Astara District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"AST"},{"id":"386d45fe-188a-432d-bb5a-7597dbd6e28d","name":"Babek District","ru":"Babek District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"BAB"},{"id":"947c50c3-c371-47e8-9313-e01cf27c979f","name":"Baku","ru":"Baku","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"BA"},{"id":"fff3fdeb-e864-4b4d-9cc5-f5695f221044","name":"Balakan District","ru":"Balakan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"BAL"},{"id":"1f0f4f91-0572-4baf-bdcc-eb459189e1f5","name":"Barda District","ru":"Barda District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"BAR"},{"id":"08407eaf-57b6-496d-a0b7-ed4f22cf74da","name":"Beylagan District","ru":"Beylagan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"BEY"},{"id":"b0bae466-41aa-4a23-9bb6-6bf60cbb2636","name":"Bilasuvar District","ru":"Bilasuvar District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"BIL"},{"id":"79051581-8673-4d23-be02-7c1a9db32721","name":"Dashkasan District","ru":"Dashkasan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"DAS"},{"id":"a71960fc-be10-4eca-abf9-cf814af96278","name":"Fizuli District","ru":"Fizuli District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"FUZ"},{"id":"75cea3b9-9f01-45bd-9902-2184d1b65b1c","name":"Ganja","ru":"Ganja","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"GA"},{"id":"b0215977-2190-4ba5-8f1b-90e0f7b9547e","name":"Gədəbəy","ru":"Gədəbəy","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"GAD"},{"id":"45a10b17-6ee4-4af1-9606-9667ea327a5b","name":"Gobustan District","ru":"Gobustan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QOB"},{"id":"75b61e47-a4c8-4bc1-8dfe-823b3f3f5ea5","name":"Goranboy District","ru":"Goranboy District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"GOR"},{"id":"aa3e4a02-a5a2-44b0-8778-e62127779150","name":"Goychay","ru":"Goychay","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"GOY"},{"id":"0fb67ce0-4d36-492d-8b0a-9b0163ed9c02","name":"Goygol District","ru":"Goygol District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"GYG"},{"id":"75d04d28-b4e4-4947-b45a-57d8dd485944","name":"Hajigabul District","ru":"Hajigabul District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"HAC"},{"id":"da9663b1-4a1b-4a6b-abe2-2f97cb74d725","name":"Imishli District","ru":"Imishli District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"IMI"},{"id":"18c426d3-2fc6-47be-b86f-281209656089","name":"Ismailli District","ru":"Ismailli District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"ISM"},{"id":"4353f360-17e6-417b-8d04-d1697e062021","name":"Jabrayil District","ru":"Jabrayil District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"CAB"},{"id":"5c5449c2-8cfb-419d-a11e-e0ce4a5b70ba","name":"Jalilabad District","ru":"Jalilabad District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"CAL"},{"id":"725298e6-82b5-4a72-bbe4-dc1c4d765c64","name":"Julfa District","ru":"Julfa District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"CUL"},{"id":"eb1ba14d-f0bb-41af-ab15-74a602ae7216","name":"Kalbajar District","ru":"Kalbajar District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"KAL"},{"id":"55afa59f-b214-424e-859c-9a1044ae0f26","name":"Kangarli District","ru":"Kangarli District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"KAN"},{"id":"bca189d9-6cc9-4c27-aa61-6d3a3ee38ad5","name":"Khachmaz District","ru":"Khachmaz District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"XAC"},{"id":"e145a55e-5a01-4184-a4ec-b37ac64ecad1","name":"Khizi District","ru":"Khizi District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"XIZ"},{"id":"4f30f05d-d433-41a7-a369-b62ffd3c3557","name":"Khojali District","ru":"Khojali District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"XCI"},{"id":"5d48c53d-3934-4acd-9618-3228d3625917","name":"Kurdamir District","ru":"Kurdamir District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"KUR"},{"id":"209ced0a-5d35-430f-b267-453976587ac5","name":"Lachin District","ru":"Lachin District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"LAC"},{"id":"c47d5573-f4c1-4237-9dce-a0c8ba2bd107","name":"Lankaran","ru":"Lankaran","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"LAN"},{"id":"16f7ac37-7aef-4cd1-b9f9-b90a42b1434f","name":"Lankaran District","ru":"Lankaran District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"LA"},{"id":"a20a18dd-6bd0-4abd-b427-6f2e29899a0a","name":"Lerik District","ru":"Lerik District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"LER"},{"id":"33b9e9ab-2a96-4716-95df-7d5e3c8fbc30","name":"Martuni","ru":"Martuni","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"XVD"},{"id":"e52a81fa-9199-49bc-9de6-2896885eac11","name":"Masally District","ru":"Masally District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"MAS"},{"id":"0116c5c9-8ea7-4aa6-ad3d-dbed4452fd4d","name":"Mingachevir","ru":"Mingachevir","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"MI"},{"id":"0ff89f5e-5c72-4122-b4c0-ea8e9e42e0f1","name":"Nakhchivan Autonomous Republic","ru":"Nakhchivan Autonomous Republic","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"NX"},{"id":"2ab3f9b4-46c0-4240-9550-544354afbd47","name":"Neftchala District","ru":"Neftchala District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"NEF"},{"id":"69377174-0a4b-4783-a5de-13435afc3477","name":"Oghuz District","ru":"Oghuz District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"OGU"},{"id":"54793f58-cf39-45af-a7b2-ce90d9f0ac15","name":"Ordubad District","ru":"Ordubad District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"ORD"},{"id":"617655bd-72a1-4289-b2ea-0e46ff496ac4","name":"Qabala District","ru":"Qabala District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QAB"},{"id":"d120b2c7-0eb6-4f85-8660-4dd01c2f6669","name":"Qakh District","ru":"Qakh District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QAX"},{"id":"2e6ddcfd-7065-45ea-bd95-aae65f444974","name":"Qazakh District","ru":"Qazakh District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QAZ"},{"id":"91368c8a-5af6-4adb-8c1e-efb8e207eff9","name":"Quba District","ru":"Quba District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QBA"},{"id":"0124b96d-26e5-4f2a-b1bf-bc599ef93c12","name":"Qubadli District","ru":"Qubadli District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QBI"},{"id":"ed3fbff4-ecaf-47d1-a008-f9c4cf0b1a78","name":"Qusar District","ru":"Qusar District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"QUS"},{"id":"e0794ce7-00f4-4937-8842-33f8ee68e9ab","name":"Saatly District","ru":"Saatly District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAT"},{"id":"cd639e98-8ea8-4be9-be6b-c53a56dbff0e","name":"Sabirabad District","ru":"Sabirabad District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAB"},{"id":"9ee64ca2-8724-47ae-a9e1-0a512a10ddc3","name":"Sadarak District","ru":"Sadarak District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAD"},{"id":"7ec5b324-6603-4e1c-aba7-47c85e132b7f","name":"Salyan District","ru":"Salyan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAL"},{"id":"1f365ab7-2be7-4e80-af41-90bf636c2205","name":"Samukh District","ru":"Samukh District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SMX"},{"id":"5a1ea13d-c1e6-4680-9750-3d789d17bb7d","name":"Shabran District","ru":"Shabran District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SBN"},{"id":"3a686d68-e051-4184-9f61-5174df4c2124","name":"Shahbuz District","ru":"Shahbuz District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAH"},{"id":"bf857550-d771-48ac-943a-e94642461c3e","name":"Shaki","ru":"Shaki","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SA"},{"id":"50ed3779-f98d-4e9d-a50e-ddacd2b16034","name":"Shaki District","ru":"Shaki District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAK"},{"id":"f5ac6f23-f618-4d51-bf30-18d33a2eeae5","name":"Shamakhi District","ru":"Shamakhi District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SMI"},{"id":"cb89f683-61b4-4c64-9fe5-b058a26d79df","name":"Shamkir District","ru":"Shamkir District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SKR"},{"id":"8bef6aed-ad06-483d-844a-a1b3295eb908","name":"Sharur District","ru":"Sharur District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SAR"},{"id":"7f54d5d8-f41d-4af2-968e-6a7e1cba6808","name":"Shirvan","ru":"Shirvan","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SR"},{"id":"65a4c6b2-327c-49c3-a129-49c653210e3b","name":"Shusha District","ru":"Shusha District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SUS"},{"id":"10b6cde2-4466-48c1-807a-52cba323bc9b","name":"Siazan District","ru":"Siazan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SIY"},{"id":"9964d938-7a2d-436f-92da-2437e5bd9242","name":"Sumqayit","ru":"Sumqayit","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"SM"},{"id":"0b22fb49-6c31-4f5c-802f-162885eac3eb","name":"Tartar District","ru":"Tartar District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"TAR"},{"id":"57cb753a-eaae-494f-be92-45e2aec50d8f","name":"Tovuz District","ru":"Tovuz District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"TOV"},{"id":"f4c85653-6dfc-42f6-9f9a-88d5b9cdb1a8","name":"Ujar District","ru":"Ujar District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"UCA"},{"id":"95710043-d274-4b2c-bc27-4b075e4ebba5","name":"Yardymli District","ru":"Yardymli District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"YAR"},{"id":"e19f2a32-e7d0-4657-8d8a-eeb99c649312","name":"Yevlakh","ru":"Yevlakh","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"YE"},{"id":"cc65d3a6-95f9-49b9-b601-77f9418ddec3","name":"Yevlakh District","ru":"Yevlakh District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"YEV"},{"id":"1be03458-c95c-4b67-8d6b-744e2696f9b3","name":"Zangilan District","ru":"Zangilan District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"ZAN"},{"id":"38ffe9f0-dcbe-438e-a415-90b1695cf614","name":"Zaqatala District","ru":"Zaqatala District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"ZAQ"},{"id":"5b904627-7ad8-46e9-9667-5c9e1c4d4cdb","name":"Zardab District","ru":"Zardab District","country":"d9019911-b07a-467f-9e93-6fad0c9a9daf","countryCode":"AZ","stateCode":"ZAR"}]
+[
+  {
+    "id": "a602f1df-69eb-48f4-823b-0fbc4ca352d8",
+    "en": "Absheron District",
+    "ru": "Апшеронский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "ABS"
+  },
+  {
+    "id": "999871f1-af52-4d36-ba9f-ecb8799a970b",
+    "en": "Agdam District",
+    "ru": "Агдамский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "AGM"
+  },
+  {
+    "id": "c03e4165-d9a4-4583-a8a3-1d10616ff45d",
+    "en": "Agdash District",
+    "ru": "Агдашский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "AGS"
+  },
+  {
+    "id": "018324cd-4ed2-4312-8b8b-d6b88b05fc61",
+    "en": "Aghjabadi District",
+    "ru": "Агджабединский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "AGC"
+  },
+  {
+    "id": "ed3cc487-c0b2-4bac-94ad-dec0e2e1cfc8",
+    "en": "Agstafa District",
+    "ru": "Агстафинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "AGA"
+  },
+  {
+    "id": "553ba995-6636-4c16-98fc-9742f9bb52b7",
+    "en": "Agsu District",
+    "ru": "Агсу район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "AGU"
+  },
+  {
+    "id": "e1af61ee-c119-46bf-8b80-bf5d575eea3a",
+    "en": "Astara District",
+    "ru": "Астаринский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "AST"
+  },
+  {
+    "id": "473da3d2-62d7-413e-8a98-d1388ed7d9c1",
+    "en": "Babek District",
+    "ru": "Бабекский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "BAB"
+  },
+  {
+    "id": "1dafce1d-44fd-4a1c-9ec1-fb98d6d6f56a",
+    "en": "Baku",
+    "ru": "Баку",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "BA"
+  },
+  {
+    "id": "68ba072a-6814-48b7-8556-0aeda445faea",
+    "en": "Balakan District",
+    "ru": "Балаканский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "BAL"
+  },
+  {
+    "id": "a5e3d995-5b2c-46c5-943c-eef436626de5",
+    "en": "Barda District",
+    "ru": "Бардинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "BAR"
+  },
+  {
+    "id": "b83dace6-43bf-4b14-9aee-d1d33624b705",
+    "en": "Beylagan District",
+    "ru": "район Бейлаганский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "BEY"
+  },
+  {
+    "id": "8d070d92-3e52-47d8-b1b9-f0cf66434e08",
+    "en": "Bilasuvar District",
+    "ru": "Билясуварский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "BIL"
+  },
+  {
+    "id": "0ad2105a-0938-419f-a187-1a65be3e3d3d",
+    "en": "Dashkasan District",
+    "ru": "Дашкасанский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "DAS"
+  },
+  {
+    "id": "1c33dec6-8166-4f75-ab39-6652f0a15ce7",
+    "en": "Fizuli District",
+    "ru": "Физулинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "FUZ"
+  },
+  {
+    "id": "665a6a59-fd67-4c5c-a3b0-a44e847ecb55",
+    "en": "Ganja",
+    "ru": "Гянджинская область",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "GA"
+  },
+  {
+    "id": "306a813d-d231-45e7-af53-1886050a08b4",
+    "en": "Gədəbəy",
+    "ru": "Го́дəбəы",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "GAD"
+  },
+  {
+    "id": "5d481183-100d-4249-8248-f6bb22c4f63a",
+    "en": "Gobustan District",
+    "ru": "Гобустанский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QOB"
+  },
+  {
+    "id": "722a8c67-4e9a-4724-ac0c-720316a6cfd8",
+    "en": "Goranboy District",
+    "ru": "Геранбойский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "GOR"
+  },
+  {
+    "id": "c0dfa6e0-7b83-4871-a3ef-7ec69be34669",
+    "en": "Goychay",
+    "ru": "Гёйчайский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "GOY"
+  },
+  {
+    "id": "129b01bc-3f5d-447a-8289-cd23144ae77b",
+    "en": "Goygol District",
+    "ru": "Гойгольский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "GYG"
+  },
+  {
+    "id": "6160841c-856c-424f-8779-279e21d17f16",
+    "en": "Hajigabul District",
+    "ru": "Гаджигабульский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "HAC"
+  },
+  {
+    "id": "df18e743-24c9-4f1c-a7b1-bde0a83ed35d",
+    "en": "Imishli District",
+    "ru": "Имишлинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "IMI"
+  },
+  {
+    "id": "3ca5b293-0c60-4fa5-b18b-d461319eda3c",
+    "en": "Ismailli District",
+    "ru": "Исмаиллинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "ISM"
+  },
+  {
+    "id": "3c92968f-7e09-4e1f-8ef0-51d962a38c45",
+    "en": "Jabrayil District",
+    "ru": "Джабраилский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "CAB"
+  },
+  {
+    "id": "20094ffb-839e-4270-bd6a-d3d5133b3876",
+    "en": "Jalilabad District",
+    "ru": "Джалилабадский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "CAL"
+  },
+  {
+    "id": "b10b8e10-60cd-4336-91e6-fe30cb68b057",
+    "en": "Julfa District",
+    "ru": "Джульфинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "CUL"
+  },
+  {
+    "id": "59048072-32e4-4da0-adab-7f545bcafae3",
+    "en": "Kalbajar District",
+    "ru": "Кельбаджарский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "KAL"
+  },
+  {
+    "id": "1a1c18a0-4ffd-4a3a-8785-cc4ebadc1468",
+    "en": "Kangarli District",
+    "ru": "Кангарли район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "KAN"
+  },
+  {
+    "id": "d34b16bc-c605-4501-bae1-35868329eeda",
+    "en": "Khachmaz District",
+    "ru": "Хачмазский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "XAC"
+  },
+  {
+    "id": "7bce1001-a771-4797-9b4c-45fb09f80f69",
+    "en": "Khizi District",
+    "ru": "Хызынский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "XIZ"
+  },
+  {
+    "id": "1fdb3e5e-2749-4c5c-aa64-6b4d1c25d7dd",
+    "en": "Khojali District",
+    "ru": "Ходжалинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "XCI"
+  },
+  {
+    "id": "cc5d0361-6271-4a52-8822-5a96ba8283e8",
+    "en": "Kurdamir District",
+    "ru": "Кюрдамирский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "KUR"
+  },
+  {
+    "id": "7db061ba-2f0a-4164-a49f-629d14a39072",
+    "en": "Lachin District",
+    "ru": "Лачинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "LAC"
+  },
+  {
+    "id": "8e000f9d-b60c-4494-9916-a65814a59ebf",
+    "en": "Lankaran",
+    "ru": "Ленкорань",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "LAN"
+  },
+  {
+    "id": "0f9dff9b-75f7-45b0-ae36-38670cbe5b3f",
+    "en": "Lankaran District",
+    "ru": "Лянкяранский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "LA"
+  },
+  {
+    "id": "e431e69a-c4d5-433f-b52c-b7eb8aa6429c",
+    "en": "Lerik District",
+    "ru": "Лерикский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "LER"
+  },
+  {
+    "id": "d6f05a88-321e-4e4f-8e90-cc8f8c7eff50",
+    "en": "Martuni",
+    "ru": "Мартуни",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "XVD"
+  },
+  {
+    "id": "1ae1d9ec-6269-484f-af8b-6b1057402a99",
+    "en": "Masally District",
+    "ru": "Масаллинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "MAS"
+  },
+  {
+    "id": "f055b823-d0f9-4be3-83af-8d4f7f356597",
+    "en": "Mingachevir",
+    "ru": "Мингячевир",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "MI"
+  },
+  {
+    "id": "a7fe408b-1fe0-4abf-84c0-7d1b9c043bf8",
+    "en": "Nakhchivan Autonomous Republic",
+    "ru": "Нахчыванская Автономная Республика",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "NX"
+  },
+  {
+    "id": "4546c999-a2b3-4da1-bf3c-e74162080853",
+    "en": "Neftchala District",
+    "ru": "Нефтчалинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "NEF"
+  },
+  {
+    "id": "630d8fc9-8832-4a8f-9d69-526053e7d133",
+    "en": "Oghuz District",
+    "ru": "Огузский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "OGU"
+  },
+  {
+    "id": "d7c7a837-b83b-495a-b6a3-63c947eaed26",
+    "en": "Ordubad District",
+    "ru": "Ордубадский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "ORD"
+  },
+  {
+    "id": "2f7f3d12-1991-4e96-9a51-6ed9bce63582",
+    "en": "Qabala District",
+    "ru": "Габалинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QAB"
+  },
+  {
+    "id": "ca99d225-70f1-4fd0-b6fb-4098b161ec49",
+    "en": "Qakh District",
+    "ru": "Кахский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QAX"
+  },
+  {
+    "id": "d015a456-64d0-4e30-bcca-6de5982724e7",
+    "en": "Qazakh District",
+    "ru": "казахский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QAZ"
+  },
+  {
+    "id": "fe40bbe8-8b72-4c14-bec2-0518f9822c84",
+    "en": "Quba District",
+    "ru": "Губинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QBA"
+  },
+  {
+    "id": "afae9a14-3735-4e6e-aefb-3787e41df3d3",
+    "en": "Qubadli District",
+    "ru": "Губадлинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QBI"
+  },
+  {
+    "id": "13c9237c-fd48-4ab0-8f91-5070552f6b79",
+    "en": "Qusar District",
+    "ru": "Кусарский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "QUS"
+  },
+  {
+    "id": "9d547eeb-2df5-40d8-92dc-9487a0912b2d",
+    "en": "Saatly District",
+    "ru": "Саатлинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAT"
+  },
+  {
+    "id": "e6b4cfa2-eed5-406b-8bd4-978320cbffb0",
+    "en": "Sabirabad District",
+    "ru": "Сабирабадский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAB"
+  },
+  {
+    "id": "e5c65f02-f85f-4677-86bb-9717b4470a17",
+    "en": "Sadarak District",
+    "ru": "Садаракский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAD"
+  },
+  {
+    "id": "42752a6a-9974-4061-85f2-476f1d4aaba7",
+    "en": "Salyan District",
+    "ru": "Сальянский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAL"
+  },
+  {
+    "id": "48dcb4c0-9050-4a19-b3c4-93cb58719743",
+    "en": "Samukh District",
+    "ru": "Самухский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SMX"
+  },
+  {
+    "id": "ef090e68-e7ab-4e90-bd5a-3fa8bf60cee4",
+    "en": "Shabran District",
+    "ru": "Шабранский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SBN"
+  },
+  {
+    "id": "20a322aa-8c68-4c36-b68a-3b147f005154",
+    "en": "Shahbuz District",
+    "ru": "Шахбузский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAH"
+  },
+  {
+    "id": "38dff2c4-4086-4451-85eb-56e6c72970f0",
+    "en": "Shaki",
+    "ru": "Шеки",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SA"
+  },
+  {
+    "id": "11ad15dd-0747-4f31-afd2-49fce6dd870b",
+    "en": "Shaki District",
+    "ru": "Шекинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAK"
+  },
+  {
+    "id": "e882e56e-5572-41d7-afb7-af6b6d2cd888",
+    "en": "Shamakhi District",
+    "ru": "Шамахинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SMI"
+  },
+  {
+    "id": "10364858-6154-4768-8708-39cc924e2660",
+    "en": "Shamkir District",
+    "ru": "Шамкирский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SKR"
+  },
+  {
+    "id": "e46e8cbc-76ad-4b00-91e5-260e358b7822",
+    "en": "Sharur District",
+    "ru": "Шарурский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SAR"
+  },
+  {
+    "id": "4ca1a79a-ac44-417a-8c09-49f0e0bc4440",
+    "en": "Shirvan",
+    "ru": "Ширван",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SR"
+  },
+  {
+    "id": "3050c19a-0528-4460-bc78-4c28406f7ef0",
+    "en": "Shusha District",
+    "ru": "Шушинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SUS"
+  },
+  {
+    "id": "6e2c6293-8d00-4771-94b9-ea630cd70f75",
+    "en": "Siazan District",
+    "ru": "Сязанский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SIY"
+  },
+  {
+    "id": "7d7a8507-4825-4adb-a98e-9240d43b7b4a",
+    "en": "Sumqayit",
+    "ru": "Сумгайыт",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "SM"
+  },
+  {
+    "id": "be06b673-267e-4efb-b987-ea463d75a2c1",
+    "en": "Tartar District",
+    "ru": "Тартарский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "TAR"
+  },
+  {
+    "id": "04f9a190-c328-4881-8762-e6202f1798fe",
+    "en": "Tovuz District",
+    "ru": "Товузский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "TOV"
+  },
+  {
+    "id": "a57906ba-ecd9-47e7-849d-5816d3dbe940",
+    "en": "Ujar District",
+    "ru": "Уджарский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "UCA"
+  },
+  {
+    "id": "b26e131e-c50e-4fe3-8058-44b7b0879b7b",
+    "en": "Yardymli District",
+    "ru": "Ярдымлинский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "YAR"
+  },
+  {
+    "id": "7c67a289-f2e0-4d44-94f8-aeebe3a8f1e1",
+    "en": "Yevlakh",
+    "ru": "Евлах",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "YE"
+  },
+  {
+    "id": "63c4dbb9-bde0-4342-97a0-7ec59e2b9f78",
+    "en": "Yevlakh District",
+    "ru": "Евлахский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "YEV"
+  },
+  {
+    "id": "0430a0de-3aa7-4afa-91ad-de4534e9d2bc",
+    "en": "Zangilan District",
+    "ru": "Зангиланский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "ZAN"
+  },
+  {
+    "id": "2fedb91a-d112-427e-a9fd-eae430121a7c",
+    "en": "Zaqatala District",
+    "ru": "Закатальский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "ZAQ"
+  },
+  {
+    "id": "ad9db25e-c68e-4c75-8ca0-ddbf32a86a47",
+    "en": "Zardab District",
+    "ru": "Зардабский район",
+    "country": "40cfc575-07f9-4c62-bbf2-dd98ec153445",
+    "countryCode": "AZ",
+    "stateCode": "ZAR"
+  }
+]

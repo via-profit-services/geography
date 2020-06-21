@@ -1,1 +1,12 @@
-[{"id":"65cf1a68-9d88-4c84-b8f9-dc37f1ca9374","name":"Virgin Islands (British)","ru":"Virgin Islands (British)","iso3":"VGB","iso2":"VG","phoneCode":"+1-284","capital":null,"currency":"USD"}]
+[
+  {
+    "id": "2a11441d-746b-49de-9ca5-b54d21054290",
+    "en": "Virgin Islands (British)",
+    "ru": "Виргинские Острова (Британские)",
+    "iso3": "VGB",
+    "iso2": "VG",
+    "phoneCode": "+1-284",
+    "capital": null,
+    "currency": "USD"
+  }
+]

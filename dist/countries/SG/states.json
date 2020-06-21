@@ -1,1 +1,42 @@
-[{"id":"d5eb804d-bc18-45d9-80d3-1bb1a4d449e2","name":"Central Singapore Community Development Council","ru":"Central Singapore Community Development Council","country":"bc815764-0eeb-43b1-a5d9-c33be613fb62","countryCode":"SG","stateCode":"01"},{"id":"defe17f9-c033-4908-bc4c-7a67402ade41","name":"North East Community Development Council","ru":"North East Community Development Council","country":"bc815764-0eeb-43b1-a5d9-c33be613fb62","countryCode":"SG","stateCode":"02"},{"id":"982aef5c-c497-4a2d-803e-79f3312fce2d","name":"North West Community Development Council","ru":"North West Community Development Council","country":"bc815764-0eeb-43b1-a5d9-c33be613fb62","countryCode":"SG","stateCode":"03"},{"id":"d7947936-1b78-4ad6-8b82-7ff12da3637e","name":"South East Community Development Council","ru":"South East Community Development Council","country":"bc815764-0eeb-43b1-a5d9-c33be613fb62","countryCode":"SG","stateCode":"04"},{"id":"704f5311-45e7-4d40-b891-ba947c1725de","name":"South West Community Development Council","ru":"South West Community Development Council","country":"bc815764-0eeb-43b1-a5d9-c33be613fb62","countryCode":"SG","stateCode":"05"}]
+[
+  {
+    "id": "331eb68b-9f34-48ca-bf99-baa5f6a40ba9",
+    "en": "Central Singapore Community Development Council",
+    "ru": "Центральный Сингапур Сообщество Совета Развития",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "stateCode": "01"
+  },
+  {
+    "id": "036b127e-47b3-435c-bfc0-8018a6eb0ada",
+    "en": "North East Community Development Council",
+    "ru": "Северо-Восточный общественный совет по развитию",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "stateCode": "02"
+  },
+  {
+    "id": "4472c29a-857d-40d5-88f9-afc502cd0eb3",
+    "en": "North West Community Development Council",
+    "ru": "Северо-Западный совет по развитию сообщества",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "stateCode": "03"
+  },
+  {
+    "id": "1624b1e4-3c3d-497c-86fe-c4e8ddc1431d",
+    "en": "South East Community Development Council",
+    "ru": "Юго-Восточный общественный совет по развитию",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "stateCode": "04"
+  },
+  {
+    "id": "fec553ee-e4e5-4380-903f-2a07fe94f25d",
+    "en": "South West Community Development Council",
+    "ru": "Юго-Западный совет по развитию сообщества",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "stateCode": "05"
+  }
+]

@@ -1,1 +1,145 @@
-[{"id":"09aeb514-5444-4239-b9ea-6c5db2e412c2","name":"Nicola Town","ru":"Nicola Town","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"ac1119dc-bd24-4bd1-9d11-5baa79f51cc9","stateCode":"01","latitude":"17.37956000","longitude":"-62.75318000"},{"id":"15b31b76-6237-427d-a47b-00bacbc3105c","name":"Sandy Point Town","ru":"Sandy Point Town","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"2de1b8ad-8bef-4ac7-9010-0013aa5c7af4","stateCode":"02","latitude":"17.35908000","longitude":"-62.84858000"},{"id":"82580d1f-ed95-49a0-ae88-3310ae6ca931","name":"Market Shop","ru":"Market Shop","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"9b7dc23d-3ff7-4145-b7ca-a9c62f876d97","stateCode":"04","latitude":"17.13218000","longitude":"-62.57267000"},{"id":"d7ee579d-b575-4111-b0f8-3aedf56a6e94","name":"Newcastle","ru":"Newcastle","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"455aecd0-1746-4ecd-86c6-3dd095821b5c","stateCode":"05","latitude":"17.20000000","longitude":"-62.58333000"},{"id":"07bedb87-aecf-48b5-9e85-1f17f72f96a2","name":"Dieppe Bay Town","ru":"Dieppe Bay Town","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"6d75b029-c2e2-4510-bda6-ba19d6fc329f","stateCode":"06","latitude":"17.41473000","longitude":"-62.81390000"},{"id":"abaefe45-1c9a-4075-875b-b967cd6fb6de","name":"Fig Tree","ru":"Fig Tree","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"0cc11ea8-8667-46f4-8b95-2c1d9dd24ac2","stateCode":"07","latitude":"17.12623000","longitude":"-62.60265000"},{"id":"cf5c02c9-1652-4ed1-887a-8a92cb9e1c43","name":"Cayon","ru":"Cayon","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"8a864e0c-76e4-4527-ab5a-55cda8fb219b","stateCode":"08","latitude":"17.35000000","longitude":"-62.73333000"},{"id":"1812ad5e-e3ba-4d64-9eba-771cf9bf36a6","name":"Saint Paul’s","ru":"Saint Paul’s","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"9a2ebff2-d5d2-4769-8070-cec72a948c36","stateCode":"09","latitude":"17.40605000","longitude":"-62.83562000"},{"id":"31580a08-a8c9-4181-be53-96ee175b498f","name":"Charlestown","ru":"Charlestown","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"c5173588-a66c-4a60-9c8e-4a9a0a2f5160","stateCode":"10","latitude":"17.13333000","longitude":"-62.61667000"},{"id":"09a95c5c-eb4f-43ca-b73c-6363d815eaf5","name":"Monkey Hill","ru":"Monkey Hill","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"2a3832ad-8bc6-4cbc-a580-831d834840eb","stateCode":"11","latitude":"17.32327000","longitude":"-62.72914000"},{"id":"3821865f-e7d6-4b9e-97dd-724d47e7bb4c","name":"Cotton Ground","ru":"Cotton Ground","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"f03fc68c-6753-446d-984d-5d1cb32d12cf","stateCode":"12","latitude":"17.16667000","longitude":"-62.61667000"},{"id":"a8bafb77-d085-4328-ad39-88fe03c365b9","name":"Middle Island","ru":"Middle Island","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"280751c6-a8ce-4c6d-b063-696fb72e945c","stateCode":"13","latitude":"17.32590000","longitude":"-62.81055000"},{"id":"7b42edab-a04c-48fb-bd73-01bf21afc053","name":"Trinity","ru":"Trinity","country":"81b2e9a4-8ae4-4e60-99e2-1e11781cf8ea","countryCode":"KN","state":"ce898464-be79-4761-abb9-ccf1830111e2","stateCode":"15","latitude":"17.30037000","longitude":"-62.77584000"}]
+[
+  {
+    "id": "000ceee7-ab33-418a-8fdd-5492dd1ffe73",
+    "en": "Nicola Town",
+    "ru": "Николаа Город",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "9365fc85-f88f-4b98-921b-654482125329",
+    "stateCode": "01",
+    "latitude": "17.37956000",
+    "longitude": "-62.75318000"
+  },
+  {
+    "id": "bd1af1f0-7d4a-4c9e-bf42-eed669227c04",
+    "en": "Sandy Point Town",
+    "ru": "Сэнди Пойнт Таун",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "23c92c17-5b85-4876-89ed-9b4209524689",
+    "stateCode": "02",
+    "latitude": "17.35908000",
+    "longitude": "-62.84858000"
+  },
+  {
+    "id": "c0b554f2-4881-4bc3-8c40-63c33c8ed6e7",
+    "en": "Market Shop",
+    "ru": "Городской рынок Магазин",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "934263db-880d-4821-8d84-08b32ea43f09",
+    "stateCode": "04",
+    "latitude": "17.13218000",
+    "longitude": "-62.57267000"
+  },
+  {
+    "id": "a413a919-b76b-42f2-9bc7-0c7cc6763fc1",
+    "en": "Newcastle",
+    "ru": "Ньюкасл",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "20955583-377c-4d48-8531-9f589d49de34",
+    "stateCode": "05",
+    "latitude": "17.20000000",
+    "longitude": "-62.58333000"
+  },
+  {
+    "id": "04d2d688-3b8d-4d4c-93ce-934e5e431a1c",
+    "en": "Dieppe Bay Town",
+    "ru": "Dieppe Bay Town",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "d93949cc-aab6-402e-ab55-8694052be173",
+    "stateCode": "06",
+    "latitude": "17.41473000",
+    "longitude": "-62.81390000"
+  },
+  {
+    "id": "47b32820-2484-4e55-9eb9-6a0ae768ac69",
+    "en": "Fig Tree",
+    "ru": "фиговое дерево",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "96ec52e3-b1bf-466c-8b6a-d46be1167091",
+    "stateCode": "07",
+    "latitude": "17.12623000",
+    "longitude": "-62.60265000"
+  },
+  {
+    "id": "d14c3538-b83d-4ea3-9de7-f0f78bf32be3",
+    "en": "Cayon",
+    "ru": "Кайон",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "f54f6786-62da-46c9-b0d9-7ca30d0c5e71",
+    "stateCode": "08",
+    "latitude": "17.35000000",
+    "longitude": "-62.73333000"
+  },
+  {
+    "id": "8448f610-3b9b-40f5-9741-1f698e0a531f",
+    "en": "Saint Paul’s",
+    "ru": "Святого Павла",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "d5efb98c-fc7b-4590-8010-431c01efaf82",
+    "stateCode": "09",
+    "latitude": "17.40605000",
+    "longitude": "-62.83562000"
+  },
+  {
+    "id": "ee9e0a9a-df25-4dc5-8c8d-2f95e236b132",
+    "en": "Charlestown",
+    "ru": "Чарлстаун",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "fbaad0f4-d1c7-4a8a-904e-966d645ed215",
+    "stateCode": "10",
+    "latitude": "17.13333000",
+    "longitude": "-62.61667000"
+  },
+  {
+    "id": "4b436409-b814-4708-8ea5-2f8831afd308",
+    "en": "Monkey Hill",
+    "ru": "Обезьяна Хилл",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "a0512021-ab5e-4e66-8cbf-943f8203d850",
+    "stateCode": "11",
+    "latitude": "17.32327000",
+    "longitude": "-62.72914000"
+  },
+  {
+    "id": "c35e9d64-ed28-4529-86f3-dc838171ca95",
+    "en": "Cotton Ground",
+    "ru": "Хлопковая земля",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "173db3a9-405d-48d5-99f2-28bfbdf93e04",
+    "stateCode": "12",
+    "latitude": "17.16667000",
+    "longitude": "-62.61667000"
+  },
+  {
+    "id": "70fa793b-be47-4d9b-88f4-acfee0f13e5f",
+    "en": "Middle Island",
+    "ru": "Средний остров",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "dd57f2ba-f394-463b-94f5-d7c1cdd6947e",
+    "stateCode": "13",
+    "latitude": "17.32590000",
+    "longitude": "-62.81055000"
+  },
+  {
+    "id": "33161a8c-9394-46f6-918f-119f6245b095",
+    "en": "Trinity",
+    "ru": "Троица",
+    "country": "9910e5ad-594e-4630-a97f-7ce7ea94af2b",
+    "countryCode": "KN",
+    "state": "b3568127-0c91-4094-ac62-edcc5ee1c935",
+    "stateCode": "15",
+    "latitude": "17.30037000",
+    "longitude": "-62.77584000"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"4c94061d-22d7-4b4e-8e5c-e84d1461902f","name":"Greenland","ru":"Greenland","iso3":"GRL","iso2":"GL","phoneCode":"299","capital":null,"currency":"DKK"}]
+[
+  {
+    "id": "c2a8e2dc-c671-4432-bf69-50004b74b456",
+    "en": "Greenland",
+    "ru": "Гренландия",
+    "iso3": "GRL",
+    "iso2": "GL",
+    "phoneCode": "299",
+    "capital": null,
+    "currency": "DKK"
+  }
+]

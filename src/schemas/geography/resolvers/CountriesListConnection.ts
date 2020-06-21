@@ -22,8 +22,6 @@ const CountriesListConnection: IFieldResolver<any, Context, TInputFilter> = asyn
     const countriesConnection = await countriesListService.getCountries(filter);
     const connection = buildCursorConnection(countriesConnection, 'countries');
 
-    loaders.countries.clearAll();
-
     countriesConnection.nodes.forEach((node) => {
       loaders.countries.prime(node.id, node);
     });

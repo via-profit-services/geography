@@ -1,1 +1,12 @@
-[{"id":"46bbf78b-3ba3-4a2f-9f06-d4ed33195092","name":"Aruba","ru":"Aruba","iso3":"ABW","iso2":"AW","phoneCode":"297","capital":null,"currency":"AWG"}]
+[
+  {
+    "id": "6423f3a3-0d46-42e9-a55a-4aa0a721c9f1",
+    "en": "Aruba",
+    "ru": "Аруба",
+    "iso3": "ABW",
+    "iso2": "AW",
+    "phoneCode": "297",
+    "capital": null,
+    "currency": "AWG"
+  }
+]

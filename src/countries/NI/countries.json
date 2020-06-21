@@ -1,1 +1,12 @@
-[{"id":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","name":"Nicaragua","ru":"Nicaragua","iso3":"NIC","iso2":"NI","phoneCode":"505","capital":"259e3a5c-3dac-4fe3-bcdb-2ddfbf146599","currency":"NIO"}]
+[
+  {
+    "id": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "en": "Nicaragua",
+    "ru": "Никарагуа",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "phoneCode": "505",
+    "capital": null,
+    "currency": "NIO"
+  }
+]

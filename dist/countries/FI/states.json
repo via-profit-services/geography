@@ -1,1 +1,170 @@
-[{"id":"77f4b1f9-0226-4395-ba24-6e45ae0fbd0f","name":"Åland Islands","ru":"Åland Islands","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"01"},{"id":"7d1030f9-9356-4d58-b116-d67537b3a606","name":"Central Finland","ru":"Central Finland","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"08"},{"id":"243a49e2-320d-4cc0-afbd-d3ab8bfe4b5a","name":"Central Ostrobothnia","ru":"Central Ostrobothnia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"07"},{"id":"01718b06-436e-4e02-a6c6-24305236c033","name":"Eastern Finland Province","ru":"Eastern Finland Province","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"IS"},{"id":"28e3a007-d49f-4828-ac13-fb4a60f244fb","name":"Finland Proper","ru":"Finland Proper","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"19"},{"id":"4521af31-c431-4fe1-bf66-80d80267b6a8","name":"Kainuu","ru":"Kainuu","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"05"},{"id":"bad37811-6a97-4ff7-bd5b-c7d2507b4a84","name":"Kymenlaakso","ru":"Kymenlaakso","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"09"},{"id":"4865f37d-816f-426d-a44e-0409d4813f37","name":"Lapland","ru":"Lapland","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"LL"},{"id":"f8803dce-fc61-4eeb-aae4-77ce2d4dde84","name":"North Karelia","ru":"North Karelia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"13"},{"id":"41e89756-89dc-4b3d-9f6a-e445ef3d0868","name":"Northern Ostrobothnia","ru":"Northern Ostrobothnia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"14"},{"id":"6284ddee-21d4-466c-a558-484c2f05f9a0","name":"Northern Savonia","ru":"Northern Savonia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"15"},{"id":"a6747670-907b-4429-9295-b73414d3a870","name":"Ostrobothnia","ru":"Ostrobothnia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"12"},{"id":"264d02f6-5c94-48fa-bff1-b451edc602d1","name":"Oulu Province","ru":"Oulu Province","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"OL"},{"id":"083e27db-5b48-46ae-8883-14593f2e3717","name":"Päijänne Tavastia","ru":"Päijänne Tavastia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"16"},{"id":"577b98ff-ecf9-4153-a59c-9e76bdb209e4","name":"Pirkanmaa","ru":"Pirkanmaa","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"11"},{"id":"cc1c1134-2033-4a11-b6c1-95d3af01a5e0","name":"Satakunta","ru":"Satakunta","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"17"},{"id":"1c1b3a9c-c54c-4447-8e9f-a2212043d070","name":"South Karelia","ru":"South Karelia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"02"},{"id":"20343953-16fb-448f-bb60-b1ad5bb58a91","name":"Southern Ostrobothnia","ru":"Southern Ostrobothnia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"03"},{"id":"13f60724-c380-4161-9df8-8f69cb3e4c9c","name":"Southern Savonia","ru":"Southern Savonia","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"04"},{"id":"405eb170-9488-4860-8790-6886921549e0","name":"Tavastia Proper","ru":"Tavastia Proper","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"06"},{"id":"f1390635-fcbf-4b25-b472-60c1f7b4ec0d","name":"Uusimaa","ru":"Uusimaa","country":"f8146eb7-d2c4-47a1-94f9-c5aa422f487d","countryCode":"FI","stateCode":"18"}]
+[
+  {
+    "id": "28774943-217e-441e-994d-6d7775920c4d",
+    "en": "Åland Islands",
+    "ru": "Аландские острова",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "01"
+  },
+  {
+    "id": "caec4d28-4c6b-4eaa-9658-21aa49037151",
+    "en": "Central Finland",
+    "ru": "Центральной Финляндии",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "08"
+  },
+  {
+    "id": "3fc5bc6b-06fb-453e-94c4-518912184fb8",
+    "en": "Central Ostrobothnia",
+    "ru": "Центральная Остроботния",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "07"
+  },
+  {
+    "id": "360cb052-b387-444d-a9ef-b51ae3a08777",
+    "en": "Eastern Finland Province",
+    "ru": "Восточная Финляндия Провинция",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "IS"
+  },
+  {
+    "id": "a9785915-945d-4d87-8547-8b4c17aa4af2",
+    "en": "Finland Proper",
+    "ru": "Финляндия Правильная",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "19"
+  },
+  {
+    "id": "8db45343-ef61-4879-948b-fdf41c7d0acf",
+    "en": "Kainuu",
+    "ru": "Кайнуу",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "05"
+  },
+  {
+    "id": "924fcd0f-3873-45ed-9f13-6506b0526754",
+    "en": "Kymenlaakso",
+    "ru": "Кюменлааксо",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "09"
+  },
+  {
+    "id": "da71f619-d590-4b23-8feb-8cee8ec1bee4",
+    "en": "Lapland",
+    "ru": "Лапландия",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "LL"
+  },
+  {
+    "id": "3b3e986f-b4d8-4d07-aa29-7df929515cf2",
+    "en": "North Karelia",
+    "ru": "Северная Карелия",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "13"
+  },
+  {
+    "id": "04cf4f84-39bf-41d2-ac04-fe0888b2dedf",
+    "en": "Northern Ostrobothnia",
+    "ru": "Северная Остроботния",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "14"
+  },
+  {
+    "id": "2d3162e3-4ab5-4758-b335-2024d4a3ecb6",
+    "en": "Northern Savonia",
+    "ru": "Северное Саво",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "15"
+  },
+  {
+    "id": "3ca4236a-b4a6-4fe8-881d-64af3838755a",
+    "en": "Ostrobothnia",
+    "ru": "Остроботния",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "12"
+  },
+  {
+    "id": "7bcdef58-6a0c-486d-ba60-95303a9ee906",
+    "en": "Oulu Province",
+    "ru": "Оулу провинция",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "OL"
+  },
+  {
+    "id": "6b5c5f8d-4c21-483a-8f88-32875834c033",
+    "en": "Päijänne Tavastia",
+    "ru": "Пяйянне Тавастия",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "16"
+  },
+  {
+    "id": "6bbecb9b-3a89-4848-8c5b-8e2243f2fb11",
+    "en": "Pirkanmaa",
+    "ru": "Пирканмаа",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "11"
+  },
+  {
+    "id": "e433537a-3704-410b-b5ec-7122e9b4db39",
+    "en": "Satakunta",
+    "ru": "Сатакунта",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "17"
+  },
+  {
+    "id": "0e124084-1f14-449a-9e36-f440162a8a70",
+    "en": "South Karelia",
+    "ru": "Южная Карелия",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "02"
+  },
+  {
+    "id": "315863db-7dc0-44c6-a414-9edfec58fd67",
+    "en": "Southern Ostrobothnia",
+    "ru": "Южная Остроботния",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "03"
+  },
+  {
+    "id": "9d198740-e3cf-4738-84c7-866faf25b5a7",
+    "en": "Southern Savonia",
+    "ru": "Южное Саво",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "04"
+  },
+  {
+    "id": "90ce7a00-0382-41a1-9804-0df728291748",
+    "en": "Tavastia Proper",
+    "ru": "Тавастия Правая",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "06"
+  },
+  {
+    "id": "63eda389-d978-42da-a972-7b8c5138d7eb",
+    "en": "Uusimaa",
+    "ru": "Уусимаа",
+    "country": "1e68fdd6-190a-4151-a3f0-60faecf2fd4c",
+    "countryCode": "FI",
+    "stateCode": "18"
+  }
+]

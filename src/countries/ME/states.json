@@ -1,1 +1,178 @@
-[{"id":"f9eb89f1-b5d9-4a97-9bc3-ec596cdd7b87","name":"Andrijevica Municipality","ru":"Andrijevica Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"01"},{"id":"b51ac17a-4175-4917-b676-0570a4d8b4ec","name":"Šavnik Municipality","ru":"Šavnik Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"18"},{"id":"1fb1bc45-2159-4b8e-818f-9f2b73388562","name":"Žabljak Municipality","ru":"Žabljak Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"21"},{"id":"974f6528-78b2-4f8d-bfcd-3a6b5dc7a2d4","name":"Bar Municipality","ru":"Bar Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"02"},{"id":"3acdea60-449e-420e-a921-cd5e6f51bac9","name":"Berane Municipality","ru":"Berane Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"03"},{"id":"3154a9c8-48e8-47bf-aa57-25d4e371f31e","name":"Bijelo Polje Municipality","ru":"Bijelo Polje Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"04"},{"id":"c1e986d4-89e4-4944-aa6e-d15e3f98a90d","name":"Budva Municipality","ru":"Budva Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"05"},{"id":"34b54d3b-f040-4a94-adfd-856c96cdc200","name":"Danilovgrad Municipality","ru":"Danilovgrad Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"07"},{"id":"29bdb35e-aa47-4fe9-ba02-0cc4dcb1c360","name":"Gusinje Municipality","ru":"Gusinje Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"22"},{"id":"fe95f54a-e148-4031-9736-fd20cd7d0671","name":"Kolašin Municipality","ru":"Kolašin Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"09"},{"id":"1dbfa540-0486-43bc-9500-cad2f2ad9c3a","name":"Kotor Municipality","ru":"Kotor Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"10"},{"id":"63794013-2eef-481a-8d10-6cef4392a0f2","name":"Mojkovac Municipality","ru":"Mojkovac Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"11"},{"id":"9264f041-2c99-448f-bbb7-12c16230a836","name":"Nikšić Municipality","ru":"Nikšić Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"12"},{"id":"12b1ba3c-50a7-4fc2-813e-453b207e96f6","name":"Old Royal Capital Cetinje","ru":"Old Royal Capital Cetinje","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"06"},{"id":"31856a79-cb01-423c-a4d9-df438c775974","name":"Petnjica Municipality","ru":"Petnjica Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"23"},{"id":"ef7b162b-c150-48b5-8528-5839225c6028","name":"Plav Municipality","ru":"Plav Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"13"},{"id":"49fa4993-61d3-40f1-8b7d-34143968b422","name":"Pljevlja Municipality","ru":"Pljevlja Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"14"},{"id":"2f283bc3-9343-4a5d-8d68-3763739bef42","name":"Plužine Municipality","ru":"Plužine Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"15"},{"id":"f11a080a-657a-4fce-bbf9-f5bf7c6a3494","name":"Podgorica Municipality","ru":"Podgorica Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"16"},{"id":"e9128004-8120-4579-b866-18afb7d241f2","name":"Rožaje Municipality","ru":"Rožaje Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"17"},{"id":"31a13a5b-c5d9-4814-9d92-a16597e9042c","name":"Tivat Municipality","ru":"Tivat Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"19"},{"id":"c87ca7e9-f334-42ae-9a23-b353f1800d6b","name":"Ulcinj Municipality","ru":"Ulcinj Municipality","country":"115228d5-61f1-4c88-b53f-c507bf26cf30","countryCode":"ME","stateCode":"20"}]
+[
+  {
+    "id": "374382d6-3979-432a-8b02-6e5e99dad2bb",
+    "en": "Andrijevica Municipality",
+    "ru": "Андриевица Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "01"
+  },
+  {
+    "id": "19266376-47ec-4d24-9c86-9085d271947c",
+    "en": "Šavnik Municipality",
+    "ru": "Šavnik муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "18"
+  },
+  {
+    "id": "9643a602-ebc7-44a6-a348-b505e6c10ec3",
+    "en": "Žabljak Municipality",
+    "ru": "Жаблякская община",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "21"
+  },
+  {
+    "id": "7f64fc9f-c112-4ab7-b712-f5936ffd8944",
+    "en": "Bar Municipality",
+    "ru": "Бар муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "02"
+  },
+  {
+    "id": "a35e3cfb-54f5-4edc-93a3-da2575904d5d",
+    "en": "Berane Municipality",
+    "ru": "Беране Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "03"
+  },
+  {
+    "id": "82b2b8c2-5788-4dd1-b8ab-67dd8777cc59",
+    "en": "Bijelo Polje Municipality",
+    "ru": "Bijelo Polje муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "04"
+  },
+  {
+    "id": "22710fc7-c2bf-4d4d-9d90-336164da72d0",
+    "en": "Budva Municipality",
+    "ru": "Будва муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "05"
+  },
+  {
+    "id": "bcb995d1-be80-49f5-8dd1-97694a943ff7",
+    "en": "Danilovgrad Municipality",
+    "ru": "Даниловград Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "07"
+  },
+  {
+    "id": "597e7fb0-5b8c-4016-adff-2be785e3d2c4",
+    "en": "Gusinje Municipality",
+    "ru": "Гусиньский край",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "22"
+  },
+  {
+    "id": "a1c84daa-3bd9-4351-bb02-c7da7d3a428a",
+    "en": "Kolašin Municipality",
+    "ru": "Колашинский муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "09"
+  },
+  {
+    "id": "7dd67a05-c192-488a-981b-4aac27cd1a2a",
+    "en": "Kotor Municipality",
+    "ru": "Которский муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "10"
+  },
+  {
+    "id": "683ee899-3f04-4d6a-be75-dfa3e8cf9190",
+    "en": "Mojkovac Municipality",
+    "ru": "Мойковац муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "11"
+  },
+  {
+    "id": "a2a9e7e5-88ba-476a-b0ec-f4abd51f8e9b",
+    "en": "Nikšić Municipality",
+    "ru": "Никшич муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "12"
+  },
+  {
+    "id": "dcabfe28-22c4-42d3-b472-f46f4fe3f6c2",
+    "en": "Old Royal Capital Cetinje",
+    "ru": "Старая Королевская Столица Цетине",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "06"
+  },
+  {
+    "id": "94af5158-a7af-4cee-91ac-8b4e7a03f822",
+    "en": "Petnjica Municipality",
+    "ru": "Петницкая община",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "23"
+  },
+  {
+    "id": "cb783c32-5ecf-488f-8677-d1bfd4a5a572",
+    "en": "Plav Municipality",
+    "ru": "Плавский край",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "13"
+  },
+  {
+    "id": "3b0b8002-a83d-45a0-8516-f66cc5580596",
+    "en": "Pljevlja Municipality",
+    "ru": "Плевля Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "14"
+  },
+  {
+    "id": "6f9021a0-6118-4cfd-b700-72ffe33e0586",
+    "en": "Plužine Municipality",
+    "ru": "край Плужинский край",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "15"
+  },
+  {
+    "id": "8ed91682-5618-417a-8b6e-8817a82e2a22",
+    "en": "Podgorica Municipality",
+    "ru": "Подгорица Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "16"
+  },
+  {
+    "id": "70c32921-0f2d-48e9-9e82-f0e87b368cf4",
+    "en": "Rožaje Municipality",
+    "ru": "Рожайский край",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "17"
+  },
+  {
+    "id": "6f7bed2e-56bd-41d2-b74b-e1bd81c645bc",
+    "en": "Tivat Municipality",
+    "ru": "Тиват Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "19"
+  },
+  {
+    "id": "1e17e52f-ade5-4c42-b43d-8f7e15891d74",
+    "en": "Ulcinj Municipality",
+    "ru": "Улцинь Муниципалитет",
+    "country": "fe219c1c-f691-41d2-b3ee-8196d3ae17cf",
+    "countryCode": "ME",
+    "stateCode": "20"
+  }
+]

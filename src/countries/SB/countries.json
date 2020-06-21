@@ -1,1 +1,12 @@
-[{"id":"8e708fdd-80a0-4dee-ad02-f7cbb1715667","name":"Solomon Islands","ru":"Solomon Islands","iso3":"SLB","iso2":"SB","phoneCode":"677","capital":"5424d913-4365-45b2-92cf-7cd392c198f0","currency":"SBD"}]
+[
+  {
+    "id": "c1e9d486-e7ca-42f6-9e00-dc46437c5924",
+    "en": "Solomon Islands",
+    "ru": "Соломоновы Острова",
+    "iso3": "SLB",
+    "iso2": "SB",
+    "phoneCode": "677",
+    "capital": null,
+    "currency": "SBD"
+  }
+]

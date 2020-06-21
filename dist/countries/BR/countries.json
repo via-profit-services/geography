@@ -1,1 +1,12 @@
-[{"id":"fc754828-bdbc-4a30-8367-4965370cc9f3","name":"Brazil","ru":"Brazil","iso3":"BRA","iso2":"BR","phoneCode":"55","capital":null,"currency":"BRL"}]
+[
+  {
+    "id": "9f2768e0-8d69-4b9d-84a8-e548c78193ad",
+    "en": "Brazil",
+    "ru": "Бразилия",
+    "iso3": "BRA",
+    "iso2": "BR",
+    "phoneCode": "55",
+    "capital": null,
+    "currency": "BRL"
+  }
+]

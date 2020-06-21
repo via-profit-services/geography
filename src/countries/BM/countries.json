@@ -1,1 +1,12 @@
-[{"id":"d94a7749-cf6b-4b91-be93-7743756fbaa6","name":"Bermuda","ru":"Bermuda","iso3":"BMU","iso2":"BM","phoneCode":"+1-441","capital":"0169b1dd-b5c0-488c-ba5f-7088d8cecb15","currency":"BMD"}]
+[
+  {
+    "id": "f1a72333-104c-4b48-ae19-8320a15f085b",
+    "en": "Bermuda",
+    "ru": "Бермудские острова",
+    "iso3": "BMU",
+    "iso2": "BM",
+    "phoneCode": "+1-441",
+    "capital": null,
+    "currency": "BMD"
+  }
+]

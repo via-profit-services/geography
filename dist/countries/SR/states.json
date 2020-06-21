@@ -1,1 +1,82 @@
-[{"id":"d6efd75f-1169-4efb-a9be-7e0ea7fbc43e","name":"Brokopondo District","ru":"Brokopondo District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"BR"},{"id":"96c66a00-7b8c-4612-9528-45fda793b2bd","name":"Commewijne District","ru":"Commewijne District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"CM"},{"id":"7af537e1-f828-44e6-935e-37fa6532439a","name":"Coronie District","ru":"Coronie District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"CR"},{"id":"71912342-11db-4b0f-8a37-faf3985f0d7a","name":"Marowijne District","ru":"Marowijne District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"MA"},{"id":"688a78db-b32a-4bc2-b273-4beb2ae33afe","name":"Nickerie District","ru":"Nickerie District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"NI"},{"id":"e03e4055-e1c3-4325-a8fb-c12fe4d2eabe","name":"Para District","ru":"Para District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"PR"},{"id":"d9282230-e615-40bf-93a2-f8287a75ef15","name":"Paramaribo District","ru":"Paramaribo District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"PM"},{"id":"15608b4a-a655-43b6-8f16-e8e9b788d0f1","name":"Saramacca District","ru":"Saramacca District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"SA"},{"id":"aa07ae9d-d101-42c3-a68f-2ae7db2f8a5b","name":"Sipaliwini District","ru":"Sipaliwini District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"SI"},{"id":"3b56c743-1dd5-43dd-99c6-f206573ce2c0","name":"Wanica District","ru":"Wanica District","country":"95a48b97-36b3-4397-8b10-3c0b70b545a5","countryCode":"SR","stateCode":"WA"}]
+[
+  {
+    "id": "0f3f8434-6d40-4152-b411-2e6782dee23b",
+    "en": "Brokopondo District",
+    "ru": "Брокопондо район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "BR"
+  },
+  {
+    "id": "48f4b53d-04e5-4fa5-9acd-0308ed7bbf7b",
+    "en": "Commewijne District",
+    "ru": "Commewijne район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "CM"
+  },
+  {
+    "id": "774c6ed0-eab1-4ed2-b6f8-3f040a491695",
+    "en": "Coronie District",
+    "ru": "район коронский район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "CR"
+  },
+  {
+    "id": "ee1ae0b8-e1d2-4066-8895-759f9685a779",
+    "en": "Marowijne District",
+    "ru": "Маровейнский район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "MA"
+  },
+  {
+    "id": "15f3cd27-7554-40c6-b5cd-498b0d8cf0e1",
+    "en": "Nickerie District",
+    "ru": "Никерский район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "NI"
+  },
+  {
+    "id": "b28e6ac1-4f8d-49bb-b941-249c0df5f3e1",
+    "en": "Para District",
+    "ru": "Пара Район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "PR"
+  },
+  {
+    "id": "ce9ecd4c-e109-4bc3-b342-bb29c38831a5",
+    "en": "Paramaribo District",
+    "ru": "Парамарибо район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "PM"
+  },
+  {
+    "id": "38e61206-3041-47aa-ba36-d7eeace2a275",
+    "en": "Saramacca District",
+    "ru": "Сарамакский район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "SA"
+  },
+  {
+    "id": "d383a10d-0287-4f52-af9b-163ecfcbc34a",
+    "en": "Sipaliwini District",
+    "ru": "Сипаливини округ",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "SI"
+  },
+  {
+    "id": "3f612566-a92a-4b1e-9860-8f55795d3831",
+    "en": "Wanica District",
+    "ru": "Wanica район",
+    "country": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "countryCode": "SR",
+    "stateCode": "WA"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"93843351-87ee-448e-a5e7-9df5c8ade086","name":"Moldova","ru":"Moldova","iso3":"MDA","iso2":"MD","phoneCode":"373","capital":"1d2489de-edf1-4337-96c4-ec9df9bf3029","currency":"MDL"}]
+[
+  {
+    "id": "593b169f-134f-403a-adf9-e5ed7cc1018c",
+    "en": "Moldova",
+    "ru": "Молдова",
+    "iso3": "MDA",
+    "iso2": "MD",
+    "phoneCode": "373",
+    "capital": null,
+    "currency": "MDL"
+  }
+]

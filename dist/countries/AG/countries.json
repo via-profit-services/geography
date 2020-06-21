@@ -1,1 +1,12 @@
-[{"id":"f4a5d0a3-1f34-46dc-a715-29c00943b514","name":"Antigua And Barbuda","ru":"Antigua And Barbuda","iso3":"ATG","iso2":"AG","phoneCode":"+1-268","capital":"835908af-cbc6-493e-bbde-fe2d59a48ec6","currency":"XCD"}]
+[
+  {
+    "id": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "en": "Antigua And Barbuda",
+    "ru": "Антигуа и Барбуда",
+    "iso3": "ATG",
+    "iso2": "AG",
+    "phoneCode": "+1-268",
+    "capital": null,
+    "currency": "XCD"
+  }
+]

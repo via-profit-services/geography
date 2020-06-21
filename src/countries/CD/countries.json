@@ -1,1 +1,12 @@
-[{"id":"33022900-cc8b-4775-af5a-18280862910c","name":"Congo The Democratic Republic Of The","ru":"Congo The Democratic Republic Of The","iso3":"COD","iso2":"CD","phoneCode":"243","capital":"072ae61b-a253-4f20-b7d1-3fb05970dcc4","currency":"CDF"}]
+[
+  {
+    "id": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "en": "Congo The Democratic Republic Of The",
+    "ru": "Конго Демократическая Республика",
+    "iso3": "COD",
+    "iso2": "CD",
+    "phoneCode": "243",
+    "capital": null,
+    "currency": "CDF"
+  }
+]

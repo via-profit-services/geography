@@ -1,1 +1,498 @@
-[{"id":"e0dc0778-b645-4e1b-8c9b-f2b9ab65444e","name":"Al Haouz Province","ru":"Al Haouz Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"HAO"},{"id":"f6702134-1754-491b-8331-ad38de59ddd2","name":"Al Hoceïma Province","ru":"Al Hoceïma Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"HOC"},{"id":"42a6a790-1bb7-4e3a-a297-24c163b670e5","name":"Aousserd Province","ru":"Aousserd Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"AOU"},{"id":"20e986e7-d854-4e96-bc14-6cb053f8674f","name":"Assa-Zag Province","ru":"Assa-Zag Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"ASZ"},{"id":"f80e41a7-5625-4c77-bea4-fe11a4da4117","name":"Azilal Province","ru":"Azilal Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"AZI"},{"id":"ca2934a8-5e11-4556-885c-a7bef276dfe3","name":"Béni Mellal-Khénifra","ru":"Béni Mellal-Khénifra","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"05"},{"id":"e0d08894-9119-47c2-a603-25363e1ae696","name":"Béni-Mellal Province","ru":"Béni-Mellal Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"BEM"},{"id":"6b9402bf-aa79-4a48-8b5a-863c115561f0","name":"Ben Slimane Province","ru":"Ben Slimane Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"BES"},{"id":"200db8d3-5e0a-4e0e-aca4-38a6cdecbd85","name":"Berkane Province","ru":"Berkane Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"BER"},{"id":"c71223fe-3645-400c-b5f6-ddd2816077c8","name":"Boujdour Province","ru":"Boujdour Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"BOD"},{"id":"93154522-b75c-48d5-b79f-d97d1d40f314","name":"Boulemane Province","ru":"Boulemane Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"BOM"},{"id":"b6d9eae3-f621-4e1f-b5df-13ee53705875","name":"Casablanca-Settat","ru":"Casablanca-Settat","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"06"},{"id":"2dbab748-3bcb-4eea-b897-55bbadc47cf7","name":"Chefchaouen Province","ru":"Chefchaouen Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"CHE"},{"id":"ef567262-68dc-4d11-a38d-3634550a7cf1","name":"Chichaoua Province","ru":"Chichaoua Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"CHI"},{"id":"cbe05f69-9f5b-430f-9a3a-aa898f175d39","name":"Dakhla-Oued Ed-Dahab","ru":"Dakhla-Oued Ed-Dahab","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"12"},{"id":"81c05d87-1b08-4002-a543-161f65c217e2","name":"Drâa-Tafilalet","ru":"Drâa-Tafilalet","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"08"},{"id":"50ad1781-9675-402a-b7a9-dc3760ac4352","name":"El Hajeb Province","ru":"El Hajeb Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"HAJ"},{"id":"1c907fa0-e50d-4fa6-8127-6b371a6e0dc5","name":"El Jadida Province","ru":"El Jadida Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"JDI"},{"id":"15c98b1a-224f-4f32-a328-556680b5e66a","name":"Errachidia Province","ru":"Errachidia Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"ERR"},{"id":"4a66e869-aa34-4a78-8b4b-11b71410a87d","name":"Es Semara Province","ru":"Es Semara Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"ESM"},{"id":"48996d5d-7f26-4c4c-a4ad-0513aaa9be00","name":"Essaouira Province","ru":"Essaouira Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"ESI"},{"id":"d964135f-c718-4306-b791-9dd61e1903cf","name":"Fahs Anjra Province","ru":"Fahs Anjra Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"FAH"},{"id":"a22e4216-19e8-463f-bc95-b14c6751b1bd","name":"Fès-Meknès","ru":"Fès-Meknès","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"03"},{"id":"a7783f62-f2c8-4b44-8552-ecbcd9dd1773","name":"Figuig Province","ru":"Figuig Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"FIG"},{"id":"35d17258-ee1b-4632-b277-4146c7c62a9d","name":"Guelmim Province","ru":"Guelmim Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"GUE"},{"id":"fde470f2-4c1f-4ae4-bbd1-9fba70960439","name":"Guelmim-Oued Noun","ru":"Guelmim-Oued Noun","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"10"},{"id":"7c67daf1-690b-41c1-bfd7-147449ff4933","name":"Ifrane Province","ru":"Ifrane Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"IFR"},{"id":"daa301f6-866b-42d7-a71f-d245a0c88adf","name":"Inezgane-Aït Melloul Prefecture","ru":"Inezgane-Aït Melloul Prefecture","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"INE"},{"id":"b5629e77-24cb-4dee-9a6e-5882bbb77911","name":"Jerada Province","ru":"Jerada Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"JRA"},{"id":"e85830e7-82c0-498d-a9d3-f14e1da43d6c","name":"Kénitra Province","ru":"Kénitra Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"KEN"},{"id":"98d2204e-be24-4b2c-ae78-1d1d739fc0dc","name":"Kelaat Sraghna Province","ru":"Kelaat Sraghna Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"KES"},{"id":"c2ebfc69-d631-42d9-ae19-a90f4e852e89","name":"Khémisset Province","ru":"Khémisset Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"KHE"},{"id":"205ed84f-6391-476e-93eb-1039f412b6b7","name":"Khénifra Province","ru":"Khénifra Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"KHN"},{"id":"2abc2293-473d-468b-9e91-bb3da7d40907","name":"Khouribga Province","ru":"Khouribga Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"KHO"},{"id":"d11b9dc2-d16e-4a52-a86f-2717d4e434d6","name":"Laâyoune Province","ru":"Laâyoune Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"LAA"},{"id":"09a7699a-2f81-46d2-a9fa-e1737f1d61e4","name":"Laâyoune-Sakia El Hamra","ru":"Laâyoune-Sakia El Hamra","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"11"},{"id":"740e9efe-fd72-4655-b134-77f6a465b2d1","name":"Larache Province","ru":"Larache Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"LAR"},{"id":"bdc8d567-ceb2-4895-83a0-a457f70c4807","name":"Marrakesh-Safi","ru":"Marrakesh-Safi","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"07"},{"id":"3bc80727-11a3-4881-b007-4883e2a05d36","name":"Mediouna Province","ru":"Mediouna Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"MED"},{"id":"15b96ec2-faa6-4af0-adb8-77b357d952fe","name":"Moulay Yacoub Province","ru":"Moulay Yacoub Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"MOU"},{"id":"9d2c24e0-27ac-4dba-bcc8-44c28864423d","name":"Nador Province","ru":"Nador Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"NAD"},{"id":"261b6040-d327-424b-b184-ffa4689adc84","name":"Nouaceur Province","ru":"Nouaceur Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"NOU"},{"id":"dd894cf2-116a-40fc-b795-4ab3dead9b67","name":"Oriental","ru":"Oriental","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"02"},{"id":"7e69ce40-da4e-4ca3-826c-8c77472d9e48","name":"Ouarzazate Province","ru":"Ouarzazate Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"OUA"},{"id":"6ec68803-98cc-4a57-b0b1-c39ede952f96","name":"Oued Ed-Dahab Province","ru":"Oued Ed-Dahab Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"OUD"},{"id":"d1d084eb-ef31-4b13-b6d4-e55b063f9a9e","name":"Safi Province","ru":"Safi Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"SAF"},{"id":"8717e70d-e537-4ae5-aae7-2771a181badc","name":"Sefrou Province","ru":"Sefrou Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"SEF"},{"id":"1e9542fb-13f7-45a7-beaa-f2aafb269204","name":"Settat Province","ru":"Settat Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"SET"},{"id":"80f8daa6-c472-41d5-95a4-f7d735d6019e","name":"Shtouka Ait Baha Province","ru":"Shtouka Ait Baha Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"CHT"},{"id":"0b494bd6-24c7-4a62-855c-65e26fb2e26d","name":"Sidi Kacem Province","ru":"Sidi Kacem Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"SIK"},{"id":"ca1106b2-2dac-4344-9eef-d1e311dd6991","name":"Sidi Youssef Ben Ali","ru":"Sidi Youssef Ben Ali","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"SYB"},{"id":"036bb887-e6c0-49fd-bd8f-1e5670fe2b2c","name":"Souss-Massa","ru":"Souss-Massa","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"09"},{"id":"a8822e0c-cc1b-4826-82d0-b0732e625058","name":"Tan-Tan Province","ru":"Tan-Tan Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TNT"},{"id":"617ac928-deb1-47aa-be79-ef1cf28849fe","name":"Tanger-Tétouan-Al Hoceïma","ru":"Tanger-Tétouan-Al Hoceïma","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"01"},{"id":"bbad678f-deb9-4c3d-bea4-148e907cfe39","name":"Taounate Province","ru":"Taounate Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TAO"},{"id":"c6b34a89-157b-4866-9696-aed06c9a3be9","name":"Taourirt Province","ru":"Taourirt Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TAI"},{"id":"90d21dfb-28eb-4f49-87e8-469f5128e7fd","name":"Taroudant Province","ru":"Taroudant Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TAR"},{"id":"3cec514c-dbba-483d-beb7-5a2848d97d10","name":"Tata Province","ru":"Tata Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TAT"},{"id":"7170aebb-b1b5-4ff4-adb6-6c2037ee71bf","name":"Taza Province","ru":"Taza Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TAZ"},{"id":"3e1c45d2-95c3-4a3a-87b3-0f30683541e2","name":"Tétouan Province","ru":"Tétouan Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TET"},{"id":"e8220c39-3a25-41e4-98dd-adbc8c14f247","name":"Tiznit Province","ru":"Tiznit Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"TIZ"},{"id":"16060dc9-3890-4378-8c76-93350ee93487","name":"Zagora Province","ru":"Zagora Province","country":"790cba78-0a79-4196-99d1-0318cc242b86","countryCode":"MA","stateCode":"ZAG"}]
+[
+  {
+    "id": "c2e7d97c-1847-429c-90f0-91a2d9798560",
+    "en": "Al Haouz Province",
+    "ru": "Аль Хауз провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "HAO"
+  },
+  {
+    "id": "6a7c9964-07dd-4501-afa5-8270332739e6",
+    "en": "Al Hoceïma Province",
+    "ru": "Аль Хосейма провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "HOC"
+  },
+  {
+    "id": "67d34aaa-dd05-44a2-ba1f-c746c4a7e24c",
+    "en": "Aousserd Province",
+    "ru": "Ауссерд провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "AOU"
+  },
+  {
+    "id": "6b2b4ac4-c42d-4f31-9168-854bf35e2a07",
+    "en": "Assa-Zag Province",
+    "ru": "Асса-Заг провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "ASZ"
+  },
+  {
+    "id": "b7a74fd4-8de5-40ce-9d21-942e9607d246",
+    "en": "Azilal Province",
+    "ru": "Азилальская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "AZI"
+  },
+  {
+    "id": "77deda2f-dd72-45aa-8b0e-ee60bbdc896e",
+    "en": "Béni Mellal-Khénifra",
+    "ru": "Бени Меллаль-Хенифра",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "05"
+  },
+  {
+    "id": "5248efce-eef8-4e0b-818c-d345f51690a2",
+    "en": "Béni-Mellal Province",
+    "ru": "Бени-Меллаль провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "BEM"
+  },
+  {
+    "id": "b6bfee28-3589-46a9-a663-3480130aa7f9",
+    "en": "Ben Slimane Province",
+    "ru": "Бен Слиман провинции",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "BES"
+  },
+  {
+    "id": "551fa146-eb34-4b3d-be36-76aa3dca1896",
+    "en": "Berkane Province",
+    "ru": "Берканская область",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "BER"
+  },
+  {
+    "id": "c5129673-654f-4993-8c19-d11c924fcc87",
+    "en": "Boujdour Province",
+    "ru": "Боудур провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "BOD"
+  },
+  {
+    "id": "21d94309-c8c6-4a0f-8415-9e9444758b79",
+    "en": "Boulemane Province",
+    "ru": "Булеманская область",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "BOM"
+  },
+  {
+    "id": "a44a5a03-7ac6-4d19-bb58-d185394a0554",
+    "en": "Casablanca-Settat",
+    "ru": "Касабланка-Сеттат",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "06"
+  },
+  {
+    "id": "75cfbeec-990f-45c6-81da-8d0b6d666e3d",
+    "en": "Chefchaouen Province",
+    "ru": "Шефшауэн провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "CHE"
+  },
+  {
+    "id": "cad0c6c7-e34c-4205-afc5-a5c43c28cd13",
+    "en": "Chichaoua Province",
+    "ru": "Чичауа провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "CHI"
+  },
+  {
+    "id": "6c1850b3-181c-4006-b24f-6a8f416420ce",
+    "en": "Dakhla-Oued Ed-Dahab",
+    "ru": "Дахла-Уэд Эд-Дахаб",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "12"
+  },
+  {
+    "id": "486158d7-6d6a-48e7-ad58-497a4ba46e0d",
+    "en": "Drâa-Tafilalet",
+    "ru": "Дря-Тафилалет",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "08"
+  },
+  {
+    "id": "573d59f1-e13e-41b4-b629-b8c848c836d3",
+    "en": "El Hajeb Province",
+    "ru": "Эль-Хаджеб провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "HAJ"
+  },
+  {
+    "id": "5e794078-ebb6-42ea-b5ad-0b821995c538",
+    "en": "El Jadida Province",
+    "ru": "Эль-Джадида провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "JDI"
+  },
+  {
+    "id": "ae3c921c-25a1-4874-9408-427af2230346",
+    "en": "Errachidia Province",
+    "ru": "Errachidia провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "ERR"
+  },
+  {
+    "id": "a60794de-1794-4a12-80c5-9c22521589cf",
+    "en": "Es Semara Province",
+    "ru": "Es Semara провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "ESM"
+  },
+  {
+    "id": "826a23a4-f718-4295-a559-2323a5903213",
+    "en": "Essaouira Province",
+    "ru": "Эс-Сувейра, провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "ESI"
+  },
+  {
+    "id": "617eff13-903f-4632-95b6-4f46cab2084b",
+    "en": "Fahs Anjra Province",
+    "ru": "Fahs Anjra провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "FAH"
+  },
+  {
+    "id": "e36b1d3d-d6c6-425c-8652-db628dfa8e66",
+    "en": "Fès-Meknès",
+    "ru": "Фес-Мекнес",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "03"
+  },
+  {
+    "id": "130c3745-60d5-447c-af1f-cb79adb9056c",
+    "en": "Figuig Province",
+    "ru": "Фигуйская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "FIG"
+  },
+  {
+    "id": "f8baf883-b71d-4b17-9b7c-aef6dd2dad2a",
+    "en": "Guelmim Province",
+    "ru": "Guelmim провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "GUE"
+  },
+  {
+    "id": "f7ed8825-2b07-4c7b-842d-f66e9c841422",
+    "en": "Guelmim-Oued Noun",
+    "ru": "Guelmim-Oued Noun",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "10"
+  },
+  {
+    "id": "9b557d37-cb86-4ddc-bca5-9ee7f9e89526",
+    "en": "Ifrane Province",
+    "ru": "Ифранская область",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "IFR"
+  },
+  {
+    "id": "0200465a-7634-4790-99f5-53ba4e53b732",
+    "en": "Inezgane-Aït Melloul Prefecture",
+    "ru": "Инезгане-Айт-Меллу, префектура",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "INE"
+  },
+  {
+    "id": "4a4f758f-807a-4d05-9b29-9dae2328d1b6",
+    "en": "Jerada Province",
+    "ru": "Jerada провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "JRA"
+  },
+  {
+    "id": "7aa10977-0787-4412-b8e1-59487e536286",
+    "en": "Kénitra Province",
+    "ru": "Кенитра провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "KEN"
+  },
+  {
+    "id": "84eebfec-f3f0-4215-b057-70a2deeee02c",
+    "en": "Kelaat Sraghna Province",
+    "ru": "Келаат Срагна губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "KES"
+  },
+  {
+    "id": "d2ed97a5-1ecf-49dc-94a7-47498abda687",
+    "en": "Khémisset Province",
+    "ru": "Хемиссет провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "KHE"
+  },
+  {
+    "id": "6a902e77-5c5a-422d-88f8-5e2b7ba575a0",
+    "en": "Khénifra Province",
+    "ru": "Хенифра провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "KHN"
+  },
+  {
+    "id": "f5587a7d-34e0-4193-b39a-a91287d0b8d1",
+    "en": "Khouribga Province",
+    "ru": "Хурибгская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "KHO"
+  },
+  {
+    "id": "749c8281-78ca-4b17-af92-c834d9e5ca06",
+    "en": "Laâyoune Province",
+    "ru": "Laâyoune провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "LAA"
+  },
+  {
+    "id": "0c10b14e-ceff-44dd-b364-14d37a0817c7",
+    "en": "Laâyoune-Sakia El Hamra",
+    "ru": "Laâyoune-Sakia El Hamra",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "11"
+  },
+  {
+    "id": "32763e17-9503-40a9-af92-ee2203e48941",
+    "en": "Larache Province",
+    "ru": "Лараче провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "LAR"
+  },
+  {
+    "id": "5d18624e-9fa0-499a-a462-9bb6e9f2fb2c",
+    "en": "Marrakesh-Safi",
+    "ru": "Марракеш-Сафи",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "07"
+  },
+  {
+    "id": "e264c7f6-aad1-4283-9e94-66b7cdfb5357",
+    "en": "Mediouna Province",
+    "ru": "Медиуна провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "MED"
+  },
+  {
+    "id": "e47b9f93-bbd5-4ec1-913c-af89705233f2",
+    "en": "Moulay Yacoub Province",
+    "ru": "Мулай Якуб провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "MOU"
+  },
+  {
+    "id": "57fdec4e-9351-446a-b825-b4509895a53c",
+    "en": "Nador Province",
+    "ru": "Провинция Надор",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "NAD"
+  },
+  {
+    "id": "4aa3f08d-e804-4599-896c-c85b7d62c5af",
+    "en": "Nouaceur Province",
+    "ru": "Нуасьер провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "NOU"
+  },
+  {
+    "id": "8e43debd-62ce-4504-86a8-b9bcf2097038",
+    "en": "Oriental",
+    "ru": "восточный",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "02"
+  },
+  {
+    "id": "e12b0275-cc52-4dff-ab5e-ce7fa799eec0",
+    "en": "Ouarzazate Province",
+    "ru": "Уарзазат провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "OUA"
+  },
+  {
+    "id": "7781e70f-8372-4ab1-9221-4ee02d378779",
+    "en": "Oued Ed-Dahab Province",
+    "ru": "Oued Ed-Dahab Провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "OUD"
+  },
+  {
+    "id": "d717c006-33e1-4cfe-be5e-92e981f7fc25",
+    "en": "Safi Province",
+    "ru": "Сафийская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "SAF"
+  },
+  {
+    "id": "78ec4f06-4340-48d3-94a5-6c6b60703994",
+    "en": "Sefrou Province",
+    "ru": "Сефру провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "SEF"
+  },
+  {
+    "id": "6379c564-c132-451e-b153-c06e26ac9ef9",
+    "en": "Settat Province",
+    "ru": "Сеттатская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "SET"
+  },
+  {
+    "id": "ccb43806-e466-4a28-9d01-7a99151dca86",
+    "en": "Shtouka Ait Baha Province",
+    "ru": "Штука Айт Баха Провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "CHT"
+  },
+  {
+    "id": "31825bf1-46fb-4cf5-b6e1-bd3ec1bc98bd",
+    "en": "Sidi Kacem Province",
+    "ru": "Сиди Качемская область",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "SIK"
+  },
+  {
+    "id": "ed76c591-b7ef-42fb-a995-422267f696ea",
+    "en": "Sidi Youssef Ben Ali",
+    "ru": "Сиди Юсеф Бен Али",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "SYB"
+  },
+  {
+    "id": "d82835a3-e1f0-4592-adc9-f50cd738a319",
+    "en": "Souss-Massa",
+    "ru": "Сусс-Масса",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "09"
+  },
+  {
+    "id": "91cbd16d-9b7a-4bb5-9419-0ede332e8367",
+    "en": "Tan-Tan Province",
+    "ru": "Тан-Тан провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TNT"
+  },
+  {
+    "id": "76046e3d-5e08-4179-b112-42916fb7d997",
+    "en": "Tanger-Tétouan-Al Hoceïma",
+    "ru": "Танжер-Тетуан-Аль-Хосейма",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "01"
+  },
+  {
+    "id": "5735e0b5-f031-4816-a3ff-a8cd1218c78a",
+    "en": "Taounate Province",
+    "ru": "Таунатская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TAO"
+  },
+  {
+    "id": "be6b9fc8-0ecb-4fcf-9a1a-422ff8a377c3",
+    "en": "Taourirt Province",
+    "ru": "Таурирт провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TAI"
+  },
+  {
+    "id": "3e1646fa-0b08-4b4b-a045-ed789a1883f7",
+    "en": "Taroudant Province",
+    "ru": "Тарудант провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TAR"
+  },
+  {
+    "id": "38869831-cd48-4aff-99b8-a13ec08648d9",
+    "en": "Tata Province",
+    "ru": "Тата провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TAT"
+  },
+  {
+    "id": "08ccf462-385d-4526-9275-e1e41d141888",
+    "en": "Taza Province",
+    "ru": "Тазовская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TAZ"
+  },
+  {
+    "id": "6c1c3d14-4734-44ff-bbf1-0581d72ceaa9",
+    "en": "Tétouan Province",
+    "ru": "Тетуан (провинция)",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TET"
+  },
+  {
+    "id": "b145556c-a8ee-4aed-81b2-68f5175877df",
+    "en": "Tiznit Province",
+    "ru": "Тизнская губерния",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "TIZ"
+  },
+  {
+    "id": "12297b43-d4a9-4744-9d3f-0348c11cb6a1",
+    "en": "Zagora Province",
+    "ru": "Загора провинция",
+    "country": "24cf4fbb-6233-4656-9258-90f04a5bf7b0",
+    "countryCode": "MA",
+    "stateCode": "ZAG"
+  }
+]

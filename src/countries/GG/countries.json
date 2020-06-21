@@ -1,1 +1,12 @@
-[{"id":"e2171696-850a-4691-9c95-a27c79b69222","name":"Guernsey and Alderney","ru":"Guernsey and Alderney","iso3":"GGY","iso2":"GG","phoneCode":"+44-1481","capital":null,"currency":"GBP"}]
+[
+  {
+    "id": "835f990f-265e-4593-bc20-e5fc77af6a4f",
+    "en": "Guernsey and Alderney",
+    "ru": "Гернси и Олдерни",
+    "iso3": "GGY",
+    "iso2": "GG",
+    "phoneCode": "+44-1481",
+    "capital": null,
+    "currency": "GBP"
+  }
+]

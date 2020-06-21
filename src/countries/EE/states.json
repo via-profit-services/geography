@@ -1,1 +1,122 @@
-[{"id":"a77a7668-c0fc-4d00-b81e-e560eed82aae","name":"Harju County","ru":"Harju County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"37"},{"id":"bf6fd25b-b895-45aa-acb2-7dc994dc9685","name":"Hiiu County","ru":"Hiiu County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"39"},{"id":"062f1ddb-749d-4b3a-87bc-6366c18a5ff5","name":"Ida-Viru County","ru":"Ida-Viru County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"44"},{"id":"85c9f1cb-6dce-415f-9a62-8c40c2d9e416","name":"Järva County","ru":"Järva County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"51"},{"id":"c2923579-3c0b-402f-abb6-a0dc53a35a34","name":"Jõgeva County","ru":"Jõgeva County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"49"},{"id":"c505520b-6309-4475-9de4-461c416dd74d","name":"Lääne County","ru":"Lääne County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"57"},{"id":"1f1cbf5a-f573-4234-85ae-b2990e5879ac","name":"Lääne-Viru County","ru":"Lääne-Viru County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"59"},{"id":"00e32373-946f-48fd-8db5-322823a58237","name":"Pärnu County","ru":"Pärnu County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"67"},{"id":"8da493dd-7bb4-4a8c-91d4-d41b0ab28ea7","name":"Põlva County","ru":"Põlva County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"65"},{"id":"12c9474d-4187-4b07-86fc-1a109dc653db","name":"Rapla County","ru":"Rapla County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"70"},{"id":"fe70d72a-742c-4a44-b050-4e22f1feeba6","name":"Saare County","ru":"Saare County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"74"},{"id":"22f70567-429a-4135-987f-692d81625a68","name":"Tartu County","ru":"Tartu County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"78"},{"id":"668a9817-44aa-4e2e-955d-bf9406a84b07","name":"Valga County","ru":"Valga County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"82"},{"id":"f53f2d47-6d21-469f-904e-e0d860845add","name":"Võru County","ru":"Võru County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"86"},{"id":"f7bed757-6f05-48b6-9d96-4919245991aa","name":"Viljandi County","ru":"Viljandi County","country":"f4508fc4-95aa-4fd3-b883-e6c46816f8fe","countryCode":"EE","stateCode":"84"}]
+[
+  {
+    "id": "fd03db93-7851-44c7-8843-c6c695e9730a",
+    "en": "Harju County",
+    "ru": "Харьюмаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "37"
+  },
+  {
+    "id": "e15887c0-118f-4128-8269-04480900ed3f",
+    "en": "Hiiu County",
+    "ru": "Хийуаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "39"
+  },
+  {
+    "id": "fab294e9-eda2-451f-b816-88bcb663fde3",
+    "en": "Ida-Viru County",
+    "ru": "Ида-Вирумаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "44"
+  },
+  {
+    "id": "6c9d40c9-8f7f-46e3-95f5-bcfdb94a925b",
+    "en": "Järva County",
+    "ru": "Ярвамаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "51"
+  },
+  {
+    "id": "c38c20de-f369-434a-a88c-6a16ea476167",
+    "en": "Jõgeva County",
+    "ru": "Йыгевамаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "49"
+  },
+  {
+    "id": "451f7ab2-4529-4599-b513-c38e40ab2e86",
+    "en": "Lääne County",
+    "ru": "Ляэнемаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "57"
+  },
+  {
+    "id": "a861b3f2-3d8a-4925-ae9f-1c61c288ae77",
+    "en": "Lääne-Viru County",
+    "ru": "Ляэне-Вирумаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "59"
+  },
+  {
+    "id": "c3676065-3793-4386-94ec-f8f55c761586",
+    "en": "Pärnu County",
+    "ru": "Пярнуский уезд",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "67"
+  },
+  {
+    "id": "980d4011-4146-4a40-9fca-ac1174f27c7c",
+    "en": "Põlva County",
+    "ru": "Пылвамаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "65"
+  },
+  {
+    "id": "28a9508b-238e-4e1e-8f8d-3965a41687dd",
+    "en": "Rapla County",
+    "ru": "Рапламаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "70"
+  },
+  {
+    "id": "ec32d6c3-1a74-4a2c-8844-1a0e36da832f",
+    "en": "Saare County",
+    "ru": "Саареский уезд",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "74"
+  },
+  {
+    "id": "0ff01d92-7549-4ad0-9982-1bd05dd0e561",
+    "en": "Tartu County",
+    "ru": "Тартуский уезд",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "78"
+  },
+  {
+    "id": "0adf7d2d-2151-4012-afe1-9d2998fdc9a5",
+    "en": "Valga County",
+    "ru": "Валгамаа",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "82"
+  },
+  {
+    "id": "c9780818-08df-4988-97e3-312f8f5a5a40",
+    "en": "Võru County",
+    "ru": "Выруский уезд",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "86"
+  },
+  {
+    "id": "93c9fd56-1125-490a-8801-083834913e98",
+    "en": "Viljandi County",
+    "ru": "Вильяндинский уезд",
+    "country": "28873d27-3b70-4c93-946c-793e751a7a58",
+    "countryCode": "EE",
+    "stateCode": "84"
+  }
+]

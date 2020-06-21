@@ -1,1 +1,12 @@
-[{"id":"00a7107a-5716-414c-a258-4f586535e671","name":"Australia","ru":"Australia","iso3":"AUS","iso2":"AU","phoneCode":"61","capital":"f7636b44-bea0-49c6-8d20-f3361a24f972","currency":"AUD"}]
+[
+  {
+    "id": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "en": "Australia",
+    "ru": "Австралия",
+    "iso3": "AUS",
+    "iso2": "AU",
+    "phoneCode": "61",
+    "capital": null,
+    "currency": "AUD"
+  }
+]

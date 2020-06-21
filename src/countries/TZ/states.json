@@ -1,1 +1,234 @@
-[{"id":"49df92ff-3e49-43a0-abbf-7a18243c0ea4","name":"Arusha Region","ru":"Arusha Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"01"},{"id":"99c858bc-bb61-47e8-b70f-08e3927ab7d9","name":"Dar es Salaam Region","ru":"Dar es Salaam Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"02"},{"id":"608dea4a-8dea-4739-b515-75359e746d8d","name":"Dodoma Region","ru":"Dodoma Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"03"},{"id":"8fd89dad-ec60-4d3c-8c61-3258cfef59db","name":"Geita Region","ru":"Geita Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"27"},{"id":"6f0d7f0f-9ce4-454c-a3a2-c435baeddfdf","name":"Iringa Region","ru":"Iringa Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"04"},{"id":"07bf46da-bb51-45a1-a15b-13b6f37d8b58","name":"Kagera Region","ru":"Kagera Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"05"},{"id":"2c437ff5-ac72-4387-8feb-385a937dccd0","name":"Katavi Region","ru":"Katavi Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"28"},{"id":"66252a91-e6ce-43ff-8b11-e2a320ec777f","name":"Kigoma Region","ru":"Kigoma Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"08"},{"id":"83176486-b679-4a83-be8e-3fea51113e45","name":"Kilimanjaro Region","ru":"Kilimanjaro Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"09"},{"id":"1802162a-15d9-48c3-99d5-484a6c443d15","name":"Lindi Region","ru":"Lindi Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"12"},{"id":"14c56b98-f1f5-4c74-a21a-d4a805a2117f","name":"Manyara Region","ru":"Manyara Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"26"},{"id":"f6f412cf-2262-4dfc-ab99-e21c602df8c3","name":"Mara Region","ru":"Mara Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"13"},{"id":"a1a1c397-d17e-416b-af74-e55be8aab0db","name":"Morogoro Region","ru":"Morogoro Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"16"},{"id":"0fc018e5-915e-44fe-979a-b8a960f9695a","name":"Mtwara Region","ru":"Mtwara Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"17"},{"id":"b833cd92-c8f9-4e3a-9265-292ce9e96720","name":"Mwanza Region","ru":"Mwanza Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"18"},{"id":"1831a41a-ba13-4d02-938b-539286a11ece","name":"Njombe Region","ru":"Njombe Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"29"},{"id":"f146bb81-0dbc-423b-b144-ae8b49e91f35","name":"North Pemba Region","ru":"North Pemba Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"06"},{"id":"da7f5a5d-8a5d-4444-85f0-14eadf4bc831","name":"Pwani Region","ru":"Pwani Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"19"},{"id":"788e790a-3b7f-4101-a449-d1b15ad04f0a","name":"Rukwa Region","ru":"Rukwa Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"20"},{"id":"a09c7ad8-bf3a-4970-bcbd-9507deea5637","name":"Ruvuma Region","ru":"Ruvuma Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"21"},{"id":"62c344d1-03de-4a46-957c-0202dc1f7c74","name":"Shinyanga Region","ru":"Shinyanga Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"22"},{"id":"cae6ee5b-e77a-4a61-a969-2e0a332e8e0b","name":"Simiyu Region","ru":"Simiyu Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"30"},{"id":"629830d5-65b9-41a9-8f8b-a2fbffd76113","name":"Singida Region","ru":"Singida Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"23"},{"id":"1a8d4ab1-559e-4f8e-a140-9ae0ef88098a","name":"South Pemba Region","ru":"South Pemba Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"10"},{"id":"d34cee67-dc28-408f-9513-cc3f86591140","name":"Tabora Region","ru":"Tabora Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"24"},{"id":"3b92d988-b58e-4313-9e11-c5c47087518f","name":"Tanga Region","ru":"Tanga Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"25"},{"id":"b9ff413d-1f7a-4117-bcaf-807db3a2660f","name":"Zanzibar Central/South Region","ru":"Zanzibar Central/South Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"11"},{"id":"8099e687-0973-49e7-b51b-2771f51d457c","name":"Zanzibar North Region","ru":"Zanzibar North Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"07"},{"id":"4d95402b-7785-465d-9ded-a54e98032881","name":"Zanzibar Urban/West Region","ru":"Zanzibar Urban/West Region","country":"cd5a122d-0709-44e8-8da9-424522955dd8","countryCode":"TZ","stateCode":"15"}]
+[
+  {
+    "id": "07e9ba4b-cc74-455e-9e19-31693f32e873",
+    "en": "Arusha Region",
+    "ru": "Арушская область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "01"
+  },
+  {
+    "id": "8ed51ea1-b300-4453-b5db-b0639493c506",
+    "en": "Dar es Salaam Region",
+    "ru": "Дар-эс-Салам Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "02"
+  },
+  {
+    "id": "6d74baaa-db29-4c71-a996-34d4817372e7",
+    "en": "Dodoma Region",
+    "ru": "Додома Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "03"
+  },
+  {
+    "id": "6459773a-b260-4afa-8601-492e547ef544",
+    "en": "Geita Region",
+    "ru": "Гейта Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "27"
+  },
+  {
+    "id": "fe755132-1034-467f-9ccb-1432ca172919",
+    "en": "Iringa Region",
+    "ru": "Иринга область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "04"
+  },
+  {
+    "id": "28a6dded-af8d-4e87-9157-019aae4b9219",
+    "en": "Kagera Region",
+    "ru": "Кагера область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "05"
+  },
+  {
+    "id": "96828d0a-9ea9-41ff-9e9c-708bfc586f9f",
+    "en": "Katavi Region",
+    "ru": "Катавский край",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "28"
+  },
+  {
+    "id": "0e6d0493-3220-428e-84c0-2c50e57c11fa",
+    "en": "Kigoma Region",
+    "ru": "Кигома область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "08"
+  },
+  {
+    "id": "7a13db18-0451-4149-9b7e-27344df9509a",
+    "en": "Kilimanjaro Region",
+    "ru": "Килиманджарский регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "09"
+  },
+  {
+    "id": "7d548cc1-89c0-459e-ab23-e7d8200c8ad8",
+    "en": "Lindi Region",
+    "ru": "Линди Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "12"
+  },
+  {
+    "id": "ea982152-5d35-4125-9a3e-6b81d6a8a8a8",
+    "en": "Manyara Region",
+    "ru": "Маньяра Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "26"
+  },
+  {
+    "id": "3939f89e-6030-48e3-9d4a-e3e40d727221",
+    "en": "Mara Region",
+    "ru": "Мара область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "13"
+  },
+  {
+    "id": "8dca559a-2f46-4c3e-b73b-ac75a8cb07a9",
+    "en": "Morogoro Region",
+    "ru": "Морогорская область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "16"
+  },
+  {
+    "id": "a538f25f-09a5-4d51-83fa-c81fc9a7dd26",
+    "en": "Mtwara Region",
+    "ru": "Мтвара Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "17"
+  },
+  {
+    "id": "000a2a2d-57a8-42f3-8393-6a74a3df4dbe",
+    "en": "Mwanza Region",
+    "ru": "Мванза область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "18"
+  },
+  {
+    "id": "42c1491d-2950-497c-94ef-d382941f639c",
+    "en": "Njombe Region",
+    "ru": "Нжомбе область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "29"
+  },
+  {
+    "id": "bf6ff8fe-f9e4-4890-a27c-e872f827da3e",
+    "en": "North Pemba Region",
+    "ru": "Северная Пемба Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "06"
+  },
+  {
+    "id": "145e91e9-32f2-4315-bbce-ecbdc3753cc2",
+    "en": "Pwani Region",
+    "ru": "Пвани Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "19"
+  },
+  {
+    "id": "c39c95eb-82b9-4bef-bffc-e916df50916a",
+    "en": "Rukwa Region",
+    "ru": "Руква Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "20"
+  },
+  {
+    "id": "69fcbaa5-cfd5-4372-90ec-f1b8a9c66b32",
+    "en": "Ruvuma Region",
+    "ru": "Рувумский край",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "21"
+  },
+  {
+    "id": "0f1d4c13-cc21-4818-8d2b-aa2efeb44373",
+    "en": "Shinyanga Region",
+    "ru": "Шиньянга область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "22"
+  },
+  {
+    "id": "3fe7246e-348c-47ea-bb87-45c6d4e45969",
+    "en": "Simiyu Region",
+    "ru": "Симию область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "30"
+  },
+  {
+    "id": "549ca17e-048d-4903-9879-025f65b266d7",
+    "en": "Singida Region",
+    "ru": "Сингида область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "23"
+  },
+  {
+    "id": "8b550eae-577a-4be2-bd36-6e368ca02488",
+    "en": "South Pemba Region",
+    "ru": "Южная Пемба Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "10"
+  },
+  {
+    "id": "16613d07-8d64-40cd-86e5-1f966de6515d",
+    "en": "Tabora Region",
+    "ru": "Таборский край",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "24"
+  },
+  {
+    "id": "7da56dd6-3df7-4f8e-a4f5-107d57307fe3",
+    "en": "Tanga Region",
+    "ru": "Танга область",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "25"
+  },
+  {
+    "id": "3cd6600f-be42-4f6c-9e87-3c297613bb4d",
+    "en": "Zanzibar Central/South Region",
+    "ru": "Занзибар Центральный / Южный регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "11"
+  },
+  {
+    "id": "d1352858-c95e-4788-9033-8243647347d6",
+    "en": "Zanzibar North Region",
+    "ru": "Занзибар Северный регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "07"
+  },
+  {
+    "id": "135ac6f7-fe35-4bd2-89c4-729499dd98e5",
+    "en": "Zanzibar Urban/West Region",
+    "ru": "Занзибар Городской / Западный Регион",
+    "country": "07849473-1819-4421-ae6e-be10e4f468ff",
+    "countryCode": "TZ",
+    "stateCode": "15"
+  }
+]

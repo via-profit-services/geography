@@ -1,1 +1,226 @@
-[{"id":"19f32663-bbc4-4999-a52f-26c191a593c4","name":"Équateur","ru":"Équateur","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"EQ"},{"id":"a43c5ffe-741b-442b-8a1d-9dcb590cbf13","name":"Bandundu Province","ru":"Bandundu Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"BN"},{"id":"4bc64c1d-84db-4ca7-900c-6a4617e8f8d5","name":"Bas-Congo province","ru":"Bas-Congo province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"BC"},{"id":"7f0157cc-0ddf-4d10-b978-d8004c60750c","name":"Bas-Uele","ru":"Bas-Uele","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"BU"},{"id":"99873ee8-256a-436d-9774-2b65ddb3e87f","name":"Haut-Katanga Province","ru":"Haut-Katanga Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"HK"},{"id":"542f6d53-e2e4-4879-96f3-d29e50c6189e","name":"Haut-Lomami District","ru":"Haut-Lomami District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"HL"},{"id":"516bb3e8-0e7d-4ecb-ba1e-b7099c36a3b7","name":"Haut-Uele","ru":"Haut-Uele","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"HU"},{"id":"7176c59b-be5b-4afc-8be1-bb38be57cacc","name":"Ituri Interim Administration","ru":"Ituri Interim Administration","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"IT"},{"id":"6be13a15-e1e8-49cf-92e8-c6ff29b042ec","name":"Kasaï District","ru":"Kasaï District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KS"},{"id":"1b633e71-f629-48b4-9268-10be1d80b76a","name":"Kasaï-Occidental","ru":"Kasaï-Occidental","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KW"},{"id":"3654d4b2-9389-4e7f-862e-e50bf62fe596","name":"Kasaï-Oriental","ru":"Kasaï-Oriental","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KE"},{"id":"61c8235f-d1b2-4891-9c71-aec4b2cc0006","name":"Katanga Province","ru":"Katanga Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KA"},{"id":"ec112de4-0672-4a5f-9801-042ee8e0d394","name":"Kinshasa","ru":"Kinshasa","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KN"},{"id":"963c8df8-4125-4ec4-84dd-80f0d5404a03","name":"Kwango District","ru":"Kwango District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KG"},{"id":"30a79771-2a37-4d7f-a578-01256a3f0328","name":"Kwilu District","ru":"Kwilu District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"KL"},{"id":"87448cbd-f2de-43da-828e-ad7eec3197e5","name":"Lomami Province","ru":"Lomami Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"LO"},{"id":"73344215-6a10-48e3-8d3f-7aeb930add96","name":"Mai-Ndombe Province","ru":"Mai-Ndombe Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"MN"},{"id":"05bcbb78-38ca-4a59-a64d-6af84f923be0","name":"Maniema","ru":"Maniema","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"MA"},{"id":"90eea917-7037-4f48-8ee9-fab8f9aaafa3","name":"Mongala District","ru":"Mongala District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"MO"},{"id":"66a1c0a2-d05d-42c9-81d2-3e2774b930de","name":"Nord-Ubangi District","ru":"Nord-Ubangi District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"NU"},{"id":"2b5170c3-fa95-4c62-849b-c05e05630877","name":"North Kivu","ru":"North Kivu","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"NK"},{"id":"cc531346-9076-4c32-bb4c-ea01206847b4","name":"Orientale Province","ru":"Orientale Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"OR"},{"id":"e0d63754-0f91-40e4-850f-c48d6857221d","name":"Sankuru District","ru":"Sankuru District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"SA"},{"id":"aee43f7f-5259-476b-8a62-1b26e1049554","name":"South Kivu","ru":"South Kivu","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"SK"},{"id":"96a66ca1-facb-4bdb-a028-1ab92fed0bdb","name":"Sud-Ubangi","ru":"Sud-Ubangi","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"SU"},{"id":"e865eb1e-5522-438a-9ae6-443086cacea2","name":"Tanganyika Province","ru":"Tanganyika Province","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"TA"},{"id":"dd28e663-3cfb-4765-8c5c-93b3c6e898a7","name":"Tshopo District","ru":"Tshopo District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"TO"},{"id":"5be0e545-cf81-404c-9d91-005083a0a97d","name":"Tshuapa District","ru":"Tshuapa District","country":"33022900-cc8b-4775-af5a-18280862910c","countryCode":"CD","stateCode":"TU"}]
+[
+  {
+    "id": "86647993-81d5-491f-89a0-760df1083a37",
+    "en": "Équateur",
+    "ru": "Экватора",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "EQ"
+  },
+  {
+    "id": "47ccb0cc-da76-488d-b2f4-809804009311",
+    "en": "Bandundu Province",
+    "ru": "Бандунду провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "BN"
+  },
+  {
+    "id": "66d6f237-1346-4888-89a4-55d6ad0ab1e2",
+    "en": "Bas-Congo province",
+    "ru": "Бас-Конго провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "BC"
+  },
+  {
+    "id": "d57c02b4-3c82-4807-b811-488f4450cc38",
+    "en": "Bas-Uele",
+    "ru": "Нижний Уэль",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "BU"
+  },
+  {
+    "id": "a36ba1fe-80c7-433f-ab21-e61cb1c1e542",
+    "en": "Haut-Katanga Province",
+    "ru": "Haut-Katanga провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "HK"
+  },
+  {
+    "id": "e8391598-d669-4188-8e9a-aca20bd19d4f",
+    "en": "Haut-Lomami District",
+    "ru": "Haut-Lomami District",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "HL"
+  },
+  {
+    "id": "2e9e75b2-d9a8-400c-8d00-bcbbf12c880b",
+    "en": "Haut-Uele",
+    "ru": "Верхний Уэль",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "HU"
+  },
+  {
+    "id": "5dbf9efa-dcfa-47ab-9d8e-9bfd5c7524de",
+    "en": "Ituri Interim Administration",
+    "ru": "Итури Временная администрация",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "IT"
+  },
+  {
+    "id": "0543804f-828a-4eec-87b1-992fde49e674",
+    "en": "Kasaï District",
+    "ru": "Касайский район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KS"
+  },
+  {
+    "id": "66580ffe-14e2-4bd1-adda-33391ae5226e",
+    "en": "Kasaï-Occidental",
+    "ru": "Касаи-Западный",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KW"
+  },
+  {
+    "id": "b82217a1-d03f-4fd1-a3f2-7c4639cfc761",
+    "en": "Kasaï-Oriental",
+    "ru": "Касаи-Ориенталь",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KE"
+  },
+  {
+    "id": "e6e3e8aa-ecdf-4259-a8dd-75321d77d2e2",
+    "en": "Katanga Province",
+    "ru": "Катанга провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KA"
+  },
+  {
+    "id": "4c5986b8-5283-4399-9dbd-65068f031712",
+    "en": "Kinshasa",
+    "ru": "Киншаса",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KN"
+  },
+  {
+    "id": "588ff442-1577-4e90-9490-fd4be5b19286",
+    "en": "Kwango District",
+    "ru": "Кванго район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KG"
+  },
+  {
+    "id": "7b2d0eba-40ad-499c-a110-bdc224eedde3",
+    "en": "Kwilu District",
+    "ru": "Квильский район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "KL"
+  },
+  {
+    "id": "292afa74-3e5d-4890-9ecd-d89efe8c7c4c",
+    "en": "Lomami Province",
+    "ru": "Ломами провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "LO"
+  },
+  {
+    "id": "27455e79-e1a2-47fc-89c8-1e25658f863f",
+    "en": "Mai-Ndombe Province",
+    "ru": "Май-Ндомбеская губерния",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "MN"
+  },
+  {
+    "id": "567e1908-2397-4e7d-a535-d3d3dbc2bd26",
+    "en": "Maniema",
+    "ru": "Маниема",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "MA"
+  },
+  {
+    "id": "ccd42a79-d23c-4168-90e1-8b4b283afb32",
+    "en": "Mongala District",
+    "ru": "Монгальский район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "MO"
+  },
+  {
+    "id": "9e4dc76b-3d40-447a-ad25-1c4ef07b817d",
+    "en": "Nord-Ubangi District",
+    "ru": "Норд-Убанги",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "NU"
+  },
+  {
+    "id": "c2a796b4-f779-415e-be67-1b81c0e71949",
+    "en": "North Kivu",
+    "ru": "Северная Киву",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "NK"
+  },
+  {
+    "id": "d4097bc7-8c4b-40e7-a6d0-44d10c5ca15d",
+    "en": "Orientale Province",
+    "ru": "Восточная провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "OR"
+  },
+  {
+    "id": "79c75f2a-2feb-4b3b-955e-2c3bc10ccf28",
+    "en": "Sankuru District",
+    "ru": "Санкуру район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "SA"
+  },
+  {
+    "id": "dc316e68-5cc5-4cf5-9cd1-56247b2e9b09",
+    "en": "South Kivu",
+    "ru": "Южная Киву",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "SK"
+  },
+  {
+    "id": "9fa33834-0cb4-40fc-947c-6757477549e4",
+    "en": "Sud-Ubangi",
+    "ru": "Суд-Убанги",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "SU"
+  },
+  {
+    "id": "3a47d267-cae2-4065-881e-2b7019deb834",
+    "en": "Tanganyika Province",
+    "ru": "Танганьика провинция",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "TA"
+  },
+  {
+    "id": "2656f245-1544-458c-8d4f-ca10d21aeefa",
+    "en": "Tshopo District",
+    "ru": "Цопо район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "TO"
+  },
+  {
+    "id": "38a7eb45-ed04-47cc-ad37-e0faba3c9164",
+    "en": "Tshuapa District",
+    "ru": "Чуапинский район",
+    "country": "e27818e2-328c-4d40-bd19-e7a727627256",
+    "countryCode": "CD",
+    "stateCode": "TU"
+  }
+]

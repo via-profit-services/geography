@@ -1,1 +1,74 @@
-[{"id":"f22502a1-ba41-4e4c-86c2-5ac88d428058","name":"Eastern Cape","ru":"Eastern Cape","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"EC"},{"id":"4de62648-509f-47bd-ba3f-7404e7896217","name":"Free State","ru":"Free State","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"FS"},{"id":"61794a73-8ecb-4b29-8f61-9953d3417868","name":"Gauteng","ru":"Gauteng","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"GT"},{"id":"42671501-0fdb-4d65-8799-d5ea188ab0ca","name":"KwaZulu-Natal","ru":"KwaZulu-Natal","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"NL"},{"id":"32e0c208-ce16-4782-8f74-f91b176a1ecb","name":"Limpopo","ru":"Limpopo","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"LP"},{"id":"48000e5c-f91f-4a55-a79c-49d3f70e3f04","name":"Mpumalanga","ru":"Mpumalanga","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"MP"},{"id":"cdfc7078-b4fd-4be7-8e61-b31f02c09fec","name":"North West","ru":"North West","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"NW"},{"id":"b23e6625-d79d-4ebf-851c-01b4a9d10b2a","name":"Northern Cape","ru":"Northern Cape","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"NC"},{"id":"8faabf14-ba2d-4db5-a5ee-8ba1a92bdf64","name":"Western Cape","ru":"Western Cape","country":"584f6337-c867-4c4f-85fc-de90056f384e","countryCode":"ZA","stateCode":"WC"}]
+[
+  {
+    "id": "f2202355-334d-48a9-a418-fdbb4d7e471b",
+    "en": "Eastern Cape",
+    "ru": "Восточный Кейп",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "EC"
+  },
+  {
+    "id": "b3cbc1f4-de30-4e2e-a1e3-d929d4ea16f2",
+    "en": "Free State",
+    "ru": "Свободное государство",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "FS"
+  },
+  {
+    "id": "ff6ac653-53c8-48b1-bd13-5839a7421d09",
+    "en": "Gauteng",
+    "ru": "Гаутенг",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "GT"
+  },
+  {
+    "id": "3b859ace-e274-4c45-88fa-2502a92b2722",
+    "en": "KwaZulu-Natal",
+    "ru": "Квазулу-Наталь",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "NL"
+  },
+  {
+    "id": "93cef050-95be-4696-92a3-f02b1dfddf74",
+    "en": "Limpopo",
+    "ru": "Лимпопо",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "LP"
+  },
+  {
+    "id": "45248e82-b886-4b4d-8747-fac9d6928b26",
+    "en": "Mpumalanga",
+    "ru": "Мпумаланга",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "MP"
+  },
+  {
+    "id": "e91802d9-a5ba-4733-a69d-b159f6f1f7dd",
+    "en": "North West",
+    "ru": "Северо-Запад",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "NW"
+  },
+  {
+    "id": "e6cb1375-6b6c-420d-9c57-783e2da4efb9",
+    "en": "Northern Cape",
+    "ru": "Северный мыс",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "NC"
+  },
+  {
+    "id": "1b30e3e0-a5a7-46d1-86b2-af547b73f397",
+    "en": "Western Cape",
+    "ru": "Западный Кейп",
+    "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
+    "countryCode": "ZA",
+    "stateCode": "WC"
+  }
+]

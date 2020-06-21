@@ -1,1 +1,12 @@
-[{"id":"31a5acc1-b410-4a69-bb4e-0aa568b95015","name":"Gibraltar","ru":"Gibraltar","iso3":"GIB","iso2":"GI","phoneCode":"350","capital":"d120a3cb-f52a-42cf-a393-01b3e6de36ad","currency":"GIP"}]
+[
+  {
+    "id": "003f8016-8975-4283-b895-474821475fc7",
+    "en": "Gibraltar",
+    "ru": "Гибралтар",
+    "iso3": "GIB",
+    "iso2": "GI",
+    "phoneCode": "350",
+    "capital": null,
+    "currency": "GIP"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","name":"New Zealand","ru":"New Zealand","iso3":"NZL","iso2":"NZ","phoneCode":"64","capital":"fd0da674-95c5-4479-9755-16b2bcb6d209","currency":"NZD"}]
+[
+  {
+    "id": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "en": "New Zealand",
+    "ru": "Новая Зеландия",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "phoneCode": "64",
+    "capital": null,
+    "currency": "NZD"
+  }
+]

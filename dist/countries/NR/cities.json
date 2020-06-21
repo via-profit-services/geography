@@ -1,1 +1,79 @@
-[{"id":"32b67c5e-9708-4145-8376-69afd47387c4","name":"Arijejen","ru":"Arijejen","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"c6b03357-c3fd-4ce6-b88a-29d003e1c74e","stateCode":"01","latitude":"-0.52545000","longitude":"166.91247000"},{"id":"684ab0c4-3206-44f3-a365-5e094652c2a1","name":"Anabar","ru":"Anabar","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"bc9c5dbf-302d-420a-b1c3-299ffd92a39e","stateCode":"02","latitude":"-0.50845000","longitude":"166.95326000"},{"id":"3411dc6a-dd9e-4114-9503-f92caf616d89","name":"Baiti","ru":"Baiti","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"f1cfb0de-4030-4ff4-8795-f26aeea18c84","stateCode":"05","latitude":"-0.50803000","longitude":"166.92945000"},{"id":"90d80603-2be2-442c-b5de-ce47023752fb","name":"Ijuw","ru":"Ijuw","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"51449c11-69b3-4154-8e8a-8bcefcf27d80","stateCode":"10","latitude":"-0.52100000","longitude":"166.95813000"},{"id":"91500a4e-fbef-4906-877f-cb771146533d","name":"Menen","ru":"Menen","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"8411a222-0217-4b48-9860-ef2defc1834d","stateCode":"11","latitude":"-0.54539000","longitude":"166.94871000"},{"id":"7f688845-2309-46ad-b59e-f201b8ba51d4","name":"Uaboe","ru":"Uaboe","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"6c0251ba-924e-410a-abc5-d29aac13cec0","stateCode":"13","latitude":"-0.51393000","longitude":"166.92384000"},{"id":"f22d4666-8fb6-4b72-9a3a-04016c7ce497","name":"Yaren","ru":"Yaren","country":"ddf5faf8-8e0b-472b-8d86-fbd836faa464","countryCode":"NR","state":"13a6d485-5260-4154-9ec0-7271163d6270","stateCode":"14","latitude":"-0.55085000","longitude":"166.92520000"}]
+[
+  {
+    "id": "1e1c4369-cca9-405d-a95a-f41ce5c5ca0b",
+    "en": "Arijejen",
+    "ru": "Арижежен",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "486ca9b3-183e-473d-b265-683c09ecf6ef",
+    "stateCode": "01",
+    "latitude": "-0.52545000",
+    "longitude": "166.91247000"
+  },
+  {
+    "id": "eb901f2d-0846-4b2d-9c3f-33c74bc562e3",
+    "en": "Anabar",
+    "ru": "Анабар",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "118fdc8a-5020-4db5-aaad-c8add495b1f0",
+    "stateCode": "02",
+    "latitude": "-0.50845000",
+    "longitude": "166.95326000"
+  },
+  {
+    "id": "7ccc6488-bb94-4753-9fba-0cb663b25750",
+    "en": "Baiti",
+    "ru": "Баити",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "eb989cf7-469b-40bd-8c6b-cf4c39af76f5",
+    "stateCode": "05",
+    "latitude": "-0.50803000",
+    "longitude": "166.92945000"
+  },
+  {
+    "id": "be2cd98a-531a-410b-b49b-c43b79c824b0",
+    "en": "Ijuw",
+    "ru": "Ijuw",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "e1b8c65b-a43e-49cf-b9b7-f6b211a0b090",
+    "stateCode": "10",
+    "latitude": "-0.52100000",
+    "longitude": "166.95813000"
+  },
+  {
+    "id": "69328995-c74b-47bd-a782-e7aa6b37c73e",
+    "en": "Menen",
+    "ru": "Менен",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "a86d3c57-6fd2-4aa7-a7c4-c2dbf7290890",
+    "stateCode": "11",
+    "latitude": "-0.54539000",
+    "longitude": "166.94871000"
+  },
+  {
+    "id": "947ad9d9-1898-497c-b54b-9c0680c0ba39",
+    "en": "Uaboe",
+    "ru": "Уабое",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "c4550bba-185b-4ccf-89dc-c950c656c194",
+    "stateCode": "13",
+    "latitude": "-0.51393000",
+    "longitude": "166.92384000"
+  },
+  {
+    "id": "99ebc43e-a818-4755-ab2d-63f2b56d27e4",
+    "en": "Yaren",
+    "ru": "Ярен",
+    "country": "816e2f1e-2fbd-4ee0-a5c9-394dfa741ab4",
+    "countryCode": "NR",
+    "state": "79851ddc-73d9-4ee0-8a41-760369678529",
+    "stateCode": "14",
+    "latitude": "-0.55085000",
+    "longitude": "166.92520000"
+  }
+]

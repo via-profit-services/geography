@@ -1,1 +1,538 @@
-[{"id":"374a4046-b636-4fb8-9b4d-c0c4dbd1c7b9","name":"Attard","ru":"Attard","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"01"},{"id":"cf1089fd-c940-48e4-8ea5-228f7480dfaf","name":"Ħamrun","ru":"Ħamrun","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"18"},{"id":"a688c6c9-1803-4f76-8b99-04db34886f1c","name":"Żabbar","ru":"Żabbar","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"64"},{"id":"5dbafa1f-5008-4b7a-83d5-c3437321c60b","name":"Żebbuġ Gozo","ru":"Żebbuġ Gozo","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"65"},{"id":"71ae3b82-1677-493f-bcb8-bc649eeec5f0","name":"Żebbuġ Malta","ru":"Żebbuġ Malta","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"66"},{"id":"e45fdbef-5417-42b5-af4f-1b8c5f8aaac1","name":"Żejtun","ru":"Żejtun","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"67"},{"id":"3dfd3c96-0b3a-4efb-9cf1-1d5c7e07e2c5","name":"Żurrieq","ru":"Żurrieq","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"68"},{"id":"62e23a71-dd89-44e2-bf09-936915ce9487","name":"Balzan","ru":"Balzan","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"02"},{"id":"61c9e1d4-3418-45d5-920a-7870a0dd1584","name":"Birżebbuġa","ru":"Birżebbuġa","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"05"},{"id":"ea01f8ba-f0ff-4f5b-b31f-1a90c91b3045","name":"Birgu","ru":"Birgu","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"03"},{"id":"c6194fa4-ef41-42fb-a77f-83340ccdda08","name":"Birkirkara","ru":"Birkirkara","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"04"},{"id":"c4b8b22d-d7df-4ff7-8bb7-96cfe4f3a2ab","name":"Cospicua","ru":"Cospicua","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"06"},{"id":"b14fcca3-0af7-41fe-a899-3799e6795253","name":"Dingli","ru":"Dingli","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"07"},{"id":"446bfdee-1d55-435e-9506-3d18e7492120","name":"Fgura","ru":"Fgura","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"08"},{"id":"0d7c3c02-4303-4284-8942-14b796985810","name":"Floriana","ru":"Floriana","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"09"},{"id":"d9d0a391-8113-436a-b101-7ed3d8e4c26b","name":"Fontana","ru":"Fontana","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"10"},{"id":"5e546cd8-6e30-456b-b311-2668cf9a27a7","name":"Għajnsielem","ru":"Għajnsielem","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"13"},{"id":"bec55971-b9e3-4548-bbc5-e9bcba66e015","name":"Għarb","ru":"Għarb","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"14"},{"id":"4b01c55f-581e-4cb7-996a-d2951e0a6654","name":"Għargħur","ru":"Għargħur","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"15"},{"id":"2f14aed6-4815-4698-9974-750397922cb2","name":"Għasri","ru":"Għasri","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"16"},{"id":"c8b22416-1332-42be-927a-28df77cddeb2","name":"Għaxaq","ru":"Għaxaq","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"17"},{"id":"db75f64b-6ab4-48c5-9129-1dde1d7a65dc","name":"Gżira","ru":"Gżira","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"12"},{"id":"2c63e888-11a4-4559-baae-af8378cb84f0","name":"Gudja","ru":"Gudja","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"11"},{"id":"e2dc6330-e2bc-4c5d-8889-085bcc9e389b","name":"Iklin","ru":"Iklin","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"19"},{"id":"94948091-06e5-4855-ad37-4a99d44cfbb0","name":"Kalkara","ru":"Kalkara","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"21"},{"id":"4580ed6b-f608-4e88-a580-dabd03de429d","name":"Kerċem","ru":"Kerċem","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"22"},{"id":"fbf006c7-cec8-4510-a019-4cc7aba2fa6a","name":"Kirkop","ru":"Kirkop","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"23"},{"id":"4163174d-a3fb-4e3f-b157-6f0a62ad9cc8","name":"Lija","ru":"Lija","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"24"},{"id":"b6dc39d1-9e2f-4081-b4bb-e8e1dad30227","name":"Luqa","ru":"Luqa","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"25"},{"id":"ddb93e00-195f-4b68-b33e-a98849a009fa","name":"Marsa","ru":"Marsa","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"26"},{"id":"0a2e4f95-9db4-4b63-a009-652a4fc9c808","name":"Marsaskala","ru":"Marsaskala","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"27"},{"id":"3bf0c328-5daa-40cd-aba5-d2215496c63d","name":"Marsaxlokk","ru":"Marsaxlokk","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"28"},{"id":"2f8a7d13-747e-430a-ac6c-8e43a71097a6","name":"Mġarr","ru":"Mġarr","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"31"},{"id":"7bf40a90-c303-4174-8f27-84e0bae10767","name":"Mdina","ru":"Mdina","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"29"},{"id":"296761b4-ff17-4788-a784-27ece853c594","name":"Mellieħa","ru":"Mellieħa","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"30"},{"id":"45c303c3-ac3c-4397-a280-4fab50058686","name":"Mosta","ru":"Mosta","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"32"},{"id":"49ce78f3-7ba5-48a8-8b63-135edb8beba9","name":"Mqabba","ru":"Mqabba","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"33"},{"id":"624327c2-da4c-4b35-928f-99c5899140d7","name":"Msida","ru":"Msida","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"34"},{"id":"1f3685e2-c04f-4d82-9b1e-9f857b80363d","name":"Mtarfa","ru":"Mtarfa","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"35"},{"id":"76706db0-f74d-47d6-af65-3ea30e3ee15d","name":"Munxar","ru":"Munxar","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"36"},{"id":"bfc82931-f4d5-4874-86f7-d0654c44e3ef","name":"Nadur","ru":"Nadur","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"37"},{"id":"19d93569-db03-43c6-a1f5-bd31756d7fa4","name":"Naxxar","ru":"Naxxar","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"38"},{"id":"d22a2235-7efa-41cb-bb8b-553bca4bde98","name":"Paola","ru":"Paola","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"39"},{"id":"df4456f4-92cd-4835-b389-0f3b1e6b9921","name":"Pembroke","ru":"Pembroke","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"40"},{"id":"4cf3c32f-9e85-408b-82ae-4198318f3ed3","name":"Pietà","ru":"Pietà","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"41"},{"id":"87828e36-3ebb-4331-8687-9d874040f073","name":"Qala","ru":"Qala","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"42"},{"id":"00a60aa3-108e-44bd-a71a-10c51e256ab8","name":"Qormi","ru":"Qormi","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"43"},{"id":"21dbda1c-6d29-4832-9a4a-db82b42b61bb","name":"Qrendi","ru":"Qrendi","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"44"},{"id":"2eda97e5-c409-4f65-9a3a-19e837ebf7db","name":"Rabat","ru":"Rabat","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"46"},{"id":"dd82f86d-5189-4183-9ddd-faa205283903","name":"Saint Lawrence","ru":"Saint Lawrence","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"50"},{"id":"cda27f59-d142-4ca0-a177-e86fcabc065d","name":"San Ġwann","ru":"San Ġwann","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"49"},{"id":"0abfeef6-12d0-4550-92e8-20f784d3b1d3","name":"Sannat","ru":"Sannat","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"52"},{"id":"7a6c1089-7c42-4a18-b1d9-496b3b4be053","name":"Santa Luċija","ru":"Santa Luċija","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"53"},{"id":"cc758e7a-11f2-4608-a6d3-e6fe6b33f186","name":"Santa Venera","ru":"Santa Venera","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"54"},{"id":"9347c045-0ece-4f39-ba7d-3861165f9d5d","name":"Senglea","ru":"Senglea","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"20"},{"id":"4ebd791d-098e-4eb1-b738-0629d83c715d","name":"Siġġiewi","ru":"Siġġiewi","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"55"},{"id":"cbbd881d-f409-4f04-8959-1ca4e4a37fff","name":"Sliema","ru":"Sliema","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"56"},{"id":"307152e5-3edb-48f4-a921-c6929310478d","name":"St. Julian's","ru":"St. Julian's","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"48"},{"id":"d6a93d17-21c0-4b1e-ada0-430ed3d5da74","name":"St. Paul's Bay","ru":"St. Paul's Bay","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"51"},{"id":"4921185f-4519-459b-a5ea-1838bbffe49e","name":"Swieqi","ru":"Swieqi","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"57"},{"id":"24529d47-bb99-4ed1-aaf3-36fb312d9148","name":"Ta' Xbiex","ru":"Ta' Xbiex","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"58"},{"id":"6ac43a6e-6e0d-4854-8997-070c14c78776","name":"Tarxien","ru":"Tarxien","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"59"},{"id":"58a7c181-b402-41a0-8628-e3a962c91e0f","name":"Valletta","ru":"Valletta","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"60"},{"id":"c0767e1c-5726-48ef-9724-290086c71497","name":"Victoria","ru":"Victoria","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"45"},{"id":"a993d6b3-7097-4052-ac7c-5ed5bb6e2d5b","name":"Xagħra","ru":"Xagħra","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"61"},{"id":"caf8cebb-fd7c-452f-aef3-30d02bdb23ec","name":"Xewkija","ru":"Xewkija","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"62"},{"id":"ce3de4c4-42db-40a4-accf-32ce1e50b433","name":"Xgħajra","ru":"Xgħajra","country":"0a028714-94d2-4908-bda5-b0782fdd3acc","countryCode":"MT","stateCode":"63"}]
+[
+  {
+    "id": "778d5c99-1363-466e-96fd-99c174e858a8",
+    "en": "Attard",
+    "ru": "Аттард",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "01"
+  },
+  {
+    "id": "b85dc310-2997-4bd7-86ae-87e8adf8c962",
+    "en": "Ħamrun",
+    "ru": "Ħamrun",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "18"
+  },
+  {
+    "id": "28d8ce91-8619-473b-9ef1-247ec58347b7",
+    "en": "Żabbar",
+    "ru": "Żabbar",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "64"
+  },
+  {
+    "id": "22b35faa-74fd-4398-ac1c-16576239033d",
+    "en": "Żebbuġ Gozo",
+    "ru": "Żebbuġ Гозо",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "65"
+  },
+  {
+    "id": "54cb2016-2a9f-49e9-8565-54552e3479b8",
+    "en": "Żebbuġ Malta",
+    "ru": "Żebbuġ Мальта",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "66"
+  },
+  {
+    "id": "56fceacc-c203-4c7b-ba2b-367592947df7",
+    "en": "Żejtun",
+    "ru": "Джейтун",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "67"
+  },
+  {
+    "id": "1ccceb4d-4066-42df-a418-a51c8427aae8",
+    "en": "Żurrieq",
+    "ru": "Żurrieq",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "68"
+  },
+  {
+    "id": "a7a0783d-7029-4d48-87fa-07da0e27d240",
+    "en": "Balzan",
+    "ru": "Бальзан",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "02"
+  },
+  {
+    "id": "a4291b66-6c8c-460b-84f3-2aeabc6d3e12",
+    "en": "Birżebbuġa",
+    "ru": "Биржеббуля",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "05"
+  },
+  {
+    "id": "794b2fc1-836f-46d0-9e60-ced12bcb8a0b",
+    "en": "Birgu",
+    "ru": "Биргу",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "03"
+  },
+  {
+    "id": "6b771784-89fe-4ed1-a4c4-16c23a4cf9dd",
+    "en": "Birkirkara",
+    "ru": "Биркиркара",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "04"
+  },
+  {
+    "id": "f44bd1c0-f172-4f9d-8874-306b18e1f073",
+    "en": "Cospicua",
+    "ru": "Коспикуа",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "06"
+  },
+  {
+    "id": "6335fb18-1cd9-424b-9a53-4a66446ed9e8",
+    "en": "Dingli",
+    "ru": "Дингли",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "07"
+  },
+  {
+    "id": "a8067ca7-fc1f-4a53-9503-3b6bb063c63a",
+    "en": "Fgura",
+    "ru": "Фгура",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "08"
+  },
+  {
+    "id": "77447b08-316e-47bd-921c-e9e205ae1d0d",
+    "en": "Floriana",
+    "ru": "Флориана",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "09"
+  },
+  {
+    "id": "21eac012-7297-4be3-8214-dfc2896e7b2f",
+    "en": "Fontana",
+    "ru": "Фонтана",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "10"
+  },
+  {
+    "id": "91846c88-1807-4934-b486-ba8e6368ec3b",
+    "en": "Għajnsielem",
+    "ru": "Гайнсилем",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "13"
+  },
+  {
+    "id": "5d76ad00-a91d-47a6-912f-55f738e6b975",
+    "en": "Għarb",
+    "ru": "Гарб",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "14"
+  },
+  {
+    "id": "d155fa80-ef90-4e8a-b0a2-cfa7133643cb",
+    "en": "Għargħur",
+    "ru": "Għargħur",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "15"
+  },
+  {
+    "id": "019446ee-cbe9-4155-99a4-031f65c8575b",
+    "en": "Għasri",
+    "ru": "Гасри",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "16"
+  },
+  {
+    "id": "cde47a07-00a1-472b-b5a5-f7098f5877a8",
+    "en": "Għaxaq",
+    "ru": "Għaxaq",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "17"
+  },
+  {
+    "id": "0894484d-25ca-45ad-97c9-cd7986019237",
+    "en": "Gżira",
+    "ru": "Гира",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "12"
+  },
+  {
+    "id": "73e3d18d-fa37-4b53-97a1-5d0e50fca400",
+    "en": "Gudja",
+    "ru": "Гуджа",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "11"
+  },
+  {
+    "id": "2164fef1-7e2c-4df7-af3d-40e30ccb8a16",
+    "en": "Iklin",
+    "ru": "иклин",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "19"
+  },
+  {
+    "id": "5097fe56-485d-42e4-a428-0852e507049a",
+    "en": "Kalkara",
+    "ru": "Калкара",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "21"
+  },
+  {
+    "id": "1789cc93-7558-4735-abe9-fbeb744a4a3d",
+    "en": "Kerċem",
+    "ru": "Керзем",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "22"
+  },
+  {
+    "id": "d524d88c-15ce-4e60-b1dd-b745cd54e427",
+    "en": "Kirkop",
+    "ru": "Киркоп",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "23"
+  },
+  {
+    "id": "d0ec0bff-a36b-450a-a0e3-1ba5a8877317",
+    "en": "Lija",
+    "ru": "Лия",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "24"
+  },
+  {
+    "id": "2f1160b5-30bf-4630-a060-02f50e2f6b12",
+    "en": "Luqa",
+    "ru": "Лука",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "25"
+  },
+  {
+    "id": "d2e8e31e-7d32-4421-b9a1-2d0702413b3b",
+    "en": "Marsa",
+    "ru": "марса",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "26"
+  },
+  {
+    "id": "3eff55fb-e0fd-462f-986a-ef2a5731a52d",
+    "en": "Marsaskala",
+    "ru": "Марсаскала",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "27"
+  },
+  {
+    "id": "0d2646f7-805c-4237-93fb-c8bb0ed1ea05",
+    "en": "Marsaxlokk",
+    "ru": "Марсашлокк",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "28"
+  },
+  {
+    "id": "a35af4d0-277a-4a73-aa82-652d9e1b2cb6",
+    "en": "Mġarr",
+    "ru": "Мджарр",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "31"
+  },
+  {
+    "id": "8091755d-4f53-4ebe-8343-b8fd2540f750",
+    "en": "Mdina",
+    "ru": "Мдина",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "29"
+  },
+  {
+    "id": "b564b5cc-3c91-4e9b-9105-c2d60c05dbf3",
+    "en": "Mellieħa",
+    "ru": "Меллиня",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "30"
+  },
+  {
+    "id": "68f8c974-40e8-4a1f-92b0-4a98276eb3e6",
+    "en": "Mosta",
+    "ru": "Моста",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "32"
+  },
+  {
+    "id": "43ed3cbb-463f-418d-9753-3751e5d3dc65",
+    "en": "Mqabba",
+    "ru": "Мкабба",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "33"
+  },
+  {
+    "id": "e26c86f6-e7bd-4dfe-a5c9-801859a54443",
+    "en": "Msida",
+    "ru": "Мсида",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "34"
+  },
+  {
+    "id": "497ba9ae-59a3-4abb-bd08-f2c8de4e9281",
+    "en": "Mtarfa",
+    "ru": "Мтарфа",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "35"
+  },
+  {
+    "id": "9d7324bd-a4b8-483f-a44a-ec8b4100f2a5",
+    "en": "Munxar",
+    "ru": "мунхар",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "36"
+  },
+  {
+    "id": "26ad112c-2d70-41e3-afcc-a612a451c650",
+    "en": "Nadur",
+    "ru": "Надур",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "37"
+  },
+  {
+    "id": "4aa08b7c-4a80-43f4-80cc-b91660a8034a",
+    "en": "Naxxar",
+    "ru": "Нашшар",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "38"
+  },
+  {
+    "id": "f96e2718-eb11-41b0-8589-897a4817fafa",
+    "en": "Paola",
+    "ru": "Паола",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "39"
+  },
+  {
+    "id": "0f821eaa-ac61-4bab-83a4-25a9f976dac9",
+    "en": "Pembroke",
+    "ru": "Пемброк",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "40"
+  },
+  {
+    "id": "47bab715-320d-4dd1-b6a4-ea555a0cd0a1",
+    "en": "Pietà",
+    "ru": "Пьета",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "41"
+  },
+  {
+    "id": "0c092490-1bd3-407f-b32c-4540a6fd0f1b",
+    "en": "Qala",
+    "ru": "Кала",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "42"
+  },
+  {
+    "id": "0126775d-486f-4fa4-bd4c-d74d2e9728db",
+    "en": "Qormi",
+    "ru": "Корми",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "43"
+  },
+  {
+    "id": "2e10421f-048b-4de4-8365-b465587572b4",
+    "en": "Qrendi",
+    "ru": "Кренди",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "44"
+  },
+  {
+    "id": "301acda0-ed58-4101-9406-56a00a77240d",
+    "en": "Rabat",
+    "ru": "Рабат",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "46"
+  },
+  {
+    "id": "8daa6523-c8ef-400f-8f38-f7ecd7ed39b3",
+    "en": "Saint Lawrence",
+    "ru": "Святого Лаврентия",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "50"
+  },
+  {
+    "id": "f7664e0e-d9ff-4449-bf07-549d1fd88f63",
+    "en": "San Ġwann",
+    "ru": "Сан Ġwann",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "49"
+  },
+  {
+    "id": "1e1f3020-aed7-4745-a9a7-62326d828c3a",
+    "en": "Sannat",
+    "ru": "Саннат",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "52"
+  },
+  {
+    "id": "56012177-e5bf-497c-9b67-8472d7d5ead7",
+    "en": "Santa Luċija",
+    "ru": "Санта Лужия",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "53"
+  },
+  {
+    "id": "7b3424ce-d992-4115-a08b-35eb2adc8055",
+    "en": "Santa Venera",
+    "ru": "Санта-Венера",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "54"
+  },
+  {
+    "id": "7e496ccb-895a-4a8e-b920-2f8b8e020aa6",
+    "en": "Senglea",
+    "ru": "Сенглея",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "20"
+  },
+  {
+    "id": "e30bd2fa-a781-4e30-89ce-8737b5c32eba",
+    "en": "Siġġiewi",
+    "ru": "Сицеви",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "55"
+  },
+  {
+    "id": "6395bf40-0f64-4f37-ace4-0cff5debb532",
+    "en": "Sliema",
+    "ru": "Слима",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "56"
+  },
+  {
+    "id": "d148adb7-d451-410f-a607-b09d2551e2aa",
+    "en": "St. Julian's",
+    "ru": "Святого Юлиана",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "48"
+  },
+  {
+    "id": "afa53f74-3248-4d9c-a166-33aecf4a7176",
+    "en": "St. Paul's Bay",
+    "ru": "Сент-Полс-Бэй",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "51"
+  },
+  {
+    "id": "b72f808a-2e2c-4497-bbf0-02055efee180",
+    "en": "Swieqi",
+    "ru": "Swieqi",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "57"
+  },
+  {
+    "id": "801c284f-04ef-4781-aacb-4c5c988f65e5",
+    "en": "Ta' Xbiex",
+    "ru": "Та 'Xbiex",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "58"
+  },
+  {
+    "id": "e0d1085e-ba64-446b-93a3-5ac1180f4e26",
+    "en": "Tarxien",
+    "ru": "Tarxien",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "59"
+  },
+  {
+    "id": "24cd93d3-5013-4400-a337-49f53e6f9cdc",
+    "en": "Valletta",
+    "ru": "Валлетта",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "60"
+  },
+  {
+    "id": "6a781e9e-02b9-4eb8-a65f-c7c76b0662e6",
+    "en": "Victoria",
+    "ru": "Виктория",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "45"
+  },
+  {
+    "id": "2b1b6622-6232-4822-b19f-c7df0536fa40",
+    "en": "Xagħra",
+    "ru": "Xagħra",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "61"
+  },
+  {
+    "id": "14851286-aa1b-4dcf-a6fd-aa04e6cdf68c",
+    "en": "Xewkija",
+    "ru": "Xewkija",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "62"
+  },
+  {
+    "id": "e183bd8e-ed52-426e-baae-577ea7ebac0b",
+    "en": "Xgħajra",
+    "ru": "Xgħajra",
+    "country": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "countryCode": "MT",
+    "stateCode": "63"
+  }
+]

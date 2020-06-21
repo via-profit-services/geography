@@ -1,1 +1,74 @@
-[{"id":"02c5354b-f4f9-4276-b198-c094377923ea","name":"Beni Department","ru":"Beni Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"B"},{"id":"50724c4f-b410-4f8a-8c7a-be4407f9422d","name":"Chuquisaca Department","ru":"Chuquisaca Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"H"},{"id":"388faab4-3901-44f2-9468-df257468b0de","name":"Cochabamba Department","ru":"Cochabamba Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"C"},{"id":"a2a9b045-716d-47c0-9a0c-4d1bbf86fb9c","name":"La Paz Department","ru":"La Paz Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"L"},{"id":"d5e1ee33-07b5-4a1a-9bb9-d2ad879ba4fc","name":"Oruro Department","ru":"Oruro Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"O"},{"id":"bf6a54b1-7e30-4d82-9520-7e2a519220ad","name":"Pando Department","ru":"Pando Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"N"},{"id":"95096d95-fceb-49e3-9662-0496b8815412","name":"Potosí Department","ru":"Potosí Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"P"},{"id":"7877f78a-2e18-41ad-ad8a-030b7b02395d","name":"Santa Cruz Department","ru":"Santa Cruz Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"S"},{"id":"709e2d0a-d533-4732-bf63-22e88f14c1b1","name":"Tarija Department","ru":"Tarija Department","country":"89f7761b-99ea-4779-9ef0-d1367c61ca95","countryCode":"BO","stateCode":"T"}]
+[
+  {
+    "id": "e0a3e030-ea41-4285-bc32-5506079d4e6c",
+    "en": "Beni Department",
+    "ru": "район Бени департамент",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "B"
+  },
+  {
+    "id": "183d847d-d362-437c-b10f-a5d4bb4adc59",
+    "en": "Chuquisaca Department",
+    "ru": "областной департамент Чукисака",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "H"
+  },
+  {
+    "id": "da5adf0f-e678-4474-a1b7-42c5e2d907bb",
+    "en": "Cochabamba Department",
+    "ru": "Кочабамба",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "C"
+  },
+  {
+    "id": "0c278c5e-d645-4d6a-93b8-9ae3e0207d67",
+    "en": "La Paz Department",
+    "ru": "Ла Пас департамент",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "L"
+  },
+  {
+    "id": "1743e621-0834-4f89-9c81-fa3803be814f",
+    "en": "Oruro Department",
+    "ru": "Оруро департамент",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "O"
+  },
+  {
+    "id": "654490d4-bb83-4148-83be-95a255f8fa8d",
+    "en": "Pando Department",
+    "ru": "Отдел Пандо области",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "N"
+  },
+  {
+    "id": "c4e054ab-45fc-46f3-a545-9022d3b5b5cd",
+    "en": "Potosí Department",
+    "ru": "районный департамент Потоси",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "P"
+  },
+  {
+    "id": "3f91b128-6a45-4de4-9391-73b1099cb157",
+    "en": "Santa Cruz Department",
+    "ru": "Санта-Круз департамент",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "S"
+  },
+  {
+    "id": "7832265c-6ae2-438a-a309-2b90f317f4fc",
+    "en": "Tarija Department",
+    "ru": "Тарийский районный отдел",
+    "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
+    "countryCode": "BO",
+    "stateCode": "T"
+  }
+]

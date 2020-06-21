@@ -1,1 +1,12 @@
-[{"id":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","name":"Bahrain","ru":"Bahrain","iso3":"BHR","iso2":"BH","phoneCode":"973","capital":"57ccf0bf-ffff-4c85-989e-2c1b0d0f0ac7","currency":"BHD"}]
+[
+  {
+    "id": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "en": "Bahrain",
+    "ru": "Бахрейн",
+    "iso3": "BHR",
+    "iso2": "BH",
+    "phoneCode": "973",
+    "capital": null,
+    "currency": "BHD"
+  }
+]

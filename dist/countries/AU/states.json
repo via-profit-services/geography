@@ -1,1 +1,66 @@
-[{"id":"5ec1be9a-d5e2-4237-9bd8-5cbfecee82a5","name":"Australian Capital Territory","ru":"Australian Capital Territory","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"ACT"},{"id":"9bc63794-994e-4549-80f3-7661323b4307","name":"New South Wales","ru":"New South Wales","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"NSW"},{"id":"57e362ee-0d9e-429f-92e7-fa9ef95a0c42","name":"Northern Territory","ru":"Northern Territory","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"NT"},{"id":"36977cea-1963-4311-9038-16215f80647b","name":"Queensland","ru":"Queensland","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"QLD"},{"id":"eb38ac1d-3cd1-4ddb-84f3-b184cf05142b","name":"South Australia","ru":"South Australia","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"SA"},{"id":"74231a4d-53d6-4e52-ab2c-63f37b4685d0","name":"Tasmania","ru":"Tasmania","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"TAS"},{"id":"7aea9301-8e0e-4af4-a82f-23cb5eca81f9","name":"Victoria","ru":"Victoria","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"VIC"},{"id":"29b575dd-95ea-4ce5-85f4-41c2fc1df4d5","name":"Western Australia","ru":"Western Australia","country":"00a7107a-5716-414c-a258-4f586535e671","countryCode":"AU","stateCode":"WA"}]
+[
+  {
+    "id": "9b13b1d2-0d7b-47c8-a4da-6d8e18b2512f",
+    "en": "Australian Capital Territory",
+    "ru": "Австралийская столичная территория",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "ACT"
+  },
+  {
+    "id": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
+    "en": "New South Wales",
+    "ru": "Новый Южный Уэльс",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "NSW"
+  },
+  {
+    "id": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
+    "en": "Northern Territory",
+    "ru": "Северный край",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "NT"
+  },
+  {
+    "id": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
+    "en": "Queensland",
+    "ru": "Квинсленд",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "QLD"
+  },
+  {
+    "id": "f65696c5-9736-45c2-9bf9-8358fa61a857",
+    "en": "South Australia",
+    "ru": "Южная Австралия",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "SA"
+  },
+  {
+    "id": "8b0cca56-7422-4800-aa54-565ff6989e3c",
+    "en": "Tasmania",
+    "ru": "Тасмания",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "TAS"
+  },
+  {
+    "id": "45b33838-dc1a-438e-a760-a95dbf4f5931",
+    "en": "Victoria",
+    "ru": "Виктория",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "VIC"
+  },
+  {
+    "id": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
+    "en": "Western Australia",
+    "ru": "Западная Австралия",
+    "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
+    "countryCode": "AU",
+    "stateCode": "WA"
+  }
+]

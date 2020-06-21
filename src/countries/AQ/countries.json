@@ -1,1 +1,12 @@
-[{"id":"d0a94486-23a7-4165-89f3-f1834b7c8695","name":"Antarctica","ru":"Antarctica","iso3":"ATA","iso2":"AQ","phoneCode":"","capital":null,"currency":""}]
+[
+  {
+    "id": "7b7f3097-29d9-483d-bba6-bbea9f2b0d38",
+    "en": "Antarctica",
+    "ru": "Антарктида",
+    "iso3": "ATA",
+    "iso2": "AQ",
+    "phoneCode": "",
+    "capital": null,
+    "currency": ""
+  }
+]

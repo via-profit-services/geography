@@ -1,1 +1,42 @@
-[{"id":"f009939f-a98c-4f6a-be71-b1ad5d1d983f","name":"Eastern Province","ru":"Eastern Province","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","stateCode":"02"},{"id":"393fe08a-735c-4678-90d2-c85409d7c840","name":"Kigali district","ru":"Kigali district","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","stateCode":"01"},{"id":"80cc4600-833b-407e-bfba-a95460946448","name":"Northern Province","ru":"Northern Province","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","stateCode":"03"},{"id":"8509bc86-cc53-430d-b3c7-b2482959b90f","name":"Southern Province","ru":"Southern Province","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","stateCode":"05"},{"id":"483c2e77-d3a6-458b-83db-ea1c08cc4252","name":"Western Province","ru":"Western Province","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","stateCode":"04"}]
+[
+  {
+    "id": "900af85c-7d59-4201-b896-a6e1f9147f40",
+    "en": "Eastern Province",
+    "ru": "Восточная провинция",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "stateCode": "02"
+  },
+  {
+    "id": "4bb9d9cf-5d0d-4b49-a22d-b0c8ef5e60bf",
+    "en": "Kigali district",
+    "ru": "Кигалийский район",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "stateCode": "01"
+  },
+  {
+    "id": "49a0ba16-4c90-4443-9f6d-2d11451a050e",
+    "en": "Northern Province",
+    "ru": "Северная провинция",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "stateCode": "03"
+  },
+  {
+    "id": "6cfc31a2-4fca-4dde-9176-45f846a3c7f0",
+    "en": "Southern Province",
+    "ru": "Южная провинция",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "stateCode": "05"
+  },
+  {
+    "id": "acfaf82c-de7e-4e68-b122-4660d85b2985",
+    "en": "Western Province",
+    "ru": "Западная провинция",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "stateCode": "04"
+  }
+]

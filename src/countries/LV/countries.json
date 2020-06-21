@@ -1,1 +1,12 @@
-[{"id":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","name":"Latvia","ru":"Latvia","iso3":"LVA","iso2":"LV","phoneCode":"371","capital":"e3d988d6-d897-4168-b88c-63ec9ae83248","currency":"EUR"}]
+[
+  {
+    "id": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "en": "Latvia",
+    "ru": "Латвия",
+    "iso3": "LVA",
+    "iso2": "LV",
+    "phoneCode": "371",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

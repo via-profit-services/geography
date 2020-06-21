@@ -1,1 +1,12 @@
-[{"id":"ab9f6867-aefa-4e1d-ad4b-2d21fd046b0e","name":"Ukraine","ru":"Ukraine","iso3":"UKR","iso2":"UA","phoneCode":"380","capital":null,"currency":"UAH"}]
+[
+  {
+    "id": "1ddb46ae-f24f-4fe2-b9d1-40144f6d6c30",
+    "en": "Ukraine",
+    "ru": "Украина",
+    "iso3": "UKR",
+    "iso2": "UA",
+    "phoneCode": "380",
+    "capital": null,
+    "currency": "UAH"
+  }
+]

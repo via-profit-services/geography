@@ -1,1 +1,122 @@
-[{"id":"d1cdd79a-5db2-479a-8cd7-945c500faea1","name":"Canton of Capellen","ru":"Canton of Capellen","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"CA"},{"id":"3a03d2b0-0497-4ff8-9cd1-4e578a9d4a72","name":"Canton of Clervaux","ru":"Canton of Clervaux","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"CL"},{"id":"383ca663-c62c-4c13-893c-cd8ab7560afe","name":"Canton of Diekirch","ru":"Canton of Diekirch","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"DI"},{"id":"06aa7ab3-c8db-4fa4-a969-5dadd6675a9e","name":"Canton of Echternach","ru":"Canton of Echternach","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"EC"},{"id":"b7dd48b2-2e29-420d-8890-261bf5ad9de7","name":"Canton of Esch-sur-Alzette","ru":"Canton of Esch-sur-Alzette","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"ES"},{"id":"764e06aa-410a-4cd5-a981-813cb58fed95","name":"Canton of Grevenmacher","ru":"Canton of Grevenmacher","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"GR"},{"id":"8d1709db-a442-4328-b375-edae2b8a649a","name":"Canton of Luxembourg","ru":"Canton of Luxembourg","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"LU"},{"id":"0a8a1628-5ee7-43b6-a3de-1e1a754c1108","name":"Canton of Mersch","ru":"Canton of Mersch","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"ME"},{"id":"19beb9da-6f99-4f8d-a093-1a118526ac98","name":"Canton of Redange","ru":"Canton of Redange","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"RD"},{"id":"947ac655-06ab-4d62-965f-d9781e79d624","name":"Canton of Remich","ru":"Canton of Remich","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"RM"},{"id":"65ac23fd-0843-4d27-aadd-4dddbdfcd254","name":"Canton of Vianden","ru":"Canton of Vianden","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"VD"},{"id":"5369cbad-8864-4401-8270-ef0cd05125b7","name":"Canton of Wiltz","ru":"Canton of Wiltz","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"WI"},{"id":"68ed60fc-9460-4f63-93ac-b7d877fe5f29","name":"Diekirch District","ru":"Diekirch District","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"D"},{"id":"4193b6c3-133a-423b-97e3-a7b650a8bc60","name":"Grevenmacher District","ru":"Grevenmacher District","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"G"},{"id":"021d40cd-fe3e-45ed-85d1-77d42a72ec74","name":"Luxembourg District","ru":"Luxembourg District","country":"c3916caf-5fb4-4fb6-956a-cfab22e4fe5e","countryCode":"LU","stateCode":"L"}]
+[
+  {
+    "id": "c2f9e1aa-c66a-4a55-b275-c4f13843e59a",
+    "en": "Canton of Capellen",
+    "ru": "Кантон Капеллен",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "CA"
+  },
+  {
+    "id": "ce37b837-400c-41e4-82a7-4a90028f8a24",
+    "en": "Canton of Clervaux",
+    "ru": "Кантон Клерво",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "CL"
+  },
+  {
+    "id": "a0fe1b14-2af3-46dc-8de3-7a996d20e7c5",
+    "en": "Canton of Diekirch",
+    "ru": "Кантон Дикирх",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "DI"
+  },
+  {
+    "id": "725ec324-5451-4f2e-a935-fec67999167a",
+    "en": "Canton of Echternach",
+    "ru": "Кантон Эхтернах региона",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "EC"
+  },
+  {
+    "id": "3708b00f-512b-43cb-a17c-935184e8fbb9",
+    "en": "Canton of Esch-sur-Alzette",
+    "ru": "Кантон Эш-сюр-Альзетт",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "ES"
+  },
+  {
+    "id": "7740e66a-2fd3-4065-b62a-22b713d6706a",
+    "en": "Canton of Grevenmacher",
+    "ru": "Кантон Гревенмахер",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "GR"
+  },
+  {
+    "id": "2c47f3fa-bc0e-4410-931c-eb65a4cf2807",
+    "en": "Canton of Luxembourg",
+    "ru": "кантон люксембург",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "LU"
+  },
+  {
+    "id": "64b0cd9e-7589-4b4d-9ee8-c4f26af76202",
+    "en": "Canton of Mersch",
+    "ru": "Кантон Мерш",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "ME"
+  },
+  {
+    "id": "4f37fbb6-f708-4a1a-b26b-ca8b99295d75",
+    "en": "Canton of Redange",
+    "ru": "Кантон Реданг",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "RD"
+  },
+  {
+    "id": "37062a88-8e07-4b89-a25d-5a69cfb63991",
+    "en": "Canton of Remich",
+    "ru": "Кантон Ремих",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "RM"
+  },
+  {
+    "id": "b6724a04-7aa1-48a7-b06e-e646cfffe787",
+    "en": "Canton of Vianden",
+    "ru": "Кантон Вианден",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "VD"
+  },
+  {
+    "id": "ff9b1260-4c2a-4221-b905-0258bdf919e3",
+    "en": "Canton of Wiltz",
+    "ru": "Кантон Вильц",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "WI"
+  },
+  {
+    "id": "303f2999-4a68-4aab-98da-85b32fc264c3",
+    "en": "Diekirch District",
+    "ru": "Дикирхский район",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "D"
+  },
+  {
+    "id": "77e31df4-29ca-4bf3-a470-25cfd6c9d532",
+    "en": "Grevenmacher District",
+    "ru": "Гревенмахер округ",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "G"
+  },
+  {
+    "id": "7b7082fd-5461-4b16-8f60-e1cabcbe98ca",
+    "en": "Luxembourg District",
+    "ru": "Люксембург округ",
+    "country": "436561a4-eb7d-486c-9653-63cc3b06d885",
+    "countryCode": "LU",
+    "stateCode": "L"
+  }
+]

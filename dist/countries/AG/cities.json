@@ -1,1 +1,101 @@
-[{"id":"83f30c3a-b4bc-4515-9666-c9bb0d473d27","name":"Codrington","ru":"Codrington","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"3799ecb1-f6a0-4e98-b5a1-fab0eb87afa9","stateCode":"10","latitude":"17.63333000","longitude":"-61.83333000"},{"id":"38cf9384-4638-4aa8-a092-e0a33c87ebfb","name":"Piggotts","ru":"Piggotts","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"59fb501e-b1bb-4866-9220-061367c1557f","stateCode":"03","latitude":"17.11667000","longitude":"-61.80000000"},{"id":"668844a3-45f4-49ec-8b1a-6d3442a673cb","name":"Potters Village","ru":"Potters Village","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"81336e83-ab12-4d6b-8c3c-094920a9c92b","stateCode":"04","latitude":"17.11337000","longitude":"-61.81962000"},{"id":"c0d56c93-fc50-41d8-b0fa-bf7581ec627d","name":"Saint John’s","ru":"Saint John’s","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"81336e83-ab12-4d6b-8c3c-094920a9c92b","stateCode":"04","latitude":"17.12096000","longitude":"-61.84329000"},{"id":"57a1733e-98b9-48ba-87f5-d39b3e7ea914","name":"Bolands","ru":"Bolands","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"8fff9b43-14d3-423c-bda4-330b6a87b97c","stateCode":"05","latitude":"17.06565000","longitude":"-61.87466000"},{"id":"7d5eca57-13c5-4689-8aa0-e3c759ee4ccb","name":"Falmouth","ru":"Falmouth","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"f271c45e-c2c9-4ded-ab4c-8e4f086f1e9c","stateCode":"06","latitude":"17.02741000","longitude":"-61.78136000"},{"id":"130226b9-4337-46e0-8220-006235aeaacf","name":"Liberta","ru":"Liberta","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"f271c45e-c2c9-4ded-ab4c-8e4f086f1e9c","stateCode":"06","latitude":"17.04141000","longitude":"-61.79052000"},{"id":"512546cb-f853-4f00-8bd5-47e43ca40143","name":"All Saints","ru":"All Saints","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"e035d15f-a27b-4b81-9273-925212385938","stateCode":"07","latitude":"17.06671000","longitude":"-61.79303000"},{"id":"e74db5db-6ff8-442d-a4cc-e8c5a5943a17","name":"Parham","ru":"Parham","country":"f4a5d0a3-1f34-46dc-a715-29c00943b514","countryCode":"AG","state":"e035d15f-a27b-4b81-9273-925212385938","stateCode":"07","latitude":"17.09682000","longitude":"-61.77046000"}]
+[
+  {
+    "id": "4527a357-5a6b-4c66-a4df-e470c5c1615a",
+    "en": "Codrington",
+    "ru": "Кодрингтон",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "022a5ad2-0fe2-4fef-a4d7-6ed9af087689",
+    "stateCode": "10",
+    "latitude": "17.63333000",
+    "longitude": "-61.83333000"
+  },
+  {
+    "id": "4d584b8f-9f13-4803-9be0-224bc97c0fa6",
+    "en": "Piggotts",
+    "ru": "Пигготтс",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "4b203c63-e09e-4931-b166-0865ba3fc21b",
+    "stateCode": "03",
+    "latitude": "17.11667000",
+    "longitude": "-61.80000000"
+  },
+  {
+    "id": "bb08ec32-9131-4412-98ed-a1052f3b889b",
+    "en": "Potters Village",
+    "ru": "Potters Village",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "79aa8169-0a88-4c9b-a35e-de94e381c676",
+    "stateCode": "04",
+    "latitude": "17.11337000",
+    "longitude": "-61.81962000"
+  },
+  {
+    "id": "48197814-dec0-4673-a97c-3b7330d281e3",
+    "en": "Saint John’s",
+    "ru": "Сент-Джонс",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "79aa8169-0a88-4c9b-a35e-de94e381c676",
+    "stateCode": "04",
+    "latitude": "17.12096000",
+    "longitude": "-61.84329000"
+  },
+  {
+    "id": "4e3714bd-029d-4d59-b9ff-6d3f22bf7c42",
+    "en": "Bolands",
+    "ru": "Боландс",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "877de134-dfe2-49a3-b0f7-8b0a63bff0b2",
+    "stateCode": "05",
+    "latitude": "17.06565000",
+    "longitude": "-61.87466000"
+  },
+  {
+    "id": "aba88a8c-6e53-4710-abad-787fca9378e5",
+    "en": "Falmouth",
+    "ru": "Фалмут",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "96ce4b83-d4ce-44e8-a92c-04449700cdc3",
+    "stateCode": "06",
+    "latitude": "17.02741000",
+    "longitude": "-61.78136000"
+  },
+  {
+    "id": "346d764d-f0aa-4efb-a3da-4799a811d940",
+    "en": "Liberta",
+    "ru": "Либерта",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "96ce4b83-d4ce-44e8-a92c-04449700cdc3",
+    "stateCode": "06",
+    "latitude": "17.04141000",
+    "longitude": "-61.79052000"
+  },
+  {
+    "id": "7717da00-6506-4d3c-a8fd-e1d180b06445",
+    "en": "All Saints",
+    "ru": "всех святых",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "6d35d2f8-fea0-4690-9ee4-7772f01d9e11",
+    "stateCode": "07",
+    "latitude": "17.06671000",
+    "longitude": "-61.79303000"
+  },
+  {
+    "id": "75d02d4f-2143-46e1-b609-53f5f16ea71b",
+    "en": "Parham",
+    "ru": "Пархем",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "6d35d2f8-fea0-4690-9ee4-7772f01d9e11",
+    "stateCode": "07",
+    "latitude": "17.09682000",
+    "longitude": "-61.77046000"
+  }
+]

@@ -1,1 +1,189 @@
-[{"id":"c1771dfe-6a9c-4ecc-8a6e-d0dcda12bf4b","name":"Bubanza","ru":"Bubanza","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"3c9b9078-db39-49d1-8ad1-369d57a07760","stateCode":"BB","latitude":"-3.08040000","longitude":"29.39100000"},{"id":"ff2017b5-ad1a-4461-8ec7-581e856406be","name":"Bujumbura","ru":"Bujumbura","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"4f64ec58-9ba5-46b7-b7c0-b61bf4cebf3c","stateCode":"BM","latitude":"-3.38193000","longitude":"29.36142000"},{"id":"581b36f6-68ff-4d5b-98d1-7421ce869b0c","name":"Bururi","ru":"Bururi","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"db15ef3a-5053-454f-9440-d736029f279a","stateCode":"BR","latitude":"-3.94877000","longitude":"29.62438000"},{"id":"0708d5ee-841d-4726-b6fe-bc0c191bb498","name":"Cankuzo","ru":"Cankuzo","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"0fca187d-fd47-4275-8ddc-d888c9f0b2bc","stateCode":"CA","latitude":"-3.21860000","longitude":"30.55280000"},{"id":"0d6aa8da-3f9b-442a-94fa-6d7890ab473a","name":"Cibitoke","ru":"Cibitoke","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"d8204058-916c-4700-ab34-27570c036c56","stateCode":"CI","latitude":"-2.88690000","longitude":"29.12480000"},{"id":"22c9555e-4bca-4951-ab1c-766303aadf5b","name":"Gitega","ru":"Gitega","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"a83229dc-2e27-4713-a303-19a41b7c512a","stateCode":"GI","latitude":"-3.42708000","longitude":"29.92463000"},{"id":"4c891678-7d83-4c6f-b4e7-c167967e2a72","name":"Karuzi","ru":"Karuzi","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"4f84e3d8-55a7-4749-87d0-a3b53eea8872","stateCode":"KR","latitude":"-3.10139000","longitude":"30.16278000"},{"id":"17c57e8a-d85f-4ad3-a5e0-8752d6e4ff92","name":"Kayanza","ru":"Kayanza","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"e6641760-55c2-4bfe-82e6-eb57764299c3","stateCode":"KY","latitude":"-2.92210000","longitude":"29.62930000"},{"id":"8a91b33e-2389-429b-93f0-9c54124d869d","name":"Kirundo","ru":"Kirundo","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"db22a771-ce10-4ab0-8ad0-4685960141e4","stateCode":"KI","latitude":"-2.58450000","longitude":"30.09590000"},{"id":"3c734c3e-d52d-4408-8692-75710d4d90fe","name":"Makamba","ru":"Makamba","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"3a21e0f2-a181-40c8-b396-11b94d1da50e","stateCode":"MA","latitude":"-4.13480000","longitude":"29.80400000"},{"id":"4702fd52-2ff5-4d12-8a54-e445fb27a4cc","name":"Muramvya","ru":"Muramvya","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"ce70f1d0-9fa4-4f1f-afd0-a84bbc5b556f","stateCode":"MU","latitude":"-3.26820000","longitude":"29.60790000"},{"id":"2f79e434-af90-4335-9699-d15e58220cbc","name":"Muyinga","ru":"Muyinga","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"4698f7ca-284f-40b8-869a-8a3ba2fdd57a","stateCode":"MY","latitude":"-2.84510000","longitude":"30.34140000"},{"id":"70add43e-4458-4e32-9571-b6a8629fbf5e","name":"Mwaro","ru":"Mwaro","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"72b6a42f-a6f2-4814-92cf-f5a7b728a9c5","stateCode":"MW","latitude":"-3.51128000","longitude":"29.70334000"},{"id":"6da853e2-232c-4f43-943b-66df720ccb00","name":"Ngozi","ru":"Ngozi","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"f6ee91b2-1912-4593-8c4c-c2290deca9ac","stateCode":"NG","latitude":"-2.90750000","longitude":"29.83060000"},{"id":"9a3062c5-c548-45b1-9fc1-3bcedd2295f5","name":"Rumonge","ru":"Rumonge","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"68cf982a-7f4e-4513-b394-121f807e8bca","stateCode":"RM","latitude":"-3.97360000","longitude":"29.43860000"},{"id":"9bf1d44d-0dee-4ac1-ab0d-226a4076fff0","name":"Rutana","ru":"Rutana","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"4b032484-974f-4f42-94a8-1d534c8d492a","stateCode":"RT","latitude":"-3.92790000","longitude":"29.99200000"},{"id":"f9c103c9-2880-4b07-a919-047936b8ba26","name":"Ruyigi","ru":"Ruyigi","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","state":"80de29fa-500b-49d6-a8a8-68038ab9692b","stateCode":"RY","latitude":"-3.47639000","longitude":"30.24861000"}]
+[
+  {
+    "id": "085b59d6-2cb9-49ea-9d34-f563b97c1a55",
+    "en": "Bubanza",
+    "ru": "Бубанза",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "72b9d183-c412-4e1d-b475-496c0a075778",
+    "stateCode": "BB",
+    "latitude": "-3.08040000",
+    "longitude": "29.39100000"
+  },
+  {
+    "id": "b2a9bab3-b5f5-4dde-9967-df1d6fedf973",
+    "en": "Bujumbura",
+    "ru": "Бужумбура",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "1e233bb5-b6e4-4050-afb0-913d4ec99e71",
+    "stateCode": "BM",
+    "latitude": "-3.38193000",
+    "longitude": "29.36142000"
+  },
+  {
+    "id": "3c743c55-9237-486f-a9e1-2dae0b31e200",
+    "en": "Bururi",
+    "ru": "Бурури",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "bb1d1840-dbe9-4cbe-a959-b1c2c3f83930",
+    "stateCode": "BR",
+    "latitude": "-3.94877000",
+    "longitude": "29.62438000"
+  },
+  {
+    "id": "f4d06610-cbc9-4f72-b261-04098bca9730",
+    "en": "Cankuzo",
+    "ru": "Канкузо",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "5e15b24b-b84d-4d85-be1e-6df9ba26e0d4",
+    "stateCode": "CA",
+    "latitude": "-3.21860000",
+    "longitude": "30.55280000"
+  },
+  {
+    "id": "6a88f175-8f0f-499a-a565-61d985c26569",
+    "en": "Cibitoke",
+    "ru": "Сибитоке",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "a1909e54-f7a9-4bbf-a3fe-3f2d82a8b161",
+    "stateCode": "CI",
+    "latitude": "-2.88690000",
+    "longitude": "29.12480000"
+  },
+  {
+    "id": "9951bb44-57da-4f54-bda9-3cc8eb7c4234",
+    "en": "Gitega",
+    "ru": "Гитега",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "4e204022-e849-4192-a1ca-1379835bbc27",
+    "stateCode": "GI",
+    "latitude": "-3.42708000",
+    "longitude": "29.92463000"
+  },
+  {
+    "id": "2e2ac4aa-238b-48aa-9da0-c3bb89e73a3e",
+    "en": "Karuzi",
+    "ru": "Карузи",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "4cbfc56f-b9c7-40b2-9fbc-ddbad1ac6085",
+    "stateCode": "KR",
+    "latitude": "-3.10139000",
+    "longitude": "30.16278000"
+  },
+  {
+    "id": "b2ec5bf6-e52b-4d7f-9b12-e4f12fe830a7",
+    "en": "Kayanza",
+    "ru": "Каянза",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "0f4b1b98-7478-4e9b-8b84-d7ff4253cda6",
+    "stateCode": "KY",
+    "latitude": "-2.92210000",
+    "longitude": "29.62930000"
+  },
+  {
+    "id": "ddeb830c-f482-441a-9283-c7238a793364",
+    "en": "Kirundo",
+    "ru": "Кирундо",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "22a49309-acd0-43c8-820f-6bc4ce789d32",
+    "stateCode": "KI",
+    "latitude": "-2.58450000",
+    "longitude": "30.09590000"
+  },
+  {
+    "id": "13376fe8-e2e1-4bfb-960c-a3f7827bf585",
+    "en": "Makamba",
+    "ru": "Макамба",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "c2bb42d0-3d5d-4133-9a09-d7086986efb1",
+    "stateCode": "MA",
+    "latitude": "-4.13480000",
+    "longitude": "29.80400000"
+  },
+  {
+    "id": "498609c5-1fe7-416b-a8df-f39d38561f0d",
+    "en": "Muramvya",
+    "ru": "Мурамвя",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "c6222006-0ee3-4bd1-a2ef-924dec44058c",
+    "stateCode": "MU",
+    "latitude": "-3.26820000",
+    "longitude": "29.60790000"
+  },
+  {
+    "id": "d937f25f-6f13-4ccc-a95d-8d1774e5d3e7",
+    "en": "Muyinga",
+    "ru": "Муйинга",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "d825e2d4-aedc-481f-8eba-9fdbb83cb531",
+    "stateCode": "MY",
+    "latitude": "-2.84510000",
+    "longitude": "30.34140000"
+  },
+  {
+    "id": "65482aae-1517-45e6-a6d0-65c8ca1a99c6",
+    "en": "Mwaro",
+    "ru": "Мваро",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "6a81a41e-68b6-4e0d-86f1-62f94f7ad2d4",
+    "stateCode": "MW",
+    "latitude": "-3.51128000",
+    "longitude": "29.70334000"
+  },
+  {
+    "id": "1d458ab3-c67b-4de5-a574-149a84d0477b",
+    "en": "Ngozi",
+    "ru": "Нгози",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "dbc9eb78-67de-40a3-b4d4-b6f8b3a125e9",
+    "stateCode": "NG",
+    "latitude": "-2.90750000",
+    "longitude": "29.83060000"
+  },
+  {
+    "id": "c15abefb-6e90-431f-b56f-f224ffe2dc5c",
+    "en": "Rumonge",
+    "ru": "Румонге",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "1a942dda-f111-457a-8f51-15a236108240",
+    "stateCode": "RM",
+    "latitude": "-3.97360000",
+    "longitude": "29.43860000"
+  },
+  {
+    "id": "b43c2e98-1931-4d38-b825-19d25dcd8fa9",
+    "en": "Rutana",
+    "ru": "Рутана",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "aae92b6a-565a-4173-ab96-fee92791aae4",
+    "stateCode": "RT",
+    "latitude": "-3.92790000",
+    "longitude": "29.99200000"
+  },
+  {
+    "id": "39761553-1622-4805-8e7f-3d44019402b2",
+    "en": "Ruyigi",
+    "ru": "Руйиги",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "state": "4771ddd8-717f-4255-9d1f-452bad534f90",
+    "stateCode": "RY",
+    "latitude": "-3.47639000",
+    "longitude": "30.24861000"
+  }
+]

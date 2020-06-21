@@ -1,1 +1,138 @@
-[{"id":"37991b5c-1df9-4656-9c68-698894a3d18e","name":"Auckland Region","ru":"Auckland Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"AUK"},{"id":"9f1f1aa1-2a54-43ac-a3e1-d0da63c76ca1","name":"Bay of Plenty Region","ru":"Bay of Plenty Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"BOP"},{"id":"3b7c4d50-f807-4e1a-b8df-b642424a8457","name":"Canterbury Region","ru":"Canterbury Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"CAN"},{"id":"a336701c-e173-4d42-9828-6454badfa8ea","name":"Chatham Islands","ru":"Chatham Islands","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"CIT"},{"id":"bcd39444-1244-4abc-9fc8-0bcf7e716b4d","name":"Gisborne District","ru":"Gisborne District","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"GIS"},{"id":"7bc8937b-38fe-46c0-ae8c-fdfcfb16141b","name":"Hawke's Bay Region","ru":"Hawke's Bay Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"HKB"},{"id":"ea24f834-1aed-43d7-9c3d-70609133b3e1","name":"Manawatu-Wanganui Region","ru":"Manawatu-Wanganui Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"MWT"},{"id":"bc7ef901-936f-44d6-930b-d6e3e13062a7","name":"Marlborough Region","ru":"Marlborough Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"MBH"},{"id":"e941e15d-3b21-4411-8fdd-f3bfab1a359b","name":"Nelson Region","ru":"Nelson Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"NSN"},{"id":"eaedd025-d123-4f81-829c-979ee8fbd600","name":"Northland Region","ru":"Northland Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"NTL"},{"id":"ae9ee532-83e3-48c5-abb1-41600db3ded3","name":"Otago Region","ru":"Otago Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"OTA"},{"id":"a1870ac9-dbcc-49e0-8aec-50c455b30814","name":"Southland Region","ru":"Southland Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"STL"},{"id":"f781134f-2238-40ec-9757-aa9e66ab2b33","name":"Taranaki Region","ru":"Taranaki Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"TKI"},{"id":"96f0654d-9fb6-431e-90b9-2cac7b96a10f","name":"Tasman District","ru":"Tasman District","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"TAS"},{"id":"ded1d633-944a-42c5-8eb7-2deeaa2f9ce9","name":"Waikato Region","ru":"Waikato Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"WKO"},{"id":"01ec5d4a-e349-4e69-b6ae-4fbada2f5906","name":"Wellington Region","ru":"Wellington Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"WGN"},{"id":"9d35f9d1-744e-4db6-9e6f-7cfe756c7808","name":"West Coast Region","ru":"West Coast Region","country":"f03952ba-6594-4def-80b9-ab4e4b6dcb89","countryCode":"NZ","stateCode":"WTC"}]
+[
+  {
+    "id": "7a3701fc-5ee1-4f05-a84f-b0a3bc6065af",
+    "en": "Auckland Region",
+    "ru": "Окленд Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "AUK"
+  },
+  {
+    "id": "c1adbc13-7f25-40b3-a111-16d0de3c3428",
+    "en": "Bay of Plenty Region",
+    "ru": "Бухта Пленти Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "BOP"
+  },
+  {
+    "id": "4f537903-f726-4a87-817d-3f05693335d0",
+    "en": "Canterbury Region",
+    "ru": "Кентерберийская область",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "CAN"
+  },
+  {
+    "id": "d5c7dba2-8391-4ceb-92f8-915fd49437e2",
+    "en": "Chatham Islands",
+    "ru": "Чатем острова",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "CIT"
+  },
+  {
+    "id": "d9aa6224-a02e-479b-b522-1eba27a1e507",
+    "en": "Gisborne District",
+    "ru": "Гисборн округ",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "GIS"
+  },
+  {
+    "id": "52e3c585-34e6-4f79-9cf1-36ec5aab3555",
+    "en": "Hawke's Bay Region",
+    "ru": "Хокс Бэй Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "HKB"
+  },
+  {
+    "id": "724e0826-4985-4a52-917b-cd3dce15f372",
+    "en": "Manawatu-Wanganui Region",
+    "ru": "Манавату-Вангануи Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "MWT"
+  },
+  {
+    "id": "9bf49066-1096-4b26-a4ee-bc483b13fb78",
+    "en": "Marlborough Region",
+    "ru": "Мальборо Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "MBH"
+  },
+  {
+    "id": "4b02af57-8f4d-4af1-a13f-734b31bfdf8e",
+    "en": "Nelson Region",
+    "ru": "Нельсон регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "NSN"
+  },
+  {
+    "id": "78cb76b1-d103-466e-8a47-24cd971a15c2",
+    "en": "Northland Region",
+    "ru": "Нортленд Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "NTL"
+  },
+  {
+    "id": "baeb512c-6911-48a8-9584-1667db499cc7",
+    "en": "Otago Region",
+    "ru": "Отаго Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "OTA"
+  },
+  {
+    "id": "9005bd78-47b1-4d59-b333-d275d0236e69",
+    "en": "Southland Region",
+    "ru": "Южный регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "STL"
+  },
+  {
+    "id": "d3376c4b-cf4c-4adb-8529-c337857afb01",
+    "en": "Taranaki Region",
+    "ru": "Таранакская область",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "TKI"
+  },
+  {
+    "id": "7496c3a4-6c1e-439b-b135-3ea9f44d342c",
+    "en": "Tasman District",
+    "ru": "Тасманский район",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "TAS"
+  },
+  {
+    "id": "ca2a9459-6729-40a7-9995-0b184cfad5e7",
+    "en": "Waikato Region",
+    "ru": "Вайкато Регион",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "WKO"
+  },
+  {
+    "id": "8cdc073e-eaa4-4821-b4d6-c7c9071a9057",
+    "en": "Wellington Region",
+    "ru": "Веллингтон",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "WGN"
+  },
+  {
+    "id": "54f33958-f654-4432-b33e-e7b251c121e9",
+    "en": "West Coast Region",
+    "ru": "Западное побережье",
+    "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
+    "countryCode": "NZ",
+    "stateCode": "WTC"
+  }
+]

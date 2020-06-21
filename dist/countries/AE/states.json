@@ -1,1 +1,58 @@
-[{"id":"fa305e2c-41c8-4e5d-9bc7-a91635c24648","name":"Abu Dhabi Emirate","ru":"Abu Dhabi Emirate","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"AZ"},{"id":"faad4198-6a0d-4242-b900-f0f31135fe11","name":"Ajman Emirate","ru":"Ajman Emirate","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"AJ"},{"id":"8cb7e772-4280-446a-ac13-c0a6499812fe","name":"Dubai","ru":"Dubai","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"DU"},{"id":"a4260f2f-4fd3-4f88-bfa5-a56e110d4bf0","name":"Fujairah","ru":"Fujairah","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"FU"},{"id":"77c29685-94de-4f1a-9e8f-89d143280b74","name":"Ras al-Khaimah","ru":"Ras al-Khaimah","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"RK"},{"id":"376a8d1f-d89c-4ce4-88ae-96ab373cfd89","name":"Sharjah Emirate","ru":"Sharjah Emirate","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"SH"},{"id":"bcf835d1-6520-4d71-8516-05ac5a0caf1b","name":"Umm al-Quwain","ru":"Umm al-Quwain","country":"4870446e-3253-4f1e-9026-86cd2095e577","countryCode":"AE","stateCode":"UQ"}]
+[
+  {
+    "id": "b26c6370-34d4-497b-9a96-454825b74182",
+    "en": "Abu Dhabi Emirate",
+    "ru": "Эмират Абу-Даби",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "AZ"
+  },
+  {
+    "id": "2960011a-8497-4799-8fc7-2da00af12a7d",
+    "en": "Ajman Emirate",
+    "ru": "Аджман Эмират",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "AJ"
+  },
+  {
+    "id": "7fb02536-93d2-4f76-83ae-8cded9d9b5ce",
+    "en": "Dubai",
+    "ru": "Дубай",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "DU"
+  },
+  {
+    "id": "1d0f7ebd-cb21-4cb6-bcf0-352748b2e683",
+    "en": "Fujairah",
+    "ru": "Фуджейра",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "FU"
+  },
+  {
+    "id": "b481a2bb-f2cd-4758-8391-7eb7cfd23a0f",
+    "en": "Ras al-Khaimah",
+    "ru": "Рас-эль-Хайма",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "RK"
+  },
+  {
+    "id": "29d0abf5-9292-4dc1-a9d2-4c691fe72800",
+    "en": "Sharjah Emirate",
+    "ru": "Эмират Шарджа",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "SH"
+  },
+  {
+    "id": "255191b1-9631-4060-bcba-5961590f0da3",
+    "en": "Umm al-Quwain",
+    "ru": "Умм Аль Кувейн",
+    "country": "e8d93e53-dd02-40d4-b9a4-7428b7e899c1",
+    "countryCode": "AE",
+    "stateCode": "UQ"
+  }
+]

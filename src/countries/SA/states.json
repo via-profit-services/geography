@@ -1,1 +1,106 @@
-[{"id":"3cb39026-f992-4ab5-952c-961670de8616","name":"'Asir Region","ru":"'Asir Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"14"},{"id":"346e86f7-9d78-4188-8368-e207d3acd2f7","name":"Al Bahah Region","ru":"Al Bahah Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"11"},{"id":"d2db20e2-1ee6-4269-9e09-fe383157893b","name":"Al Jawf Region","ru":"Al Jawf Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"12"},{"id":"aeade03b-eaaa-4f72-b755-51d49222d696","name":"Al Madinah Region","ru":"Al Madinah Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"03"},{"id":"41ea2cf5-1789-4b8d-9b5d-c83915e74c23","name":"Al-Qassim Region","ru":"Al-Qassim Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"05"},{"id":"baf2b989-aeb4-4151-a07a-0584b96fa1ca","name":"Eastern Province","ru":"Eastern Province","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"04"},{"id":"7ac31f1c-7b3c-4468-aaa0-f05c55b214a9","name":"Ha'il Region","ru":"Ha'il Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"06"},{"id":"d8f1c606-50b4-433c-9a89-3eb8a0d40e40","name":"Jizan Region","ru":"Jizan Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"09"},{"id":"ff6f6d6c-5307-4db3-ba4b-a0453d4c5e69","name":"Makkah Region","ru":"Makkah Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"02"},{"id":"7a1ddba3-50bd-491d-ace8-904517f75ddd","name":"Najran Region","ru":"Najran Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"10"},{"id":"23d6d16f-fcb1-4d11-a537-f70c283833d2","name":"Northern Borders Region","ru":"Northern Borders Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"08"},{"id":"883988b2-dfa0-41ba-a3a4-b3d7e33c83f9","name":"Riyadh Region","ru":"Riyadh Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"01"},{"id":"c745970e-4e8e-40e4-812c-576cd08660a0","name":"Tabuk Region","ru":"Tabuk Region","country":"30500405-2c0f-4d60-b364-df505b87e36e","countryCode":"SA","stateCode":"07"}]
+[
+  {
+    "id": "57edb094-008a-4b4a-b241-49e3af865385",
+    "en": "'Asir Region",
+    "ru": "Асир Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "14"
+  },
+  {
+    "id": "b97ea531-4ae7-4f65-8ea6-9d7294aaccf7",
+    "en": "Al Bahah Region",
+    "ru": "Аль-Бахах Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "11"
+  },
+  {
+    "id": "97a586e8-13cb-47e1-b4bf-88e6e3f74b81",
+    "en": "Al Jawf Region",
+    "ru": "Аль-Джавф Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "12"
+  },
+  {
+    "id": "22b8b91d-e259-4207-bb86-55eda93965de",
+    "en": "Al Madinah Region",
+    "ru": "Аль Мадина Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "03"
+  },
+  {
+    "id": "2fa84aff-1ced-4c47-9a63-ad0ba15517f2",
+    "en": "Al-Qassim Region",
+    "ru": "Аль-Касим Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "05"
+  },
+  {
+    "id": "554ac53d-00ae-478d-ac07-a09cff4d6d27",
+    "en": "Eastern Province",
+    "ru": "Восточная провинция",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "04"
+  },
+  {
+    "id": "968f068b-145a-4b85-8027-ada85e031647",
+    "en": "Ha'il Region",
+    "ru": "Хаиль Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "06"
+  },
+  {
+    "id": "b93f505e-2851-4b5e-a36b-1d353ae10694",
+    "en": "Jizan Region",
+    "ru": "Джизанская область",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "09"
+  },
+  {
+    "id": "3cea5b84-3999-44b1-9614-b02de6265ba6",
+    "en": "Makkah Region",
+    "ru": "Мекка Регион",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "02"
+  },
+  {
+    "id": "ff8e0245-60c4-4f29-8ce2-35fe04b6a702",
+    "en": "Najran Region",
+    "ru": "Наджранская область",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "10"
+  },
+  {
+    "id": "a3050506-65ce-4d2e-b073-ba8554441e7c",
+    "en": "Northern Borders Region",
+    "ru": "Северная граница региона",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "08"
+  },
+  {
+    "id": "006ca95d-f4aa-4fc7-b692-ec7f65ba8ffa",
+    "en": "Riyadh Region",
+    "ru": "Эр-Рияд",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "01"
+  },
+  {
+    "id": "acb88fc0-8425-4e3f-ac8f-130747c81e2f",
+    "en": "Tabuk Region",
+    "ru": "Табук область",
+    "country": "b4280d1c-adcf-4e3a-8370-c902c298a499",
+    "countryCode": "SA",
+    "stateCode": "07"
+  }
+]

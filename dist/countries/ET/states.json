@@ -1,1 +1,90 @@
-[{"id":"860eb50b-6ad9-40e2-93bf-883a6edfbe92","name":"Addis Ababa","ru":"Addis Ababa","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"AA"},{"id":"b29123a6-b4fd-4169-8ffa-6722b99d160b","name":"Afar Region","ru":"Afar Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"AF"},{"id":"a1acc4b9-05b6-4385-bee5-6d4c66e487d8","name":"Amhara Region","ru":"Amhara Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"AM"},{"id":"d4b03a49-4cac-42a3-880c-644109244b37","name":"Benishangul-Gumuz Region","ru":"Benishangul-Gumuz Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"BE"},{"id":"ab142ae7-9581-4e8b-b918-5eeebc0d6b9b","name":"Dire Dawa","ru":"Dire Dawa","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"DD"},{"id":"2b9ed6f6-8992-4234-9c82-9476822bb5c9","name":"Gambela Region","ru":"Gambela Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"GA"},{"id":"231a330c-a627-42a8-9848-1f1e42bbcaad","name":"Harari Region","ru":"Harari Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"HA"},{"id":"70e31d48-d915-40ff-90df-15c268326a0e","name":"Oromia Region","ru":"Oromia Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"OR"},{"id":"0f9090aa-4f50-42b5-ad09-ca9214b83861","name":"Somali Region","ru":"Somali Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"SO"},{"id":"43e4b688-384f-4737-b9a6-a1b2aaa58598","name":"Southern Nations, Nationalities, and Peoples' Region","ru":"Southern Nations, Nationalities, and Peoples' Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"SN"},{"id":"cc11c9a3-8d28-4800-b5f4-d9d0e3a2bfa2","name":"Tigray Region","ru":"Tigray Region","country":"0279b894-7528-43fc-aed6-cab446aa8f20","countryCode":"ET","stateCode":"TI"}]
+[
+  {
+    "id": "4740fc17-2abf-4cb1-b4f9-6a6fc53a42ff",
+    "en": "Addis Ababa",
+    "ru": "Аддис-Абеба",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "AA"
+  },
+  {
+    "id": "69b81066-877f-4e2e-bfc5-bd2769918ff5",
+    "en": "Afar Region",
+    "ru": "Афар Регион",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "AF"
+  },
+  {
+    "id": "34cddc2b-dd4e-4a18-967b-13ed45cae4b5",
+    "en": "Amhara Region",
+    "ru": "Амхарская область",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "AM"
+  },
+  {
+    "id": "4accf57e-62bc-4ccd-a876-8106062cf50c",
+    "en": "Benishangul-Gumuz Region",
+    "ru": "Бенишангул-Гумузская область",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "BE"
+  },
+  {
+    "id": "741468b0-0094-4b5e-baa4-e786de65cf0f",
+    "en": "Dire Dawa",
+    "ru": "Дыре Дава",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "DD"
+  },
+  {
+    "id": "a23f4052-5178-4cf3-9d1f-6c71398472a5",
+    "en": "Gambela Region",
+    "ru": "Гамбелла Регион",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "GA"
+  },
+  {
+    "id": "430c1994-763a-44fd-8e1b-c68d11c49027",
+    "en": "Harari Region",
+    "ru": "Харари Регион",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "HA"
+  },
+  {
+    "id": "015a3416-98d6-437b-88eb-15613e50cea9",
+    "en": "Oromia Region",
+    "ru": "Оромия Регион",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "OR"
+  },
+  {
+    "id": "9c991fa4-f3ee-43bd-91db-f3bc4bcefc5f",
+    "en": "Somali Region",
+    "ru": "сомалийский регион",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "SO"
+  },
+  {
+    "id": "a3a3ba28-6aa5-4137-a377-2f0dd12e0320",
+    "en": "Southern Nations, Nationalities, and Peoples' Region",
+    "ru": "Южные нации, народности и народный округ",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "SN"
+  },
+  {
+    "id": "e86d2269-ddf6-4a63-acfe-de8f6b775203",
+    "en": "Tigray Region",
+    "ru": "Тиграй область",
+    "country": "03babf2f-9d9d-48ae-a8c6-f9e421020389",
+    "countryCode": "ET",
+    "stateCode": "TI"
+  }
+]

@@ -1,1 +1,282 @@
-[{"id":"ecddbf93-5192-4a23-8a8c-7e48cfa69ed7","name":"Andaman and Nicobar Islands","ru":"Andaman and Nicobar Islands","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"AN"},{"id":"02323f9d-445a-47a8-9144-35d6cb646d07","name":"Andhra Pradesh","ru":"Andhra Pradesh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"AP"},{"id":"16a77faa-215c-41b2-b348-953ae212f51c","name":"Arunachal Pradesh","ru":"Arunachal Pradesh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"AR"},{"id":"86761816-c68e-4215-a5a2-707c918c3ad8","name":"Assam","ru":"Assam","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"AS"},{"id":"72378b38-4d4e-4c50-ad64-e5f6501ac0ff","name":"Bihar","ru":"Bihar","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"BR"},{"id":"a1a508d9-3bb6-4ca6-85e0-f5943ea6609a","name":"Chandigarh","ru":"Chandigarh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"CH"},{"id":"6ce73df1-7006-4a58-b5e1-04e8c1602e80","name":"Chhattisgarh","ru":"Chhattisgarh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"CT"},{"id":"199cfa81-f1d0-4bc9-9759-0305d3131957","name":"Dadra and Nagar Haveli","ru":"Dadra and Nagar Haveli","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"DN"},{"id":"e2fd76c6-bc91-4824-9760-153f9a2bb93c","name":"Daman and Diu","ru":"Daman and Diu","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"DD"},{"id":"2ef94570-1ced-4ef7-a919-b472fb3e5ac7","name":"Delhi","ru":"Delhi","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"DL"},{"id":"22feaff8-ae1d-48d3-ba9c-d58be0fecf98","name":"Goa","ru":"Goa","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"GA"},{"id":"9cd9e861-2b43-4b38-bb85-c57f61996373","name":"Gujarat","ru":"Gujarat","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"GJ"},{"id":"be051c0c-095b-4e24-8ff5-a4178310a8df","name":"Haryana","ru":"Haryana","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"HR"},{"id":"7633b1e7-e711-4f16-ac11-da44319b7aec","name":"Himachal Pradesh","ru":"Himachal Pradesh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"HP"},{"id":"c7b2f935-43f0-46a1-902f-2293734c409d","name":"Jammu and Kashmir","ru":"Jammu and Kashmir","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"JK"},{"id":"6ad4e8cd-a907-42bf-9c3d-09f0eeb3b621","name":"Jharkhand","ru":"Jharkhand","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"JH"},{"id":"f5fe3c56-e309-4b32-9239-152c3a4bb4e1","name":"Karnataka","ru":"Karnataka","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"KA"},{"id":"83da00e2-07b8-42eb-a6a9-fd346b1a6727","name":"Kerala","ru":"Kerala","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"KL"},{"id":"3b140f69-3902-4f01-8381-37ac77a62dac","name":"Lakshadweep","ru":"Lakshadweep","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"LD"},{"id":"9c08237a-47e5-4b92-9b4b-1d7c5e045694","name":"Madhya Pradesh","ru":"Madhya Pradesh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"MP"},{"id":"0d401b90-710e-42c1-987a-e155b3856556","name":"Maharashtra","ru":"Maharashtra","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"MH"},{"id":"e5d848d1-04f7-4fc6-81ab-e893d401d634","name":"Manipur","ru":"Manipur","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"MN"},{"id":"bfe54d50-0f75-4d66-a310-973bbd55078c","name":"Meghalaya","ru":"Meghalaya","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"ML"},{"id":"20358fca-60d0-446b-aa93-e06a40477306","name":"Mizoram","ru":"Mizoram","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"MZ"},{"id":"4d624a08-7abb-493d-9b4c-c60267b24599","name":"Nagaland","ru":"Nagaland","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"NL"},{"id":"9eb2e323-b2d2-48ca-bea7-4930c82cd417","name":"Odisha","ru":"Odisha","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"OR"},{"id":"f5429bb7-9af2-4449-bfe5-9a3fd3bfdfba","name":"Puducherry","ru":"Puducherry","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"PY"},{"id":"64895294-d09a-45db-ad6d-578e26f6c130","name":"Punjab","ru":"Punjab","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"PB"},{"id":"54c469f9-344b-4c99-9681-2cc65b9ab342","name":"Rajasthan","ru":"Rajasthan","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"RJ"},{"id":"0374afa5-3961-441c-86e4-96a648470a5f","name":"Sikkim","ru":"Sikkim","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"SK"},{"id":"58e0c3fe-cdd8-4c70-8826-ffd4e39b40f2","name":"Tamil Nadu","ru":"Tamil Nadu","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"TN"},{"id":"0a617d9a-6782-4f1b-a721-1c8d110e1c89","name":"Telangana","ru":"Telangana","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"TG"},{"id":"4445901b-bdc4-4d20-8fce-4d8819e165fc","name":"Tripura","ru":"Tripura","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"TR"},{"id":"f98f1c46-bf75-4525-b233-7e159a94e8a6","name":"Uttar Pradesh","ru":"Uttar Pradesh","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"UP"},{"id":"db745e1d-e554-40e2-b777-17610eb24261","name":"Uttarakhand","ru":"Uttarakhand","country":"3b6c20fe-3756-41df-afb7-7d3991cd459b","countryCode":"IN","stateCode":"UT"}]
+[
+  {
+    "id": "643964d1-3af9-4496-b0f2-9599222374b2",
+    "en": "Andaman and Nicobar Islands",
+    "ru": "Андаманские и Никобарские острова",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "AN"
+  },
+  {
+    "id": "dd55a258-bd6e-4ce7-b30d-039e7a68a5c5",
+    "en": "Andhra Pradesh",
+    "ru": "Андхра-Прадеш",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "AP"
+  },
+  {
+    "id": "5b2607d5-bdc3-4d10-b94f-8d8342a02a6a",
+    "en": "Arunachal Pradesh",
+    "ru": "Аруначал-Прадеш",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "AR"
+  },
+  {
+    "id": "19d6d5d7-eafa-47d6-bbc4-85192f38248c",
+    "en": "Assam",
+    "ru": "Ассам",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "AS"
+  },
+  {
+    "id": "23b89e1c-8f96-46cf-9819-3334c2423131",
+    "en": "Bihar",
+    "ru": "Бихар",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "BR"
+  },
+  {
+    "id": "078e9e2b-5037-4a96-b4f4-3d8fbb1ea624",
+    "en": "Chandigarh",
+    "ru": "Чандигарх",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "CH"
+  },
+  {
+    "id": "aa42dfc1-a878-4d88-8b68-ae3aa01852cb",
+    "en": "Chhattisgarh",
+    "ru": "Чхаттисгарх",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "CT"
+  },
+  {
+    "id": "8cbd8384-eafa-404d-b1a2-6369a6ffa27b",
+    "en": "Dadra and Nagar Haveli",
+    "ru": "Дадра и Нагар Хавели",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "DN"
+  },
+  {
+    "id": "c8527d4a-5c97-49e0-821e-922bcaa4b21a",
+    "en": "Daman and Diu",
+    "ru": "Даман и Диу",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "DD"
+  },
+  {
+    "id": "67bf1af1-9c40-462a-ade8-f8d72d6a1f7c",
+    "en": "Delhi",
+    "ru": "Дели",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "DL"
+  },
+  {
+    "id": "824e33bf-fbcf-4d6d-aed5-fbb1c3c3ffd9",
+    "en": "Goa",
+    "ru": "Гоа",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "GA"
+  },
+  {
+    "id": "940992a9-034c-44b2-b945-6418b75d592a",
+    "en": "Gujarat",
+    "ru": "Гуджарат",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "GJ"
+  },
+  {
+    "id": "98f53408-e26f-440e-93c2-410a1426aa1b",
+    "en": "Haryana",
+    "ru": "Харьяна",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "HR"
+  },
+  {
+    "id": "61e7e29d-1d56-496a-95cb-404acb7b5e98",
+    "en": "Himachal Pradesh",
+    "ru": "Химачал-Прадеш",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "HP"
+  },
+  {
+    "id": "67d8d2a6-5000-4670-981c-282311b4e28d",
+    "en": "Jammu and Kashmir",
+    "ru": "Джамму и Кашмир",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "JK"
+  },
+  {
+    "id": "876f2aa3-fd2f-41b1-871f-d13fa2c07c95",
+    "en": "Jharkhand",
+    "ru": "Джаркханд",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "JH"
+  },
+  {
+    "id": "a79e14b2-e625-408f-945f-2ec7b2045d93",
+    "en": "Karnataka",
+    "ru": "Карнатака",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "KA"
+  },
+  {
+    "id": "e4d46e28-133c-49df-b049-4600b07db77a",
+    "en": "Kerala",
+    "ru": "Керала",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "KL"
+  },
+  {
+    "id": "43a36384-ff81-42f9-b8b2-36cca3a8e862",
+    "en": "Lakshadweep",
+    "ru": "Лакшадвип",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "LD"
+  },
+  {
+    "id": "7be54cf1-4b8d-4d18-9b19-7f499490427a",
+    "en": "Madhya Pradesh",
+    "ru": "Мадхья-Прадеш",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "MP"
+  },
+  {
+    "id": "83de4dc4-1d3f-4d0d-a269-950408ec4e64",
+    "en": "Maharashtra",
+    "ru": "Махараштра",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "MH"
+  },
+  {
+    "id": "40010a48-5685-40bb-ad59-b5b95e8d78c0",
+    "en": "Manipur",
+    "ru": "Манипур",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "MN"
+  },
+  {
+    "id": "3bbe328e-2981-4e06-8ae6-2fb094426d61",
+    "en": "Meghalaya",
+    "ru": "Мегхалая",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "ML"
+  },
+  {
+    "id": "b356a7fd-3fc6-4a05-9eea-c50234947e05",
+    "en": "Mizoram",
+    "ru": "Мизорам",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "MZ"
+  },
+  {
+    "id": "9cdeb450-98ae-411c-96b4-f737d00ce4a2",
+    "en": "Nagaland",
+    "ru": "Нагаленд",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "NL"
+  },
+  {
+    "id": "540ef9bb-a6a3-4b9c-bd69-7933f6ead8cf",
+    "en": "Odisha",
+    "ru": "Одиша",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "OR"
+  },
+  {
+    "id": "993928a0-f43c-420c-8be2-858043ca7bd3",
+    "en": "Puducherry",
+    "ru": "Пудучерри",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "PY"
+  },
+  {
+    "id": "b6f2eb2c-2870-4192-b668-f2bb1f96f700",
+    "en": "Punjab",
+    "ru": "Пенджаб",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "PB"
+  },
+  {
+    "id": "17a4f4ca-2193-4a86-afde-3a921bdb9a42",
+    "en": "Rajasthan",
+    "ru": "Раджастхан",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "RJ"
+  },
+  {
+    "id": "588894c4-fee2-4604-8ffe-74e4a2c44475",
+    "en": "Sikkim",
+    "ru": "Сикким",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "SK"
+  },
+  {
+    "id": "bfaa4c2a-3d2d-4768-bcdd-07f3e7c4b11c",
+    "en": "Tamil Nadu",
+    "ru": "Тамил Наду",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "TN"
+  },
+  {
+    "id": "dae3d07e-ad74-4b12-b275-833f6c315ed0",
+    "en": "Telangana",
+    "ru": "Телангана",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "TG"
+  },
+  {
+    "id": "e1f1fd31-7ef9-4f70-9171-b7d79443d0ae",
+    "en": "Tripura",
+    "ru": "Трипура",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "TR"
+  },
+  {
+    "id": "6eb8175d-aa59-4232-9a8a-d8222c70448e",
+    "en": "Uttar Pradesh",
+    "ru": "Уттар-Прадеш",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "UP"
+  },
+  {
+    "id": "e205b529-c4e3-423a-9fca-2c6794e5e30e",
+    "en": "Uttarakhand",
+    "ru": "Уттаракханд",
+    "country": "b5356ba8-afdc-4652-b38f-304d6ecb8105",
+    "countryCode": "IN",
+    "stateCode": "UT"
+  }
+]

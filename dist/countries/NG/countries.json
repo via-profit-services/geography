@@ -1,1 +1,12 @@
-[{"id":"8c26bfe0-eca9-4b9b-ad25-24346aace9a8","name":"Nigeria","ru":"Nigeria","iso3":"NGA","iso2":"NG","phoneCode":"234","capital":"e813115b-62a0-4cb7-bc0a-afd29b324363","currency":"NGN"}]
+[
+  {
+    "id": "eb4c396b-4f51-45a8-bd3a-662bd026f951",
+    "en": "Nigeria",
+    "ru": "Нигерия",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "phoneCode": "234",
+    "capital": null,
+    "currency": "NGN"
+  }
+]

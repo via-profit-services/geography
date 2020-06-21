@@ -1,1 +1,330 @@
-[{"id":"e45a0bc1-86a2-45a4-a0cb-3998bc9015c3","name":"Alba","ru":"Alba","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"AB"},{"id":"86e22273-7bab-4318-8c87-31bf146a4017","name":"Arad County","ru":"Arad County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"AR"},{"id":"070cfbd7-909f-42a5-b008-7f9ebd27286d","name":"Arges","ru":"Arges","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"AG"},{"id":"678fcf81-786b-4e81-ae3d-37e6c911ebb8","name":"Bacău County","ru":"Bacău County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BC"},{"id":"92c0136f-7fd3-4c38-9093-d14479866f0f","name":"Bihor County","ru":"Bihor County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BH"},{"id":"0c9918f3-d62e-41a1-aaed-38f4f860e926","name":"Bistrița-Năsăud County","ru":"Bistrița-Năsăud County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BN"},{"id":"d10ae951-50c2-4f69-a5e5-8a81a815a221","name":"Botoșani County","ru":"Botoșani County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BT"},{"id":"15f0f2e9-f8b7-491b-9416-2e9398015d0d","name":"Brașov County","ru":"Brașov County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BV"},{"id":"ca5bcfd5-14e8-4e7c-a62b-d4da24dde5cd","name":"Braila","ru":"Braila","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BR"},{"id":"e87a2e55-01f3-47a0-9e11-8ebf35c4edf2","name":"Bucharest","ru":"Bucharest","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"B"},{"id":"665bb05f-ed3d-46d8-9ee6-b6eb43eab58b","name":"Buzău County","ru":"Buzău County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"BZ"},{"id":"cf94984b-93d2-4ca2-8336-7b63e4ce3d4d","name":"Caraș-Severin County","ru":"Caraș-Severin County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"CS"},{"id":"6c9f7360-1839-4e3a-a928-179408e32461","name":"Călărași County","ru":"Călărași County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"CL"},{"id":"4bcc4478-7136-469f-be17-73ca3f15ee5c","name":"Cluj County","ru":"Cluj County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"CJ"},{"id":"c36a108a-173e-4946-81aa-2d85654c945c","name":"Constanța County","ru":"Constanța County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"CT"},{"id":"810882f9-0ce8-4be4-8dcc-8300da77a730","name":"Covasna County","ru":"Covasna County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"CV"},{"id":"9000f96e-b8c4-4b3f-913d-734e9314765d","name":"Dâmbovița County","ru":"Dâmbovița County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"DB"},{"id":"da07e40e-5331-447c-aae0-ad6b362e9702","name":"Dolj County","ru":"Dolj County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"DJ"},{"id":"6f510e9b-064d-4afd-98eb-d893bfe5f33a","name":"Galați County","ru":"Galați County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"GL"},{"id":"0517882e-5aac-4d27-b21f-0d2fdfa5e46e","name":"Giurgiu County","ru":"Giurgiu County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"GR"},{"id":"5251ec5f-4e46-4169-9b9b-e5aa957a62bc","name":"Gorj County","ru":"Gorj County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"GJ"},{"id":"a9fe9e78-c896-4df0-bfe8-9016c63fd0c0","name":"Harghita County","ru":"Harghita County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"HR"},{"id":"578ea13a-0db3-4082-b3fd-cd351b07605f","name":"Hunedoara County","ru":"Hunedoara County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"HD"},{"id":"b4c608a8-9c55-40d3-8bae-32ba81e33c97","name":"Iași County","ru":"Iași County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"IS"},{"id":"f1c5c5db-4ef8-47ad-8614-80befc4f7003","name":"Ialomița County","ru":"Ialomița County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"IL"},{"id":"4572a818-c0a9-4945-98db-ef1ec51cedf6","name":"Ilfov County","ru":"Ilfov County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"IF"},{"id":"7b794eae-b894-4f38-8702-1370a6e20c69","name":"Maramureș County","ru":"Maramureș County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"MM"},{"id":"bdd205fe-4840-49a9-ad69-190bfaa19bd2","name":"Mehedinți County","ru":"Mehedinți County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"MH"},{"id":"fd09eeef-8e83-46f2-b591-7908bfeab382","name":"Neamț County","ru":"Neamț County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"NT"},{"id":"4393441d-7a73-473d-83c6-2876a9efd686","name":"Olt County","ru":"Olt County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"OT"},{"id":"73b994da-18d0-4fa8-9afe-39ff8a6b2aba","name":"Prahova County","ru":"Prahova County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"PH"},{"id":"29285726-46a1-4080-beba-da48838fcc9d","name":"Satu Mare County","ru":"Satu Mare County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"SM"},{"id":"a9626333-0097-46cd-9d57-185e2e55ee65","name":"Sălaj County","ru":"Sălaj County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"SJ"},{"id":"e5d03d48-7ccc-4b4c-b3dd-782ac1239a91","name":"Sibiu County","ru":"Sibiu County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"SB"},{"id":"7e0dcaa9-c9c9-4746-8033-95f2b1312444","name":"Suceava County","ru":"Suceava County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"SV"},{"id":"42cda78f-1fa7-4c74-b5ef-0184e9608130","name":"Teleorman County","ru":"Teleorman County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"TR"},{"id":"23e41984-a071-48cb-9713-9d7f307094c4","name":"Timiș County","ru":"Timiș County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"TM"},{"id":"801ecb97-9d63-4089-b4de-600499d0123f","name":"Tulcea County","ru":"Tulcea County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"TL"},{"id":"830c53d0-30d7-447c-9a47-8b363a64ab17","name":"Vaslui County","ru":"Vaslui County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"VS"},{"id":"57fe7cbe-ee59-47f0-aa87-829a6603b0f9","name":"Vâlcea County","ru":"Vâlcea County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"VL"},{"id":"078307ca-345a-4aba-a1b7-77783f39e558","name":"Vrancea County","ru":"Vrancea County","country":"d57ad926-7223-4358-af4b-9d5618032a6f","countryCode":"RO","stateCode":"VN"}]
+[
+  {
+    "id": "dea124cc-9fd4-43dd-8421-fd33557de736",
+    "en": "Alba",
+    "ru": "Альба",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "AB"
+  },
+  {
+    "id": "035074cd-1721-4390-9ffa-32d0dc485a0b",
+    "en": "Arad County",
+    "ru": "Арад уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "AR"
+  },
+  {
+    "id": "1c1a6518-3ff9-46db-9577-18068c140e00",
+    "en": "Arges",
+    "ru": "Арджеш",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "AG"
+  },
+  {
+    "id": "ee417ac7-1de1-4d25-9d92-d5c1880b9091",
+    "en": "Bacău County",
+    "ru": "Бакэу уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BC"
+  },
+  {
+    "id": "ffb4afde-cc1d-4a2f-83a0-952328b556cb",
+    "en": "Bihor County",
+    "ru": "Бихор уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BH"
+  },
+  {
+    "id": "fce796e1-d25a-4514-85c4-4dbaa7a2a596",
+    "en": "Bistrița-Năsăud County",
+    "ru": "Бистрица-Нэсэудский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BN"
+  },
+  {
+    "id": "76385199-12fd-4991-90b6-9e7e5a2cf61b",
+    "en": "Botoșani County",
+    "ru": "Ботошанский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BT"
+  },
+  {
+    "id": "59f7b452-677e-4764-bb94-b46aaeac61f2",
+    "en": "Brașov County",
+    "ru": "Брашовский повят",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BV"
+  },
+  {
+    "id": "2ba9f330-94ab-4d61-bc9d-e49880cf55a5",
+    "en": "Braila",
+    "ru": "Брэила",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BR"
+  },
+  {
+    "id": "21c924dd-d2c4-46bc-ac5f-77ebcf3b3b2f",
+    "en": "Bucharest",
+    "ru": "Бухарест",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "B"
+  },
+  {
+    "id": "1f5c8867-a6d3-4132-b0c3-07a2c321d8ce",
+    "en": "Buzău County",
+    "ru": "Бузэуаа",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "BZ"
+  },
+  {
+    "id": "a81a0fb6-c408-48df-a812-2d53980c6c9a",
+    "en": "Caraș-Severin County",
+    "ru": "Караж-Северин уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "CS"
+  },
+  {
+    "id": "e40bed83-3792-4c65-8a43-cf033aca961a",
+    "en": "Călărași County",
+    "ru": "край Кэлэрацкий уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "CL"
+  },
+  {
+    "id": "bd623a5f-1cd8-458b-bee8-66363e5f1021",
+    "en": "Cluj County",
+    "ru": "Клуж уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "CJ"
+  },
+  {
+    "id": "4353c3d0-3065-459b-a91d-8beeea7353da",
+    "en": "Constanța County",
+    "ru": "Констанцкий повят",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "CT"
+  },
+  {
+    "id": "50d61f44-1977-440f-b9a0-2f0e0ffc86cc",
+    "en": "Covasna County",
+    "ru": "Ковасна уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "CV"
+  },
+  {
+    "id": "c613e76c-9716-4b63-9885-a91e7e4661bb",
+    "en": "Dâmbovița County",
+    "ru": "Дымбовицкий повят",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "DB"
+  },
+  {
+    "id": "05c565d8-02bd-48e0-abcf-717d3bced04e",
+    "en": "Dolj County",
+    "ru": "Должский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "DJ"
+  },
+  {
+    "id": "e118bdfe-7ea6-4d2f-a790-2b8ced55a8d5",
+    "en": "Galați County",
+    "ru": "Галацкий повят",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "GL"
+  },
+  {
+    "id": "99df2a2c-f1a4-4743-849c-09f68a3ff620",
+    "en": "Giurgiu County",
+    "ru": "Джурджуаа уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "GR"
+  },
+  {
+    "id": "6270e79f-476f-4bef-ac82-b5208a9ec355",
+    "en": "Gorj County",
+    "ru": "Горжский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "GJ"
+  },
+  {
+    "id": "e6be3c3f-5f0e-4dc6-bb22-67af26b8e9dd",
+    "en": "Harghita County",
+    "ru": "Харгитамаа",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "HR"
+  },
+  {
+    "id": "3f52f945-b664-4cc2-9d1d-0883fffd7dee",
+    "en": "Hunedoara County",
+    "ru": "Hunedoara County",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "HD"
+  },
+  {
+    "id": "8280d9d5-e930-4913-a87f-a2138ba410e2",
+    "en": "Iași County",
+    "ru": "Ясский повят",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "IS"
+  },
+  {
+    "id": "84433031-1934-46e3-a3f2-a055b6c4253c",
+    "en": "Ialomița County",
+    "ru": "Яломинский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "IL"
+  },
+  {
+    "id": "d8ef4ccf-2e87-4fdc-ba74-e85519cada87",
+    "en": "Ilfov County",
+    "ru": "Ильфовский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "IF"
+  },
+  {
+    "id": "fa972ec4-ac30-40fe-ab76-8a752ea691c7",
+    "en": "Maramureș County",
+    "ru": "Марамуревская жупания",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "MM"
+  },
+  {
+    "id": "8e060d3c-79b0-4d48-b3be-384ed5abd66a",
+    "en": "Mehedinți County",
+    "ru": "Мехединцы",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "MH"
+  },
+  {
+    "id": "bcd84376-f0e2-4f45-9351-7a9360ebc88e",
+    "en": "Neamț County",
+    "ru": "Neamț уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "NT"
+  },
+  {
+    "id": "c74ef960-8518-441f-a861-c6f91f893837",
+    "en": "Olt County",
+    "ru": "Олт уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "OT"
+  },
+  {
+    "id": "5fbbbf5c-76e8-47d5-87ec-2e7a0398bd0f",
+    "en": "Prahova County",
+    "ru": "Праховский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "PH"
+  },
+  {
+    "id": "bd7232bf-ed4c-47a3-b756-73f8e7793fd7",
+    "en": "Satu Mare County",
+    "ru": "Сату Маре уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "SM"
+  },
+  {
+    "id": "ec3b432c-5efc-43a2-bee7-199c91994f5e",
+    "en": "Sălaj County",
+    "ru": "Салайский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "SJ"
+  },
+  {
+    "id": "124e8977-f5d0-43ac-882c-c1e9fb65837c",
+    "en": "Sibiu County",
+    "ru": "Сибиу уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "SB"
+  },
+  {
+    "id": "ebf7c159-326f-4547-9102-cab22ca4fb1c",
+    "en": "Suceava County",
+    "ru": "Сучавский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "SV"
+  },
+  {
+    "id": "9ce7c109-423c-4c28-a119-7e9147dee086",
+    "en": "Teleorman County",
+    "ru": "Телеорман уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "TR"
+  },
+  {
+    "id": "2fef9973-716b-46a7-b30f-9bca49b8d19b",
+    "en": "Timiș County",
+    "ru": "Тиминский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "TM"
+  },
+  {
+    "id": "4e0a9cef-4e89-4752-bbf0-9f4debf68fb7",
+    "en": "Tulcea County",
+    "ru": "Тулча Каунти",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "TL"
+  },
+  {
+    "id": "f3a5eada-a4c6-41da-86f9-2adacc0272b2",
+    "en": "Vaslui County",
+    "ru": "Васлуйский уезд",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "VS"
+  },
+  {
+    "id": "beb0fe2c-f2c5-4988-a664-799f1ee74499",
+    "en": "Vâlcea County",
+    "ru": "Вылчаа",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "VL"
+  },
+  {
+    "id": "f716cb9f-8aba-4ddf-a5dc-0b327fa29cea",
+    "en": "Vrancea County",
+    "ru": "Вранчаа",
+    "country": "7c5187f7-e963-40a8-afb2-cf7298f33846",
+    "countryCode": "RO",
+    "stateCode": "VN"
+  }
+]

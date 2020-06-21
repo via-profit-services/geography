@@ -1,1 +1,12 @@
-[{"id":"86124d8c-d0ec-4c48-b8f1-455b3a25762c","name":"Madagascar","ru":"Madagascar","iso3":"MDG","iso2":"MG","phoneCode":"261","capital":null,"currency":"MGA"}]
+[
+  {
+    "id": "599a4f09-420c-4647-8ce6-65cd8ca171ca",
+    "en": "Madagascar",
+    "ru": "Мадагаскар",
+    "iso3": "MDG",
+    "iso2": "MG",
+    "phoneCode": "261",
+    "capital": null,
+    "currency": "MGA"
+  }
+]

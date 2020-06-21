@@ -1,1 +1,134 @@
-[{"id":"ed2981a0-cce5-408f-baba-d4b7fa87003f","name":"Kibungo","ru":"Kibungo","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"f009939f-a98c-4f6a-be71-b1ad5d1d983f","stateCode":"02","latitude":"-2.15970000","longitude":"30.54270000"},{"id":"dcda6adc-2cd1-4657-bdfc-6735bc55a915","name":"Rwamagana","ru":"Rwamagana","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"f009939f-a98c-4f6a-be71-b1ad5d1d983f","stateCode":"02","latitude":"-1.94870000","longitude":"30.43470000"},{"id":"fe761891-4615-402c-9302-bdb4c0a7dbc5","name":"Kigali","ru":"Kigali","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"393fe08a-735c-4678-90d2-c85409d7c840","stateCode":"01","latitude":"-1.94995000","longitude":"30.05885000"},{"id":"27271682-25bf-4875-ae86-32e78e0c4097","name":"Byumba","ru":"Byumba","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"80cc4600-833b-407e-bfba-a95460946448","stateCode":"03","latitude":"-1.57630000","longitude":"30.06750000"},{"id":"5eeffc5e-efb1-436d-a782-e5b818a8d03c","name":"Musanze","ru":"Musanze","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"80cc4600-833b-407e-bfba-a95460946448","stateCode":"03","latitude":"-1.49984000","longitude":"29.63497000"},{"id":"9d1e736d-8175-4d76-8c02-6201f5a5e3f8","name":"Butare","ru":"Butare","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"8509bc86-cc53-430d-b3c7-b2482959b90f","stateCode":"05","latitude":"-2.59667000","longitude":"29.73944000"},{"id":"2e128d62-73d8-4845-bb7e-060edc005d8a","name":"Eglise Catholique, Centrale GIKO","ru":"Eglise Catholique, Centrale GIKO","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"8509bc86-cc53-430d-b3c7-b2482959b90f","stateCode":"05","latitude":"-1.93653000","longitude":"29.80610000"},{"id":"c1ac738c-1391-4b84-85fb-b3399367b19d","name":"Gitarama","ru":"Gitarama","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"8509bc86-cc53-430d-b3c7-b2482959b90f","stateCode":"05","latitude":"-2.07444000","longitude":"29.75667000"},{"id":"0645aa63-81b5-48c1-83a1-fac0511ca875","name":"Nzega","ru":"Nzega","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"8509bc86-cc53-430d-b3c7-b2482959b90f","stateCode":"05","latitude":"-2.47900000","longitude":"29.55640000"},{"id":"27142ccf-25da-4b93-9d38-d51951133913","name":"Cyangugu","ru":"Cyangugu","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"483c2e77-d3a6-458b-83db-ea1c08cc4252","stateCode":"04","latitude":"-2.48460000","longitude":"28.90750000"},{"id":"83c5c30c-22e5-4ad6-9587-9cb8cf284e7d","name":"Gisenyi","ru":"Gisenyi","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"483c2e77-d3a6-458b-83db-ea1c08cc4252","stateCode":"04","latitude":"-1.70278000","longitude":"29.25639000"},{"id":"fd72e6f2-8f4d-4de1-adef-8c681b581244","name":"Kibuye","ru":"Kibuye","country":"e306a63a-a95f-49e8-aeae-bb172e1eb5eb","countryCode":"RW","state":"483c2e77-d3a6-458b-83db-ea1c08cc4252","stateCode":"04","latitude":"-2.06028000","longitude":"29.34778000"}]
+[
+  {
+    "id": "cf1301b0-de4f-4d30-bed6-e17842a3ac76",
+    "en": "Kibungo",
+    "ru": "Кибунго",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "900af85c-7d59-4201-b896-a6e1f9147f40",
+    "stateCode": "02",
+    "latitude": "-2.15970000",
+    "longitude": "30.54270000"
+  },
+  {
+    "id": "6af8b6cb-e0fa-4142-b708-0164c4d9832c",
+    "en": "Rwamagana",
+    "ru": "Рвамагана",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "900af85c-7d59-4201-b896-a6e1f9147f40",
+    "stateCode": "02",
+    "latitude": "-1.94870000",
+    "longitude": "30.43470000"
+  },
+  {
+    "id": "95d49042-4e09-4cea-9fa6-f70c7b0388c1",
+    "en": "Kigali",
+    "ru": "Кигали",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "4bb9d9cf-5d0d-4b49-a22d-b0c8ef5e60bf",
+    "stateCode": "01",
+    "latitude": "-1.94995000",
+    "longitude": "30.05885000"
+  },
+  {
+    "id": "35b10d7a-0c5f-4154-8e4d-64d3d2038c78",
+    "en": "Byumba",
+    "ru": "Бьюмба",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "49a0ba16-4c90-4443-9f6d-2d11451a050e",
+    "stateCode": "03",
+    "latitude": "-1.57630000",
+    "longitude": "30.06750000"
+  },
+  {
+    "id": "98be76e0-d173-400a-a761-1eeaf807d2fa",
+    "en": "Musanze",
+    "ru": "Мусанзе",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "49a0ba16-4c90-4443-9f6d-2d11451a050e",
+    "stateCode": "03",
+    "latitude": "-1.49984000",
+    "longitude": "29.63497000"
+  },
+  {
+    "id": "6ddd7a31-5630-433e-8e3f-19f7584c59f1",
+    "en": "Butare",
+    "ru": "Бутаре",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "6cfc31a2-4fca-4dde-9176-45f846a3c7f0",
+    "stateCode": "05",
+    "latitude": "-2.59667000",
+    "longitude": "29.73944000"
+  },
+  {
+    "id": "aa158d0a-3bc8-4768-a1bb-e14eaf1311e3",
+    "en": "Eglise Catholique, Centrale GIKO",
+    "ru": "Эглиз Католик, Центральный ГИКО",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "6cfc31a2-4fca-4dde-9176-45f846a3c7f0",
+    "stateCode": "05",
+    "latitude": "-1.93653000",
+    "longitude": "29.80610000"
+  },
+  {
+    "id": "74f62e3f-fb8c-4708-9e91-2dbc9c5a38eb",
+    "en": "Gitarama",
+    "ru": "Гитарама",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "6cfc31a2-4fca-4dde-9176-45f846a3c7f0",
+    "stateCode": "05",
+    "latitude": "-2.07444000",
+    "longitude": "29.75667000"
+  },
+  {
+    "id": "583d9cfa-4674-49b3-8418-81e59c1e0d3e",
+    "en": "Nzega",
+    "ru": "Нзега",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "6cfc31a2-4fca-4dde-9176-45f846a3c7f0",
+    "stateCode": "05",
+    "latitude": "-2.47900000",
+    "longitude": "29.55640000"
+  },
+  {
+    "id": "15063c4a-7614-4c0b-af6a-46fff8f541ec",
+    "en": "Cyangugu",
+    "ru": "Чьянгугу",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "acfaf82c-de7e-4e68-b122-4660d85b2985",
+    "stateCode": "04",
+    "latitude": "-2.48460000",
+    "longitude": "28.90750000"
+  },
+  {
+    "id": "a16fb52f-3a6a-469d-b978-a3c1cfca09ee",
+    "en": "Gisenyi",
+    "ru": "Гисеньи",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "acfaf82c-de7e-4e68-b122-4660d85b2985",
+    "stateCode": "04",
+    "latitude": "-1.70278000",
+    "longitude": "29.25639000"
+  },
+  {
+    "id": "a53235d2-d797-45cc-b98d-65a2632ca839",
+    "en": "Kibuye",
+    "ru": "Кибуе",
+    "country": "fec633c8-00e4-4550-8fed-2b0c379131ba",
+    "countryCode": "RW",
+    "state": "acfaf82c-de7e-4e68-b122-4660d85b2985",
+    "stateCode": "04",
+    "latitude": "-2.06028000",
+    "longitude": "29.34778000"
+  }
+]

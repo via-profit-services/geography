@@ -1,1 +1,562 @@
-[{"id":"152a4008-f4aa-4c52-a76a-20b3b702c5d2","name":"Bagerhat District","ru":"Bagerhat District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"05"},{"id":"39e987ba-0fa6-4335-9bae-660c967903b9","name":"Bahadia","ru":"Bahadia","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"33"},{"id":"e8c3c1aa-0b1c-4aef-b534-0b6a53e85121","name":"Bandarban District","ru":"Bandarban District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"01"},{"id":"5b0dc7c4-7ca4-44ca-aff3-397f69d87d20","name":"Barguna District","ru":"Barguna District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"02"},{"id":"7058d5eb-de36-421a-83b3-470c8ad54283","name":"Barisal District","ru":"Barisal District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"06"},{"id":"258ea113-6742-4e26-addf-0839ef757d34","name":"Barisal Division","ru":"Barisal Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"A"},{"id":"661c5874-ded4-4eb8-b859-8f2763da92e7","name":"Bhola District","ru":"Bhola District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"07"},{"id":"873e023e-09e6-4b87-a6b4-a9b451b776ad","name":"Bogra District","ru":"Bogra District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"03"},{"id":"ecf2cc00-dd98-4a74-b46a-87b2d57a47d6","name":"Brahmanbaria District","ru":"Brahmanbaria District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"04"},{"id":"d15c8062-46a4-45d0-a683-18a01308d363","name":"Chandpur District","ru":"Chandpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"09"},{"id":"61a4c03b-1a33-4f73-b50b-0e86bd332d23","name":"Chapai Nawabganj District","ru":"Chapai Nawabganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"45"},{"id":"0f42375b-c856-4d06-aa76-9681572528da","name":"Chittagong District","ru":"Chittagong District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"10"},{"id":"35398082-34a5-4054-849c-4fb17ad3bbe1","name":"Chittagong Division","ru":"Chittagong Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"B"},{"id":"062aea06-6e52-4963-82f7-e181a17e7d67","name":"Chuadanga District","ru":"Chuadanga District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"12"},{"id":"83bdad90-61ca-4c61-835f-d0bb4c25b6a4","name":"Comilla District","ru":"Comilla District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"08"},{"id":"36953aed-b5ce-4b36-aabf-f1952cf42bf4","name":"Cox's Bazar District","ru":"Cox's Bazar District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"11"},{"id":"40d3b6ac-a669-485e-8f10-52f6327617f1","name":"Dhaka District","ru":"Dhaka District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"13"},{"id":"9d38a832-fc0a-4170-b03b-7289797418a3","name":"Dhaka Division","ru":"Dhaka Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"C"},{"id":"2c54b144-245d-4966-b94a-ef39f1e72e7a","name":"Dinajpur District","ru":"Dinajpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"14"},{"id":"eb7838ce-b2ee-4536-89b0-d327626a1563","name":"Faridpur District","ru":"Faridpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"15"},{"id":"657d38f1-7a0e-4903-9b54-4be6e13d4ce0","name":"Feni District","ru":"Feni District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"16"},{"id":"01b2a507-3e61-475e-9b72-904dca37200f","name":"Gaibandha District","ru":"Gaibandha District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"19"},{"id":"e203c6c2-1812-4354-8e82-e00ac401c137","name":"Gazipur District","ru":"Gazipur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"18"},{"id":"ef644b14-3a06-4ea8-9e4e-8a1cb9ce1963","name":"Gopalganj District","ru":"Gopalganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"17"},{"id":"b4bb9243-c83e-448a-9296-6b6dcba22690","name":"Habiganj District","ru":"Habiganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"20"},{"id":"e15e9e47-fd1f-4de7-b5ae-aaf64a2cf864","name":"Jamalpur District","ru":"Jamalpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"21"},{"id":"8e6ada0e-c308-4b3a-8e59-9b9da49ceaee","name":"Jessore District","ru":"Jessore District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"22"},{"id":"d8dcc446-eb8d-42e0-ad34-40f7512160f6","name":"Jhalokati District","ru":"Jhalokati District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"25"},{"id":"6ca9101e-0574-4920-9b1d-a881a8b83751","name":"Jhenaidah District","ru":"Jhenaidah District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"23"},{"id":"b8b6a5bb-2840-4767-b335-30b037e869a0","name":"Joypurhat District","ru":"Joypurhat District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"24"},{"id":"ada48bc5-8bd5-451e-b1e2-75945b2e56a7","name":"Khagrachari District","ru":"Khagrachari District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"29"},{"id":"776c22c9-f837-490a-b25c-aa0ed53e0456","name":"Khulna District","ru":"Khulna District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"27"},{"id":"d9bcbff1-af0d-449c-8f7a-a26362c331ec","name":"Khulna Division","ru":"Khulna Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"D"},{"id":"5755ea2b-f5f1-42bc-bef5-d313177c3733","name":"Kishoreganj District","ru":"Kishoreganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"26"},{"id":"e7cda9cb-e932-4792-aa09-4e9337405de9","name":"Kurigram District","ru":"Kurigram District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"28"},{"id":"757bd366-6301-4d97-ad30-35bec299c02c","name":"Kushtia District","ru":"Kushtia District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"30"},{"id":"b41bbaec-478a-4212-8624-967e2856a68f","name":"Lakshmipur District","ru":"Lakshmipur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"31"},{"id":"806c5f9f-5384-4391-aa2c-7aa1565d1ccb","name":"Lalmonirhat District","ru":"Lalmonirhat District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"32"},{"id":"e233b597-3aeb-4121-b83e-e1f0c87b3bfa","name":"Madaripur District","ru":"Madaripur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"36"},{"id":"f26dbfb5-b8fa-4bae-ac5f-911e9a5485c5","name":"Meherpur District","ru":"Meherpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"39"},{"id":"3f4eef90-5692-4d0c-a2c7-6fb69e593128","name":"Moulvibazar District","ru":"Moulvibazar District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"38"},{"id":"0b743ab2-5c98-47fe-b00c-32d518f816ea","name":"Munshiganj District","ru":"Munshiganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"35"},{"id":"8fe8ebd9-5154-4f70-a57f-ee19badf838b","name":"Mymensingh District","ru":"Mymensingh District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"34"},{"id":"5ea42f8b-9bee-4641-808f-baedad492c61","name":"Mymensingh Division","ru":"Mymensingh Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"H"},{"id":"9ecd091e-465d-47e1-b8ff-467285d6439a","name":"Naogaon District","ru":"Naogaon District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"48"},{"id":"63d64f12-412d-4114-b76e-2c688e69f409","name":"Narail District","ru":"Narail District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"43"},{"id":"dfb005f8-f55f-4915-bc3b-781e9eee7f81","name":"Narayanganj District","ru":"Narayanganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"40"},{"id":"63dd03af-7094-43ce-8f70-86a54b038571","name":"Natore District","ru":"Natore District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"44"},{"id":"85e0ad6c-f715-4451-a5c2-11fbe4241e07","name":"Netrokona District","ru":"Netrokona District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"41"},{"id":"7fe0cc0b-2b31-4a45-ab73-a9f7b37b3753","name":"Nilphamari District","ru":"Nilphamari District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"46"},{"id":"ed64f0a5-76ef-4c69-a892-c8936c2e36f2","name":"Noakhali District","ru":"Noakhali District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"47"},{"id":"6b9a3245-c65f-415a-96c2-5dde92b8087e","name":"Pabna District","ru":"Pabna District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"49"},{"id":"5477690e-4099-4ead-ba13-d0568bef5bcb","name":"Panchagarh District","ru":"Panchagarh District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"52"},{"id":"5dd4adbc-d01e-4af4-96b0-ee74ff64e1d5","name":"Patuakhali District","ru":"Patuakhali District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"51"},{"id":"b87bc4bb-53d5-4e67-a07e-79bb2a794a1e","name":"Pirojpur District","ru":"Pirojpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"50"},{"id":"abf27e5c-e1ac-4bc7-8ace-e69b9c4dda21","name":"Rajbari District","ru":"Rajbari District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"53"},{"id":"d49224a0-e1fc-4bb1-b624-3f4fe9139014","name":"Rajshahi District","ru":"Rajshahi District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"54"},{"id":"056ff50d-2537-48e9-befa-d32c959b67cc","name":"Rajshahi Division","ru":"Rajshahi Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"E"},{"id":"b8ddec41-c007-42f7-94dc-01999bcc2fa3","name":"Rangamati Hill District","ru":"Rangamati Hill District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"56"},{"id":"ca196dd3-9292-4986-bc07-92c5dd293c98","name":"Rangpur District","ru":"Rangpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"55"},{"id":"dea0fdcb-c4fe-4dfe-b531-27c6433b4eaa","name":"Rangpur Division","ru":"Rangpur Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"F"},{"id":"baa9a1e5-d919-4cfb-bec3-117e1fe69af8","name":"Satkhira District","ru":"Satkhira District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"58"},{"id":"e8ed3937-e8cc-4df9-ba28-ece85957f42e","name":"Shariatpur District","ru":"Shariatpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"62"},{"id":"c424153f-ea35-45df-951a-8f8e663d4d35","name":"Sherpur District","ru":"Sherpur District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"57"},{"id":"7b27121f-c209-4425-9725-1b437f74575e","name":"Sirajganj District","ru":"Sirajganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"59"},{"id":"2cdecec8-0a73-44e3-b2c0-3595f9078300","name":"Sunamganj District","ru":"Sunamganj District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"61"},{"id":"7958d9ed-b984-4aee-a3c8-79943b7de654","name":"Sylhet District","ru":"Sylhet District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"60"},{"id":"744a977d-7915-4839-ad47-ca1a3fc48df2","name":"Sylhet Division","ru":"Sylhet Division","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"G"},{"id":"4337c4b1-8028-43ef-b710-a81655a66252","name":"Tangail District","ru":"Tangail District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"63"},{"id":"c8a51891-8f83-42f9-8b5f-0b1d376b354b","name":"Thakurgaon District","ru":"Thakurgaon District","country":"f75bd600-7f4b-4203-9d93-30e44a16b91d","countryCode":"BD","stateCode":"64"}]
+[
+  {
+    "id": "bc64f550-fa52-4059-a67c-d021b48997b3",
+    "en": "Bagerhat District",
+    "ru": "Багерхат Район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "05"
+  },
+  {
+    "id": "f9d06494-f1ce-468f-833e-b27f50759417",
+    "en": "Bahadia",
+    "ru": "Бахадия",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "33"
+  },
+  {
+    "id": "5e1f49a0-cb0f-4464-9376-0e4da3034e6c",
+    "en": "Bandarban District",
+    "ru": "Бандарбан район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "01"
+  },
+  {
+    "id": "6e068c18-953f-48f8-85f6-be8cab92c544",
+    "en": "Barguna District",
+    "ru": "Баргуна район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "02"
+  },
+  {
+    "id": "86ef378e-119b-4efe-a799-8f393d5fbfe8",
+    "en": "Barisal District",
+    "ru": "Барисальский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "06"
+  },
+  {
+    "id": "64e81780-7115-4136-b60b-b5d6f254eaa5",
+    "en": "Barisal Division",
+    "ru": "Барисальская область",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "A"
+  },
+  {
+    "id": "27f142b7-a74b-400f-858d-711308bbf89c",
+    "en": "Bhola District",
+    "ru": "Бхола район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "07"
+  },
+  {
+    "id": "379d24e2-8ab5-477d-9f7f-016fae926256",
+    "en": "Bogra District",
+    "ru": "Боградский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "03"
+  },
+  {
+    "id": "fe720ced-04e9-4048-b7ee-066686d4c42f",
+    "en": "Brahmanbaria District",
+    "ru": "Брахманбария район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "04"
+  },
+  {
+    "id": "9e09cd41-7ddd-4fe3-897d-7632ceff00d6",
+    "en": "Chandpur District",
+    "ru": "Чандпур округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "09"
+  },
+  {
+    "id": "deebfd55-8714-4ced-9485-44bbd7874f23",
+    "en": "Chapai Nawabganj District",
+    "ru": "Чапай Навабганджский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "45"
+  },
+  {
+    "id": "43bba229-209d-4ba4-8edc-360c9a24a92a",
+    "en": "Chittagong District",
+    "ru": "Читтагонг округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "10"
+  },
+  {
+    "id": "a7d9be7e-e392-4eaa-87b0-d3dc64aa6964",
+    "en": "Chittagong Division",
+    "ru": "Читтагонг Отдел",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "B"
+  },
+  {
+    "id": "5cf3d0d1-42f9-4722-84fd-efd9d97b4a59",
+    "en": "Chuadanga District",
+    "ru": "Чуаданга район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "12"
+  },
+  {
+    "id": "aa3876b7-f681-4853-8ec0-da7f27ab2848",
+    "en": "Comilla District",
+    "ru": "Комилла округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "08"
+  },
+  {
+    "id": "aaa91c78-2b0d-4ddb-8b41-e724ab1c70b1",
+    "en": "Cox's Bazar District",
+    "ru": "Кокс-Базарский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "11"
+  },
+  {
+    "id": "1d386709-5bd4-43c7-8d19-7e83381b9bf1",
+    "en": "Dhaka District",
+    "ru": "Дакка округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "13"
+  },
+  {
+    "id": "5e5dfbf2-35b5-477a-9d96-7858880486d8",
+    "en": "Dhaka Division",
+    "ru": "Дакка Дивизион",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "C"
+  },
+  {
+    "id": "6447e23e-26fe-4ae0-834d-20977e951834",
+    "en": "Dinajpur District",
+    "ru": "Динажпурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "14"
+  },
+  {
+    "id": "5b791bef-2786-4473-8ba8-be2b4c6733d2",
+    "en": "Faridpur District",
+    "ru": "Фаридпурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "15"
+  },
+  {
+    "id": "038acfcd-4f32-49f7-8380-912c43b8166c",
+    "en": "Feni District",
+    "ru": "Феньский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "16"
+  },
+  {
+    "id": "53d03f72-c577-46b6-b1bd-59cc7ccde49d",
+    "en": "Gaibandha District",
+    "ru": "Гайбандхинский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "19"
+  },
+  {
+    "id": "7d102bef-9d06-4225-bdcf-e48f29d08775",
+    "en": "Gazipur District",
+    "ru": "Газипурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "18"
+  },
+  {
+    "id": "924b3284-c2dd-473d-afd8-5be779aa451d",
+    "en": "Gopalganj District",
+    "ru": "Гопалганджский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "17"
+  },
+  {
+    "id": "d0780eaa-5cd2-46af-9ebc-039a99c62e46",
+    "en": "Habiganj District",
+    "ru": "Хабигандж округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "20"
+  },
+  {
+    "id": "db7504a3-f3f1-414f-b651-f30a4b10418f",
+    "en": "Jamalpur District",
+    "ru": "Джамалпурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "21"
+  },
+  {
+    "id": "37ac25d1-a17d-418d-91ba-729ed7e974e1",
+    "en": "Jessore District",
+    "ru": "Джессор округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "22"
+  },
+  {
+    "id": "7a87f7b2-9644-4550-81b2-20dc975302e4",
+    "en": "Jhalokati District",
+    "ru": "Джалокати район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "25"
+  },
+  {
+    "id": "67a6d6b1-3e03-412f-a596-115733f782ae",
+    "en": "Jhenaidah District",
+    "ru": "Дженаида округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "23"
+  },
+  {
+    "id": "1a147516-9a63-4475-90b0-5f8b7539272c",
+    "en": "Joypurhat District",
+    "ru": "Джойпурхат район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "24"
+  },
+  {
+    "id": "a4ad55ca-605c-478f-a3ab-455d7ca20e28",
+    "en": "Khagrachari District",
+    "ru": "Хаграчарский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "29"
+  },
+  {
+    "id": "debca1bd-89d5-4daa-8280-c7f84794bf92",
+    "en": "Khulna District",
+    "ru": "Хульнинский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "27"
+  },
+  {
+    "id": "70f8b9e7-8c0b-49ba-884c-60883fd1c255",
+    "en": "Khulna Division",
+    "ru": "Кхулненская область",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "D"
+  },
+  {
+    "id": "364ef135-0884-4023-bbe9-29f9cdd4fbdb",
+    "en": "Kishoreganj District",
+    "ru": "Кишореганжский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "26"
+  },
+  {
+    "id": "365397bf-7512-4851-9a91-06b70ea29f42",
+    "en": "Kurigram District",
+    "ru": "Куриграмский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "28"
+  },
+  {
+    "id": "dd0eb02f-0c5a-4a0e-baa8-73ce565318d5",
+    "en": "Kushtia District",
+    "ru": "Куштский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "30"
+  },
+  {
+    "id": "98a7d37f-2b34-4b29-8152-baceee3d9991",
+    "en": "Lakshmipur District",
+    "ru": "Лакшмипурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "31"
+  },
+  {
+    "id": "f4a7966e-6c1a-4549-adea-cfacbd78146e",
+    "en": "Lalmonirhat District",
+    "ru": "Лалмонирхат район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "32"
+  },
+  {
+    "id": "a888c944-623f-4718-96f8-0c835a92bb2c",
+    "en": "Madaripur District",
+    "ru": "Мадарипурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "36"
+  },
+  {
+    "id": "c1e962a7-16c3-4f14-a32f-7b43e3ee2bea",
+    "en": "Meherpur District",
+    "ru": "Мехерпурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "39"
+  },
+  {
+    "id": "d10c52d8-a7de-432b-937b-bf7482aa2763",
+    "en": "Moulvibazar District",
+    "ru": "Мулвибазарский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "38"
+  },
+  {
+    "id": "4dafc484-1ed6-4476-be9a-8487b91758ad",
+    "en": "Munshiganj District",
+    "ru": "Муншиганджский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "35"
+  },
+  {
+    "id": "9e2303aa-053c-42b1-b0ce-36a0a8bfb605",
+    "en": "Mymensingh District",
+    "ru": "Мименсингх район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "34"
+  },
+  {
+    "id": "9f5f5947-3b91-4346-ba1d-f6c22868507e",
+    "en": "Mymensingh Division",
+    "ru": "Мименсингхский район области",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "H"
+  },
+  {
+    "id": "5acc899a-738b-42f7-b5cc-e6a4d12805d0",
+    "en": "Naogaon District",
+    "ru": "Наогаонский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "48"
+  },
+  {
+    "id": "f7de81d0-6116-49ef-84ad-dacaa3bbaa40",
+    "en": "Narail District",
+    "ru": "Нараил район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "43"
+  },
+  {
+    "id": "1c51d2c3-83a3-44a3-a59c-4864cd764601",
+    "en": "Narayanganj District",
+    "ru": "Нараянганджский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "40"
+  },
+  {
+    "id": "b0603e79-837e-4fee-a388-af0188cdf5b8",
+    "en": "Natore District",
+    "ru": "Приморский край",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "44"
+  },
+  {
+    "id": "3fc51218-a76d-4298-b1f9-bcf4d0401d48",
+    "en": "Netrokona District",
+    "ru": "Нетрокона район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "41"
+  },
+  {
+    "id": "7b27b381-5d0e-4d02-919f-513b848e13be",
+    "en": "Nilphamari District",
+    "ru": "нильфамари район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "46"
+  },
+  {
+    "id": "9df20420-d206-480f-9c1a-fcb1cf9c9d2d",
+    "en": "Noakhali District",
+    "ru": "Ноахалинский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "47"
+  },
+  {
+    "id": "6ab7b353-5fe2-490c-a701-d6b106fdbce6",
+    "en": "Pabna District",
+    "ru": "Пабненский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "49"
+  },
+  {
+    "id": "aa757515-f2cc-4049-ad31-7c87e9f87a87",
+    "en": "Panchagarh District",
+    "ru": "Панчагарский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "52"
+  },
+  {
+    "id": "b943a0da-7ba2-4db5-b758-cecac2ca320a",
+    "en": "Patuakhali District",
+    "ru": "Патуахалинский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "51"
+  },
+  {
+    "id": "2c69f3b7-b1fd-4aec-9307-ac7e6308038e",
+    "en": "Pirojpur District",
+    "ru": "Пиропурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "50"
+  },
+  {
+    "id": "c1218c50-3751-4461-bef1-27560a81d852",
+    "en": "Rajbari District",
+    "ru": "район Райбарский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "53"
+  },
+  {
+    "id": "a55bd4d1-242f-497f-a9ee-032425e2676e",
+    "en": "Rajshahi District",
+    "ru": "Район Раджшахи Район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "54"
+  },
+  {
+    "id": "8a9dd4bb-6673-4cf8-b5de-873d56a128ad",
+    "en": "Rajshahi Division",
+    "ru": "Район Раджшахи Дивизион",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "E"
+  },
+  {
+    "id": "c36ee865-8016-4fbc-8499-4048dcc1d225",
+    "en": "Rangamati Hill District",
+    "ru": "Rangamati Hill District",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "56"
+  },
+  {
+    "id": "44639a29-7513-442d-9122-7f69e581262d",
+    "en": "Rangpur District",
+    "ru": "Рангпур округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "55"
+  },
+  {
+    "id": "28fad720-8fe5-4889-be3c-95553c0ec52d",
+    "en": "Rangpur Division",
+    "ru": "Рангпур Дивизион",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "F"
+  },
+  {
+    "id": "4548462d-b548-469b-990a-43b789afd51a",
+    "en": "Satkhira District",
+    "ru": "Сатхира район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "58"
+  },
+  {
+    "id": "bb4bb623-8701-48bf-9c7d-89ec31612ac5",
+    "en": "Shariatpur District",
+    "ru": "Шариатпурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "62"
+  },
+  {
+    "id": "3a4f3e17-ea21-4936-a1bc-428b5652980b",
+    "en": "Sherpur District",
+    "ru": "Шерпурский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "57"
+  },
+  {
+    "id": "91640565-d9b3-4f5d-9265-a1ea9fb9bf2d",
+    "en": "Sirajganj District",
+    "ru": "Сираджганджский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "59"
+  },
+  {
+    "id": "4bb16db0-6847-461c-9612-3080d49b9da1",
+    "en": "Sunamganj District",
+    "ru": "Сунамганджский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "61"
+  },
+  {
+    "id": "9e8dbf33-09ee-4bcd-97c6-ff461e28adc0",
+    "en": "Sylhet District",
+    "ru": "Силхетский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "60"
+  },
+  {
+    "id": "eca00420-ef85-47a8-925e-805c651d5ee5",
+    "en": "Sylhet Division",
+    "ru": "Силхетский районный отдел",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "G"
+  },
+  {
+    "id": "b253800f-be1b-48f1-8310-b3a303ed307e",
+    "en": "Tangail District",
+    "ru": "Тангайский район",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "63"
+  },
+  {
+    "id": "8562041f-3ace-4a3b-a032-b7eeae7f5a84",
+    "en": "Thakurgaon District",
+    "ru": "Такургаон округ",
+    "country": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "countryCode": "BD",
+    "stateCode": "64"
+  }
+]

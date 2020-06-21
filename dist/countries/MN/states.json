@@ -1,1 +1,170 @@
-[{"id":"dab59347-805b-426e-a9c0-92723fd470d1","name":"Arkhangai Province","ru":"Arkhangai Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"073"},{"id":"5256423c-1e36-41c3-8a77-46975e987dda","name":"Ömnögovi Province","ru":"Ömnögovi Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"053"},{"id":"ad693083-1205-400d-9ecf-b13412f82215","name":"Övörkhangai Province","ru":"Övörkhangai Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"055"},{"id":"4ff74193-e550-449e-8682-de0d072812db","name":"Bayan-Ölgii Province","ru":"Bayan-Ölgii Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"071"},{"id":"ea93f956-aea4-449d-ae03-756540674f00","name":"Bayankhongor Province","ru":"Bayankhongor Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"069"},{"id":"a397e155-8373-4b73-962a-867b28277d36","name":"Bulgan Province","ru":"Bulgan Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"067"},{"id":"c46fbdca-4ee3-40ae-ad45-3451b9f8d08e","name":"Darkhan-Uul Province","ru":"Darkhan-Uul Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"037"},{"id":"474c7781-8a73-4547-b480-443c6352a48c","name":"Dornod Province","ru":"Dornod Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"061"},{"id":"98843a62-747c-4774-a2b7-90c9a793c317","name":"Dornogovi Province","ru":"Dornogovi Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"063"},{"id":"f6e98449-a61a-414a-8398-0997861bb7a0","name":"Dundgovi Province","ru":"Dundgovi Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"059"},{"id":"a3762704-2b77-4e68-9c7a-23d63b0202f2","name":"Govi-Altai Province","ru":"Govi-Altai Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"065"},{"id":"930b30b4-8c7f-43ba-a38f-c8e3280c0ec8","name":"Govisümber Province","ru":"Govisümber Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"064"},{"id":"25522205-836b-4045-b74b-ba40a2f03fb1","name":"Khövsgöl Province","ru":"Khövsgöl Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"041"},{"id":"eef9b7cd-367a-4919-bf58-de4499d0e314","name":"Khentii Province","ru":"Khentii Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"039"},{"id":"5926337c-3afe-4db7-90bd-d0572af1afe0","name":"Khovd Province","ru":"Khovd Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"043"},{"id":"d8533057-925e-44e2-b58d-a27cf8a4af34","name":"Orkhon Province","ru":"Orkhon Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"035"},{"id":"cfa6ab6d-440c-4e12-b937-08f21ad222a8","name":"Sükhbaatar Province","ru":"Sükhbaatar Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"051"},{"id":"03c7c8cc-d928-4501-b79c-62f5d669648a","name":"Selenge Province","ru":"Selenge Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"049"},{"id":"e98fdf7e-a548-4b4f-903e-e3258ee1749c","name":"Töv Province","ru":"Töv Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"047"},{"id":"43e9c3d1-73f1-4d46-9352-bd4f4ec3821c","name":"Uvs Province","ru":"Uvs Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"046"},{"id":"8965174c-fb61-4b22-a79e-0250d113ad8b","name":"Zavkhan Province","ru":"Zavkhan Province","country":"fda5cac9-7a0d-4788-aa4c-14d4f428c77f","countryCode":"MN","stateCode":"057"}]
+[
+  {
+    "id": "e9d24bce-9ccf-4fb5-a6dc-bd1af5938d9c",
+    "en": "Arkhangai Province",
+    "ru": "Архангайская область",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "073"
+  },
+  {
+    "id": "712d848d-4886-4717-a959-185a6e476616",
+    "en": "Ömnögovi Province",
+    "ru": "Ömnögovi провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "053"
+  },
+  {
+    "id": "7f5b16bd-e4ef-4609-bf16-eab08e291218",
+    "en": "Övörkhangai Province",
+    "ru": "Övörkhangai провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "055"
+  },
+  {
+    "id": "65986dca-dafd-4d0d-a16f-184e433662e7",
+    "en": "Bayan-Ölgii Province",
+    "ru": "Баян-Ольгийская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "071"
+  },
+  {
+    "id": "33d75dd1-16c8-4abf-a50f-4218fcdeb064",
+    "en": "Bayankhongor Province",
+    "ru": "Баянхонгор провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "069"
+  },
+  {
+    "id": "5143288c-32ba-46e2-9a40-009363a7679c",
+    "en": "Bulgan Province",
+    "ru": "Булганская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "067"
+  },
+  {
+    "id": "832dbabb-1a58-47b6-8b0c-9bac7827cc0a",
+    "en": "Darkhan-Uul Province",
+    "ru": "Дархан-Уульская область",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "037"
+  },
+  {
+    "id": "fa20abc8-67dc-4d13-af85-2e4ce15225ed",
+    "en": "Dornod Province",
+    "ru": "дорноденская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "061"
+  },
+  {
+    "id": "9c976c63-3901-45b7-99a6-78ab4b71ad41",
+    "en": "Dornogovi Province",
+    "ru": "Дорногови губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "063"
+  },
+  {
+    "id": "a05b73bc-2532-405b-87cb-15f33058e43f",
+    "en": "Dundgovi Province",
+    "ru": "Дундговская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "059"
+  },
+  {
+    "id": "00627864-b7a6-4da9-9f49-2ac05c91960a",
+    "en": "Govi-Altai Province",
+    "ru": "Гови-Алтайский край",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "065"
+  },
+  {
+    "id": "2ee028c6-e6f3-413b-98b0-ba45eead9640",
+    "en": "Govisümber Province",
+    "ru": "Govisümber провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "064"
+  },
+  {
+    "id": "a7a1277f-cb15-47e4-8609-64d1341e1350",
+    "en": "Khövsgöl Province",
+    "ru": "Хёвсгёль провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "041"
+  },
+  {
+    "id": "4bff6d14-80cd-4b87-9c02-41b9ebae810b",
+    "en": "Khentii Province",
+    "ru": "Хентийская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "039"
+  },
+  {
+    "id": "fa5af21a-72ea-40eb-8b88-d21ad8760141",
+    "en": "Khovd Province",
+    "ru": "Ховдская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "043"
+  },
+  {
+    "id": "38ec6fb6-5a4f-4b2d-9c48-5595808ecfca",
+    "en": "Orkhon Province",
+    "ru": "Орхонская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "035"
+  },
+  {
+    "id": "138a2b0b-422e-40a2-9603-4d9fb6c1f5f8",
+    "en": "Sükhbaatar Province",
+    "ru": "Сухбаатарская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "051"
+  },
+  {
+    "id": "91a677a3-d719-404c-9820-1485587673ae",
+    "en": "Selenge Province",
+    "ru": "Селенга провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "049"
+  },
+  {
+    "id": "e5fa33a5-b846-473d-9bfc-4daa0c8cf5a4",
+    "en": "Töv Province",
+    "ru": "Тёвская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "047"
+  },
+  {
+    "id": "39c1921e-dea1-4ed3-a02d-8e083ba90c74",
+    "en": "Uvs Province",
+    "ru": "увс провинция",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "046"
+  },
+  {
+    "id": "f90cb936-5ac8-497b-b28a-8077adc06374",
+    "en": "Zavkhan Province",
+    "ru": "Завханская губерния",
+    "country": "30e62dd1-2b25-4d25-89f2-586b94755991",
+    "countryCode": "MN",
+    "stateCode": "057"
+  }
+]

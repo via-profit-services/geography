@@ -1,1 +1,12 @@
-[{"id":"5527948c-434b-43ec-b966-0db143549d94","name":"Liechtenstein","ru":"Liechtenstein","iso3":"LIE","iso2":"LI","phoneCode":"423","capital":"d72078c3-3495-4486-9ef3-d22e1273644c","currency":"CHF"}]
+[
+  {
+    "id": "85eea3af-0962-417d-bd1a-e3db9558d24e",
+    "en": "Liechtenstein",
+    "ru": "Лихтенштейн",
+    "iso3": "LIE",
+    "iso2": "LI",
+    "phoneCode": "423",
+    "capital": null,
+    "currency": "CHF"
+  }
+]

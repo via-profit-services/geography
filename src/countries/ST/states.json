@@ -1,1 +1,18 @@
-[{"id":"d87a82ef-5e55-4465-a86b-5a305cca881b","name":"Príncipe Province","ru":"Príncipe Province","country":"23e192c6-8010-4751-8b5c-e1adc6036df5","countryCode":"ST","stateCode":"P"},{"id":"b874ee30-a033-4cbe-aed0-3f1d5e231785","name":"São Tomé Province","ru":"São Tomé Province","country":"23e192c6-8010-4751-8b5c-e1adc6036df5","countryCode":"ST","stateCode":"S"}]
+[
+  {
+    "id": "99114090-9ace-4c8d-8321-e8508f694f91",
+    "en": "Príncipe Province",
+    "ru": "Принсипи (провинция)",
+    "country": "f13c216e-e591-4eb3-8114-30e77cbecf5c",
+    "countryCode": "ST",
+    "stateCode": "P"
+  },
+  {
+    "id": "6413b479-e0f7-4f58-89a3-ff7676081ad3",
+    "en": "São Tomé Province",
+    "ru": "Сан-Томе провинция",
+    "country": "f13c216e-e591-4eb3-8114-30e77cbecf5c",
+    "countryCode": "ST",
+    "stateCode": "S"
+  }
+]

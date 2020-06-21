@@ -1,1 +1,12 @@
-[{"id":"0400c1c0-db09-49b2-a7df-5ec6dce2be35","name":"Trinidad And Tobago","ru":"Trinidad And Tobago","iso3":"TTO","iso2":"TT","phoneCode":"+1-868","capital":"ad02903c-c0d2-4f49-acce-b833b952027e","currency":"TTD"}]
+[
+  {
+    "id": "d82731bf-0c36-4ed8-a05b-fa8011c25b84",
+    "en": "Trinidad And Tobago",
+    "ru": "Тринидад и Тобаго",
+    "iso3": "TTO",
+    "iso2": "TT",
+    "phoneCode": "+1-868",
+    "capital": null,
+    "currency": "TTD"
+  }
+]

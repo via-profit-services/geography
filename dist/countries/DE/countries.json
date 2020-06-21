@@ -1,1 +1,12 @@
-[{"id":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","name":"Germany","ru":"Germany","iso3":"DEU","iso2":"DE","phoneCode":"49","capital":"2ffcc4c8-8701-4883-834d-1b18f83cc0fc","currency":"EUR"}]
+[
+  {
+    "id": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "en": "Germany",
+    "ru": "Германия",
+    "iso3": "DEU",
+    "iso2": "DE",
+    "phoneCode": "49",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

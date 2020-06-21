@@ -1,1 +1,186 @@
-[{"id":"cdd78c08-5083-43b5-9f5a-c5410956e50e","name":"Azuay Province","ru":"Azuay Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"A"},{"id":"f1a02902-d9b3-4810-97d7-438550e4b727","name":"Bolívar Province","ru":"Bolívar Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"B"},{"id":"b8b39e5a-0ee3-4ff6-8fb8-39f3d345ab4a","name":"Cañar Province","ru":"Cañar Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"F"},{"id":"3f678feb-ed08-4f01-94a9-032b45859cf1","name":"Carchi Province","ru":"Carchi Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"C"},{"id":"4dfca3cb-9305-4780-b49f-97a1321de72a","name":"Chimborazo Province","ru":"Chimborazo Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"H"},{"id":"01a86503-5bc8-4a5f-90e6-6b6c4bbc2b1d","name":"Cotopaxi Province","ru":"Cotopaxi Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"X"},{"id":"6f1b0e51-808e-4567-a600-90ff14862355","name":"El Oro Province","ru":"El Oro Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"O"},{"id":"2cd31cb7-b422-4094-85bb-5a490d5c964d","name":"Esmeraldas","ru":"Esmeraldas","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"E"},{"id":"4a40ffdf-359c-4e70-ac5f-02d0638fe2ce","name":"Galápagos Province","ru":"Galápagos Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"W"},{"id":"b7e2776f-013c-4b76-8e98-bda9e4ff68c3","name":"Guayas Province","ru":"Guayas Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"G"},{"id":"126ccca7-8461-447b-ad18-60dea70bd28e","name":"Imbabura Province","ru":"Imbabura Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"I"},{"id":"33e4e915-7c7f-459f-a3ce-8825f564a273","name":"Los Ríos Province","ru":"Los Ríos Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"R"},{"id":"b2a679bb-0824-4b97-b3bc-747b54361800","name":"Manabí Province","ru":"Manabí Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"M"},{"id":"5d475c91-1413-43db-abdb-5d93f875dbef","name":"Morona-Santiago Province","ru":"Morona-Santiago Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"S"},{"id":"d04fcd4b-5703-46e9-bd2e-d3281a83bb14","name":"Napo Province","ru":"Napo Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"N"},{"id":"0ea9ca1d-f2fe-4eb5-b5bd-cd175420d70a","name":"Orellana Province","ru":"Orellana Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"D"},{"id":"df445d29-c14d-4f32-a915-614ad8195a37","name":"Pastaza Province","ru":"Pastaza Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"Y"},{"id":"33c486c5-2f7e-46e2-bfbc-398b06d8f93d","name":"Pichincha Province","ru":"Pichincha Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"P"},{"id":"c639b7e6-8618-463d-836e-45fc1bbf8b0b","name":"Santa Elena Province","ru":"Santa Elena Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"SE"},{"id":"45225b80-7055-492a-8cdd-f2e167cc3900","name":"Santo Domingo de los Tsáchilas Province","ru":"Santo Domingo de los Tsáchilas Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"SD"},{"id":"1b8595ef-ad40-4207-abf1-7287c85766fa","name":"Sucumbíos Province","ru":"Sucumbíos Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"U"},{"id":"6d367839-7e62-47ab-8ecd-f1c03a72c4e2","name":"Tungurahua Province","ru":"Tungurahua Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"T"},{"id":"07d68f63-73af-4cf2-b821-8932cd1d4c07","name":"Zamora-Chinchipe Province","ru":"Zamora-Chinchipe Province","country":"194e12c1-3ca7-453c-90aa-33d8f54ddf6a","countryCode":"EC","stateCode":"Z"}]
+[
+  {
+    "id": "b380ec19-2a66-4c31-836b-c10cac9c29b9",
+    "en": "Azuay Province",
+    "ru": "Азуайская область",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "A"
+  },
+  {
+    "id": "78f47066-e31d-45ea-968b-c6321d48f2b5",
+    "en": "Bolívar Province",
+    "ru": "Боливарская губерния",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "B"
+  },
+  {
+    "id": "df31cffb-bca0-41cf-a43a-fbe9829e2246",
+    "en": "Cañar Province",
+    "ru": "Каньяр провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "F"
+  },
+  {
+    "id": "5da84008-cb23-4789-a2e9-d653ae1a6a9b",
+    "en": "Carchi Province",
+    "ru": "Carchi провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "C"
+  },
+  {
+    "id": "0d8d6fc1-f2db-42ce-8ae2-c6918e70fe30",
+    "en": "Chimborazo Province",
+    "ru": "Чимборасо провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "H"
+  },
+  {
+    "id": "07791d8a-5051-4388-a435-0351d8e5266a",
+    "en": "Cotopaxi Province",
+    "ru": "Котопахи провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "X"
+  },
+  {
+    "id": "f03207e8-7909-4a1e-9e80-7491ce4185e6",
+    "en": "El Oro Province",
+    "ru": "Эль Оро провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "O"
+  },
+  {
+    "id": "f196e44d-f20f-4836-a4ba-a1c678fe936f",
+    "en": "Esmeraldas",
+    "ru": "Эсмеральдас",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "E"
+  },
+  {
+    "id": "65b40a0c-dc99-4d11-a611-c5d0d9ce06af",
+    "en": "Galápagos Province",
+    "ru": "Галапагосские губернии",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "W"
+  },
+  {
+    "id": "31f659d1-53ea-415d-9e82-71cddd44b076",
+    "en": "Guayas Province",
+    "ru": "Guayas провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "G"
+  },
+  {
+    "id": "61f3da99-693d-42d8-a565-2ee7bb13b357",
+    "en": "Imbabura Province",
+    "ru": "Имбабура провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "I"
+  },
+  {
+    "id": "0faa1ed4-5917-4a29-998a-88f8231287a0",
+    "en": "Los Ríos Province",
+    "ru": "Лос-Риос провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "R"
+  },
+  {
+    "id": "fc08914c-cb1c-4ae5-8d9f-73d6bd39edf8",
+    "en": "Manabí Province",
+    "ru": "Манаби провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "M"
+  },
+  {
+    "id": "a91fcc95-23a9-454d-b79e-6a997ee48614",
+    "en": "Morona-Santiago Province",
+    "ru": "Морона-Сантьяго провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "S"
+  },
+  {
+    "id": "54c61fed-22d6-4350-88ee-650ad25dfe43",
+    "en": "Napo Province",
+    "ru": "Напо провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "N"
+  },
+  {
+    "id": "bd0577f5-ed27-4e90-abf2-d5175ad77bb3",
+    "en": "Orellana Province",
+    "ru": "Орельяна провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "D"
+  },
+  {
+    "id": "9272bddc-cdf0-434a-ad3d-0775c3a41e5d",
+    "en": "Pastaza Province",
+    "ru": "Пастазская губерния",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "Y"
+  },
+  {
+    "id": "4b810319-be3c-47c9-b93f-7634655692dd",
+    "en": "Pichincha Province",
+    "ru": "Пичинченская губерния",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "P"
+  },
+  {
+    "id": "fbbb1cbf-7ae3-408e-9e8c-05212691b54e",
+    "en": "Santa Elena Province",
+    "ru": "Санта-Елена провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "SE"
+  },
+  {
+    "id": "cb2060ab-422f-4c60-b6ac-7376b6bbc70a",
+    "en": "Santo Domingo de los Tsáchilas Province",
+    "ru": "Санто-Доминго-де-лос-Цахилас провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "SD"
+  },
+  {
+    "id": "de27602b-5912-4927-b1ab-23690ed65e41",
+    "en": "Sucumbíos Province",
+    "ru": "Сукумбиос провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "U"
+  },
+  {
+    "id": "024e25e3-c55f-41dd-8855-efd9c7e703f7",
+    "en": "Tungurahua Province",
+    "ru": "Тунгурауа провинция",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "T"
+  },
+  {
+    "id": "fac1c5ad-5a7c-4cf1-b251-f81820e21d6e",
+    "en": "Zamora-Chinchipe Province",
+    "ru": "Заморско-Чинчипский край",
+    "country": "962faa3b-7ff9-4f5c-9ee3-5efd33a5c821",
+    "countryCode": "EC",
+    "stateCode": "Z"
+  }
+]

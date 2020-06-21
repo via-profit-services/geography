@@ -1,1 +1,34 @@
-[{"id":"89774a8b-3b49-46da-88b2-45a9900e53c4","name":"Chuuk State","ru":"Chuuk State","country":"ecd5be21-2489-4197-b6a6-a00f9d6a2a23","countryCode":"FM","stateCode":"TRK"},{"id":"122dffd7-3861-4b6f-8abe-95e5c42b0758","name":"Kosrae State","ru":"Kosrae State","country":"ecd5be21-2489-4197-b6a6-a00f9d6a2a23","countryCode":"FM","stateCode":"KSA"},{"id":"6508fb00-88db-456a-be9c-f2bcc8dc6c3b","name":"Pohnpei State","ru":"Pohnpei State","country":"ecd5be21-2489-4197-b6a6-a00f9d6a2a23","countryCode":"FM","stateCode":"PNI"},{"id":"a6dfbe05-88d3-44ff-82bf-815a17040bdf","name":"Yap State","ru":"Yap State","country":"ecd5be21-2489-4197-b6a6-a00f9d6a2a23","countryCode":"FM","stateCode":"YAP"}]
+[
+  {
+    "id": "ba952194-82b3-4c15-b5a8-9126f504f521",
+    "en": "Chuuk State",
+    "ru": "Чуук государственный",
+    "country": "dc7d976a-416c-4f27-98fc-f620e95c8152",
+    "countryCode": "FM",
+    "stateCode": "TRK"
+  },
+  {
+    "id": "8ee1cafe-b65e-40f7-a944-513b556a97b1",
+    "en": "Kosrae State",
+    "ru": "Kosrae государство",
+    "country": "dc7d976a-416c-4f27-98fc-f620e95c8152",
+    "countryCode": "FM",
+    "stateCode": "KSA"
+  },
+  {
+    "id": "02a80476-a5ec-4856-a198-598816962e95",
+    "en": "Pohnpei State",
+    "ru": "Pohnpei государство",
+    "country": "dc7d976a-416c-4f27-98fc-f620e95c8152",
+    "countryCode": "FM",
+    "stateCode": "PNI"
+  },
+  {
+    "id": "df9844fb-cb10-4097-a23b-c47ec1276ea6",
+    "en": "Yap State",
+    "ru": "Япский государственный",
+    "country": "dc7d976a-416c-4f27-98fc-f620e95c8152",
+    "countryCode": "FM",
+    "stateCode": "YAP"
+  }
+]

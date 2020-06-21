@@ -1,1 +1,186 @@
-[{"id":"5dffaab7-9caa-49fd-97a5-59b927c0987f","name":"Banteay Meanchey Province","ru":"Banteay Meanchey Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"1"},{"id":"3cc91eb9-17f7-4831-9c32-04116523767b","name":"Battambang Province","ru":"Battambang Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"2"},{"id":"9655dedd-ecbb-47d0-a753-f74a6e2eeb4e","name":"Kampong Cham Province","ru":"Kampong Cham Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"3"},{"id":"9113ca4f-e18d-49af-9474-37827c717115","name":"Kampong Chhnang Province","ru":"Kampong Chhnang Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"4"},{"id":"76273574-c8bc-4f7a-9479-fdd02049f06a","name":"Kampong Speu Province","ru":"Kampong Speu Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"5"},{"id":"a38e36ef-7488-4da6-aea2-d987f43ff076","name":"Kampot Province","ru":"Kampot Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"7"},{"id":"85b78a77-b2b7-4dd6-b81f-9fc8ed69245b","name":"Kandal Province","ru":"Kandal Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"8"},{"id":"dadc9bec-364a-4d01-9b98-dae70f14dc19","name":"Kep Province","ru":"Kep Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"23"},{"id":"3ef23b58-5f30-4bdf-b516-f3c5adcc051f","name":"Koh Kong Province","ru":"Koh Kong Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"9"},{"id":"a4f95c1d-5552-41c5-8f28-bd3682be88c7","name":"Kratié Province","ru":"Kratié Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"10"},{"id":"7aefcff8-eec7-42bf-854b-c13766abe8f8","name":"Mondulkiri Province","ru":"Mondulkiri Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"11"},{"id":"8d4fb47b-1fb0-45a8-925d-05cb30d20c4e","name":"Oddar Meanchey Province","ru":"Oddar Meanchey Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"22"},{"id":"6261d7ab-917d-4840-a5ea-667554511a99","name":"Pailin Province","ru":"Pailin Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"24"},{"id":"9cbc7998-ff85-44ea-a79f-1c0f14b3b926","name":"Phnom Penh","ru":"Phnom Penh","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"12"},{"id":"1be5a2d2-ba62-4b53-aad8-eeef1229a3ff","name":"Preah Vihear Province","ru":"Preah Vihear Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"13"},{"id":"8cdbfc49-6c82-4700-92b6-bc3818a9581d","name":"Prey Veng Province","ru":"Prey Veng Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"14"},{"id":"306ddf8a-c1f2-4d35-bd23-be57a5079b63","name":"Pursat Province","ru":"Pursat Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"15"},{"id":"cb764066-d240-4371-865a-8969537d290d","name":"Ratanakiri Province","ru":"Ratanakiri Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"16"},{"id":"5839180c-21ab-427c-8c1e-5db8f73e19e4","name":"Siem Reap Province","ru":"Siem Reap Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"17"},{"id":"6a89e8bb-017c-4b71-b5b8-e952d4735279","name":"Sihanoukville Province","ru":"Sihanoukville Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"18"},{"id":"da6c48ce-1c9d-4abf-871b-aed350cc1e1d","name":"Stung Treng Province","ru":"Stung Treng Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"19"},{"id":"bdd685b6-45a2-4d30-b616-aa4334fa1a1c","name":"Svay Rieng Province","ru":"Svay Rieng Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"20"},{"id":"50fefce5-d044-4e66-8036-39d206b9aea5","name":"Takéo Province","ru":"Takéo Province","country":"3724eae2-50ec-4525-bf05-ac87a112ba18","countryCode":"KH","stateCode":"21"}]
+[
+  {
+    "id": "3d595e6b-7ec6-4f07-af55-233fdc4c62f5",
+    "en": "Banteay Meanchey Province",
+    "ru": "Banteay Meanchey провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "1"
+  },
+  {
+    "id": "c0622fc1-e1e2-40fa-b391-66a775370986",
+    "en": "Battambang Province",
+    "ru": "Баттамбанг провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "2"
+  },
+  {
+    "id": "f5d90f9e-7b66-453e-b618-d031dabc79d4",
+    "en": "Kampong Cham Province",
+    "ru": "Кампонг Чам провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "3"
+  },
+  {
+    "id": "054e7012-aeea-43d9-97fa-8be2d9e36121",
+    "en": "Kampong Chhnang Province",
+    "ru": "Кампонгчнанг провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "4"
+  },
+  {
+    "id": "26ca73ca-7971-44a9-83d3-ebc2dcb58616",
+    "en": "Kampong Speu Province",
+    "ru": "Kampong Speu провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "5"
+  },
+  {
+    "id": "e8949531-161d-45fd-aa6e-9e3693963b52",
+    "en": "Kampot Province",
+    "ru": "Кампот провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "7"
+  },
+  {
+    "id": "139fd431-407b-4228-bc8b-3b23471a437c",
+    "en": "Kandal Province",
+    "ru": "Кандальская область",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "8"
+  },
+  {
+    "id": "56f4e6cb-f709-40fb-a49a-19ccc714e846",
+    "en": "Kep Province",
+    "ru": "Кепская губерния",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "23"
+  },
+  {
+    "id": "9ff015e6-9788-449f-88b7-1a68e35a01a2",
+    "en": "Koh Kong Province",
+    "ru": "Кох Конг Провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "9"
+  },
+  {
+    "id": "b2b73919-f541-4d36-9c91-bb920c7d8a03",
+    "en": "Kratié Province",
+    "ru": "Кратие провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "10"
+  },
+  {
+    "id": "7db0f75f-8738-49d1-bed8-9a77aa3cf438",
+    "en": "Mondulkiri Province",
+    "ru": "Мондулькири провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "11"
+  },
+  {
+    "id": "db9d741c-3a51-4292-b21a-97b728ba8fd2",
+    "en": "Oddar Meanchey Province",
+    "ru": "Oddar Meanchey провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "22"
+  },
+  {
+    "id": "8dcf003e-a354-4573-8ec1-8324bd33d98b",
+    "en": "Pailin Province",
+    "ru": "Пайлинская губерния",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "24"
+  },
+  {
+    "id": "f24a65fd-b7f9-4b6c-825d-de85aa84d27d",
+    "en": "Phnom Penh",
+    "ru": "Пномпень",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "12"
+  },
+  {
+    "id": "e8664eee-514c-4c86-874e-a5eade0934c3",
+    "en": "Preah Vihear Province",
+    "ru": "Preah Vihear провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "13"
+  },
+  {
+    "id": "9dc8e2d3-6563-43cf-bb44-170521ecbcac",
+    "en": "Prey Veng Province",
+    "ru": "Прей Венг провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "14"
+  },
+  {
+    "id": "1b4fb0b2-e76f-4452-b15a-244e4672692e",
+    "en": "Pursat Province",
+    "ru": "Пурсат провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "15"
+  },
+  {
+    "id": "c013521d-867c-471f-8d44-4254ce6188c9",
+    "en": "Ratanakiri Province",
+    "ru": "Ратанакири провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "16"
+  },
+  {
+    "id": "8286cbf1-7fe8-4bce-8d12-01962d2770b0",
+    "en": "Siem Reap Province",
+    "ru": "Сиемреап провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "17"
+  },
+  {
+    "id": "0d8272ee-019d-4add-b90a-1e2f41ab0383",
+    "en": "Sihanoukville Province",
+    "ru": "Сиануквиль провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "18"
+  },
+  {
+    "id": "0bb65c33-7e50-4878-a3cf-0cf34e2ad752",
+    "en": "Stung Treng Province",
+    "ru": "Стунг Тренг провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "19"
+  },
+  {
+    "id": "9fc15051-397b-44ff-94d4-9aa31eb11eda",
+    "en": "Svay Rieng Province",
+    "ru": "Свай Риенг Область",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "20"
+  },
+  {
+    "id": "679c507b-a0c3-47ad-bdca-97e27b3784ba",
+    "en": "Takéo Province",
+    "ru": "Такео провинция",
+    "country": "2a7ee8dd-085b-4423-9aff-2a6a6a402cde",
+    "countryCode": "KH",
+    "stateCode": "21"
+  }
+]

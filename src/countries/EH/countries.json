@@ -1,1 +1,12 @@
-[{"id":"48ae9fe8-4ab1-4fbb-a79b-7a056082cb96","name":"Western Sahara","ru":"Western Sahara","iso3":"ESH","iso2":"EH","phoneCode":"212","capital":null,"currency":"MAD"}]
+[
+  {
+    "id": "0cd04de9-3516-45e2-8649-ea576b0a59fd",
+    "en": "Western Sahara",
+    "ru": "Западная Сахара",
+    "iso3": "ESH",
+    "iso2": "EH",
+    "phoneCode": "212",
+    "capital": null,
+    "currency": "MAD"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"955406d1-6332-4d33-a7ad-1a300afd9b93","name":"Benin","ru":"Benin","iso3":"BEN","iso2":"BJ","phoneCode":"229","capital":"ef203e65-d62b-4b9e-86bf-d7c945eab257","currency":"XOF"}]
+[
+  {
+    "id": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
+    "en": "Benin",
+    "ru": "Бенин",
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "phoneCode": "229",
+    "capital": null,
+    "currency": "XOF"
+  }
+]

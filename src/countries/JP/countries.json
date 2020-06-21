@@ -1,1 +1,12 @@
-[{"id":"ad987aed-a4db-4909-9916-139e65e4b858","name":"Japan","ru":"Japan","iso3":"JPN","iso2":"JP","phoneCode":"81","capital":"c7c258d9-8dca-4eae-80a1-ed614fac170b","currency":"JPY"}]
+[
+  {
+    "id": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
+    "en": "Japan",
+    "ru": "Япония",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "phoneCode": "81",
+    "capital": null,
+    "currency": "JPY"
+  }
+]

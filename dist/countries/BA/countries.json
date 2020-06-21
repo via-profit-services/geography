@@ -1,1 +1,12 @@
-[{"id":"f3fff3e3-27a2-426b-864a-fe69a9a033c0","name":"Bosnia and Herzegovina","ru":"Bosnia and Herzegovina","iso3":"BIH","iso2":"BA","phoneCode":"387","capital":"fc326c28-5adf-4fe4-8217-46eccf008a59","currency":"BAM"}]
+[
+  {
+    "id": "0416022b-5cb9-4dbf-9413-0ce815de2c21",
+    "en": "Bosnia and Herzegovina",
+    "ru": "Босния и Герцеговина",
+    "iso3": "BIH",
+    "iso2": "BA",
+    "phoneCode": "387",
+    "capital": null,
+    "currency": "BAM"
+  }
+]

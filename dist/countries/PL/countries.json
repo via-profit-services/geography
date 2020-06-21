@@ -1,1 +1,12 @@
-[{"id":"de56e29a-21da-47e3-b04f-991a307d944b","name":"Poland","ru":"Poland","iso3":"POL","iso2":"PL","phoneCode":"48","capital":"f76cde0d-e0f7-4ae6-a496-866c0cb882ef","currency":"PLN"}]
+[
+  {
+    "id": "d5db1000-8441-4b1e-ae6c-7693d41af377",
+    "en": "Poland",
+    "ru": "Польша",
+    "iso3": "POL",
+    "iso2": "PL",
+    "phoneCode": "48",
+    "capital": null,
+    "currency": "PLN"
+  }
+]
