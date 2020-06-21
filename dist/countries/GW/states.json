@@ -1,1 +1,90 @@
-[{"id":"cb6e6566-829f-48a2-a714-34ebd109be5d","name":"Bafatá","ru":"Bafatá","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"BA"},{"id":"b0f5a343-7aae-4ef7-8913-e1f22c74385b","name":"Biombo Region","ru":"Biombo Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"BM"},{"id":"98a36fc4-6517-4670-8977-405b5ed6dda2","name":"Bolama Region","ru":"Bolama Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"BL"},{"id":"ad33df7b-c5d4-4b10-be4b-c8330670db30","name":"Cacheu Region","ru":"Cacheu Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"CA"},{"id":"84d87c88-9eaa-4f44-9904-a5e57bf9866e","name":"Gabú Region","ru":"Gabú Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"GA"},{"id":"7d30fbb2-3505-45ac-9a65-7012b1d25465","name":"Leste Province","ru":"Leste Province","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"L"},{"id":"7a153bb2-e013-4fe2-8923-691c38bf44fd","name":"Norte Province","ru":"Norte Province","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"N"},{"id":"85068414-7e46-4264-91ce-fb7bb100258f","name":"Oio Region","ru":"Oio Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"OI"},{"id":"bac8c4bf-606f-48f0-abf3-51d3b511afff","name":"Quinara Region","ru":"Quinara Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"QU"},{"id":"68e06067-ac7a-42f0-ac68-9ed790a5e580","name":"Sul Province","ru":"Sul Province","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"S"},{"id":"13a8fbd2-2349-459d-8740-3bd70250d16a","name":"Tombali Region","ru":"Tombali Region","country":"4c121115-acbb-49d3-844e-7ec0f4013e9c","countryCode":"GW","stateCode":"TO"}]
+[
+  {
+    "id": "f54ef631-d5de-4243-9e23-82ceb83980ed",
+    "en": "Bafatá",
+    "ru": "Бафата",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "BA"
+  },
+  {
+    "id": "7088a24b-8156-4d29-b6ba-978d556a00be",
+    "en": "Biombo Region",
+    "ru": "Биомбо Регион",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "BM"
+  },
+  {
+    "id": "1cb11ed6-1e38-47c3-9982-ca9550e170d1",
+    "en": "Bolama Region",
+    "ru": "Боламский край",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "BL"
+  },
+  {
+    "id": "c9840963-a46f-49a4-b15e-e880435fc03f",
+    "en": "Cacheu Region",
+    "ru": "Кашу область",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "CA"
+  },
+  {
+    "id": "4c14bcb3-929e-4bba-a120-47bc948ad690",
+    "en": "Gabú Region",
+    "ru": "Регион Габу",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "GA"
+  },
+  {
+    "id": "9bec0108-56d0-4ced-bdb9-ef81a007c1b7",
+    "en": "Leste Province",
+    "ru": "Лештская губерния",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "L"
+  },
+  {
+    "id": "f93ec189-a297-403f-948b-e297b24a655b",
+    "en": "Norte Province",
+    "ru": "норте провинция",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "N"
+  },
+  {
+    "id": "2b4ba74b-27ef-46cb-a76c-5d7da4d34576",
+    "en": "Oio Region",
+    "ru": "Ойо Регион",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "OI"
+  },
+  {
+    "id": "26010f77-5358-461e-8d60-d5d5878230ff",
+    "en": "Quinara Region",
+    "ru": "Quinara Region",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "QU"
+  },
+  {
+    "id": "f5020ee5-b7aa-4aa8-aa8b-c02a82cbd279",
+    "en": "Sul Province",
+    "ru": "Сул провинция",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "S"
+  },
+  {
+    "id": "44d2ce79-ae17-4709-b000-3b13f143f887",
+    "en": "Tombali Region",
+    "ru": "Томбалинская область",
+    "country": "962da688-c9d3-4d58-ade6-d38806458713",
+    "countryCode": "GW",
+    "stateCode": "TO"
+  }
+]

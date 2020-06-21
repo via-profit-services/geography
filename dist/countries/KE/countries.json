@@ -1,1 +1,12 @@
-[{"id":"efb8df97-14a4-4ebb-bcf9-1d25dfc227f7","name":"Kenya","ru":"Kenya","iso3":"KEN","iso2":"KE","phoneCode":"254","capital":"c7ecd005-cbac-4c83-9293-b610c3f38c17","currency":"KES"}]
+[
+  {
+    "id": "97200b9e-7398-4454-9bac-38518c5edddd",
+    "en": "Kenya",
+    "ru": "Кения",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "phoneCode": "254",
+    "capital": null,
+    "currency": "KES"
+  }
+]

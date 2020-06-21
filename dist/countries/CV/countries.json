@@ -1,1 +1,12 @@
-[{"id":"0f79f930-54ab-4a7a-8bbf-02500bd8b7b9","name":"Cape Verde","ru":"Cape Verde","iso3":"CPV","iso2":"CV","phoneCode":"238","capital":"7951a642-b69e-49a6-bed2-bce1a7169a7b","currency":"CVE"}]
+[
+  {
+    "id": "66cbb8a0-4b3b-443f-ac87-74aab99647b1",
+    "en": "Cape Verde",
+    "ru": "Кабо-Верде",
+    "iso3": "CPV",
+    "iso2": "CV",
+    "phoneCode": "238",
+    "capital": null,
+    "currency": "CVE"
+  }
+]

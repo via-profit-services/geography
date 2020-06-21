@@ -1,1 +1,12 @@
-[{"id":"f6203e85-75b7-44cf-845e-ce04e37e5819","name":"Serbia","ru":"Serbia","iso3":"SRB","iso2":"RS","phoneCode":"381","capital":"62213a3f-5499-4d77-92c5-cd01473f1840","currency":"RSD"}]
+[
+  {
+    "id": "440df1be-117f-4ebf-819e-81cfe17d8384",
+    "en": "Serbia",
+    "ru": "Сербия",
+    "iso3": "SRB",
+    "iso2": "RS",
+    "phoneCode": "381",
+    "capital": null,
+    "currency": "RSD"
+  }
+]

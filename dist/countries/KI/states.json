@@ -1,1 +1,26 @@
-[{"id":"d697e2db-8a64-476b-b25f-daab9b0cdcd0","name":"Gilbert Islands","ru":"Gilbert Islands","country":"ca144747-355e-4457-bef9-b6648ca740d5","countryCode":"KI","stateCode":"G"},{"id":"cad5aa0c-9f87-4207-81d3-54897b7b35a9","name":"Line Islands","ru":"Line Islands","country":"ca144747-355e-4457-bef9-b6648ca740d5","countryCode":"KI","stateCode":"L"},{"id":"6c7e085c-4a88-4ec2-b257-fead63ba7f22","name":"Phoenix Islands","ru":"Phoenix Islands","country":"ca144747-355e-4457-bef9-b6648ca740d5","countryCode":"KI","stateCode":"P"}]
+[
+  {
+    "id": "cb2b4817-9761-42ab-9485-ba6bb0193e02",
+    "en": "Gilbert Islands",
+    "ru": "Гилберта острова",
+    "country": "ebb9951d-3913-44c9-914e-db14314deb59",
+    "countryCode": "KI",
+    "stateCode": "G"
+  },
+  {
+    "id": "6196633f-7930-429c-924f-ab0d20583654",
+    "en": "Line Islands",
+    "ru": "Лайн острова",
+    "country": "ebb9951d-3913-44c9-914e-db14314deb59",
+    "countryCode": "KI",
+    "stateCode": "L"
+  },
+  {
+    "id": "9b3d124a-d00d-4252-aa8a-ce8694c80790",
+    "en": "Phoenix Islands",
+    "ru": "феникс острова",
+    "country": "ebb9951d-3913-44c9-914e-db14314deb59",
+    "countryCode": "KI",
+    "stateCode": "P"
+  }
+]

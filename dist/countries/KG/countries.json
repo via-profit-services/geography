@@ -1,1 +1,12 @@
-[{"id":"42149bb5-9bd2-43d2-bc89-047a216bf55d","name":"Kyrgyzstan","ru":"Kyrgyzstan","iso3":"KGZ","iso2":"KG","phoneCode":"996","capital":"c4ceaded-836b-404c-a059-f1f65ba93f19","currency":"KGS"}]
+[
+  {
+    "id": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "en": "Kyrgyzstan",
+    "ru": "кыргызстан",
+    "iso3": "KGZ",
+    "iso2": "KG",
+    "phoneCode": "996",
+    "capital": null,
+    "currency": "KGS"
+  }
+]

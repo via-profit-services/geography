@@ -1,1 +1,167 @@
-[{"id":"b5e8588a-8f51-4071-80fb-f4e52b35cd81","name":"Al Ghuwayrīyah","ru":"Al Ghuwayrīyah","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"4e824c67-afd9-4aab-b802-92a6c5f78301","stateCode":"KH","latitude":"25.82882000","longitude":"51.24567000"},{"id":"57c96dcb-a047-4841-a411-7af4652b695d","name":"Al Khawr","ru":"Al Khawr","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"4e824c67-afd9-4aab-b802-92a6c5f78301","stateCode":"KH","latitude":"25.68389000","longitude":"51.50583000"},{"id":"272e3aa5-cd99-4d11-a201-14e8cd137e65","name":"Ar Rayyān","ru":"Ar Rayyān","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"680733ad-3a0f-4279-9c43-4be36b67f343","stateCode":"RA","latitude":"25.29194000","longitude":"51.42444000"},{"id":"bdc69f20-9340-475d-bd56-b86e72bf002e","name":"Umm Bāb","ru":"Umm Bāb","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"680733ad-3a0f-4279-9c43-4be36b67f343","stateCode":"RA","latitude":"25.21417000","longitude":"50.80722000"},{"id":"c7ad404a-0d37-4b35-9035-0475d09a57a6","name":"Al Wakrah","ru":"Al Wakrah","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"71f2800f-efa2-4d23-bdf9-9a006a0f201f","stateCode":"WA","latitude":"25.17151000","longitude":"51.60337000"},{"id":"b82d3a8a-41a3-4bb7-a7c0-fcd07d871666","name":"Al Wukayr","ru":"Al Wukayr","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"71f2800f-efa2-4d23-bdf9-9a006a0f201f","stateCode":"WA","latitude":"25.15107000","longitude":"51.53718000"},{"id":"a4070445-4fd2-4066-904d-4292dd725444","name":"Musay‘īd","ru":"Musay‘īd","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"71f2800f-efa2-4d23-bdf9-9a006a0f201f","stateCode":"WA","latitude":"24.99226000","longitude":"51.55067000"},{"id":"fc2cc1be-c783-45e4-9449-6816f44d7cfd","name":"Al Jumaylīyah","ru":"Al Jumaylīyah","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"7a687d54-5148-4fb3-ac49-2d1195991d0a","stateCode":"SH","latitude":"25.61068000","longitude":"51.09108000"},{"id":"e8847d9d-0c09-4e8c-b227-2c526c5973da","name":"Ash Shīḩānīyah","ru":"Ash Shīḩānīyah","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"7a687d54-5148-4fb3-ac49-2d1195991d0a","stateCode":"SH","latitude":"25.37088000","longitude":"51.22264000"},{"id":"db89efb8-3c87-401d-9b54-213d1e0271d2","name":"Dukhān","ru":"Dukhān","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"7a687d54-5148-4fb3-ac49-2d1195991d0a","stateCode":"SH","latitude":"25.42485000","longitude":"50.78227000"},{"id":"23deed39-4932-4216-b65d-a2eaafe8f6b6","name":"Doha","ru":"Doha","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"49a7e042-d271-468d-ab63-1e24d8194b94","stateCode":"DA","latitude":"25.28545000","longitude":"51.53096000"},{"id":"8413a121-75e6-4853-a5fc-461fa85f51ee","name":"Ar Ruways","ru":"Ar Ruways","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"a954e1f7-1719-4481-8b2e-ba3f474182ad","stateCode":"MS","latitude":"26.13978000","longitude":"51.21493000"},{"id":"fd0d8b50-9e94-4e75-abd5-d91e9fc5f223","name":"Fuwayriţ","ru":"Fuwayriţ","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"a954e1f7-1719-4481-8b2e-ba3f474182ad","stateCode":"MS","latitude":"26.02565000","longitude":"51.36971000"},{"id":"7f38ebf4-a53b-4d2a-b463-831ff8e4f10b","name":"Madīnat ash Shamāl","ru":"Madīnat ash Shamāl","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"a954e1f7-1719-4481-8b2e-ba3f474182ad","stateCode":"MS","latitude":"26.12933000","longitude":"51.20090000"},{"id":"5725792f-a747-41e9-8652-ad81b4be5167","name":"Umm Şalāl Muḩammad","ru":"Umm Şalāl Muḩammad","country":"3aa378c5-f72b-4b0f-99c6-5e40945e37f1","countryCode":"QA","state":"1d8e7caa-e201-41a9-8aed-c5cf2c0dd11e","stateCode":"US","latitude":"25.41524000","longitude":"51.40647000"}]
+[
+  {
+    "id": "0fd2259b-f720-47e2-baf1-73c727d77883",
+    "en": "Al Ghuwayrīyah",
+    "ru": "Al Ghuwayrīyah",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "ca69fbe4-1ec9-4bae-a804-70a6d63524e5",
+    "stateCode": "KH",
+    "latitude": "25.82882000",
+    "longitude": "51.24567000"
+  },
+  {
+    "id": "9128080c-2bbd-4425-b734-4578e454e8e3",
+    "en": "Al Khawr",
+    "ru": "Аль Хавр",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "ca69fbe4-1ec9-4bae-a804-70a6d63524e5",
+    "stateCode": "KH",
+    "latitude": "25.68389000",
+    "longitude": "51.50583000"
+  },
+  {
+    "id": "fe303209-4e1e-48dc-9b1a-776571fe6e11",
+    "en": "Ar Rayyān",
+    "ru": "Ар Райян",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "3f6053c6-06b9-43bf-a501-3bd06bf47daf",
+    "stateCode": "RA",
+    "latitude": "25.29194000",
+    "longitude": "51.42444000"
+  },
+  {
+    "id": "baf523ba-f5ae-4cbe-892a-d17f2e829401",
+    "en": "Umm Bāb",
+    "ru": "Umm Bāb",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "3f6053c6-06b9-43bf-a501-3bd06bf47daf",
+    "stateCode": "RA",
+    "latitude": "25.21417000",
+    "longitude": "50.80722000"
+  },
+  {
+    "id": "bb8119f2-cce5-4986-baf8-bbf7b1f6f29c",
+    "en": "Al Wakrah",
+    "ru": "Al Wakrah",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "5b5845a3-d8f7-4730-b85f-35bdae0d8ee4",
+    "stateCode": "WA",
+    "latitude": "25.17151000",
+    "longitude": "51.60337000"
+  },
+  {
+    "id": "6c4d036f-f81a-4783-976c-2e10baaf2775",
+    "en": "Al Wukayr",
+    "ru": "Al Wukayr",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "5b5845a3-d8f7-4730-b85f-35bdae0d8ee4",
+    "stateCode": "WA",
+    "latitude": "25.15107000",
+    "longitude": "51.53718000"
+  },
+  {
+    "id": "eec6cf97-4cdf-46f2-a20b-76bc20f6bffc",
+    "en": "Musay‘īd",
+    "ru": "Musay‘īd",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "5b5845a3-d8f7-4730-b85f-35bdae0d8ee4",
+    "stateCode": "WA",
+    "latitude": "24.99226000",
+    "longitude": "51.55067000"
+  },
+  {
+    "id": "dc489e06-2a25-4d04-9a79-fa161def6ca0",
+    "en": "Al Jumaylīyah",
+    "ru": "Al Jumaylīyah",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "b4dea423-59e9-4c28-bb96-3be9d6ef2095",
+    "stateCode": "SH",
+    "latitude": "25.61068000",
+    "longitude": "51.09108000"
+  },
+  {
+    "id": "9a6a4831-599c-4256-b872-dfa2b2234d88",
+    "en": "Ash Shīḩānīyah",
+    "ru": "Ash Shīḩānīyah",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "b4dea423-59e9-4c28-bb96-3be9d6ef2095",
+    "stateCode": "SH",
+    "latitude": "25.37088000",
+    "longitude": "51.22264000"
+  },
+  {
+    "id": "daa51793-cae4-41c7-ac17-3dae0d35451f",
+    "en": "Dukhān",
+    "ru": "Dukhān",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "b4dea423-59e9-4c28-bb96-3be9d6ef2095",
+    "stateCode": "SH",
+    "latitude": "25.42485000",
+    "longitude": "50.78227000"
+  },
+  {
+    "id": "e29720bf-7a15-4f18-9bdc-42e179363817",
+    "en": "Doha",
+    "ru": "Doha",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "734f5b40-ea72-4bd2-ac4a-459b672fee2d",
+    "stateCode": "DA",
+    "latitude": "25.28545000",
+    "longitude": "51.53096000"
+  },
+  {
+    "id": "447fdc4a-06f5-447e-a107-06d31259aec9",
+    "en": "Ar Ruways",
+    "ru": "Ar Ruways",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "e3ffad65-791c-4699-ae7c-6081fa9de85a",
+    "stateCode": "MS",
+    "latitude": "26.13978000",
+    "longitude": "51.21493000"
+  },
+  {
+    "id": "a44c9fe2-af7f-4b67-a70c-a6f02eb21d99",
+    "en": "Fuwayriţ",
+    "ru": "Fuwayriţ",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "e3ffad65-791c-4699-ae7c-6081fa9de85a",
+    "stateCode": "MS",
+    "latitude": "26.02565000",
+    "longitude": "51.36971000"
+  },
+  {
+    "id": "f9754fd8-51b0-4a58-8ff8-90df4766895d",
+    "en": "Madīnat ash Shamāl",
+    "ru": "Madīnat ash Shamāl",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "e3ffad65-791c-4699-ae7c-6081fa9de85a",
+    "stateCode": "MS",
+    "latitude": "26.12933000",
+    "longitude": "51.20090000"
+  },
+  {
+    "id": "f355d3c1-dc3e-4005-be66-34a88a8d9163",
+    "en": "Umm Şalāl Muḩammad",
+    "ru": "Umm Şalāl Muḩammad",
+    "country": "016507c4-4e52-43a0-b7e5-b02c4c8ab95f",
+    "countryCode": "QA",
+    "state": "a6c2f3bf-2ee8-4934-be09-f053efc489c9",
+    "stateCode": "US",
+    "latitude": "25.41524000",
+    "longitude": "51.40647000"
+  }
+]

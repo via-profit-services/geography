@@ -1,1 +1,12 @@
-[{"id":"bc815764-0eeb-43b1-a5d9-c33be613fb62","name":"Singapore","ru":"Singapore","iso3":"SGP","iso2":"SG","phoneCode":"65","capital":null,"currency":"SGD"}]
+[
+  {
+    "id": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "en": "Singapore",
+    "ru": "Сингапур",
+    "iso3": "SGP",
+    "iso2": "SG",
+    "phoneCode": "65",
+    "capital": null,
+    "currency": "SGD"
+  }
+]

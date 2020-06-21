@@ -1,1 +1,12 @@
-[{"id":"85cea7c5-5f86-4a89-95f7-399e95a35ce4","name":"Guadeloupe","ru":"Guadeloupe","iso3":"GLP","iso2":"GP","phoneCode":"590","capital":null,"currency":"EUR"}]
+[
+  {
+    "id": "e3cdc454-cc80-441c-919f-e1c03d89895e",
+    "en": "Guadeloupe",
+    "ru": "Гваделупа",
+    "iso3": "GLP",
+    "iso2": "GP",
+    "phoneCode": "590",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

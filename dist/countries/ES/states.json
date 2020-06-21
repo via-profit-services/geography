@@ -1,1 +1,514 @@
-[{"id":"5fd73704-7436-4500-84d4-d753f77e5921","name":"A Coruña Province","ru":"A Coruña Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"C"},{"id":"97e2cac3-6d0d-4cd1-82e5-c641464b3be9","name":"Albacete Province","ru":"Albacete Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"AB"},{"id":"dd664cf4-6061-40e6-adb0-1bff39b3fb1b","name":"Alicante Province","ru":"Alicante Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"A"},{"id":"f5ecd8f6-58f7-4921-9d4e-eec62f816d7a","name":"Almería Province","ru":"Almería Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"AL"},{"id":"cc0dfc35-db3d-4914-9620-9319de7187c2","name":"Andalusia","ru":"Andalusia","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"AN"},{"id":"e1f6b399-e820-4e89-ba1c-c2dc2f283cae","name":"Araba / Álava","ru":"Araba / Álava","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"VI"},{"id":"3939d3bf-4630-4fc4-84da-9840b02fe387","name":"Aragon","ru":"Aragon","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"AR"},{"id":"0a9d8377-9cda-4253-9067-bec81aa27900","name":"Badajoz Province","ru":"Badajoz Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"BA"},{"id":"f5edeadf-5b67-44f1-a90a-c1963eda81bc","name":"Balearic Islands","ru":"Balearic Islands","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"PM"},{"id":"e1638cfb-b7ee-4f64-89c2-c18de636a5c8","name":"Barcelona Province","ru":"Barcelona Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"B"},{"id":"f66c1501-f083-4e7d-baf0-6dacc0e657ac","name":"Basque Country","ru":"Basque Country","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"PV"},{"id":"b9fe6e32-cf96-4d54-95d0-600f6dbaafae","name":"Biscay","ru":"Biscay","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"BI"},{"id":"b3187c89-84ef-42b9-b8ca-8c19296b5475","name":"Burgos Province","ru":"Burgos Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"BU"},{"id":"4fd57b60-e80a-4c1a-9779-141b3f82e3aa","name":"Canary Islands","ru":"Canary Islands","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CN"},{"id":"4d88370e-5157-4db4-9db8-aff56ccc3fea","name":"Cantabria","ru":"Cantabria","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"S"},{"id":"07d2ed5b-4f59-463f-8b29-a09e453e630c","name":"Castellón Province","ru":"Castellón Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CS"},{"id":"83f16930-f87d-4ebf-b0d9-dd9c4e2f6f91","name":"Castile and León","ru":"Castile and León","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CL"},{"id":"c1c6108b-e4ed-457f-a005-8bfcaaa25121","name":"Castile-La Mancha","ru":"Castile-La Mancha","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CM"},{"id":"c951a985-7aa0-4d4a-96ee-615bf87c4bd0","name":"Catalonia","ru":"Catalonia","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CT"},{"id":"fb9bc335-4c81-4435-b7ae-111ec90d21e3","name":"Cáceres Province","ru":"Cáceres Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CC"},{"id":"dba66921-8f2e-423b-896f-59641b89b8ec","name":"Cádiz Province","ru":"Cádiz Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CA"},{"id":"a055d6b1-34ed-4b19-934a-57df9e6a705e","name":"Córdoba Province","ru":"Córdoba Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CO"},{"id":"7a5f3dfd-8803-46e2-bf5b-8cb491169b9d","name":"Ceuta","ru":"Ceuta","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CE"},{"id":"bee40893-03a7-44f3-81fe-bb46e9f453d4","name":"Ciudad Real Province","ru":"Ciudad Real Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CR"},{"id":"2be86272-8bae-4481-b198-df0051a210e1","name":"Community of Madrid","ru":"Community of Madrid","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"MD"},{"id":"b8fbda99-314a-427f-a0c7-fb8de8797c93","name":"Cuenca Province","ru":"Cuenca Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"CU"},{"id":"7ad7d1fa-6f32-46f3-b249-6ef0635b69fa","name":"Extremadura","ru":"Extremadura","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"EX"},{"id":"8171285a-50e1-42d3-abdc-ea6f7026de67","name":"Galicia","ru":"Galicia","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"GA"},{"id":"82ec0886-9975-4e39-993d-38bc2f87b0d5","name":"Gipuzkoa","ru":"Gipuzkoa","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"SS"},{"id":"8b338d5c-e8fc-4292-a6df-ede307e19852","name":"Girona Province","ru":"Girona Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"GI"},{"id":"8a7cf3f1-ffac-465f-9159-24d9185f2408","name":"Granada Province","ru":"Granada Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"GR"},{"id":"aeaff439-128c-4f39-83aa-754ca0e3ba8f","name":"Guadalajara Province","ru":"Guadalajara Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"GU"},{"id":"84da47b8-ab00-41c8-9d3d-2875238ea57a","name":"Huelva Province","ru":"Huelva Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"H"},{"id":"139f0d81-fdae-4e6c-aa03-2351af5caf56","name":"Huesca Province","ru":"Huesca Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"HU"},{"id":"f24e0dc0-2552-4053-8bad-9dc23535edad","name":"Jaén Province","ru":"Jaén Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"J"},{"id":"d959a41a-2965-4db3-9305-a697324ebcbd","name":"La Rioja","ru":"La Rioja","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"RI"},{"id":"5ce7a9b1-7dad-4f70-a3ef-112a2f8e80d5","name":"Las Palmas Province","ru":"Las Palmas Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"GC"},{"id":"0f65ae2f-317a-464c-a0c3-103d0985671f","name":"León Province","ru":"León Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"LE"},{"id":"c03fda4a-09d3-4b21-86c8-d91c237deb6f","name":"Lleida Province","ru":"Lleida Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"L"},{"id":"b7dc661e-b0ec-45ad-a1fb-4c72592d4c2d","name":"Lugo Province","ru":"Lugo Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"LU"},{"id":"13c98fda-5ea0-4d98-8d1e-240516d265fd","name":"Madrid Province","ru":"Madrid Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"M"},{"id":"d9a8b13c-1049-4972-8938-8445589f2136","name":"Málaga Province","ru":"Málaga Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"MA"},{"id":"18c864ac-2467-45a5-b6ce-d76bc53f8b4a","name":"Melilla","ru":"Melilla","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"ML"},{"id":"1afd152c-359a-4c2d-972d-37b807442b1a","name":"Murcia Province","ru":"Murcia Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"MU"},{"id":"fddaedd1-41ed-4a3d-9ea2-2fbb5404bf94","name":"Navarre","ru":"Navarre","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"NC"},{"id":"acb20b9e-2d81-4d59-bc05-8cbe28a85d77","name":"Ourense Province","ru":"Ourense Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"OR"},{"id":"2207a200-c117-4136-a966-c6c4b0d7e1a8","name":"Palencia Province","ru":"Palencia Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"P"},{"id":"5e2a8259-1e1a-4718-a87c-85bc1dbeaef9","name":"Pontevedra Province","ru":"Pontevedra Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"PO"},{"id":"875234c7-cfdb-4f79-9bfe-cdd188eaf64d","name":"Province of Asturias","ru":"Province of Asturias","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"O"},{"id":"609c10a0-5830-465c-beb5-0d8138df112f","name":"Province of Ávila","ru":"Province of Ávila","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"AV"},{"id":"a51e2899-c1e9-4b09-90e1-089d243c0766","name":"Region of Murcia","ru":"Region of Murcia","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"MC"},{"id":"442aac35-93ff-4cb3-a780-8289905fcbaf","name":"Salamanca Province","ru":"Salamanca Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"SA"},{"id":"5769c8bf-d343-4d59-a7fd-779776fbdf4b","name":"Santa Cruz de Tenerife Province","ru":"Santa Cruz de Tenerife Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"TF"},{"id":"7531563b-317e-47c4-ab01-7d4792c374f5","name":"Segovia Province","ru":"Segovia Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"SG"},{"id":"d8d578ab-51ae-4679-9926-c53efae56c52","name":"Seville Province","ru":"Seville Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"SE"},{"id":"b121ad9e-1f7b-4625-9516-ca8361ad64f0","name":"Soria Province","ru":"Soria Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"SO"},{"id":"5ad6abf2-3174-4794-b58e-eb6fc2dbc0e8","name":"Tarragona Province","ru":"Tarragona Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"T"},{"id":"59be55e4-6065-426e-970d-5f8a025e71d3","name":"Teruel Province","ru":"Teruel Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"TE"},{"id":"70d5f504-af4d-4ab8-a170-c1139a28a2ab","name":"Toledo Province","ru":"Toledo Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"TO"},{"id":"1822c1eb-e627-41a6-a205-5557826314b1","name":"Valencia Province","ru":"Valencia Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"V"},{"id":"7e6f9253-4dbf-46ff-a3c4-3262819f2134","name":"Valencian Community","ru":"Valencian Community","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"VC"},{"id":"2f76a8c9-dc8d-4e1c-8847-0484c323802f","name":"Valladolid Province","ru":"Valladolid Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"VA"},{"id":"1fe0296b-186d-4eed-88c4-b385c373481b","name":"Zamora Province","ru":"Zamora Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"ZA"},{"id":"55db4847-68a3-4ea2-aa08-9e4c2d9c3468","name":"Zaragoza Province","ru":"Zaragoza Province","country":"44203247-50e2-4e6e-88d5-39232f5810eb","countryCode":"ES","stateCode":"Z"}]
+[
+  {
+    "id": "d1e1063a-281b-403f-be24-ec2e660cc34c",
+    "en": "A Coruña Province",
+    "ru": "А провинция Корунья",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "C"
+  },
+  {
+    "id": "d87869df-a7ba-4b87-bfd0-3bbd27a64637",
+    "en": "Albacete Province",
+    "ru": "Альбасете провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "AB"
+  },
+  {
+    "id": "e3b786d3-f4ec-4f19-95d0-7db233d12293",
+    "en": "Alicante Province",
+    "ru": "Аликанте провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "A"
+  },
+  {
+    "id": "37031ce9-e1e2-4341-817b-44982dd4e63e",
+    "en": "Almería Province",
+    "ru": "Альмерия провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "AL"
+  },
+  {
+    "id": "6cf78273-ff17-43a1-ac51-53d3313bc1a4",
+    "en": "Andalusia",
+    "ru": "Андалусия",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "AN"
+  },
+  {
+    "id": "ce951ace-380e-48f3-8efe-234efddf1207",
+    "en": "Araba / Álava",
+    "ru": "Араба / Алава",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "VI"
+  },
+  {
+    "id": "941462c8-26e1-4ec3-97ac-0272c228ec76",
+    "en": "Aragon",
+    "ru": "Арагон",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "AR"
+  },
+  {
+    "id": "8303c99d-4e7c-4357-a7a6-a70c79fde392",
+    "en": "Badajoz Province",
+    "ru": "Бадахос провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "BA"
+  },
+  {
+    "id": "32563769-e7b5-4b44-a744-b2d7f3956eda",
+    "en": "Balearic Islands",
+    "ru": "Балеарские острова",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "PM"
+  },
+  {
+    "id": "7258be76-d299-40c8-876b-4cc8ecae62e7",
+    "en": "Barcelona Province",
+    "ru": "Барселона провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "B"
+  },
+  {
+    "id": "adc7d6d2-71b9-465c-9918-64aa396371c7",
+    "en": "Basque Country",
+    "ru": "Страна Басков",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "PV"
+  },
+  {
+    "id": "cd6dc78c-2f90-413b-a8af-a5bf583e982c",
+    "en": "Biscay",
+    "ru": "Бискайский регион",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "BI"
+  },
+  {
+    "id": "4b160009-e1a4-4223-bbe0-e90da3dc46fa",
+    "en": "Burgos Province",
+    "ru": "Бургос провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "BU"
+  },
+  {
+    "id": "3d859885-689f-4590-a809-e309f59e9ddf",
+    "en": "Canary Islands",
+    "ru": "Канарские острова",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CN"
+  },
+  {
+    "id": "86966594-6e8a-4a97-b161-c435ae076bab",
+    "en": "Cantabria",
+    "ru": "Кантабрия",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "S"
+  },
+  {
+    "id": "8fbbcb19-811e-4edb-9b65-92aa3b9160bd",
+    "en": "Castellón Province",
+    "ru": "Кастельон (ил)",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CS"
+  },
+  {
+    "id": "ac14c269-8506-441e-9dfc-c22438a6089e",
+    "en": "Castile and León",
+    "ru": "Кастилия и Леон",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CL"
+  },
+  {
+    "id": "ded04687-832f-46a2-9623-8b1fe3949326",
+    "en": "Castile-La Mancha",
+    "ru": "Кастилия-Ла-Манча",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CM"
+  },
+  {
+    "id": "666bb26a-2c22-4ad4-9779-6bd7a4427678",
+    "en": "Catalonia",
+    "ru": "Каталония",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CT"
+  },
+  {
+    "id": "82df18ad-bc19-4fdc-8b50-875ab0e19d6e",
+    "en": "Cáceres Province",
+    "ru": "Касерес провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CC"
+  },
+  {
+    "id": "735dc163-6f5d-42cc-9f18-66b2f1dbb243",
+    "en": "Cádiz Province",
+    "ru": "Кадис провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CA"
+  },
+  {
+    "id": "5629f12c-5f31-4325-8efd-33c5280b3ca2",
+    "en": "Córdoba Province",
+    "ru": "Кордовская губерния",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CO"
+  },
+  {
+    "id": "bc375bd1-7138-4f9e-88e4-36376a1b2d40",
+    "en": "Ceuta",
+    "ru": "Сеута",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CE"
+  },
+  {
+    "id": "47b65df3-479b-45d3-a282-11bb045d8614",
+    "en": "Ciudad Real Province",
+    "ru": "Сьюдад-Реаль (провинция)",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CR"
+  },
+  {
+    "id": "8a7084af-4127-413e-b77b-7b047989ed29",
+    "en": "Community of Madrid",
+    "ru": "Сообщество Мадрида",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "MD"
+  },
+  {
+    "id": "ce00e9db-02ec-48b9-831d-0096ded50e8e",
+    "en": "Cuenca Province",
+    "ru": "Куэнка провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "CU"
+  },
+  {
+    "id": "7f6a223c-9bc5-4ebc-b776-a089376a742f",
+    "en": "Extremadura",
+    "ru": "Эстремадура",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "EX"
+  },
+  {
+    "id": "cbf66cac-2e5f-4904-ab1f-62294c591508",
+    "en": "Galicia",
+    "ru": "Галисия",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "GA"
+  },
+  {
+    "id": "c4d447a0-2e7d-4914-ada8-09888acdd543",
+    "en": "Gipuzkoa",
+    "ru": "Гипускоа",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "SS"
+  },
+  {
+    "id": "48a61a4e-1070-438a-88fa-471da3c13530",
+    "en": "Girona Province",
+    "ru": "Жирона провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "GI"
+  },
+  {
+    "id": "7c606f68-c946-46f0-a7fb-c4216f3b67c9",
+    "en": "Granada Province",
+    "ru": "Гранада провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "GR"
+  },
+  {
+    "id": "7ad32f6b-578a-4461-831e-a43973c44cd3",
+    "en": "Guadalajara Province",
+    "ru": "Гвадалахарская область",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "GU"
+  },
+  {
+    "id": "bffd7ab5-fae0-4147-816f-bfb8e8637d00",
+    "en": "Huelva Province",
+    "ru": "Уэльва провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "H"
+  },
+  {
+    "id": "26e2f39f-a5cc-49c2-bd4f-9beac8091ad0",
+    "en": "Huesca Province",
+    "ru": "Уэска ​​провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "HU"
+  },
+  {
+    "id": "9100d434-904b-4c94-a9df-cbc15fddc450",
+    "en": "Jaén Province",
+    "ru": "Хаэн провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "J"
+  },
+  {
+    "id": "d912676d-7949-445f-b32c-086e39ff8456",
+    "en": "La Rioja",
+    "ru": "Ла Риоха",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "RI"
+  },
+  {
+    "id": "f2fa6cd5-28e3-40c1-bb76-66f55585ea62",
+    "en": "Las Palmas Province",
+    "ru": "Провинция Лас-Пальмас",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "GC"
+  },
+  {
+    "id": "a5571dcf-b4a1-4376-a627-20e0881e9f00",
+    "en": "León Province",
+    "ru": "Леон провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "id": "f368d2d6-3621-49bb-a5a8-61e53b839cb7",
+    "en": "Lleida Province",
+    "ru": "Лерида провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "L"
+  },
+  {
+    "id": "a41ac5b1-2b59-48a0-93e2-91d5c93769b1",
+    "en": "Lugo Province",
+    "ru": "Лугская губерния",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "LU"
+  },
+  {
+    "id": "9f6280dd-d535-4eac-b676-853ab0f6a299",
+    "en": "Madrid Province",
+    "ru": "Мадрид провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "M"
+  },
+  {
+    "id": "a3afe0fe-03b9-4f40-af1b-b3e4b1b3c08e",
+    "en": "Málaga Province",
+    "ru": "Малага провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "MA"
+  },
+  {
+    "id": "87be6248-7e00-4f1a-a9aa-5ea53ee59acb",
+    "en": "Melilla",
+    "ru": "мелилья",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "ML"
+  },
+  {
+    "id": "7fe2c5b8-c8fa-4646-8b78-1551625d9194",
+    "en": "Murcia Province",
+    "ru": "Мурсия провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "MU"
+  },
+  {
+    "id": "b185f6dd-ef15-400c-aaef-69031b982e32",
+    "en": "Navarre",
+    "ru": "Наварра",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "NC"
+  },
+  {
+    "id": "5b69b8db-ee04-4302-aa2b-bc4f3db87eb2",
+    "en": "Ourense Province",
+    "ru": "Оренсе провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "OR"
+  },
+  {
+    "id": "d87bd546-cf5f-432a-9a7c-b8707c765b66",
+    "en": "Palencia Province",
+    "ru": "Паленсия провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "P"
+  },
+  {
+    "id": "ca1f4980-4757-471f-a947-ff7368b21d25",
+    "en": "Pontevedra Province",
+    "ru": "Понтеведра губерния",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "PO"
+  },
+  {
+    "id": "c2790611-ae84-4d14-886a-7e28d8115af9",
+    "en": "Province of Asturias",
+    "ru": "Провинция Астурия",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "O"
+  },
+  {
+    "id": "8bc51134-d73e-419a-b897-751dc0ced728",
+    "en": "Province of Ávila",
+    "ru": "Провинция Авила",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "AV"
+  },
+  {
+    "id": "1f9f7853-83af-4aca-a616-9abc60ecdd31",
+    "en": "Region of Murcia",
+    "ru": "Мурсия",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "MC"
+  },
+  {
+    "id": "0436b6d5-987f-4685-8ddf-c4c24a76ebba",
+    "en": "Salamanca Province",
+    "ru": "Саламанка провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "SA"
+  },
+  {
+    "id": "aa900681-454e-485d-89aa-6a2371bcf85f",
+    "en": "Santa Cruz de Tenerife Province",
+    "ru": "Санта-Крус-де-Тенерифе Провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "TF"
+  },
+  {
+    "id": "cd8e6c5d-13ec-4519-824b-2095d7f236e6",
+    "en": "Segovia Province",
+    "ru": "Сеговия губерния",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "SG"
+  },
+  {
+    "id": "96616613-8588-4016-bf9f-391418b8a4c2",
+    "en": "Seville Province",
+    "ru": "Севилья провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "SE"
+  },
+  {
+    "id": "c782fff5-4987-4ce1-ad0b-92da19212051",
+    "en": "Soria Province",
+    "ru": "Сория провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "SO"
+  },
+  {
+    "id": "bb398c67-44ef-4661-bc3f-1ef9ac48b68d",
+    "en": "Tarragona Province",
+    "ru": "Таррагона провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "T"
+  },
+  {
+    "id": "91561114-f245-4cbd-9275-1bba233bc96e",
+    "en": "Teruel Province",
+    "ru": "Теруэль провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "TE"
+  },
+  {
+    "id": "aaea823f-231e-4991-a475-0b8cc9a48ce2",
+    "en": "Toledo Province",
+    "ru": "Толедо провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "TO"
+  },
+  {
+    "id": "96456a07-7f34-45bb-bcdf-78e7b4a3f1f0",
+    "en": "Valencia Province",
+    "ru": "Валенсия провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "V"
+  },
+  {
+    "id": "5b3e21e6-97cc-4da1-912c-2dba26e1551e",
+    "en": "Valencian Community",
+    "ru": "Валенсия",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "VC"
+  },
+  {
+    "id": "053e747e-535c-442e-b65c-33357d804e46",
+    "en": "Valladolid Province",
+    "ru": "Вальядолид провинция",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "VA"
+  },
+  {
+    "id": "da5b680b-5b8b-4c8b-9b0a-359edd30cb49",
+    "en": "Zamora Province",
+    "ru": "Заморская область",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "ZA"
+  },
+  {
+    "id": "f501db60-187b-4d32-aae1-d1cb3c648726",
+    "en": "Zaragoza Province",
+    "ru": "Сарагосская губерния",
+    "country": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "countryCode": "ES",
+    "stateCode": "Z"
+  }
+]

@@ -1,1 +1,130 @@
-[{"id":"a6be9e97-cd67-408c-89df-047e577fa0da","name":"Boaco Department","ru":"Boaco Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"BO"},{"id":"86c51562-ebe9-438d-a7ba-246d259a293b","name":"Carazo Department","ru":"Carazo Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"CA"},{"id":"251bd1b7-15e1-4d73-a79b-a8e8a0278b8f","name":"Chinandega Department","ru":"Chinandega Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"CI"},{"id":"0a8c2bcc-6009-4459-8a09-f8215e6dcc11","name":"Chontales Department","ru":"Chontales Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"CO"},{"id":"c3ff7c0f-9312-45b3-a3f4-29a89088c4a4","name":"Estelí Department","ru":"Estelí Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"ES"},{"id":"18f0dd43-6395-4d2b-8414-ec3cceff9861","name":"Granada Department","ru":"Granada Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"GR"},{"id":"96597375-cc11-47fd-97c0-16a75a87dd23","name":"Jinotega Department","ru":"Jinotega Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"JI"},{"id":"fbce6c30-cb36-4f61-8c8a-91c3edcbf8b6","name":"León Department","ru":"León Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"LE"},{"id":"1959d460-6427-44ae-9be4-84fc52a5624f","name":"Madriz Department","ru":"Madriz Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"MD"},{"id":"226b45e3-1c24-46c3-aaaa-40237c569656","name":"Managua Department","ru":"Managua Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"MN"},{"id":"e429b8a9-5940-4f5f-9db8-6a85625f004a","name":"Masaya Department","ru":"Masaya Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"MS"},{"id":"07fbfb5e-fdd1-4d51-a69d-9155438dd2ef","name":"Matagalpa Department","ru":"Matagalpa Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"MT"},{"id":"19ab97cf-c664-49ba-bef0-e958b78f71e6","name":"North Caribbean Coast Autonomous Region","ru":"North Caribbean Coast Autonomous Region","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"AN"},{"id":"85f6b3c1-9582-44e2-9a70-b27f0e50e432","name":"Río San Juan Department","ru":"Río San Juan Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"SJ"},{"id":"033b8da6-be51-4b2f-8c3f-1535e545fc74","name":"Rivas Department","ru":"Rivas Department","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"RI"},{"id":"d1766f9f-34b2-4baf-af12-6adb04fd319d","name":"South Caribbean Coast Autonomous Region","ru":"South Caribbean Coast Autonomous Region","country":"2eebdc71-fc8b-4cd1-bc79-6311e7e6a7ac","countryCode":"NI","stateCode":"AS"}]
+[
+  {
+    "id": "4476a68b-62da-4f12-8dbc-27a543f97a54",
+    "en": "Boaco Department",
+    "ru": "районное отделение Боако",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "BO"
+  },
+  {
+    "id": "4d98fab6-884f-472a-a048-5106300acb34",
+    "en": "Carazo Department",
+    "ru": "Каразский район",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "CA"
+  },
+  {
+    "id": "ad430bda-2a83-4c1d-bcf7-193f51cd9e6f",
+    "en": "Chinandega Department",
+    "ru": "Чинандегский районный отдел",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "CI"
+  },
+  {
+    "id": "d9aee2e7-97f6-4c7b-8a0a-51de060d6c9c",
+    "en": "Chontales Department",
+    "ru": "Чонталский районный отдел",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "CO"
+  },
+  {
+    "id": "048f5497-860c-4312-b2a1-2b1d3b13eec7",
+    "en": "Estelí Department",
+    "ru": "Эстели департамент",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "ES"
+  },
+  {
+    "id": "09f61e0f-c7f3-4596-9f89-6e7f278c767e",
+    "en": "Granada Department",
+    "ru": "Гранада департамент",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "GR"
+  },
+  {
+    "id": "923caa09-7193-4125-9f93-dc7d10838146",
+    "en": "Jinotega Department",
+    "ru": "Jinotega отдел",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "JI"
+  },
+  {
+    "id": "548f244b-529d-4e2e-b075-d33b6a5c124b",
+    "en": "León Department",
+    "ru": "Леон департамент",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "LE"
+  },
+  {
+    "id": "bbca250c-cbe8-4630-9427-6e6938266981",
+    "en": "Madriz Department",
+    "ru": "областной Мадризский департамент",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "MD"
+  },
+  {
+    "id": "96d58383-3574-43f2-9c20-d79257bf6407",
+    "en": "Managua Department",
+    "ru": "Манагуа департамент",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "MN"
+  },
+  {
+    "id": "2216d442-682c-4316-96be-4232e9889f9b",
+    "en": "Masaya Department",
+    "ru": "Масая область",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "MS"
+  },
+  {
+    "id": "234c4a0f-54fb-4910-b2bb-ffcd27c3edd9",
+    "en": "Matagalpa Department",
+    "ru": "район Матагальпа",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "MT"
+  },
+  {
+    "id": "559deb29-53b7-40c5-9a55-0b8d5a015c7a",
+    "en": "North Caribbean Coast Autonomous Region",
+    "ru": "Северное побережье Карибского моря автономный округ",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "AN"
+  },
+  {
+    "id": "7d5e6cd0-528d-4941-bfa5-22ebdbef551b",
+    "en": "Río San Juan Department",
+    "ru": "Рио Сан-Хуан Департамент",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "SJ"
+  },
+  {
+    "id": "ca59e166-faeb-4e5b-a187-e2f99613d608",
+    "en": "Rivas Department",
+    "ru": "Ривасский районный отдел",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "RI"
+  },
+  {
+    "id": "91ea5db7-f29f-436b-afef-a91c3f2a15cf",
+    "en": "South Caribbean Coast Autonomous Region",
+    "ru": "Южно-Карибское побережье автономный округ",
+    "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
+    "countryCode": "NI",
+    "stateCode": "AS"
+  }
+]

@@ -1,1 +1,34 @@
-[{"id":"898fafe1-c13f-4c17-9a48-34d8262e5857","name":"Hhohho District","ru":"Hhohho District","country":"f4329972-211c-4a8b-940f-3d0dca4cd124","countryCode":"SZ","stateCode":"HH"},{"id":"70b75f89-56db-4a86-a4eb-61d0e205686a","name":"Lubombo District","ru":"Lubombo District","country":"f4329972-211c-4a8b-940f-3d0dca4cd124","countryCode":"SZ","stateCode":"LU"},{"id":"0e1dbca8-5169-4c4a-b498-580256b43a8b","name":"Manzini District","ru":"Manzini District","country":"f4329972-211c-4a8b-940f-3d0dca4cd124","countryCode":"SZ","stateCode":"MA"},{"id":"df3edd12-1e39-464d-bdc0-712e6e53e108","name":"Shiselweni District","ru":"Shiselweni District","country":"f4329972-211c-4a8b-940f-3d0dca4cd124","countryCode":"SZ","stateCode":"SH"}]
+[
+  {
+    "id": "e0a94e72-1f5f-40ee-ab45-ff84c2124250",
+    "en": "Hhohho District",
+    "ru": "Хоххо Район",
+    "country": "b522a3c1-6d39-4ca0-af07-a29d25e54e10",
+    "countryCode": "SZ",
+    "stateCode": "HH"
+  },
+  {
+    "id": "c6f91058-d967-4047-8374-bcd3fd0bd553",
+    "en": "Lubombo District",
+    "ru": "Любомбинский район",
+    "country": "b522a3c1-6d39-4ca0-af07-a29d25e54e10",
+    "countryCode": "SZ",
+    "stateCode": "LU"
+  },
+  {
+    "id": "bfdf0374-1a0b-4247-adb8-4cddf8d034ac",
+    "en": "Manzini District",
+    "ru": "Манзини район",
+    "country": "b522a3c1-6d39-4ca0-af07-a29d25e54e10",
+    "countryCode": "SZ",
+    "stateCode": "MA"
+  },
+  {
+    "id": "23bb2e82-b14b-46c8-a129-2f4532857a9a",
+    "en": "Shiselweni District",
+    "ru": "Шиселвенский район",
+    "country": "b522a3c1-6d39-4ca0-af07-a29d25e54e10",
+    "countryCode": "SZ",
+    "stateCode": "SH"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"f2684f85-2ada-40ff-8c10-b0e4ceb731b5","name":"Sierra Leone","ru":"Sierra Leone","iso3":"SLE","iso2":"SL","phoneCode":"232","capital":"9e1ede52-57d0-45c5-9684-ab7492012386","currency":"SLL"}]
+[
+  {
+    "id": "d9107c71-b16a-4e6c-8ff7-c12a333812f5",
+    "en": "Sierra Leone",
+    "ru": "Сьерра-Леоне",
+    "iso3": "SLE",
+    "iso2": "SL",
+    "phoneCode": "232",
+    "capital": null,
+    "currency": "SLL"
+  }
+]

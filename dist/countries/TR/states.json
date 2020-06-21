@@ -1,1 +1,642 @@
-[{"id":"61e00610-39dd-4fd3-8b95-24f29b9eb89e","name":"Ağrı Province","ru":"Ağrı Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"04"},{"id":"9bc17dd4-e9aa-4658-8747-81e4aa204809","name":"Adana Province","ru":"Adana Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"01"},{"id":"ad294108-b777-45ce-aef6-24b11526e63d","name":"Adıyaman Province","ru":"Adıyaman Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"02"},{"id":"76d74153-2dd4-45f1-99b6-775213956349","name":"Afyonkarahisar Province","ru":"Afyonkarahisar Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"03"},{"id":"fb871468-e6c9-4f66-add3-7fbbd0cd2808","name":"Aksaray Province","ru":"Aksaray Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"68"},{"id":"050aa232-2691-493f-ab07-314faf2931ae","name":"Amasya Province","ru":"Amasya Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"05"},{"id":"ca253860-f589-44c0-907b-45de7c082d6f","name":"Ankara Province","ru":"Ankara Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"06"},{"id":"8be01a4d-fdce-4b03-8c99-f5f7d484236a","name":"Antalya Province","ru":"Antalya Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"07"},{"id":"51e6ad33-72b6-4af9-9b99-1f6a68a00d62","name":"Ardahan Province","ru":"Ardahan Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"75"},{"id":"b36fabc4-cdec-4d4b-b0ba-1a6df496f09c","name":"Artvin Province","ru":"Artvin Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"08"},{"id":"8e53efbc-f63f-4c77-abd7-b186c785364a","name":"Aydın Province","ru":"Aydın Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"09"},{"id":"48c2e1d3-56c7-4e64-b67c-ad2fbff2bb63","name":"Şanlıurfa Province","ru":"Şanlıurfa Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"63"},{"id":"4b265b45-10ae-4def-9d5f-d874cd1c0c4e","name":"Şırnak Province","ru":"Şırnak Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"73"},{"id":"80030d05-4592-463e-996e-dbea9b22a633","name":"İzmir Province","ru":"İzmir Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"35"},{"id":"549a4f1a-7ce5-4efb-918a-a15fd18112d5","name":"Çanakkale Province","ru":"Çanakkale Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"17"},{"id":"4ac5b0c6-a8f8-48b2-af77-1d05bada1531","name":"Çankırı Province","ru":"Çankırı Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"18"},{"id":"286271cd-b651-4b54-b155-501fa0d118d2","name":"Çorum Province","ru":"Çorum Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"19"},{"id":"1f5d7821-6121-4d7a-9745-e7b4975160aa","name":"Balıkesir Province","ru":"Balıkesir Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"10"},{"id":"2412e536-30f0-4d12-87ee-0d9c287147f1","name":"Bartın Province","ru":"Bartın Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"74"},{"id":"e5a0fd09-152d-4a6f-9154-2ea6c9c98103","name":"Batman Province","ru":"Batman Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"72"},{"id":"7b27cdaa-9849-416a-a2ce-5121eee82a7f","name":"Bayburt Province","ru":"Bayburt Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"69"},{"id":"d4a2f0d7-9529-4eed-a2ac-c11e414756cf","name":"Bilecik Province","ru":"Bilecik Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"11"},{"id":"e4f32643-385a-4191-b5f4-c4d88bb7be0a","name":"Bingöl Province","ru":"Bingöl Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"12"},{"id":"1cbcd58b-30c5-4580-99b1-819704d7b9e0","name":"Bitlis Province","ru":"Bitlis Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"13"},{"id":"d6e2dee6-0774-4539-9eb1-6a854ecad25c","name":"Bolu Province","ru":"Bolu Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"14"},{"id":"69894bf1-c3de-46d9-ab27-0a35ddc950b8","name":"Burdur Province","ru":"Burdur Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"15"},{"id":"6930fc45-7068-43ad-a305-25d9cb3d42f2","name":"Bursa Province","ru":"Bursa Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"16"},{"id":"1ffe5a7e-4487-4ab2-a2e9-5951f286e4ba","name":"Düzce Province","ru":"Düzce Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"81"},{"id":"a7e431d1-cdee-4a47-a3a8-057869c5461b","name":"Denizli Province","ru":"Denizli Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"20"},{"id":"4ac8409c-d403-4b7b-9c1a-249cdb693adc","name":"Diyarbakır Province","ru":"Diyarbakır Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"21"},{"id":"fda14f03-4215-4b6e-a5c9-d7c5d93dc18d","name":"Edirne Province","ru":"Edirne Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"22"},{"id":"f654560f-7b37-4032-9e21-095af6439ede","name":"Elazığ Province","ru":"Elazığ Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"23"},{"id":"b488ffd2-4bf2-42ff-8748-d1765c317b02","name":"Erzincan Province","ru":"Erzincan Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"24"},{"id":"ab0b2ffa-b3f4-42b8-8276-3550afcac92b","name":"Erzurum Province","ru":"Erzurum Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"25"},{"id":"31986826-c461-4331-8849-3bd451626b9d","name":"Eskişehir Province","ru":"Eskişehir Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"26"},{"id":"af981a18-4e90-4ad6-b437-bb874a13f860","name":"Gaziantep Province","ru":"Gaziantep Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"27"},{"id":"90671c65-ca1a-400b-9e55-0a599ea7feef","name":"Gümüşhane Province","ru":"Gümüşhane Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"29"},{"id":"af30577e-32de-411d-a831-2afa32f6d22d","name":"Giresun Province","ru":"Giresun Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"28"},{"id":"98218585-ea43-40cb-b5dd-8677b0b10726","name":"Hakkâri Province","ru":"Hakkâri Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"30"},{"id":"50fa3cf2-be0e-4b75-ba94-f09dc6ed3f91","name":"Hatay Province","ru":"Hatay Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"31"},{"id":"72985929-10f2-47a7-91a1-d98646db8ca2","name":"Iğdır Province","ru":"Iğdır Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"76"},{"id":"530c45bc-8924-4d24-aa3f-8e5f38818c6d","name":"Isparta Province","ru":"Isparta Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"32"},{"id":"e269180e-df69-4739-bf77-9da490c23399","name":"Istanbul Province","ru":"Istanbul Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"34"},{"id":"fbad232a-9e0e-4a5d-825c-0126e6fd5ae4","name":"Kahramanmaraş Province","ru":"Kahramanmaraş Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"46"},{"id":"87425259-5326-4c9d-83a8-7e4ca2bdda5b","name":"Karabük Province","ru":"Karabük Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"78"},{"id":"d7a75975-b0bb-40ca-8472-2f9da2d169ed","name":"Karaman Province","ru":"Karaman Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"70"},{"id":"7d5a6ce8-3381-4558-9e95-182a6118f246","name":"Kars Province","ru":"Kars Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"36"},{"id":"4dc39df3-d6ae-4d07-b704-a3d8d48d4a01","name":"Kastamonu Province","ru":"Kastamonu Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"37"},{"id":"b302472c-e8e1-4959-af9b-9cb7fe1f4019","name":"Kayseri Province","ru":"Kayseri Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"38"},{"id":"1af2aac9-f1e5-4373-80ab-abc1467c9af4","name":"Kırşehir Province","ru":"Kırşehir Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"40"},{"id":"cd4ebd30-ce07-4db0-a8a0-4bf218900796","name":"Kırıkkale Province","ru":"Kırıkkale Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"71"},{"id":"bab19748-e807-429f-81c5-7e8a2310eb62","name":"Kırklareli Province","ru":"Kırklareli Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"39"},{"id":"04312ef3-0d18-4a0a-9faa-77be5b330514","name":"Kütahya Province","ru":"Kütahya Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"43"},{"id":"72761ce8-12a4-4b56-a9aa-6ea714faeb74","name":"Kilis Province","ru":"Kilis Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"79"},{"id":"8a71414d-ab78-46f3-8111-604b1e41cf29","name":"Kocaeli Province","ru":"Kocaeli Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"41"},{"id":"1b72fb1b-4db3-4a1c-a0c9-1edb332ac00a","name":"Konya Province","ru":"Konya Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"42"},{"id":"db93538b-7b43-4c12-b8ce-c8d5445cd95b","name":"Malatya Province","ru":"Malatya Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"44"},{"id":"cad986c9-d0d8-49a9-b5c0-009614ab4b12","name":"Manisa Province","ru":"Manisa Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"45"},{"id":"9a3a1a69-bc30-4d96-9467-01c64dff2d16","name":"Mardin Province","ru":"Mardin Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"47"},{"id":"0ae38f92-0648-42fb-aea0-8b0b3bac5522","name":"Mersin Province","ru":"Mersin Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"33"},{"id":"6b0ff786-989c-4b17-81e7-d13dad8bb47f","name":"Muş Province","ru":"Muş Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"49"},{"id":"af2e41a8-4288-418e-9abb-92fbbe3bc14e","name":"Muğla Province","ru":"Muğla Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"48"},{"id":"df1b5402-b8d4-49d3-8172-e40eaf7cce96","name":"Nevşehir Province","ru":"Nevşehir Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"50"},{"id":"9e21b123-ff86-48cb-b933-37ac019f1728","name":"Niğde Province","ru":"Niğde Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"51"},{"id":"d9a64bd9-85ec-40f6-90bd-0bcce96df4cd","name":"Ordu Province","ru":"Ordu Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"52"},{"id":"0b6f3e30-dfc0-456e-be83-886c38d46f89","name":"Osmaniye Province","ru":"Osmaniye Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"80"},{"id":"1f7def81-f4be-4efb-b0b1-6f465c6de5cc","name":"Rize Province","ru":"Rize Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"53"},{"id":"e978a2c5-7232-4899-a953-a6b624104fae","name":"Sakarya Province","ru":"Sakarya Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"54"},{"id":"421ec778-2fdd-42fc-8552-a494343b6902","name":"Samsun Province","ru":"Samsun Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"55"},{"id":"28d4db60-03de-4c97-83a7-b08699c965ed","name":"Siirt Province","ru":"Siirt Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"56"},{"id":"acb1426d-011c-4ab6-9429-375891a21484","name":"Sivas Province","ru":"Sivas Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"58"},{"id":"00bc1061-6160-4b42-9989-a88a93f5ce11","name":"Tekirdağ Province","ru":"Tekirdağ Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"59"},{"id":"dd9761c8-fdb8-49ae-933c-59601b5aae26","name":"Tokat Province","ru":"Tokat Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"60"},{"id":"a8c95276-e48a-4d8f-80ad-3a19a2584681","name":"Trabzon Province","ru":"Trabzon Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"61"},{"id":"1703e5f2-f632-46dc-b5e9-4539d2dbbd45","name":"Tunceli Province","ru":"Tunceli Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"62"},{"id":"ad822af5-3247-449c-82c4-40b5ed02d5e1","name":"Uşak Province","ru":"Uşak Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"64"},{"id":"41ae2abb-e78a-49b8-bb93-03626eaac232","name":"Van Province","ru":"Van Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"65"},{"id":"5843f116-a71e-4457-bbea-87b7c5a1ae36","name":"Yalova Province","ru":"Yalova Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"77"},{"id":"fd7078e0-09ec-41a8-bb64-6c653c493359","name":"Yozgat Province","ru":"Yozgat Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"66"},{"id":"12e34c6b-264f-4bbf-9072-1f4d4ceeda6b","name":"Zonguldak Province","ru":"Zonguldak Province","country":"49d34f2f-2f8f-4b8e-91b1-3611a271846d","countryCode":"TR","stateCode":"67"}]
+[
+  {
+    "id": "aba16520-198d-4d6c-85c2-779f0df23392",
+    "en": "Ağrı Province",
+    "ru": "Агры провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "04"
+  },
+  {
+    "id": "60a413cb-9e00-425b-9315-0ca847fb3f5e",
+    "en": "Adana Province",
+    "ru": "Адана губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "01"
+  },
+  {
+    "id": "3ed8a183-d770-40fd-8c86-cbaf6d68d157",
+    "en": "Adıyaman Province",
+    "ru": "Адыяман Область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "02"
+  },
+  {
+    "id": "62f81767-4b29-4222-a251-89bbc847a199",
+    "en": "Afyonkarahisar Province",
+    "ru": "Афьонкарахисарская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "03"
+  },
+  {
+    "id": "66376a61-a5f2-4c1b-b491-0b3cd868f0f2",
+    "en": "Aksaray Province",
+    "ru": "Аксарайский край",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "68"
+  },
+  {
+    "id": "12f53efe-a1a6-47a1-863a-f87bec630dd5",
+    "en": "Amasya Province",
+    "ru": "Амасья провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "05"
+  },
+  {
+    "id": "22d64f3a-b7fd-4fb0-88b3-d56ae65ada25",
+    "en": "Ankara Province",
+    "ru": "Анкара провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "06"
+  },
+  {
+    "id": "3ceae1d7-d94c-481f-9a6e-5bf95bddabf0",
+    "en": "Antalya Province",
+    "ru": "Анталия Область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "07"
+  },
+  {
+    "id": "9673df97-8a89-48f3-83f6-00eef5398bda",
+    "en": "Ardahan Province",
+    "ru": "Ардахан провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "75"
+  },
+  {
+    "id": "3aca3522-e046-43bc-a8e3-b726fcc16eea",
+    "en": "Artvin Province",
+    "ru": "Артвинская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "08"
+  },
+  {
+    "id": "d35756dd-76e8-4a88-bdc3-5e49a62c3f02",
+    "en": "Aydın Province",
+    "ru": "Айдынская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "09"
+  },
+  {
+    "id": "2675c505-4d7f-4540-a337-140779b8e47d",
+    "en": "Şanlıurfa Province",
+    "ru": "Шанлыурфа провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "63"
+  },
+  {
+    "id": "991eeee4-9c05-450a-9473-4993b5a2bb13",
+    "en": "Şırnak Province",
+    "ru": "Ширнакская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "73"
+  },
+  {
+    "id": "bd82f183-887d-4924-8c67-990c5072d217",
+    "en": "İzmir Province",
+    "ru": "Измирская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "35"
+  },
+  {
+    "id": "0bddf424-d1c7-439c-adb1-96e6219b940a",
+    "en": "Çanakkale Province",
+    "ru": "Чанаккальская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "17"
+  },
+  {
+    "id": "a65d9fb6-748f-4c75-a00f-9d06e9098cad",
+    "en": "Çankırı Province",
+    "ru": "Çankırı провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "18"
+  },
+  {
+    "id": "9b963a8f-4224-4e81-9d04-bab09c8551e2",
+    "en": "Çorum Province",
+    "ru": "Чорумская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "19"
+  },
+  {
+    "id": "c916162d-066f-4468-b1ae-d417597e5ccd",
+    "en": "Balıkesir Province",
+    "ru": "Балыкесир провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "10"
+  },
+  {
+    "id": "0633eeb9-2db8-4e87-954e-229abbe743c1",
+    "en": "Bartın Province",
+    "ru": "Бартынская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "74"
+  },
+  {
+    "id": "098ecfcc-f046-4bb5-8077-cef9d16e0c9e",
+    "en": "Batman Province",
+    "ru": "Батманская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "72"
+  },
+  {
+    "id": "d277db4e-8bd3-49ef-b3f1-129eecfa1a01",
+    "en": "Bayburt Province",
+    "ru": "Байбурт провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "69"
+  },
+  {
+    "id": "c505929f-3b43-4f3b-a487-69bcc7161ae6",
+    "en": "Bilecik Province",
+    "ru": "Билечик провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "11"
+  },
+  {
+    "id": "46cef283-b198-40fd-bda2-2402a8bbdfab",
+    "en": "Bingöl Province",
+    "ru": "Бингёль провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "12"
+  },
+  {
+    "id": "eb6a5cb6-c95a-4dbf-828e-3c68e20dd169",
+    "en": "Bitlis Province",
+    "ru": "Битлисская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "13"
+  },
+  {
+    "id": "f91d0a06-92af-4f56-a297-88bc35abb477",
+    "en": "Bolu Province",
+    "ru": "Болу провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "14"
+  },
+  {
+    "id": "c7a25816-d5f5-4767-a843-97d0800970d5",
+    "en": "Burdur Province",
+    "ru": "Бурдур провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "15"
+  },
+  {
+    "id": "99f12d71-230b-47ea-8e52-56d823e7365f",
+    "en": "Bursa Province",
+    "ru": "Бурса провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "16"
+  },
+  {
+    "id": "92080ba0-fe25-4ae2-9646-b2a8e32ce7ba",
+    "en": "Düzce Province",
+    "ru": "Дюздже воеводство",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "81"
+  },
+  {
+    "id": "d44904e5-8d16-4073-9682-6f61a7fbdeb2",
+    "en": "Denizli Province",
+    "ru": "Денизлинская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "20"
+  },
+  {
+    "id": "163545a0-6287-4280-bb76-3706a90e657d",
+    "en": "Diyarbakır Province",
+    "ru": "Диярбакыр провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "21"
+  },
+  {
+    "id": "22ac1496-ac9c-4b27-b45d-7c5b74dda3d7",
+    "en": "Edirne Province",
+    "ru": "Эдирнская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "22"
+  },
+  {
+    "id": "a82f19a6-e711-4c5d-94cc-aa4a57330784",
+    "en": "Elazığ Province",
+    "ru": "Элязыгская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "23"
+  },
+  {
+    "id": "19e1680d-c95d-4b27-9b2f-06ae3777a284",
+    "en": "Erzincan Province",
+    "ru": "Эрзинджан провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "24"
+  },
+  {
+    "id": "90b764df-3927-49e0-be7b-3f5fb2b665ae",
+    "en": "Erzurum Province",
+    "ru": "Эрзурум провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "25"
+  },
+  {
+    "id": "cccccb69-03c6-426c-bf2c-50e8519ed718",
+    "en": "Eskişehir Province",
+    "ru": "Эскишехир (ил)",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "26"
+  },
+  {
+    "id": "f003eb53-9d7a-47c0-8a03-1a5b9fa74602",
+    "en": "Gaziantep Province",
+    "ru": "Газиантеп провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "27"
+  },
+  {
+    "id": "1c56470f-1cc9-482c-83ea-b60c7a7aca8d",
+    "en": "Gümüşhane Province",
+    "ru": "Гюмюшхане провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "29"
+  },
+  {
+    "id": "ad918686-a52e-4d2a-adc3-65f85f2533e4",
+    "en": "Giresun Province",
+    "ru": "Гиресунская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "28"
+  },
+  {
+    "id": "394e5a22-893a-4714-a746-0b2b2da8146a",
+    "en": "Hakkâri Province",
+    "ru": "Хаккари провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "30"
+  },
+  {
+    "id": "15c40136-557b-4c76-87ee-ddbb8558517b",
+    "en": "Hatay Province",
+    "ru": "Хатайская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "31"
+  },
+  {
+    "id": "232fa128-70e1-4ed5-a813-39e0345813ca",
+    "en": "Iğdır Province",
+    "ru": "Ыгдырская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "76"
+  },
+  {
+    "id": "e5ba18e9-b274-489c-adfc-32355d943f3f",
+    "en": "Isparta Province",
+    "ru": "Испарта провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "32"
+  },
+  {
+    "id": "31ae7bb7-e21e-498d-bb5f-a49eedfb391b",
+    "en": "Istanbul Province",
+    "ru": "Стамбул провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "34"
+  },
+  {
+    "id": "96aecf1a-b412-4a33-93e6-bd17378f3114",
+    "en": "Kahramanmaraş Province",
+    "ru": "Кахраманмараш провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "46"
+  },
+  {
+    "id": "39e92f31-4f33-4b3c-91e0-0418d0e0926d",
+    "en": "Karabük Province",
+    "ru": "Карабюкская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "78"
+  },
+  {
+    "id": "71080d94-1a15-4aa7-beb5-38c19c16a5ac",
+    "en": "Karaman Province",
+    "ru": "Караманская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "70"
+  },
+  {
+    "id": "cf79670f-40cf-43d1-a70c-9f33d73943b6",
+    "en": "Kars Province",
+    "ru": "Карс провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "36"
+  },
+  {
+    "id": "bef6bc46-ac47-4c65-b3b6-dab0810fbbac",
+    "en": "Kastamonu Province",
+    "ru": "Кастамону провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "37"
+  },
+  {
+    "id": "eff2dc3e-2ab7-4090-a9ff-ee9bea4cc0f1",
+    "en": "Kayseri Province",
+    "ru": "Кайсери провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "38"
+  },
+  {
+    "id": "ff0ab58f-dfa6-48c8-93be-573f6129b400",
+    "en": "Kırşehir Province",
+    "ru": "Кыршехирская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "40"
+  },
+  {
+    "id": "d10b3739-3220-4b18-9bc2-9ee9ee3b4ee9",
+    "en": "Kırıkkale Province",
+    "ru": "Кырыккальская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "71"
+  },
+  {
+    "id": "a4133184-ed0e-4a68-af57-06fcfce7bc11",
+    "en": "Kırklareli Province",
+    "ru": "Кыркларели провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "39"
+  },
+  {
+    "id": "2c0c31d4-7724-4981-b4aa-cec02611834f",
+    "en": "Kütahya Province",
+    "ru": "Кютахья провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "43"
+  },
+  {
+    "id": "0bef2127-7c6e-45a9-8225-65fc3402c81b",
+    "en": "Kilis Province",
+    "ru": "Килис провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "79"
+  },
+  {
+    "id": "8da9cced-44d9-4053-a677-58a70be8e06b",
+    "en": "Kocaeli Province",
+    "ru": "Коджаэли провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "41"
+  },
+  {
+    "id": "12d50b6b-242d-4fa2-ab51-791f9666bcfe",
+    "en": "Konya Province",
+    "ru": "Конья губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "42"
+  },
+  {
+    "id": "57a34d4a-6256-48c7-b10b-1484c08a917e",
+    "en": "Malatya Province",
+    "ru": "Малатья провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "44"
+  },
+  {
+    "id": "b1858902-0a90-4c9d-b2ef-e3dcb10175d6",
+    "en": "Manisa Province",
+    "ru": "Маниса провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "45"
+  },
+  {
+    "id": "88c5f3f4-34b8-4d9b-970e-a0d409ff94d7",
+    "en": "Mardin Province",
+    "ru": "Мардинская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "47"
+  },
+  {
+    "id": "c7eb9647-0231-4b6e-89cb-d1381877e219",
+    "en": "Mersin Province",
+    "ru": "Мерсинская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "33"
+  },
+  {
+    "id": "8fcbf5c1-cd12-4574-9268-ad74846b4323",
+    "en": "Muş Province",
+    "ru": "Мушская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "49"
+  },
+  {
+    "id": "ba45c55e-cd3e-40a3-b4bc-7d34f070a727",
+    "en": "Muğla Province",
+    "ru": "Муглянская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "48"
+  },
+  {
+    "id": "631971b2-f880-4dcf-b479-3e7383c402a7",
+    "en": "Nevşehir Province",
+    "ru": "Невшехирская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "50"
+  },
+  {
+    "id": "0d20d676-0181-4c23-bdf0-0738f3455bc5",
+    "en": "Niğde Province",
+    "ru": "Niğde провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "51"
+  },
+  {
+    "id": "654d7059-c2aa-437f-93a1-b5c40beacc0f",
+    "en": "Ordu Province",
+    "ru": "Ордуская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "52"
+  },
+  {
+    "id": "8167c1a8-6d62-4afa-afe1-ebeac8c5542b",
+    "en": "Osmaniye Province",
+    "ru": "Османие провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "80"
+  },
+  {
+    "id": "bc115a89-74a9-4b33-8d98-6936397a9022",
+    "en": "Rize Province",
+    "ru": "Ризская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "53"
+  },
+  {
+    "id": "b9b130f6-f7a0-4b63-ac8c-9e5e2048d397",
+    "en": "Sakarya Province",
+    "ru": "Сакарская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "54"
+  },
+  {
+    "id": "770aa919-5ae1-495d-a521-ff7796873159",
+    "en": "Samsun Province",
+    "ru": "Самсунская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "55"
+  },
+  {
+    "id": "eaa059e7-a8aa-484e-b423-def4cc8a2b33",
+    "en": "Siirt Province",
+    "ru": "Сиртская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "56"
+  },
+  {
+    "id": "d2d32e18-6990-4ae9-b3a1-ae69bd623a87",
+    "en": "Sivas Province",
+    "ru": "Сивасская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "58"
+  },
+  {
+    "id": "3f8ca1c8-2a47-4ce2-8b10-8a517dcf97bf",
+    "en": "Tekirdağ Province",
+    "ru": "Текирдагская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "59"
+  },
+  {
+    "id": "b415f8e6-dcaf-454e-b764-2add11305e18",
+    "en": "Tokat Province",
+    "ru": "Токатская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "60"
+  },
+  {
+    "id": "26292fb3-8f0e-4caf-8d2c-3d89be61cb2d",
+    "en": "Trabzon Province",
+    "ru": "Трабзонская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "61"
+  },
+  {
+    "id": "4e1b12e0-2224-42f2-aa55-176ea8b503aa",
+    "en": "Tunceli Province",
+    "ru": "Tunceli провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "62"
+  },
+  {
+    "id": "82a99f5b-70a0-48fd-a7af-01a8fab985b0",
+    "en": "Uşak Province",
+    "ru": "Ушакская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "64"
+  },
+  {
+    "id": "0b11ccb9-940e-4884-8607-5f9651f7cca4",
+    "en": "Van Province",
+    "ru": "Ван провинция",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "65"
+  },
+  {
+    "id": "874d1e32-c80a-41ee-9a24-f339652a5f28",
+    "en": "Yalova Province",
+    "ru": "Яловская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "77"
+  },
+  {
+    "id": "fe076e6b-6c99-4d25-8cc4-2f108329140a",
+    "en": "Yozgat Province",
+    "ru": "Йозгатская губерния",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "66"
+  },
+  {
+    "id": "c4145831-8289-4b1c-8dfe-78c36d909528",
+    "en": "Zonguldak Province",
+    "ru": "Зонгулдакская область",
+    "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
+    "countryCode": "TR",
+    "stateCode": "67"
+  }
+]

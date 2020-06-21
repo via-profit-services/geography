@@ -1,1 +1,12 @@
-[{"id":"0a028714-94d2-4908-bda5-b0782fdd3acc","name":"Malta","ru":"Malta","iso3":"MLT","iso2":"MT","phoneCode":"356","capital":"8d32078d-ab36-462e-810f-85decd3600ff","currency":"EUR"}]
+[
+  {
+    "id": "f676c2b1-41e2-4e47-98db-7efd0a3fad52",
+    "en": "Malta",
+    "ru": "Мальта",
+    "iso3": "MLT",
+    "iso2": "MT",
+    "phoneCode": "356",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

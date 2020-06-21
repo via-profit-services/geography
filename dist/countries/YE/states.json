@@ -1,1 +1,170 @@
-[{"id":"ae825124-7857-46c7-bb19-f08d8231df36","name":"'Adan Governorate","ru":"'Adan Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"AD"},{"id":"97f08dc8-9bb2-4c0f-aec2-7eb78cfd7274","name":"'Amran Governorate","ru":"'Amran Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"AM"},{"id":"932eff27-d4ec-4ba4-841f-1512cbd93e8f","name":"Abyan Governorate","ru":"Abyan Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"AB"},{"id":"1e54793a-7264-4955-9de1-15c583db3a60","name":"Al Bayda' Governorate","ru":"Al Bayda' Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"BA"},{"id":"caf64a93-66aa-4100-921f-886481cb2602","name":"Al Hudaydah Governorate","ru":"Al Hudaydah Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"HU"},{"id":"06e18f03-9546-43ee-9b55-c6bae7c6cda2","name":"Al Jawf Governorate","ru":"Al Jawf Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"JA"},{"id":"d9ed517d-2ec0-4cc2-ab89-09b3a690963b","name":"Al Mahrah Governorate","ru":"Al Mahrah Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"MR"},{"id":"3f3c5d51-94d0-4241-9b3d-9fc58303d833","name":"Al Mahwit Governorate","ru":"Al Mahwit Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"MW"},{"id":"898a7955-27fe-4508-a700-468f8ea3e270","name":"Dhamar Governorate","ru":"Dhamar Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"DH"},{"id":"607ef049-86ea-48ba-940a-b535ed003121","name":"Hadhramaut Governorate","ru":"Hadhramaut Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"HD"},{"id":"251cbaae-9da4-4647-a84b-5827e4481a7d","name":"Hajjah Governorate","ru":"Hajjah Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"HJ"},{"id":"5abd5284-8a71-43e3-b8b5-7d1b8181b12f","name":"Ibb Governorate","ru":"Ibb Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"IB"},{"id":"634c07ff-3ae7-4629-abad-99e21279bcab","name":"Lahij Governorate","ru":"Lahij Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"LA"},{"id":"d8e3635b-5904-41f3-ba5a-45ebff3e322a","name":"Ma'rib Governorate","ru":"Ma'rib Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"MA"},{"id":"9770e087-f4b0-4260-9e85-1fb1ca3c6819","name":"Raymah Governorate","ru":"Raymah Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"RA"},{"id":"4829f6aa-2c8c-43b8-9f4a-e593d310941d","name":"Saada Governorate","ru":"Saada Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"SD"},{"id":"592581b2-6ce3-4d1c-9120-fa61e7766510","name":"Sana'a","ru":"Sana'a","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"SA"},{"id":"060bc831-7595-4123-9ccc-ecbf1a886f37","name":"Sana'a Governorate","ru":"Sana'a Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"SN"},{"id":"ace5f24b-b4ad-4783-ab4e-9dc099b850f3","name":"Shabwah Governorate","ru":"Shabwah Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"SH"},{"id":"009382b8-4984-4c79-9e88-13a684b9dedf","name":"Socotra Governorate","ru":"Socotra Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"SU"},{"id":"930ec4b3-25ec-4e07-9ea5-193a34a42f7b","name":"Ta'izz Governorate","ru":"Ta'izz Governorate","country":"87ee5005-9465-4be9-bdda-f31070489b99","countryCode":"YE","stateCode":"TA"}]
+[
+  {
+    "id": "e0ae94d8-a901-46fa-b754-bc38bb1dcd27",
+    "en": "'Adan Governorate",
+    "ru": "Адан",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "AD"
+  },
+  {
+    "id": "9f32d77d-77d5-41ab-826b-77a9fad5451e",
+    "en": "'Amran Governorate",
+    "ru": "Амранская губерния",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "AM"
+  },
+  {
+    "id": "680f8608-c3ed-44a0-a14f-005caebb627a",
+    "en": "Abyan Governorate",
+    "ru": "Абянская область",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "AB"
+  },
+  {
+    "id": "3c3234bc-ecda-491f-97a1-fd76f03c2509",
+    "en": "Al Bayda' Governorate",
+    "ru": "Аль-Байда область",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "BA"
+  },
+  {
+    "id": "2e52a9f5-d057-450c-918b-473875c69ff9",
+    "en": "Al Hudaydah Governorate",
+    "ru": "Аль Худайда мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "HU"
+  },
+  {
+    "id": "365f31ba-4c6a-4a59-a752-113f767a3e8e",
+    "en": "Al Jawf Governorate",
+    "ru": "Аль-Джавф мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "JA"
+  },
+  {
+    "id": "bf4e6614-8183-4435-92a2-070d18dba7e9",
+    "en": "Al Mahrah Governorate",
+    "ru": "Аль Махра мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "MR"
+  },
+  {
+    "id": "640c59cf-26d3-4e78-a35f-43187121e052",
+    "en": "Al Mahwit Governorate",
+    "ru": "Аль Махвит мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "MW"
+  },
+  {
+    "id": "5c2c117e-fd48-49bd-bb21-489421316e12",
+    "en": "Dhamar Governorate",
+    "ru": "провинция Дхамар",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "DH"
+  },
+  {
+    "id": "9a7c2a4c-0ad8-42eb-8673-653c2e3b36f3",
+    "en": "Hadhramaut Governorate",
+    "ru": "провинция Хадрамаут",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "HD"
+  },
+  {
+    "id": "8afb3b00-0c41-4c44-8334-f8bed52a316b",
+    "en": "Hajjah Governorate",
+    "ru": "Хаджжа мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "HJ"
+  },
+  {
+    "id": "6e0e03db-9908-4366-bf78-b7e133a3d1fe",
+    "en": "Ibb Governorate",
+    "ru": "Ибб мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "IB"
+  },
+  {
+    "id": "9f262684-4392-4d0a-b602-edce4c68159f",
+    "en": "Lahij Governorate",
+    "ru": "Лахиджская губерния",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "LA"
+  },
+  {
+    "id": "550d392f-9e26-4373-8cd4-8ac490f38c43",
+    "en": "Ma'rib Governorate",
+    "ru": "Марибская губерния",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "MA"
+  },
+  {
+    "id": "25a80f65-605c-4033-97d0-922f7da89afb",
+    "en": "Raymah Governorate",
+    "ru": "Раймах мухафаза",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "RA"
+  },
+  {
+    "id": "63d17d0b-82c2-41f3-bde9-0dd2c847aab5",
+    "en": "Saada Governorate",
+    "ru": "Саада губернаторство",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "SD"
+  },
+  {
+    "id": "42c601f8-ee8f-473d-9841-8c9ffb59d393",
+    "en": "Sana'a",
+    "ru": "Сана",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "SA"
+  },
+  {
+    "id": "719fc5e4-568c-4265-a240-d3577b75a53b",
+    "en": "Sana'a Governorate",
+    "ru": "Sana'a губернаторство",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "SN"
+  },
+  {
+    "id": "7f974d3e-ee2d-44a3-bbdf-732ac2f8f5fb",
+    "en": "Shabwah Governorate",
+    "ru": "губернаторство Шабва",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "SH"
+  },
+  {
+    "id": "aceb7240-3108-4084-a2da-08a9a036eb69",
+    "en": "Socotra Governorate",
+    "ru": "губерния Сокотра",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "SU"
+  },
+  {
+    "id": "51c0531d-5f8b-46a1-aa97-98ea785da13d",
+    "en": "Ta'izz Governorate",
+    "ru": "Таизская губерния",
+    "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
+    "countryCode": "YE",
+    "stateCode": "TA"
+  }
+]

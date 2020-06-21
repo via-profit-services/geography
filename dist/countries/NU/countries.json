@@ -1,1 +1,12 @@
-[{"id":"18ed22de-0c81-4a84-b0a9-22f6934cb132","name":"Niue","ru":"Niue","iso3":"NIU","iso2":"NU","phoneCode":"683","capital":null,"currency":"NZD"}]
+[
+  {
+    "id": "d3eb0170-033f-4663-b3d2-1aa85d19ddf6",
+    "en": "Niue",
+    "ru": "Ниуэ",
+    "iso3": "NIU",
+    "iso2": "NU",
+    "phoneCode": "683",
+    "capital": null,
+    "currency": "NZD"
+  }
+]

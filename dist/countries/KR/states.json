@@ -1,1 +1,138 @@
-[{"id":"5e236799-f29a-4c2c-97aa-9c2e8210dc28","name":"Busan","ru":"Busan","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"26"},{"id":"08777429-abef-44c5-8637-4c173a0fad54","name":"Daegu","ru":"Daegu","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"27"},{"id":"a5b72130-308e-48de-bd45-3081d97a3c4a","name":"Daejeon","ru":"Daejeon","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"30"},{"id":"47ac65fd-ab12-4160-93df-f760319edd8e","name":"Gangwon Province","ru":"Gangwon Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"42"},{"id":"986ae646-4a08-4bda-944d-467988ce5713","name":"Gwangju","ru":"Gwangju","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"29"},{"id":"8f7c5017-bd71-4418-b052-87c911757f4c","name":"Gyeonggi Province","ru":"Gyeonggi Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"41"},{"id":"6eb2d7e0-6417-40d1-9432-b57715b46f75","name":"Incheon","ru":"Incheon","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"28"},{"id":"978c3c03-c6fb-4992-8f95-f170cc0c81de","name":"Jeju","ru":"Jeju","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"49"},{"id":"a03c6efa-69e2-47ee-94f8-e93c2bda3166","name":"North Chungcheong Province","ru":"North Chungcheong Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"43"},{"id":"ba5e06c5-5cb4-4317-8a6d-0736fbd4114e","name":"North Gyeongsang Province","ru":"North Gyeongsang Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"47"},{"id":"0e9915b1-ca8e-4a93-919e-eddf30aaaca3","name":"North Jeolla Province","ru":"North Jeolla Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"45"},{"id":"650172f9-08d9-4636-b829-b55e2e3ece1f","name":"Sejong City","ru":"Sejong City","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"50"},{"id":"121c31c2-ba55-44b6-be9e-99f76562107e","name":"Seoul","ru":"Seoul","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"11"},{"id":"4bd133d4-6483-482d-9c50-b4d87c2ab0dd","name":"South Chungcheong Province","ru":"South Chungcheong Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"44"},{"id":"6c6211de-8802-4849-9826-db7be167d1c1","name":"South Gyeongsang Province","ru":"South Gyeongsang Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"48"},{"id":"cf00270b-2c0a-42d7-9a3b-83627d9ca448","name":"South Jeolla Province","ru":"South Jeolla Province","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"46"},{"id":"38acd41a-f8bc-4eb2-9453-d297a7163f5a","name":"Ulsan","ru":"Ulsan","country":"5a383cf4-4e20-42d3-9f48-12a236cdd48e","countryCode":"KR","stateCode":"31"}]
+[
+  {
+    "id": "b091a380-5a66-4de3-a61d-8590e08ea76b",
+    "en": "Busan",
+    "ru": "Пусан",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "26"
+  },
+  {
+    "id": "797420d0-9f52-490f-968c-428cd523e726",
+    "en": "Daegu",
+    "ru": "Тэгу",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "27"
+  },
+  {
+    "id": "5999fefd-4ba2-4131-af4b-dfe291588aca",
+    "en": "Daejeon",
+    "ru": "Тэджон",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "30"
+  },
+  {
+    "id": "d694d7c5-01b5-4a46-a6bf-28c51220d538",
+    "en": "Gangwon Province",
+    "ru": "Провинция Канвондо",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "42"
+  },
+  {
+    "id": "a861f26c-e5fe-4827-9af6-56b63256465b",
+    "en": "Gwangju",
+    "ru": "Кванджу",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "29"
+  },
+  {
+    "id": "9da5b499-cacf-4b27-8077-2207de288981",
+    "en": "Gyeonggi Province",
+    "ru": "Кёнгидская губерния",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "41"
+  },
+  {
+    "id": "c573d1b9-f0b7-45c1-bc66-c382080f65ae",
+    "en": "Incheon",
+    "ru": "Инчхон",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "28"
+  },
+  {
+    "id": "c08e70d3-2ee9-4b5c-b7d2-4814ad429266",
+    "en": "Jeju",
+    "ru": "Чеджу",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "49"
+  },
+  {
+    "id": "ed2785c2-f5a3-4599-adfd-670fb470c38f",
+    "en": "North Chungcheong Province",
+    "ru": "Северная провинция Чхунчхон",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "43"
+  },
+  {
+    "id": "780a27be-4d02-4eea-bae8-540f976bdea7",
+    "en": "North Gyeongsang Province",
+    "ru": "Северная провинция Кёнсан",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "47"
+  },
+  {
+    "id": "062d8ad3-515f-453a-ba4a-abbfbf0c299c",
+    "en": "North Jeolla Province",
+    "ru": "Северная провинция Чолла",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "45"
+  },
+  {
+    "id": "15946e8e-fc6d-4e69-acf0-aa3bc653030d",
+    "en": "Sejong City",
+    "ru": "Sejong Город",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "50"
+  },
+  {
+    "id": "0792d43d-dd47-43a4-8e2b-1d6e6e8db99f",
+    "en": "Seoul",
+    "ru": "Сеул",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "11"
+  },
+  {
+    "id": "a100114e-4bdb-42dd-963d-5990c2a14c98",
+    "en": "South Chungcheong Province",
+    "ru": "Южная провинция Чхунчхон",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "44"
+  },
+  {
+    "id": "6857e372-f1a8-4893-98f3-df9be9f5c439",
+    "en": "South Gyeongsang Province",
+    "ru": "Южная провинция Кёнсан",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "48"
+  },
+  {
+    "id": "0f60da4f-66d2-4015-bdb4-56e020bbbf98",
+    "en": "South Jeolla Province",
+    "ru": "Южная Чолла провинция",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "46"
+  },
+  {
+    "id": "0caedef2-fe48-4f36-aa5b-7a9214dba884",
+    "en": "Ulsan",
+    "ru": "Ульсан",
+    "country": "fc537d04-6be3-4b01-9726-425b2076a4a4",
+    "countryCode": "KR",
+    "stateCode": "31"
+  }
+]

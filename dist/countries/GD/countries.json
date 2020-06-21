@@ -1,1 +1,12 @@
-[{"id":"fadcc51e-41be-4c45-9ce8-cd21a529fba7","name":"Grenada","ru":"Grenada","iso3":"GRD","iso2":"GD","phoneCode":"+1-473","capital":null,"currency":"XCD"}]
+[
+  {
+    "id": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "en": "Grenada",
+    "ru": "Гренада",
+    "iso3": "GRD",
+    "iso2": "GD",
+    "phoneCode": "+1-473",
+    "capital": null,
+    "currency": "XCD"
+  }
+]

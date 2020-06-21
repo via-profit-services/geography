@@ -1,1 +1,12 @@
-[{"id":"078eadfb-c212-4636-8aac-2c5a8b7c12f6","name":"Zimbabwe","ru":"Zimbabwe","iso3":"ZWE","iso2":"ZW","phoneCode":"263","capital":"37fec821-e6a5-4507-8dec-50bfc892a609","currency":"ZWL"}]
+[
+  {
+    "id": "504cd1bf-a8ed-49d7-b916-5c79dc4a8b69",
+    "en": "Zimbabwe",
+    "ru": "Зимбабве",
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "phoneCode": "263",
+    "capital": null,
+    "currency": "ZWL"
+  }
+]

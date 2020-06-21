@@ -1,1 +1,146 @@
-[{"id":"3c9b9078-db39-49d1-8ad1-369d57a07760","name":"Bubanza Province","ru":"Bubanza Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"BB"},{"id":"4f64ec58-9ba5-46b7-b7c0-b61bf4cebf3c","name":"Bujumbura Mairie Province","ru":"Bujumbura Mairie Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"BM"},{"id":"e5925cd7-fc8f-4ab6-b8f9-66ebe447e8b2","name":"Bujumbura Rural Province","ru":"Bujumbura Rural Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"BL"},{"id":"db15ef3a-5053-454f-9440-d736029f279a","name":"Bururi Province","ru":"Bururi Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"BR"},{"id":"0fca187d-fd47-4275-8ddc-d888c9f0b2bc","name":"Cankuzo Province","ru":"Cankuzo Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"CA"},{"id":"d8204058-916c-4700-ab34-27570c036c56","name":"Cibitoke Province","ru":"Cibitoke Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"CI"},{"id":"a83229dc-2e27-4713-a303-19a41b7c512a","name":"Gitega Province","ru":"Gitega Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"GI"},{"id":"4f84e3d8-55a7-4749-87d0-a3b53eea8872","name":"Karuzi Province","ru":"Karuzi Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"KR"},{"id":"e6641760-55c2-4bfe-82e6-eb57764299c3","name":"Kayanza Province","ru":"Kayanza Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"KY"},{"id":"db22a771-ce10-4ab0-8ad0-4685960141e4","name":"Kirundo Province","ru":"Kirundo Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"KI"},{"id":"3a21e0f2-a181-40c8-b396-11b94d1da50e","name":"Makamba Province","ru":"Makamba Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"MA"},{"id":"ce70f1d0-9fa4-4f1f-afd0-a84bbc5b556f","name":"Muramvya Province","ru":"Muramvya Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"MU"},{"id":"4698f7ca-284f-40b8-869a-8a3ba2fdd57a","name":"Muyinga Province","ru":"Muyinga Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"MY"},{"id":"72b6a42f-a6f2-4814-92cf-f5a7b728a9c5","name":"Mwaro Province","ru":"Mwaro Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"MW"},{"id":"f6ee91b2-1912-4593-8c4c-c2290deca9ac","name":"Ngozi Province","ru":"Ngozi Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"NG"},{"id":"68cf982a-7f4e-4513-b394-121f807e8bca","name":"Rumonge Province","ru":"Rumonge Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"RM"},{"id":"4b032484-974f-4f42-94a8-1d534c8d492a","name":"Rutana Province","ru":"Rutana Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"RT"},{"id":"80de29fa-500b-49d6-a8a8-68038ab9692b","name":"Ruyigi Province","ru":"Ruyigi Province","country":"db2b02ed-3e35-4015-8b35-d6a9147221de","countryCode":"BI","stateCode":"RY"}]
+[
+  {
+    "id": "72b9d183-c412-4e1d-b475-496c0a075778",
+    "en": "Bubanza Province",
+    "ru": "Бубанза провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "BB"
+  },
+  {
+    "id": "1e233bb5-b6e4-4050-afb0-913d4ec99e71",
+    "en": "Bujumbura Mairie Province",
+    "ru": "Бужумбура Мэйри Провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "BM"
+  },
+  {
+    "id": "0f41c2b0-4c0a-4039-bc89-c0972f8be6d4",
+    "en": "Bujumbura Rural Province",
+    "ru": "Бужумбура Сельская губерния",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "BL"
+  },
+  {
+    "id": "bb1d1840-dbe9-4cbe-a959-b1c2c3f83930",
+    "en": "Bururi Province",
+    "ru": "Бурури провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "BR"
+  },
+  {
+    "id": "5e15b24b-b84d-4d85-be1e-6df9ba26e0d4",
+    "en": "Cankuzo Province",
+    "ru": "Канкузо провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "CA"
+  },
+  {
+    "id": "a1909e54-f7a9-4bbf-a3fe-3f2d82a8b161",
+    "en": "Cibitoke Province",
+    "ru": "Сибитоке провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "CI"
+  },
+  {
+    "id": "4e204022-e849-4192-a1ca-1379835bbc27",
+    "en": "Gitega Province",
+    "ru": "Гитежская губерния",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "GI"
+  },
+  {
+    "id": "4cbfc56f-b9c7-40b2-9fbc-ddbad1ac6085",
+    "en": "Karuzi Province",
+    "ru": "Карузский край",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "KR"
+  },
+  {
+    "id": "0f4b1b98-7478-4e9b-8b84-d7ff4253cda6",
+    "en": "Kayanza Province",
+    "ru": "Каянза провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "KY"
+  },
+  {
+    "id": "22a49309-acd0-43c8-820f-6bc4ce789d32",
+    "en": "Kirundo Province",
+    "ru": "Кирундо провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "KI"
+  },
+  {
+    "id": "c2bb42d0-3d5d-4133-9a09-d7086986efb1",
+    "en": "Makamba Province",
+    "ru": "Макамба провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "MA"
+  },
+  {
+    "id": "c6222006-0ee3-4bd1-a2ef-924dec44058c",
+    "en": "Muramvya Province",
+    "ru": "Мурамвия губерния",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "MU"
+  },
+  {
+    "id": "d825e2d4-aedc-481f-8eba-9fdbb83cb531",
+    "en": "Muyinga Province",
+    "ru": "Муйинская область",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "MY"
+  },
+  {
+    "id": "6a81a41e-68b6-4e0d-86f1-62f94f7ad2d4",
+    "en": "Mwaro Province",
+    "ru": "Мваро провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "MW"
+  },
+  {
+    "id": "dbc9eb78-67de-40a3-b4d4-b6f8b3a125e9",
+    "en": "Ngozi Province",
+    "ru": "Нгози провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "NG"
+  },
+  {
+    "id": "1a942dda-f111-457a-8f51-15a236108240",
+    "en": "Rumonge Province",
+    "ru": "Румонге провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "RM"
+  },
+  {
+    "id": "aae92b6a-565a-4173-ab96-fee92791aae4",
+    "en": "Rutana Province",
+    "ru": "Рутанская область",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "RT"
+  },
+  {
+    "id": "4771ddd8-717f-4255-9d1f-452bad534f90",
+    "en": "Ruyigi Province",
+    "ru": "Руйиги провинция",
+    "country": "131a83eb-d6f0-4bfd-8d08-6dc16400901a",
+    "countryCode": "BI",
+    "stateCode": "RY"
+  }
+]

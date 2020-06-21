@@ -1,1 +1,12 @@
-[{"id":"de767a7d-dd2a-42e8-a054-2777a2cc1c1a","name":"Namibia","ru":"Namibia","iso3":"NAM","iso2":"NA","phoneCode":"264","capital":"5e53c20e-ae9d-43a0-940e-a434ca1d05a8","currency":"NAD"}]
+[
+  {
+    "id": "af3dddbc-0946-4904-a556-bbb79e77f164",
+    "en": "Namibia",
+    "ru": "Арандис",
+    "iso3": "NAM",
+    "iso2": "NA",
+    "phoneCode": "264",
+    "capital": null,
+    "currency": "NAD"
+  }
+]

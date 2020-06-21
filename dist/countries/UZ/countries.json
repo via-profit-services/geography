@@ -1,1 +1,12 @@
-[{"id":"84c9cfd2-874c-4d36-ad5c-d46583012bad","name":"Uzbekistan","ru":"Uzbekistan","iso3":"UZB","iso2":"UZ","phoneCode":"998","capital":"f3da2a87-3760-4b9a-93b3-08e114d89979","currency":"UZS"}]
+[
+  {
+    "id": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "en": "Uzbekistan",
+    "ru": "Узбекистан",
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "phoneCode": "998",
+    "capital": null,
+    "currency": "UZS"
+  }
+]

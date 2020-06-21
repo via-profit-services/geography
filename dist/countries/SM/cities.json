@@ -1,1 +1,101 @@
-[{"id":"4899d485-ec6c-4455-a4e3-b2c60f969357","name":"Acquaviva","ru":"Acquaviva","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"c40c4b9b-6c00-48e2-bf75-92b6c805a197","stateCode":"01","latitude":"43.94593000","longitude":"12.41850000"},{"id":"fdb52f6e-b3b6-4462-8983-3657ac0f685a","name":"Borgo Maggiore","ru":"Borgo Maggiore","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"c7a77d64-ad03-4b41-93dc-0b6bb03f7357","stateCode":"06","latitude":"43.94193000","longitude":"12.44738000"},{"id":"bfb27fc2-4b92-40a2-ad80-a881d47e9336","name":"Poggio di Chiesanuova","ru":"Poggio di Chiesanuova","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"25acaf81-a87a-43f6-9670-0c26c34821e9","stateCode":"02","latitude":"43.90451000","longitude":"12.42142000"},{"id":"16033a06-7847-45e9-82eb-cbdbd7b41124","name":"Domagnano","ru":"Domagnano","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"318a97ce-5fcd-432a-a2d5-fa2710993971","stateCode":"03","latitude":"43.94961000","longitude":"12.46828000"},{"id":"8aea4152-8956-4281-a436-ad24338469da","name":"Faetano","ru":"Faetano","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"dac44e11-4cae-4506-a128-2dca534e94dd","stateCode":"04","latitude":"43.92831000","longitude":"12.49798000"},{"id":"17ba0f92-57c6-4501-badf-5ae389d2b709","name":"Fiorentino","ru":"Fiorentino","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"cf97918a-85f5-4e68-8503-9c68bfd2dc54","stateCode":"05","latitude":"43.91001000","longitude":"12.45738000"},{"id":"6d9c60ec-03aa-4604-a0a7-88e150190f3d","name":"Monte Giardino","ru":"Monte Giardino","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"eee27824-2d54-4e95-90fd-e52db7d171f0","stateCode":"08","latitude":"43.90878000","longitude":"12.48201000"},{"id":"04a99098-9de0-4c7b-b20e-2cdaaf5ee056","name":"San Marino","ru":"San Marino","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"a418d194-b14f-40be-9b3c-a1a4a1c2c91f","stateCode":"07","latitude":"43.93667000","longitude":"12.44639000"},{"id":"83b58d6b-12cd-447b-bfb4-7cd6a93411a5","name":"Serravalle","ru":"Serravalle","country":"49e0fc34-90af-4145-836f-39511140e44c","countryCode":"SM","state":"6fee94be-d97e-4288-88be-8a4c40f43048","stateCode":"09","latitude":"43.96897000","longitude":"12.48167000"}]
+[
+  {
+    "id": "58f2c174-6f48-4608-89af-dcb68ff1dfb4",
+    "en": "Acquaviva",
+    "ru": "Acquaviva",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "79644ef1-68de-4f0c-854f-df85fd0bd2c3",
+    "stateCode": "01",
+    "latitude": "43.94593000",
+    "longitude": "12.41850000"
+  },
+  {
+    "id": "8e28680c-fdff-4a9b-b44c-032d356edeac",
+    "en": "Borgo Maggiore",
+    "ru": "Борго Маджоре",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "a03833e6-b60f-46da-a06c-9fb7057c67d2",
+    "stateCode": "06",
+    "latitude": "43.94193000",
+    "longitude": "12.44738000"
+  },
+  {
+    "id": "98c2c4ae-dbb3-42f2-8a0a-d007bb202b5f",
+    "en": "Poggio di Chiesanuova",
+    "ru": "Поджо-ди-Кьезануова",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "17c33fa1-5514-4f50-9ce4-325c389fd6d8",
+    "stateCode": "02",
+    "latitude": "43.90451000",
+    "longitude": "12.42142000"
+  },
+  {
+    "id": "521ca950-dfe3-4aae-b1f0-d7549430fd97",
+    "en": "Domagnano",
+    "ru": "Доманьяно",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "7755a110-716f-4d03-800b-1c9ea5f1df14",
+    "stateCode": "03",
+    "latitude": "43.94961000",
+    "longitude": "12.46828000"
+  },
+  {
+    "id": "b8433b63-9a26-480b-b8be-69e77c867d3f",
+    "en": "Faetano",
+    "ru": "Фаэтано",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "48162a9d-35a7-4e38-86ee-06f30b3a4c51",
+    "stateCode": "04",
+    "latitude": "43.92831000",
+    "longitude": "12.49798000"
+  },
+  {
+    "id": "bc2ffeea-db0c-47ed-9446-4e17344c7b32",
+    "en": "Fiorentino",
+    "ru": "Фиорентино",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "80fdc6be-14a8-41f3-85a8-c3f2c01f6a7b",
+    "stateCode": "05",
+    "latitude": "43.91001000",
+    "longitude": "12.45738000"
+  },
+  {
+    "id": "d97298ea-26d2-4781-82b0-0e8ad0b5376c",
+    "en": "Monte Giardino",
+    "ru": "Монте Джардино",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "e6fd96c4-436c-4f06-b3e0-0845404eda06",
+    "stateCode": "08",
+    "latitude": "43.90878000",
+    "longitude": "12.48201000"
+  },
+  {
+    "id": "e4fad387-19f6-4677-a93c-9787633f0545",
+    "en": "San Marino",
+    "ru": "Сан-Марино",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "6c40c9b9-e8c0-4e46-8e8b-0afb52bdf103",
+    "stateCode": "07",
+    "latitude": "43.93667000",
+    "longitude": "12.44639000"
+  },
+  {
+    "id": "15f84c7f-500e-41dd-a81d-d81413d5f7f7",
+    "en": "Serravalle",
+    "ru": "Серравалле",
+    "country": "38d52930-d340-4898-a25f-a43ca1e841ad",
+    "countryCode": "SM",
+    "state": "ba45f905-6d86-475d-8b32-785f6dbbf9e1",
+    "stateCode": "09",
+    "latitude": "43.96897000",
+    "longitude": "12.48167000"
+  }
+]

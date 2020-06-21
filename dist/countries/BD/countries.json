@@ -1,1 +1,12 @@
-[{"id":"f75bd600-7f4b-4203-9d93-30e44a16b91d","name":"Bangladesh","ru":"Bangladesh","iso3":"BGD","iso2":"BD","phoneCode":"880","capital":"90fa8937-b561-4acf-b512-388abfbca7f9","currency":"BDT"}]
+[
+  {
+    "id": "725ab6d5-61ec-4c63-aae4-a39b345f13bf",
+    "en": "Bangladesh",
+    "ru": "Бангладеш",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "phoneCode": "880",
+    "capital": null,
+    "currency": "BDT"
+  }
+]

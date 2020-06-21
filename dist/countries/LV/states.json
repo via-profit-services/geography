@@ -1,1 +1,946 @@
-[{"id":"0c5e3621-d3c7-4812-8a9c-fadf32ade696","name":"Aglona Municipality","ru":"Aglona Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"001"},{"id":"ecdf27d4-b911-4abf-b30e-746eead37dff","name":"Aizkraukle Municipality","ru":"Aizkraukle Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"002"},{"id":"f9597178-5851-4173-94e1-0e545eb52c94","name":"Aizpute Municipality","ru":"Aizpute Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"003"},{"id":"e172afd2-9ee2-4425-bf9e-57004ebdc8c9","name":"Aknīste Municipality","ru":"Aknīste Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"004"},{"id":"79a183db-c65a-4bc8-ad90-1d7382ed8926","name":"Alūksne Municipality","ru":"Alūksne Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"007"},{"id":"dfed8c17-8ad6-4ab3-86c9-f0de8c748d95","name":"Aloja Municipality","ru":"Aloja Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"005"},{"id":"fdb4ad24-fdfb-449c-aabb-0d3c64f707e0","name":"Alsunga Municipality","ru":"Alsunga Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"006"},{"id":"35caed38-f8c0-4f70-8b72-521a3df11743","name":"Amata Municipality","ru":"Amata Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"008"},{"id":"7cb7e3f4-c7fe-4e84-b55c-6a857ab09e85","name":"Ape Municipality","ru":"Ape Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"009"},{"id":"92cc80db-4c72-4edd-92d3-100f0c5337fd","name":"Auce Municipality","ru":"Auce Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"010"},{"id":"2a698728-28d8-4f04-a25f-6edcebbbc275","name":"Ķegums Municipality","ru":"Ķegums Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"051"},{"id":"d0848132-bf0c-4f20-87e3-452c9408135f","name":"Ķekava Municipality","ru":"Ķekava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"052"},{"id":"3dd82977-f83e-4e08-b182-31cd9985c952","name":"Ērgļi Municipality","ru":"Ērgļi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"030"},{"id":"df0431b5-6d18-454e-ac1d-eb282a7ba91d","name":"Babīte Municipality","ru":"Babīte Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"012"},{"id":"4730b963-8168-49e5-b59b-25f1881fc07d","name":"Baldone Municipality","ru":"Baldone Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"013"},{"id":"2d6692e8-6652-423c-b06c-d79e75eb14f2","name":"Baltinava Municipality","ru":"Baltinava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"014"},{"id":"6bfdac39-c5a2-4f25-9aa1-b7fc0b51e96b","name":"Balvi Municipality","ru":"Balvi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"015"},{"id":"8d7f9c21-b75d-4470-8702-45eec02e4ec1","name":"Bauska Municipality","ru":"Bauska Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"016"},{"id":"d12aceea-4c13-4d0d-a523-903f9b696626","name":"Beverīna Municipality","ru":"Beverīna Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"017"},{"id":"83be4c51-f25b-4d0d-9391-3650598ed479","name":"Brocēni Municipality","ru":"Brocēni Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"018"},{"id":"d6b31b2e-a1a1-49f5-a512-dcb93b767456","name":"Burtnieki Municipality","ru":"Burtnieki Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"019"},{"id":"a9090648-4a4a-45bb-bb54-b765cc2da1d7","name":"Carnikava Municipality","ru":"Carnikava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"020"},{"id":"8968b759-5d0b-4ba5-91a1-9da6b639247b","name":"Cēsis Municipality","ru":"Cēsis Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"022"},{"id":"540be979-6b21-4da4-8a27-c5bc8f8bb0ec","name":"Cesvaine Municipality","ru":"Cesvaine Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"021"},{"id":"b5877ab5-934e-4c24-9e42-c005a1d2ac9c","name":"Cibla Municipality","ru":"Cibla Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"023"},{"id":"1424294f-c727-4bf2-b29f-064579b9e48c","name":"Dagda Municipality","ru":"Dagda Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"024"},{"id":"d5465e81-ff6d-414b-b6ed-099e31988cc3","name":"Daugavpils","ru":"Daugavpils","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"DGV"},{"id":"812dd510-3943-4859-9927-00a9b1dfcc7f","name":"Daugavpils Municipality","ru":"Daugavpils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"025"},{"id":"1fc42bc8-5b9d-42de-b0d9-e778a9e518d9","name":"Dobele Municipality","ru":"Dobele Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"026"},{"id":"9b2162f4-bcfa-42f3-9eac-3685c9bd3c6b","name":"Dundaga Municipality","ru":"Dundaga Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"027"},{"id":"453ab84b-28b6-4f4a-89bf-57b5e489b53d","name":"Durbe Municipality","ru":"Durbe Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"028"},{"id":"ec2c31ed-1307-4463-94bb-9ad96c245d40","name":"Engure Municipality","ru":"Engure Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"029"},{"id":"d4f7e8bc-0813-45c8-b6e4-fe8c4119467c","name":"Garkalne Municipality","ru":"Garkalne Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"031"},{"id":"506c6079-a690-498f-8416-3dfdc5a0bdd0","name":"Grobiņa Municipality","ru":"Grobiņa Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"032"},{"id":"cd3588cb-c94f-4be7-bbb4-11e3afe4ce8f","name":"Gulbene Municipality","ru":"Gulbene Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"033"},{"id":"d98d9bf0-3ca3-466f-81c9-7d7610e3ee40","name":"Iecava Municipality","ru":"Iecava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"034"},{"id":"006ea318-97e8-4bd4-a6a4-c69fbeacec68","name":"Ikšķile Municipality","ru":"Ikšķile Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"035"},{"id":"30406d04-6b9e-4346-b5f4-d25b9b787888","name":"Ilūkste Municipality","ru":"Ilūkste Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"036"},{"id":"8953ff73-0bfd-450b-a4b0-d34a2fef35a8","name":"Inčukalns Municipality","ru":"Inčukalns Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"037"},{"id":"fdf8814b-cdc9-4046-a845-1429562c5b8b","name":"Jaunjelgava Municipality","ru":"Jaunjelgava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"038"},{"id":"19d642ff-3b82-4ad1-a83c-bb291c7733e3","name":"Jaunpiebalga Municipality","ru":"Jaunpiebalga Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"039"},{"id":"f88ad2d3-06ad-47fc-be57-9badc4f7156a","name":"Jaunpils Municipality","ru":"Jaunpils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"040"},{"id":"5c20891c-8d28-4115-8489-a8a5b50ff77f","name":"Jūrmala","ru":"Jūrmala","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"JUR"},{"id":"0d24ff45-7e1f-46ca-a335-c08dc9bc07cb","name":"Jēkabpils","ru":"Jēkabpils","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"JKB"},{"id":"6ffc821b-acf3-44f2-b343-56fe4c105d5e","name":"Jēkabpils Municipality","ru":"Jēkabpils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"042"},{"id":"5acdffc3-6feb-400e-8fac-e1128e072ade","name":"Jelgava","ru":"Jelgava","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"JEL"},{"id":"30813cb9-7897-4585-a96d-3d77d42a5be8","name":"Jelgava Municipality","ru":"Jelgava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"041"},{"id":"d280ad23-2ae7-45f4-8f4e-0d56f78270f7","name":"Kandava Municipality","ru":"Kandava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"043"},{"id":"55ccda45-19af-4e36-ace5-6097bbdefcb9","name":"Kārsava Municipality","ru":"Kārsava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"044"},{"id":"bb12b498-0101-4b53-8465-46dcf79f1dd8","name":"Kocēni Municipality","ru":"Kocēni Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"045"},{"id":"3686ddcd-d4f9-4dd5-8567-8928af189cbd","name":"Koknese Municipality","ru":"Koknese Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"046"},{"id":"546d2fb0-4b51-4e99-9bcc-54876f46e45c","name":"Krāslava Municipality","ru":"Krāslava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"047"},{"id":"986bc4f2-5ae2-4bbe-982b-b196df58e526","name":"Krimulda Municipality","ru":"Krimulda Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"048"},{"id":"9d6a7715-28a7-4193-a6d8-aa1c002811ec","name":"Krustpils Municipality","ru":"Krustpils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"049"},{"id":"093864ad-96a1-4fff-89f4-fde07aee1903","name":"Kuldīga Municipality","ru":"Kuldīga Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"050"},{"id":"205805ff-3d98-48b9-9de9-46fe3d1f4c11","name":"Līgatne Municipality","ru":"Līgatne Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"055"},{"id":"498514b1-9998-4289-ade5-a93b5c413d55","name":"Līvāni Municipality","ru":"Līvāni Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"056"},{"id":"2bb1e973-1987-4cbf-a3ad-955b9e7b38d4","name":"Lielvārde Municipality","ru":"Lielvārde Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"053"},{"id":"b557bcaa-273d-4d0b-890c-d5deb75733e0","name":"Liepāja","ru":"Liepāja","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"LPX"},{"id":"b5a7990c-0e34-4085-bd82-57a1a6339b1e","name":"Limbaži Municipality","ru":"Limbaži Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"054"},{"id":"b23d9e63-d432-4a61-96d8-4563a52c196d","name":"Lubāna Municipality","ru":"Lubāna Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"057"},{"id":"866547b9-a3d1-4645-a7d9-aefc5c957fa4","name":"Ludza Municipality","ru":"Ludza Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"058"},{"id":"1311eb5c-b678-4e13-a4fa-a448c359c3d6","name":"Madona Municipality","ru":"Madona Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"059"},{"id":"29101d3e-b3d3-464a-95d1-378a0dfb3fa4","name":"Mazsalaca Municipality","ru":"Mazsalaca Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"060"},{"id":"f012c142-1d38-4a12-81c2-76459b3d6942","name":"Mālpils Municipality","ru":"Mālpils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"061"},{"id":"c20d71a2-58a6-4b5b-b8dc-5c4efcaf05c1","name":"Mārupe Municipality","ru":"Mārupe Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"062"},{"id":"3c7a1d9e-4d5f-4eb4-9267-af226bb3d9b8","name":"Mērsrags Municipality","ru":"Mērsrags Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"063"},{"id":"4e8fbbb7-f065-4495-b832-5cda21e1662c","name":"Naukšēni Municipality","ru":"Naukšēni Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"064"},{"id":"e033dd81-3b2d-4c5f-bc56-d85cddbb95b8","name":"Nīca Municipality","ru":"Nīca Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"066"},{"id":"583771ba-ebe5-479a-95f5-2a8c0822077e","name":"Nereta Municipality","ru":"Nereta Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"065"},{"id":"5e1dfc53-2cc9-437b-afa5-269306af51e3","name":"Ogre Municipality","ru":"Ogre Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"067"},{"id":"f145bce7-9840-4d0f-893a-9b28189c55c3","name":"Olaine Municipality","ru":"Olaine Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"068"},{"id":"b38f281c-23b5-46b3-9fef-f3591bcfabf3","name":"Ozolnieki Municipality","ru":"Ozolnieki Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"069"},{"id":"690d8644-d97b-4033-8af5-c7d809ab979f","name":"Pārgauja Municipality","ru":"Pārgauja Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"070"},{"id":"08a541c9-ad13-440d-9172-6e7b72aeffb2","name":"Pāvilosta Municipality","ru":"Pāvilosta Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"071"},{"id":"69db11d0-1e4f-451a-847a-a392ec1d6373","name":"Pļaviņas Municipality","ru":"Pļaviņas Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"072"},{"id":"c9d7d1b0-ef73-4575-b062-bf068abd6d90","name":"Preiļi Municipality","ru":"Preiļi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"073"},{"id":"cf79d40e-adbb-40d6-8b4e-6c66ce969d34","name":"Priekuļi Municipality","ru":"Priekuļi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"075"},{"id":"cb418ed0-03ff-477a-b663-0d749549ab2f","name":"Priekule Municipality","ru":"Priekule Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"074"},{"id":"73829309-f0a2-4fa6-9cd0-ce6d7cf99098","name":"Rauna Municipality","ru":"Rauna Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"076"},{"id":"b3ec5c28-6e5f-46fb-b596-7d5bf55c1f77","name":"Rūjiena Municipality","ru":"Rūjiena Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"084"},{"id":"4f590b88-0d49-46c3-b38e-8cb916d71338","name":"Rēzekne","ru":"Rēzekne","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"REZ"},{"id":"799df535-c048-4cbd-9348-69c2aa3d98f3","name":"Rēzekne Municipality","ru":"Rēzekne Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"077"},{"id":"4c139c15-c2db-48d3-90d6-bb4e64d72470","name":"Riebiņi Municipality","ru":"Riebiņi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"078"},{"id":"969dba71-7025-4db2-97fe-4e971fe14505","name":"Riga","ru":"Riga","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"RIX"},{"id":"e9ab4b73-d423-4f2a-b197-008737cbad84","name":"Roja Municipality","ru":"Roja Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"079"},{"id":"71fc74a7-cd8a-4572-9242-7d8bd11bd891","name":"Ropaži Municipality","ru":"Ropaži Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"080"},{"id":"1d49433c-5225-4583-b402-5ea4861b84da","name":"Rucava Municipality","ru":"Rucava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"081"},{"id":"64750ee7-ec8d-483a-8cf7-23f3e861b89d","name":"Rugāji Municipality","ru":"Rugāji Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"082"},{"id":"d5de2f29-39e4-4157-8f83-b9129ff03188","name":"Rundāle Municipality","ru":"Rundāle Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"083"},{"id":"b5fc27cf-8d06-4b3a-a08d-fdd6b41f8ce3","name":"Sala Municipality","ru":"Sala Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"085"},{"id":"3476fb28-0197-4cf6-a6a4-0ab22aebb62f","name":"Salacgrīva Municipality","ru":"Salacgrīva Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"086"},{"id":"f09a1556-b56e-4e44-a5bf-bcab84928be6","name":"Salaspils Municipality","ru":"Salaspils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"087"},{"id":"97172503-5718-4c81-959b-659bb6efbc26","name":"Saldus Municipality","ru":"Saldus Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"088"},{"id":"506baf8e-1506-46f6-ab7e-753548df1761","name":"Saulkrasti Municipality","ru":"Saulkrasti Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"089"},{"id":"6581e0ae-3c06-44c9-b5a8-1ad013e5178a","name":"Sēja Municipality","ru":"Sēja Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"090"},{"id":"86604bef-78bb-4e18-937b-b8b570e93b74","name":"Sigulda Municipality","ru":"Sigulda Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"091"},{"id":"f4c3e345-cda0-4ae0-bece-885ddcf72ab9","name":"Skrīveri Municipality","ru":"Skrīveri Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"092"},{"id":"06bdc4de-6482-46af-9e30-893d62682ea8","name":"Skrunda Municipality","ru":"Skrunda Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"093"},{"id":"22a4d93b-01c7-4549-ad3f-eb908871c012","name":"Smiltene Municipality","ru":"Smiltene Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"094"},{"id":"c026ac55-de72-465f-ae45-17d3eea85c31","name":"Stopiņi Municipality","ru":"Stopiņi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"095"},{"id":"e06acba5-98b0-4ef1-b552-bb4101ac13ea","name":"Strenči Municipality","ru":"Strenči Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"096"},{"id":"5cd52ce4-e0c5-4560-9566-dcaea1b4a3ab","name":"Talsi Municipality","ru":"Talsi Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"097"},{"id":"3b791a19-3fed-481e-8169-582d6f5330f7","name":"Tērvete Municipality","ru":"Tērvete Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"098"},{"id":"43bbdbad-2b47-4648-84ac-891e5a0b4e49","name":"Tukums Municipality","ru":"Tukums Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"099"},{"id":"0db0ee09-c7c5-44be-bbe5-1b7f43026d99","name":"Vaiņode Municipality","ru":"Vaiņode Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"100"},{"id":"12bd3145-05fc-49a1-aae2-fd2c6ab8f77f","name":"Valka Municipality","ru":"Valka Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"101"},{"id":"1260505c-fe1c-4c40-aab9-32f16448526c","name":"Valmiera","ru":"Valmiera","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"VMR"},{"id":"5ef1ef34-dc66-42b8-b28e-6e74ade9979b","name":"Varakļāni Municipality","ru":"Varakļāni Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"102"},{"id":"7453d37a-1d99-48b8-9d64-e0944343bc3c","name":"Vārkava Municipality","ru":"Vārkava Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"103"},{"id":"c73f232a-fb53-4018-aa2c-928f66523981","name":"Vecpiebalga Municipality","ru":"Vecpiebalga Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"104"},{"id":"78a48b49-700a-4672-a7d8-58815e90e1b3","name":"Vecumnieki Municipality","ru":"Vecumnieki Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"105"},{"id":"f6e582a6-c2c6-44ec-9789-227d3ec8eff5","name":"Ventspils","ru":"Ventspils","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"VEN"},{"id":"8fd7160c-5d80-415d-92ab-5256815dd063","name":"Ventspils Municipality","ru":"Ventspils Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"106"},{"id":"f0f4e134-eeee-491d-bd09-8d431dd42c45","name":"Viļaka Municipality","ru":"Viļaka Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"108"},{"id":"145f41fd-db53-45ea-9ce2-0056e2cfbe1c","name":"Viļāni Municipality","ru":"Viļāni Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"109"},{"id":"4624eb18-cef6-4773-a3d2-cf668cf01418","name":"Viesīte Municipality","ru":"Viesīte Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"107"},{"id":"f5af6d55-583d-4e83-9b2b-43fb97cb14d6","name":"Zilupe Municipality","ru":"Zilupe Municipality","country":"d78ac786-1766-4c4e-900a-2af5f4d4dd0f","countryCode":"LV","stateCode":"110"}]
+[
+  {
+    "id": "5dab342a-3fdf-4e14-b8da-800e457adc1f",
+    "en": "Aglona Municipality",
+    "ru": "Аглонский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "001"
+  },
+  {
+    "id": "e05adaa8-4087-49d9-9d40-ee003cd48d10",
+    "en": "Aizkraukle Municipality",
+    "ru": "Район Айзкраукле",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "002"
+  },
+  {
+    "id": "d443b6a0-0756-4478-bfd3-d645d2aff9df",
+    "en": "Aizpute Municipality",
+    "ru": "Айзпутский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "003"
+  },
+  {
+    "id": "c3cce750-7191-4e19-8825-0140afac43c7",
+    "en": "Aknīste Municipality",
+    "ru": "Акнистский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "004"
+  },
+  {
+    "id": "196f897f-1c6d-4294-b4fa-7603679e92d8",
+    "en": "Alūksne Municipality",
+    "ru": "Алуксненский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "007"
+  },
+  {
+    "id": "688b66c8-7a30-4280-89b4-9d9b824e6e01",
+    "en": "Aloja Municipality",
+    "ru": "Aloja Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "005"
+  },
+  {
+    "id": "83135434-5fb2-47c3-bf58-2ef8d2a98890",
+    "en": "Alsunga Municipality",
+    "ru": "Алсунга Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "006"
+  },
+  {
+    "id": "f8630708-e4e5-4075-8cdd-aa72b3b5c9bd",
+    "en": "Amata Municipality",
+    "ru": "Аматский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "008"
+  },
+  {
+    "id": "311aaad1-e345-4997-a3bc-21e12979be91",
+    "en": "Ape Municipality",
+    "ru": "Апенский муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "009"
+  },
+  {
+    "id": "d1a94456-6b8b-4bc9-bb4c-777bae515ca4",
+    "en": "Auce Municipality",
+    "ru": "Auce муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "010"
+  },
+  {
+    "id": "fa46401f-bfcc-4c46-b843-da67c8f382d4",
+    "en": "Ķegums Municipality",
+    "ru": "Кегумский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "051"
+  },
+  {
+    "id": "878e32f7-551f-415f-b330-7d2ffa7c6684",
+    "en": "Ķekava Municipality",
+    "ru": "Кекавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "052"
+  },
+  {
+    "id": "39191786-e572-4386-bf7a-ab3305c565a5",
+    "en": "Ērgļi Municipality",
+    "ru": "ļrgļi муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "030"
+  },
+  {
+    "id": "a00ad599-83c5-4394-8dc0-d38c2fe28a90",
+    "en": "Babīte Municipality",
+    "ru": "волость Бабитский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "012"
+  },
+  {
+    "id": "d6365425-8527-407c-add8-eba6a42346a5",
+    "en": "Baldone Municipality",
+    "ru": "Baldone Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "013"
+  },
+  {
+    "id": "a7273939-9664-4142-badd-4944bbcfe510",
+    "en": "Baltinava Municipality",
+    "ru": "Балтинавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "014"
+  },
+  {
+    "id": "e821ba9c-e704-497c-a50f-2da098a7c033",
+    "en": "Balvi Municipality",
+    "ru": "Балвский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "015"
+  },
+  {
+    "id": "f6c5d6a7-cc81-44ed-8d09-a37d007f70c1",
+    "en": "Bauska Municipality",
+    "ru": "Бауский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "016"
+  },
+  {
+    "id": "5ab41435-e60d-4cd1-a873-4a8f4f2260fe",
+    "en": "Beverīna Municipality",
+    "ru": "Беверинский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "017"
+  },
+  {
+    "id": "acaf0688-8bbe-44bd-b1f1-e50a1fdd2450",
+    "en": "Brocēni Municipality",
+    "ru": "Brocēni муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "018"
+  },
+  {
+    "id": "572e4e92-7453-4be2-a99b-0b743cc3c3d8",
+    "en": "Burtnieki Municipality",
+    "ru": "Буртниеки Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "019"
+  },
+  {
+    "id": "917ced28-dbb6-40ca-a8e6-f85f4d2a40aa",
+    "en": "Carnikava Municipality",
+    "ru": "Царникавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "020"
+  },
+  {
+    "id": "2e24cea6-2365-4acb-ad7a-3ad0e11c8323",
+    "en": "Cēsis Municipality",
+    "ru": "Цесисский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "022"
+  },
+  {
+    "id": "0f0f476f-02df-4d91-be4f-e8194b39e727",
+    "en": "Cesvaine Municipality",
+    "ru": "Цесвайне Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "021"
+  },
+  {
+    "id": "7cdacc05-b1fd-42ac-9d59-e02632b6e65c",
+    "en": "Cibla Municipality",
+    "ru": "Cibla Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "023"
+  },
+  {
+    "id": "063e1ffc-9107-4711-ab8a-dc7f1e89766f",
+    "en": "Dagda Municipality",
+    "ru": "Дагда Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "024"
+  },
+  {
+    "id": "0a2b6129-36ec-4658-85b7-59a15b403adc",
+    "en": "Daugavpils",
+    "ru": "Даугавпилс",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "DGV"
+  },
+  {
+    "id": "76540cab-8537-43f4-9448-89e227f06738",
+    "en": "Daugavpils Municipality",
+    "ru": "Даугавпилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "025"
+  },
+  {
+    "id": "58185cb1-e7d4-49dc-b45e-79c848b59754",
+    "en": "Dobele Municipality",
+    "ru": "Добельский муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "026"
+  },
+  {
+    "id": "35b595c4-3e53-4aa8-bd01-ba025f39cd84",
+    "en": "Dundaga Municipality",
+    "ru": "Дундага Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "027"
+  },
+  {
+    "id": "91491212-3794-400d-83b7-6ef18a9bc739",
+    "en": "Durbe Municipality",
+    "ru": "Дурбе Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "028"
+  },
+  {
+    "id": "843862b9-2d8c-40d1-bec7-4711c790c316",
+    "en": "Engure Municipality",
+    "ru": "Энгуре Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "029"
+  },
+  {
+    "id": "199af55a-37e5-494d-9d5d-b8d671dd4168",
+    "en": "Garkalne Municipality",
+    "ru": "Гаркалнский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "031"
+  },
+  {
+    "id": "4986c4e5-48ab-4ae7-bbb0-34ad89460a69",
+    "en": "Grobiņa Municipality",
+    "ru": "Гробиньский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "032"
+  },
+  {
+    "id": "faae9b15-dccb-470c-8447-5a1688ee12c8",
+    "en": "Gulbene Municipality",
+    "ru": "Гулбенский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "033"
+  },
+  {
+    "id": "b0c054de-ee2d-418f-87ff-76c9b6a8a3e3",
+    "en": "Iecava Municipality",
+    "ru": "Иецавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "034"
+  },
+  {
+    "id": "7acf5aca-89f9-4cc9-a139-03d30004d3cb",
+    "en": "Ikšķile Municipality",
+    "ru": "Икшильский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "035"
+  },
+  {
+    "id": "2829493e-fc95-47bf-80cf-3bfc80a63072",
+    "en": "Ilūkste Municipality",
+    "ru": "Илукстский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "036"
+  },
+  {
+    "id": "ff285385-e891-464f-bd21-3a838db8c955",
+    "en": "Inčukalns Municipality",
+    "ru": "Инчукалнский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "037"
+  },
+  {
+    "id": "6c3fdbc1-54b7-4aa5-8608-9e90f3671934",
+    "en": "Jaunjelgava Municipality",
+    "ru": "Яунелгавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "038"
+  },
+  {
+    "id": "b0bf1e09-b5ed-4374-9d19-1227a9fbc09d",
+    "en": "Jaunpiebalga Municipality",
+    "ru": "Яунпиебалгский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "039"
+  },
+  {
+    "id": "1921222a-543c-4c0a-8110-775748c0fed8",
+    "en": "Jaunpils Municipality",
+    "ru": "Яунпилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "040"
+  },
+  {
+    "id": "a4eba38a-ddc8-4da4-b014-19044bd12a99",
+    "en": "Jūrmala",
+    "ru": "Юрмала",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "JUR"
+  },
+  {
+    "id": "a5f05212-bbdb-4702-b321-6315e3482bb0",
+    "en": "Jēkabpils",
+    "ru": "Екабпилс",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "JKB"
+  },
+  {
+    "id": "dfd93ae3-ce15-441f-b101-0f819d93e750",
+    "en": "Jēkabpils Municipality",
+    "ru": "край Екабпилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "042"
+  },
+  {
+    "id": "1c8b6e3a-eedd-4db0-9b7c-4f7e4d56a5be",
+    "en": "Jelgava",
+    "ru": "Елгава",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "JEL"
+  },
+  {
+    "id": "327f4440-2442-4771-98ae-4df1fc0fed39",
+    "en": "Jelgava Municipality",
+    "ru": "Елгавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "041"
+  },
+  {
+    "id": "d9704155-9ead-4fa3-bef2-96b0decdf894",
+    "en": "Kandava Municipality",
+    "ru": "Кандавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "043"
+  },
+  {
+    "id": "305b0501-bf16-4ca5-8ceb-958c9335519c",
+    "en": "Kārsava Municipality",
+    "ru": "Карсавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "044"
+  },
+  {
+    "id": "6c727463-f4c6-43f6-b960-a955e457c357",
+    "en": "Kocēni Municipality",
+    "ru": "Коденский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "045"
+  },
+  {
+    "id": "91a5ed63-2b69-4831-a9fc-09e448f0efa1",
+    "en": "Koknese Municipality",
+    "ru": "Кокнесский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "046"
+  },
+  {
+    "id": "57655766-0a3c-4d95-973e-983ffd0c3287",
+    "en": "Krāslava Municipality",
+    "ru": "Краславский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "047"
+  },
+  {
+    "id": "c7d8fabe-9a9e-4e07-ae40-ed326b51e8d4",
+    "en": "Krimulda Municipality",
+    "ru": "Кримулда Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "048"
+  },
+  {
+    "id": "703e7c70-f172-4bfb-ba5f-b7b8b46ccf2f",
+    "en": "Krustpils Municipality",
+    "ru": "край Крустпилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "049"
+  },
+  {
+    "id": "a6d772bb-a931-4926-a7ac-2105867a8500",
+    "en": "Kuldīga Municipality",
+    "ru": "Кулдигский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "050"
+  },
+  {
+    "id": "3ea8d77e-6a20-4f1d-a652-c31f3df75dd9",
+    "en": "Līgatne Municipality",
+    "ru": "Лигатненская волость",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "055"
+  },
+  {
+    "id": "20c6a0f0-3e18-4875-8c17-81d6b0003677",
+    "en": "Līvāni Municipality",
+    "ru": "Ливанский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "056"
+  },
+  {
+    "id": "ae0f1c6d-c917-4b4a-bd82-d825f189d613",
+    "en": "Lielvārde Municipality",
+    "ru": "Лиелварде муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "053"
+  },
+  {
+    "id": "cdccc939-c2b9-433a-b78c-9c19dedbfc0e",
+    "en": "Liepāja",
+    "ru": "Лиепая",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "LPX"
+  },
+  {
+    "id": "c4286864-5263-4786-9bc9-aa07e310496c",
+    "en": "Limbaži Municipality",
+    "ru": "Лимбажский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "054"
+  },
+  {
+    "id": "4236fc18-de44-4e47-9d29-49903b14e879",
+    "en": "Lubāna Municipality",
+    "ru": "Лубанский муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "057"
+  },
+  {
+    "id": "4359a5af-5a35-4379-b935-fe89d472d5f3",
+    "en": "Ludza Municipality",
+    "ru": "Лудзенский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "058"
+  },
+  {
+    "id": "c47f72b5-6c5a-4afe-8936-3286cd55dc6e",
+    "en": "Madona Municipality",
+    "ru": "Мадона муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "059"
+  },
+  {
+    "id": "fd20216c-74b9-4cba-8cdd-78e912a31f64",
+    "en": "Mazsalaca Municipality",
+    "ru": "Мазсалацкий край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "060"
+  },
+  {
+    "id": "3b5c2b3d-3cf4-4fab-86e7-bc0af6d88f8e",
+    "en": "Mālpils Municipality",
+    "ru": "Малпилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "061"
+  },
+  {
+    "id": "6ef68dbb-00af-46ed-bc7d-73346e3afa24",
+    "en": "Mārupe Municipality",
+    "ru": "Марупский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "062"
+  },
+  {
+    "id": "c9eb3f0e-4fb6-4c89-917d-29da659bfa35",
+    "en": "Mērsrags Municipality",
+    "ru": "Мерсрагский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "063"
+  },
+  {
+    "id": "79ac2db9-e1d3-432c-893a-abedf445d93b",
+    "en": "Naukšēni Municipality",
+    "ru": "Наукшенский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "064"
+  },
+  {
+    "id": "17ab8147-3e01-436e-b091-d54e56d43293",
+    "en": "Nīca Municipality",
+    "ru": "Ницкий край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "066"
+  },
+  {
+    "id": "2959e5c3-75c3-4c42-bb68-6923a40de4c5",
+    "en": "Nereta Municipality",
+    "ru": "Нерета Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "065"
+  },
+  {
+    "id": "bbb6e048-06bb-4db7-845a-be0b15b9e171",
+    "en": "Ogre Municipality",
+    "ru": "Огрский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "067"
+  },
+  {
+    "id": "e4cf80be-d8e0-405b-b84b-e34f9d6618b0",
+    "en": "Olaine Municipality",
+    "ru": "Олайнский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "068"
+  },
+  {
+    "id": "38b3a8a1-27f9-4988-83b4-360e43f4df2e",
+    "en": "Ozolnieki Municipality",
+    "ru": "Озолниеки Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "069"
+  },
+  {
+    "id": "9cf03224-940f-4b04-8f4e-fddb06477d2c",
+    "en": "Pārgauja Municipality",
+    "ru": "Паргауйский муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "070"
+  },
+  {
+    "id": "2db7bf34-88f6-400f-9dc3-10998a4b3493",
+    "en": "Pāvilosta Municipality",
+    "ru": "Павилостский муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "071"
+  },
+  {
+    "id": "c49f3395-ae54-4020-b483-c3c000b626f0",
+    "en": "Pļaviņas Municipality",
+    "ru": "Плявиньская волость",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "072"
+  },
+  {
+    "id": "2155d2d3-ea51-4e9b-aaaf-e8f469ed7085",
+    "en": "Preiļi Municipality",
+    "ru": "Прейльский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "073"
+  },
+  {
+    "id": "5e88f407-5f58-4fb4-8e4d-f303420eece6",
+    "en": "Priekuļi Municipality",
+    "ru": "Приекульский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "075"
+  },
+  {
+    "id": "69e73b4e-18f2-4ab4-9d36-87ba22d78cce",
+    "en": "Priekule Municipality",
+    "ru": "Приекуле Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "074"
+  },
+  {
+    "id": "26e20b21-236b-465d-8b35-17bb4849a508",
+    "en": "Rauna Municipality",
+    "ru": "Рауна муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "076"
+  },
+  {
+    "id": "0d79a1e5-e57d-4395-9bac-ac3f4ce07d9f",
+    "en": "Rūjiena Municipality",
+    "ru": "Руйенская волость",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "084"
+  },
+  {
+    "id": "ac4291e0-c0b1-4660-97ec-ac1a304b7ba3",
+    "en": "Rēzekne",
+    "ru": "Резекне",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "REZ"
+  },
+  {
+    "id": "bb80e5aa-8897-4e37-a7c9-328791a0f37d",
+    "en": "Rēzekne Municipality",
+    "ru": "Резекненский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "077"
+  },
+  {
+    "id": "82256155-6a21-4d99-91b2-26da2f9a8381",
+    "en": "Riebiņi Municipality",
+    "ru": "Рибинь муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "078"
+  },
+  {
+    "id": "fbed6c98-70ab-43eb-b197-9722193dadc5",
+    "en": "Riga",
+    "ru": "Рига",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "RIX"
+  },
+  {
+    "id": "5be244d7-4513-4d96-b2c8-cdcf8376c8cd",
+    "en": "Roja Municipality",
+    "ru": "Роя Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "079"
+  },
+  {
+    "id": "15064e02-d677-4550-853e-e6057c4e8c84",
+    "en": "Ropaži Municipality",
+    "ru": "Ропажи Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "080"
+  },
+  {
+    "id": "c628a383-d604-4b91-b830-1d139face41a",
+    "en": "Rucava Municipality",
+    "ru": "Руцавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "081"
+  },
+  {
+    "id": "7a2a2914-246c-4b79-b482-71ec5f067ee2",
+    "en": "Rugāji Municipality",
+    "ru": "Rugāji Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "082"
+  },
+  {
+    "id": "3b3d267c-4621-45c8-a98d-7b7cc09e6771",
+    "en": "Rundāle Municipality",
+    "ru": "Рундальский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "083"
+  },
+  {
+    "id": "b315fda7-a6b1-46a7-b188-a0f6e954f94e",
+    "en": "Sala Municipality",
+    "ru": "Сала Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "085"
+  },
+  {
+    "id": "d7e09720-0384-4ddc-84e2-7b46e58aa037",
+    "en": "Salacgrīva Municipality",
+    "ru": "Салацгривский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "086"
+  },
+  {
+    "id": "418ed500-aeb8-46ec-97fc-9c78598453a1",
+    "en": "Salaspils Municipality",
+    "ru": "Саласпилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "087"
+  },
+  {
+    "id": "4a40a3b2-4862-4bd9-9465-66285a563619",
+    "en": "Saldus Municipality",
+    "ru": "Салдус Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "088"
+  },
+  {
+    "id": "4f538b32-7f57-43d3-abd9-76ff20ec56ab",
+    "en": "Saulkrasti Municipality",
+    "ru": "Саулкрасты Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "089"
+  },
+  {
+    "id": "9b3b10f6-6671-4de6-a9a3-ade75ba9265b",
+    "en": "Sēja Municipality",
+    "ru": "Сея Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "090"
+  },
+  {
+    "id": "e303538d-8801-4f41-b647-1ed32c15c270",
+    "en": "Sigulda Municipality",
+    "ru": "Сигулда Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "091"
+  },
+  {
+    "id": "2b4c32b5-944a-481d-aea7-c1509d131d90",
+    "en": "Skrīveri Municipality",
+    "ru": "Скривери Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "092"
+  },
+  {
+    "id": "2d19fcfe-67c9-41fc-8bcb-cca4e9f7fdce",
+    "en": "Skrunda Municipality",
+    "ru": "Скрунда Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "093"
+  },
+  {
+    "id": "60c2bf68-1c22-41a4-9e80-baeda71a7d85",
+    "en": "Smiltene Municipality",
+    "ru": "Смилтенский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "094"
+  },
+  {
+    "id": "5090c869-f503-49db-922f-3d2279076b35",
+    "en": "Stopiņi Municipality",
+    "ru": "Stopiņi муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "095"
+  },
+  {
+    "id": "2e2cc5f8-f188-4cf3-b8c5-430c4aad49dc",
+    "en": "Strenči Municipality",
+    "ru": "Стренчи муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "096"
+  },
+  {
+    "id": "2783bd19-76d4-4517-8c5e-e31864050351",
+    "en": "Talsi Municipality",
+    "ru": "Талсинский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "097"
+  },
+  {
+    "id": "9713ac76-1065-4333-b6ca-49026e64de62",
+    "en": "Tērvete Municipality",
+    "ru": "край Терветский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "098"
+  },
+  {
+    "id": "cb479128-53f8-4749-ab0d-c38921f1d6dd",
+    "en": "Tukums Municipality",
+    "ru": "Тукумский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "099"
+  },
+  {
+    "id": "67ac3d22-612c-44fd-a289-96b065251429",
+    "en": "Vaiņode Municipality",
+    "ru": "Vaiņode Муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "100"
+  },
+  {
+    "id": "5d784d3f-4d85-4d9d-8b49-de1545239f03",
+    "en": "Valka Municipality",
+    "ru": "Валкский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "101"
+  },
+  {
+    "id": "e8c85e1d-1efb-420c-8120-dd90f7709203",
+    "en": "Valmiera",
+    "ru": "Валмиера",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "VMR"
+  },
+  {
+    "id": "b1ff38a4-fdfe-494f-93ed-cca009bf25c3",
+    "en": "Varakļāni Municipality",
+    "ru": "Varakļāni муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "102"
+  },
+  {
+    "id": "c7181d5a-113e-4975-aa91-e600bae5559e",
+    "en": "Vārkava Municipality",
+    "ru": "Варкавский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "103"
+  },
+  {
+    "id": "7f570adf-3d8e-44cb-bc56-fd1b72d9025d",
+    "en": "Vecpiebalga Municipality",
+    "ru": "Вецпиебалгский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "104"
+  },
+  {
+    "id": "1c1c5558-48dd-4e21-97f7-2fabaa177643",
+    "en": "Vecumnieki Municipality",
+    "ru": "Вецумниеки муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "105"
+  },
+  {
+    "id": "845a790f-1dbb-4f99-83bc-2ee8d838e7dd",
+    "en": "Ventspils",
+    "ru": "Вентспилс",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "VEN"
+  },
+  {
+    "id": "888bb645-202b-4ef6-914b-0bf0ddfd4159",
+    "en": "Ventspils Municipality",
+    "ru": "Вентспилсский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "106"
+  },
+  {
+    "id": "1ecb4665-8422-4e7e-81dc-afb2b3ff877c",
+    "en": "Viļaka Municipality",
+    "ru": "Вилякский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "108"
+  },
+  {
+    "id": "48117cb5-dd2c-431c-b57a-7479b442bb18",
+    "en": "Viļāni Municipality",
+    "ru": "Вилянский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "109"
+  },
+  {
+    "id": "2863b1d3-6378-44d3-979d-b73e761122b4",
+    "en": "Viesīte Municipality",
+    "ru": "Viesīte муниципалитет",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "107"
+  },
+  {
+    "id": "2f8263f1-eb0d-4756-a3a6-4c499572bbaf",
+    "en": "Zilupe Municipality",
+    "ru": "Зилупский край",
+    "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
+    "countryCode": "LV",
+    "stateCode": "110"
+  }
+]

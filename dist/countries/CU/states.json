@@ -1,1 +1,130 @@
-[{"id":"4eacca31-ce6e-443c-a54b-d25bb6bc9236","name":"Artemisa Province","ru":"Artemisa Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"15"},{"id":"5000f81c-f5a3-4078-9b16-5d8da98f48f2","name":"Camagüey Province","ru":"Camagüey Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"09"},{"id":"154e29cc-146e-4666-9afc-35ff24dbf698","name":"Ciego de Ávila Province","ru":"Ciego de Ávila Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"08"},{"id":"70183170-7418-4ae9-9d3a-7d93ba582252","name":"Cienfuegos Province","ru":"Cienfuegos Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"06"},{"id":"c14d50dd-b59e-4dc9-93c2-6b574873a450","name":"Granma Province","ru":"Granma Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"12"},{"id":"8bd32cd6-fe69-4322-b3cc-83f8ac532e5d","name":"Guantánamo Province","ru":"Guantánamo Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"14"},{"id":"a3d9b9d1-a648-4f93-b40b-5245a067fc54","name":"Havana Province","ru":"Havana Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"03"},{"id":"743a8b94-138b-4e86-87f6-7c51cdeb557f","name":"Holguín Province","ru":"Holguín Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"11"},{"id":"08e2cdf2-0e60-408a-acad-72a8e163415f","name":"Isla de la Juventud","ru":"Isla de la Juventud","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"99"},{"id":"68687d34-20b9-4754-8d68-c6f7ea76c639","name":"Las Tunas Province","ru":"Las Tunas Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"10"},{"id":"14b8386f-a1a2-4bf7-b8e7-9b2eedcbde88","name":"Matanzas Province","ru":"Matanzas Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"04"},{"id":"506db537-e7b1-4a59-8218-47e324114f71","name":"Mayabeque Province","ru":"Mayabeque Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"16"},{"id":"b213e80e-7a08-46ba-b805-8636950bfdd1","name":"Pinar del Río Province","ru":"Pinar del Río Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"01"},{"id":"158bcbf8-07a3-4f68-a2a3-6e06d5f2dcf4","name":"Sancti Spíritus Province","ru":"Sancti Spíritus Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"07"},{"id":"1691b3c4-6425-4601-9eb5-9500dc06b177","name":"Santiago de Cuba Province","ru":"Santiago de Cuba Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"13"},{"id":"a14f3fcc-e321-4d16-86f6-1259319e126c","name":"Villa Clara Province","ru":"Villa Clara Province","country":"4275d761-beaf-443f-86ec-183950ce6b66","countryCode":"CU","stateCode":"05"}]
+[
+  {
+    "id": "f2500773-2a03-4851-83ee-34235318cf23",
+    "en": "Artemisa Province",
+    "ru": "Артемиса губерния",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "15"
+  },
+  {
+    "id": "e51512b9-71dc-4bf4-a0ed-e4cfa72400d4",
+    "en": "Camagüey Province",
+    "ru": "Камагуэй провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "09"
+  },
+  {
+    "id": "9aa2a155-136d-4b8d-b424-d1ea0d7bcc3f",
+    "en": "Ciego de Ávila Province",
+    "ru": "Сьего де Авила провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "08"
+  },
+  {
+    "id": "f49fb4cd-345f-4ea3-9df5-6d6c7b93326b",
+    "en": "Cienfuegos Province",
+    "ru": "Сьенфуэгос провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "06"
+  },
+  {
+    "id": "390270d5-851f-40b8-a35d-06e6ef544ac3",
+    "en": "Granma Province",
+    "ru": "Гранма провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "12"
+  },
+  {
+    "id": "18b9f870-bd6c-4dc3-b70a-c2398b8e0a40",
+    "en": "Guantánamo Province",
+    "ru": "Гуантанамо провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "14"
+  },
+  {
+    "id": "4fb6705f-956e-4aeb-9914-48332ae06ddf",
+    "en": "Havana Province",
+    "ru": "Гаванская область",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "03"
+  },
+  {
+    "id": "7e1adf78-c4bd-4b80-9257-1572bc28c77c",
+    "en": "Holguín Province",
+    "ru": "Ольгин провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "11"
+  },
+  {
+    "id": "c0d4177d-dfda-4482-a416-0b66d84f22dd",
+    "en": "Isla de la Juventud",
+    "ru": "Исла де ла Ювентуд",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "99"
+  },
+  {
+    "id": "1656bf29-ba5d-4225-9403-aae823006c60",
+    "en": "Las Tunas Province",
+    "ru": "Лас Тунас провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "10"
+  },
+  {
+    "id": "bd4fd60f-d24d-4cb3-914f-38627523481d",
+    "en": "Matanzas Province",
+    "ru": "Матансас провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "04"
+  },
+  {
+    "id": "e67818bc-3dd9-4738-87ad-4d29a66feb94",
+    "en": "Mayabeque Province",
+    "ru": "Mayabeque провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "16"
+  },
+  {
+    "id": "6e18eb34-fa44-478f-ad3f-548378376a1f",
+    "en": "Pinar del Río Province",
+    "ru": "Пинар-дель-Рио Провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "01"
+  },
+  {
+    "id": "166ad378-9097-4f92-bc4d-75f9f179260b",
+    "en": "Sancti Spíritus Province",
+    "ru": "Санкти Спиритус провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "07"
+  },
+  {
+    "id": "6279cbd0-145b-40a5-8e08-92c9d359b0ff",
+    "en": "Santiago de Cuba Province",
+    "ru": "Сантьяго де Куба провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "13"
+  },
+  {
+    "id": "f8f9a2b9-a223-4ad2-936a-1e380e9586d7",
+    "en": "Villa Clara Province",
+    "ru": "Вилла Клара Провинция",
+    "country": "295ed0e6-9f51-4c1e-9c87-86e1cd0d8c6f",
+    "countryCode": "CU",
+    "stateCode": "05"
+  }
+]

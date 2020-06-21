@@ -1,1 +1,12 @@
-[{"id":"dc77b686-e417-4977-b19b-5f81f845473e","name":"Netherlands The","ru":"Netherlands The","iso3":"NLD","iso2":"NL","phoneCode":"31","capital":"cacb2396-3833-4034-b675-4abdfec800c3","currency":"EUR"}]
+[
+  {
+    "id": "8ff6889f-3521-4545-8a0d-c34cca562ab0",
+    "en": "Netherlands The",
+    "ru": "Нидерланды",
+    "iso3": "NLD",
+    "iso2": "NL",
+    "phoneCode": "31",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

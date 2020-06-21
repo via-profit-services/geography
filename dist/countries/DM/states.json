@@ -1,1 +1,82 @@
-[{"id":"db89c8f0-6a7e-4083-9173-da1d55ba5913","name":"Saint Andrew Parish","ru":"Saint Andrew Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"02"},{"id":"b6e210b9-6ef3-4308-9a61-2ab0b7c3ea68","name":"Saint David Parish","ru":"Saint David Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"03"},{"id":"7b21a312-eb07-4668-a851-f1e06d836f37","name":"Saint George Parish","ru":"Saint George Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"04"},{"id":"7948a5bd-a1f8-44d8-8865-f45fae996f03","name":"Saint John Parish","ru":"Saint John Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"05"},{"id":"090ea062-a3ee-456c-9afb-a4c6ed7fcce5","name":"Saint Joseph Parish","ru":"Saint Joseph Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"06"},{"id":"1fdf52ac-1cef-4f74-93df-33bab81a97ab","name":"Saint Luke Parish","ru":"Saint Luke Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"07"},{"id":"7820fa94-64c8-403b-b106-8ae863ffaa59","name":"Saint Mark Parish","ru":"Saint Mark Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"08"},{"id":"86ff843f-3d74-42ee-a584-1a5b568b468f","name":"Saint Patrick Parish","ru":"Saint Patrick Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"09"},{"id":"02bf4422-378c-41f9-b03c-30c627a6738d","name":"Saint Paul Parish","ru":"Saint Paul Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"10"},{"id":"32885381-943e-45fd-af9f-8ed5e7c3499c","name":"Saint Peter Parish","ru":"Saint Peter Parish","country":"7257febd-318d-4cfb-b8cd-ae452d301d75","countryCode":"DM","stateCode":"11"}]
+[
+  {
+    "id": "ad495aa5-4442-4a79-a3bc-a06522384d50",
+    "en": "Saint Andrew Parish",
+    "ru": "Андреевская волость",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "02"
+  },
+  {
+    "id": "6bb58692-d5f9-4c01-b699-10eca90bbfd6",
+    "en": "Saint David Parish",
+    "ru": "Приход Св. Давида",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "03"
+  },
+  {
+    "id": "094e7f07-e378-4892-8e2c-aa1e229bd293",
+    "en": "Saint George Parish",
+    "ru": "Приход Святого Георгия",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "04"
+  },
+  {
+    "id": "6389ca52-210f-42aa-b60e-c61f881c93de",
+    "en": "Saint John Parish",
+    "ru": "Приход Святого Иоанна",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "05"
+  },
+  {
+    "id": "8491731c-897f-4f4e-943c-e212a124b3ea",
+    "en": "Saint Joseph Parish",
+    "ru": "Приход Святого Иосифа",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "06"
+  },
+  {
+    "id": "8c03fffe-0355-4a7e-beae-2966fe447b72",
+    "en": "Saint Luke Parish",
+    "ru": "Приход Святого Луки",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "07"
+  },
+  {
+    "id": "aa40f146-7307-4804-824f-f0cac70abd78",
+    "en": "Saint Mark Parish",
+    "ru": "Приход Св. Марка",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "08"
+  },
+  {
+    "id": "f83c913f-e329-4b03-84bb-0eeea429eb7b",
+    "en": "Saint Patrick Parish",
+    "ru": "Приход Святого Патрика",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "09"
+  },
+  {
+    "id": "8316313c-b654-464f-a5ce-4dd2c860f1b1",
+    "en": "Saint Paul Parish",
+    "ru": "Приход Святого Павла",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "10"
+  },
+  {
+    "id": "8ae3b543-e966-4aca-b037-10ee6de14108",
+    "en": "Saint Peter Parish",
+    "ru": "Приход Святого Петра",
+    "country": "480ce0d4-4b04-479c-88c8-f6cc792e5462",
+    "countryCode": "DM",
+    "stateCode": "11"
+  }
+]

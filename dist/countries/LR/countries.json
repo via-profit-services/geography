@@ -1,1 +1,12 @@
-[{"id":"d7d8d7d4-74c0-4ed7-9013-c07dabb8651b","name":"Liberia","ru":"Liberia","iso3":"LBR","iso2":"LR","phoneCode":"231","capital":"09f7d0fd-a629-4f0d-99e7-a92da8bfbfe9","currency":"LRD"}]
+[
+  {
+    "id": "77da0d1a-f3af-45c1-adac-f66f3f528913",
+    "en": "Liberia",
+    "ru": "Либерия",
+    "iso3": "LBR",
+    "iso2": "LR",
+    "phoneCode": "231",
+    "capital": null,
+    "currency": "LRD"
+  }
+]

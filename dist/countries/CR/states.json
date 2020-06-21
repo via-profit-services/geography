@@ -1,1 +1,58 @@
-[{"id":"537ef6f9-dfae-494b-b181-873729ce69e0","name":"Alajuela Province","ru":"Alajuela Province","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"A"},{"id":"fe865090-4ef4-4c9e-9ee7-9715ba8c92d3","name":"Guanacaste Province","ru":"Guanacaste Province","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"G"},{"id":"9117c635-838a-44b4-ad98-a493a95e4cde","name":"Heredia Province","ru":"Heredia Province","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"H"},{"id":"338a975f-a508-4d28-944e-6f7a1d856b60","name":"Limón Province","ru":"Limón Province","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"L"},{"id":"010c755e-f588-4a3a-9015-dbc587803a4f","name":"Provincia de Cartago","ru":"Provincia de Cartago","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"C"},{"id":"2cc620f5-5da0-45db-a3f1-9d4c3a650f50","name":"Puntarenas Province","ru":"Puntarenas Province","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"P"},{"id":"0aeda4f8-9bd3-41dc-a00e-a5f078f4c2a0","name":"San José Province","ru":"San José Province","country":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","countryCode":"CR","stateCode":"SJ"}]
+[
+  {
+    "id": "601db592-80fa-4de6-9f47-373f58a718b5",
+    "en": "Alajuela Province",
+    "ru": "Алахуэла провинция",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "A"
+  },
+  {
+    "id": "71a89196-f3c3-4d17-b9d6-18504c8e7fc1",
+    "en": "Guanacaste Province",
+    "ru": "Гуанакасте провинция",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "G"
+  },
+  {
+    "id": "d552732c-2865-4c60-9d9c-66361494cd4e",
+    "en": "Heredia Province",
+    "ru": "Эредиа провинция",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "H"
+  },
+  {
+    "id": "33c29274-3328-439e-95e3-749c2aaf51d2",
+    "en": "Limón Province",
+    "ru": "Лимонская губерния",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "L"
+  },
+  {
+    "id": "1936bda8-dcd8-49eb-9521-f436d1234009",
+    "en": "Provincia de Cartago",
+    "ru": "Провинция де Картаго",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "C"
+  },
+  {
+    "id": "e5886444-14f8-4e9a-b2f0-a90df827dd8d",
+    "en": "Puntarenas Province",
+    "ru": "Пунтаренская губерния",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "P"
+  },
+  {
+    "id": "f26d9a42-40a6-4d86-b783-e4a59a570cde",
+    "en": "San José Province",
+    "ru": "Сан-Хосе провинция",
+    "country": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "countryCode": "CR",
+    "stateCode": "SJ"
+  }
+]

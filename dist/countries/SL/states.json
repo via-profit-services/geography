@@ -1,1 +1,34 @@
-[{"id":"4040e991-3f89-4095-8b7e-608ecdd7df3c","name":"Eastern Province","ru":"Eastern Province","country":"f2684f85-2ada-40ff-8c10-b0e4ceb731b5","countryCode":"SL","stateCode":"E"},{"id":"371e1af1-9219-4fc2-ad7e-5e9d74d08e84","name":"Northern Province","ru":"Northern Province","country":"f2684f85-2ada-40ff-8c10-b0e4ceb731b5","countryCode":"SL","stateCode":"N"},{"id":"c810f4d7-9081-48ff-9b1a-411a54e6f87c","name":"Southern Province","ru":"Southern Province","country":"f2684f85-2ada-40ff-8c10-b0e4ceb731b5","countryCode":"SL","stateCode":"S"},{"id":"bfd5da7a-3047-4974-9a80-f7502ba679b2","name":"Western Area","ru":"Western Area","country":"f2684f85-2ada-40ff-8c10-b0e4ceb731b5","countryCode":"SL","stateCode":"W"}]
+[
+  {
+    "id": "2c4a0710-4cbf-4726-b88f-79542536de62",
+    "en": "Eastern Province",
+    "ru": "Восточная провинция",
+    "country": "d9107c71-b16a-4e6c-8ff7-c12a333812f5",
+    "countryCode": "SL",
+    "stateCode": "E"
+  },
+  {
+    "id": "daf46849-783c-4ac4-a967-55207667849b",
+    "en": "Northern Province",
+    "ru": "Северная провинция",
+    "country": "d9107c71-b16a-4e6c-8ff7-c12a333812f5",
+    "countryCode": "SL",
+    "stateCode": "N"
+  },
+  {
+    "id": "61abde8d-2668-48e6-8e96-e86c64935250",
+    "en": "Southern Province",
+    "ru": "Южная провинция",
+    "country": "d9107c71-b16a-4e6c-8ff7-c12a333812f5",
+    "countryCode": "SL",
+    "stateCode": "S"
+  },
+  {
+    "id": "fa4136d0-b992-46e2-a0cc-b932f807b0b1",
+    "en": "Western Area",
+    "ru": "Западная область",
+    "country": "d9107c71-b16a-4e6c-8ff7-c12a333812f5",
+    "countryCode": "SL",
+    "stateCode": "W"
+  }
+]

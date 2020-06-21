@@ -1,1 +1,12 @@
-[{"id":"6c84bf0c-7d5a-4539-8568-f2e35924daa2","name":"Oman","ru":"Oman","iso3":"OMN","iso2":"OM","phoneCode":"968","capital":"cc3b03c3-8d68-42ee-a132-34fbd2e3a409","currency":"OMR"}]
+[
+  {
+    "id": "29b01b59-af30-420e-8212-7fc1f947a93e",
+    "en": "Oman",
+    "ru": "Оман",
+    "iso3": "OMN",
+    "iso2": "OM",
+    "phoneCode": "968",
+    "capital": null,
+    "currency": "OMR"
+  }
+]

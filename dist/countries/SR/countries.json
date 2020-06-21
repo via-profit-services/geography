@@ -1,1 +1,12 @@
-[{"id":"95a48b97-36b3-4397-8b10-3c0b70b545a5","name":"Suriname","ru":"Suriname","iso3":"SUR","iso2":"SR","phoneCode":"597","capital":"adfbe923-dfe7-4260-b1e1-f358482c614f","currency":"SRD"}]
+[
+  {
+    "id": "1494224d-d8f1-4c12-9a4f-0bf595776f94",
+    "en": "Suriname",
+    "ru": "Суринам",
+    "iso3": "SUR",
+    "iso2": "SR",
+    "phoneCode": "597",
+    "capital": null,
+    "currency": "SRD"
+  }
+]

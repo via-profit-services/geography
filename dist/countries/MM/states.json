@@ -1,1 +1,122 @@
-[{"id":"b9b66c77-5099-401c-a199-9aec96eee6ce","name":"Ayeyarwady Region","ru":"Ayeyarwady Region","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"07"},{"id":"3aa753c2-55d1-42ad-a861-d45e2e2f4c99","name":"Bago","ru":"Bago","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"02"},{"id":"a8cc2ccf-96c4-4720-9f09-8ad18576c6c6","name":"Chin State","ru":"Chin State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"14"},{"id":"b636cfc4-e36c-49f8-8792-c8ce7fc41df9","name":"Kachin State","ru":"Kachin State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"11"},{"id":"0278144f-d8ff-4f36-8cb9-acabd16be379","name":"Kayah State","ru":"Kayah State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"12"},{"id":"ccf0b9dd-c483-4c85-89a7-4d83817087fd","name":"Kayin State","ru":"Kayin State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"13"},{"id":"1804bfd7-60a6-4ddd-b503-2be9d71ed8d3","name":"Magway Region","ru":"Magway Region","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"03"},{"id":"76b19096-185e-442b-9875-a998c0e12d6b","name":"Mandalay Region","ru":"Mandalay Region","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"04"},{"id":"c371633b-5b94-494c-94f3-cf8af623aa05","name":"Mon State","ru":"Mon State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"15"},{"id":"256b04e8-2406-49a1-8dcf-97c368b8f05b","name":"Naypyidaw Union Territory","ru":"Naypyidaw Union Territory","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"18"},{"id":"24e1c0c2-fd42-4802-b916-e7ee40757533","name":"Rakhine State","ru":"Rakhine State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"16"},{"id":"73c0009a-c2ef-4936-a93c-5829f5571a16","name":"Sagaing Region","ru":"Sagaing Region","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"01"},{"id":"b4c5f8b7-2be5-4e13-9e34-dc591ac7cb09","name":"Shan State","ru":"Shan State","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"17"},{"id":"dd89ca42-d038-453f-9603-16776a6f0012","name":"Tanintharyi Region","ru":"Tanintharyi Region","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"05"},{"id":"6f654ffd-2458-4258-943a-751eb05f0b8b","name":"Yangon Region","ru":"Yangon Region","country":"671736d6-31c2-4fc4-90f5-0ee296890747","countryCode":"MM","stateCode":"06"}]
+[
+  {
+    "id": "a1b47c4f-1cd2-4d1a-8941-01b04ff01af8",
+    "en": "Ayeyarwady Region",
+    "ru": "Иравади Регион",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "07"
+  },
+  {
+    "id": "d5981fac-8e6b-4c76-9799-08973027319d",
+    "en": "Bago",
+    "ru": "Баго",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "02"
+  },
+  {
+    "id": "272a2aaa-4778-41f2-8067-db6e29290b60",
+    "en": "Chin State",
+    "ru": "Чин гос.",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "14"
+  },
+  {
+    "id": "7a72477f-9413-4502-8b76-97ebfd9bc99b",
+    "en": "Kachin State",
+    "ru": "Качинский гос.",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "11"
+  },
+  {
+    "id": "988b9876-9c6f-48cd-8711-a9583775a249",
+    "en": "Kayah State",
+    "ru": "каях штат",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "12"
+  },
+  {
+    "id": "b658854e-c8cc-402c-bb3d-ca07f84fe4e2",
+    "en": "Kayin State",
+    "ru": "Каин Государственный",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "13"
+  },
+  {
+    "id": "beacead5-22cd-4a36-ad3c-a209c693a370",
+    "en": "Magway Region",
+    "ru": "Магвей Регион",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "03"
+  },
+  {
+    "id": "73ae61da-1ff9-4984-a8c5-b12391d9cef6",
+    "en": "Mandalay Region",
+    "ru": "Мандалайская область",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "04"
+  },
+  {
+    "id": "dee40f00-499c-43e6-b436-ab54c35b2ed1",
+    "en": "Mon State",
+    "ru": "Mon State",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "15"
+  },
+  {
+    "id": "7f657c82-007b-4305-85fc-09f8c47432e3",
+    "en": "Naypyidaw Union Territory",
+    "ru": "Нейпьидо Юнион Территория",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "18"
+  },
+  {
+    "id": "2935d592-3e90-4e0d-be3b-5987e677ce61",
+    "en": "Rakhine State",
+    "ru": "Rakhine State",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "16"
+  },
+  {
+    "id": "8fe991a1-5fd0-4a95-aec6-50ba537a2c1f",
+    "en": "Sagaing Region",
+    "ru": "Сагаингский край",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "01"
+  },
+  {
+    "id": "449ca7cd-075e-4197-b54d-2aa7797832b2",
+    "en": "Shan State",
+    "ru": "Шань Государство",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "17"
+  },
+  {
+    "id": "69a3b2e9-b1a5-421d-b848-07e6d1f7541a",
+    "en": "Tanintharyi Region",
+    "ru": "Танинтарьинская область",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "05"
+  },
+  {
+    "id": "70f6345d-5db9-48b0-9091-5945efad877a",
+    "en": "Yangon Region",
+    "ru": "Янгон Регион",
+    "country": "f13556f4-1056-4e3d-bf0d-497ce407b48c",
+    "countryCode": "MM",
+    "stateCode": "06"
+  }
+]

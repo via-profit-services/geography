@@ -1,1 +1,186 @@
-[{"id":"64df605f-16dd-4847-8e67-9d8e28190a79","name":"Amazonas","ru":"Amazonas","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"Z"},{"id":"95ced515-2e96-4877-b034-396ab677fe3c","name":"Anzoátegui","ru":"Anzoátegui","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"B"},{"id":"28dda200-f820-4600-aea3-b1621708f20a","name":"Aragua","ru":"Aragua","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"D"},{"id":"814d7a5d-867f-4c08-919f-1eaf0a41b892","name":"Barinas","ru":"Barinas","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"E"},{"id":"4b7b7205-316f-4379-b915-8d3d2c33bb40","name":"Bolívar","ru":"Bolívar","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"F"},{"id":"b3907963-85ec-44fb-8dcd-e8ee0cf00b5b","name":"Carabobo","ru":"Carabobo","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"G"},{"id":"63cdc97d-3cd7-4f86-aefb-f70d4bd0272b","name":"Cojedes","ru":"Cojedes","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"H"},{"id":"21ea9562-7b32-418c-a88b-8b1a2e0d95c7","name":"Delta Amacuro","ru":"Delta Amacuro","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"Y"},{"id":"859f91f4-ba1f-417e-b526-2e3fa04b8035","name":"Falcón","ru":"Falcón","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"I"},{"id":"fac6fd8c-7253-473c-a268-464f459a84cc","name":"Federal Dependencies of Venezuela","ru":"Federal Dependencies of Venezuela","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"W"},{"id":"8e68f69b-b4de-413b-9dc2-b44801fb66dc","name":"Guárico","ru":"Guárico","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"J"},{"id":"836834c1-2e95-4f70-b030-c3f2169cb815","name":"Lara","ru":"Lara","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"K"},{"id":"cb9444f5-98fe-49f0-8621-2acc7c00d4e6","name":"Mérida","ru":"Mérida","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"L"},{"id":"ca722056-ad02-4261-a50d-01200db2f771","name":"Miranda","ru":"Miranda","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"M"},{"id":"e04f685b-fde6-4a56-bcdd-43994947e048","name":"Monagas","ru":"Monagas","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"N"},{"id":"7ac4fb87-f2c9-4e53-9355-144d0834fa41","name":"Nueva Esparta","ru":"Nueva Esparta","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"O"},{"id":"a0424c4e-2e0d-4a6d-a35e-0da63404a1ea","name":"Portuguesa","ru":"Portuguesa","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"P"},{"id":"b5f2beb3-2fc1-45b9-b190-2301bc3f7127","name":"Sucre","ru":"Sucre","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"R"},{"id":"f1c5cfb9-4dea-4a1c-920f-bac871c42024","name":"Táchira","ru":"Táchira","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"S"},{"id":"11a32afc-360a-43ae-8e3c-5f5a81e5c6d8","name":"Trujillo","ru":"Trujillo","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"T"},{"id":"3c8969d0-02d2-4882-8194-f9fb539691cb","name":"Vargas","ru":"Vargas","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"X"},{"id":"7229a3e0-58ae-4e1f-9220-3c812dc41ecf","name":"Yaracuy","ru":"Yaracuy","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"U"},{"id":"696a76ae-7c62-4b97-b8a4-8cc047f2b803","name":"Zulia","ru":"Zulia","country":"aceb172b-54ba-4f29-a813-728794ba0449","countryCode":"VE","stateCode":"V"}]
+[
+  {
+    "id": "6da07caf-6551-401b-aee8-a9a946a4bc19",
+    "en": "Amazonas",
+    "ru": "Амазонас",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "Z"
+  },
+  {
+    "id": "ca30fba8-d4f5-4413-b127-e1324280e184",
+    "en": "Anzoátegui",
+    "ru": "Ансоатеги",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "B"
+  },
+  {
+    "id": "3eab3f2d-7aed-4c21-9708-4fe71ed2dbda",
+    "en": "Aragua",
+    "ru": "Арагуа",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "D"
+  },
+  {
+    "id": "13baddbd-2ded-4b1b-8c2a-8b3ea26c8451",
+    "en": "Barinas",
+    "ru": "Баринас",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "E"
+  },
+  {
+    "id": "6438eaef-7be6-485a-aff3-7980ccb1948c",
+    "en": "Bolívar",
+    "ru": "Боливар",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "F"
+  },
+  {
+    "id": "a564cd0e-263c-479c-b541-fe02570dfc29",
+    "en": "Carabobo",
+    "ru": "Карабобо",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "G"
+  },
+  {
+    "id": "d76ae519-a902-4098-9b73-a719749d69ed",
+    "en": "Cojedes",
+    "ru": "Cojedes",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "H"
+  },
+  {
+    "id": "6a95556e-4385-4c67-ad9c-c6583cfda350",
+    "en": "Delta Amacuro",
+    "ru": "дельта амакуро",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "Y"
+  },
+  {
+    "id": "58ac6835-3965-4070-b54e-ef0ba31f096b",
+    "en": "Falcón",
+    "ru": "Фалькон",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "I"
+  },
+  {
+    "id": "15e37c1f-a2bc-444d-a3ee-48eb3c429539",
+    "en": "Federal Dependencies of Venezuela",
+    "ru": "федеральных зависимостей Венесуэлы",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "W"
+  },
+  {
+    "id": "71c7a330-a847-47c3-be7e-730373fa499f",
+    "en": "Guárico",
+    "ru": "Гуарико",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "J"
+  },
+  {
+    "id": "d879ae3f-b8b7-4772-887d-f0cced88a25f",
+    "en": "Lara",
+    "ru": "Лара",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "K"
+  },
+  {
+    "id": "ab3d55c1-8c7d-49fb-a98d-8396b7aa3c78",
+    "en": "Mérida",
+    "ru": "Мерида",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "L"
+  },
+  {
+    "id": "3c3c0c0f-cb64-49da-8d1f-79a8578c1fae",
+    "en": "Miranda",
+    "ru": "Миранда",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "M"
+  },
+  {
+    "id": "61e05e01-6f85-43e7-a801-a271c566d7da",
+    "en": "Monagas",
+    "ru": "Монагас",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "N"
+  },
+  {
+    "id": "cadd3afa-d9a4-45f1-97fc-396312d4ac26",
+    "en": "Nueva Esparta",
+    "ru": "Нуэва Эспарта",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "O"
+  },
+  {
+    "id": "715e7d75-9ded-4ee3-9d4f-d918de7f398a",
+    "en": "Portuguesa",
+    "ru": "португалия",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "P"
+  },
+  {
+    "id": "ce244746-efb0-47d2-a446-1ec086859b49",
+    "en": "Sucre",
+    "ru": "Сукре",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "R"
+  },
+  {
+    "id": "a1e5a1d4-3a30-45e9-9398-3f02d92d465b",
+    "en": "Táchira",
+    "ru": "Тачира",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "S"
+  },
+  {
+    "id": "2497e1ab-faca-4d2b-8ff6-06714b05080b",
+    "en": "Trujillo",
+    "ru": "Трухильо",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "T"
+  },
+  {
+    "id": "912ceb3a-0913-492c-add3-54c8fe8de261",
+    "en": "Vargas",
+    "ru": "Варгас",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "X"
+  },
+  {
+    "id": "ead3f743-e72b-4770-aef7-60ec7f0317f8",
+    "en": "Yaracuy",
+    "ru": "Яракуй",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "U"
+  },
+  {
+    "id": "8d518c26-741d-4ac6-b2be-5565ab6e7576",
+    "en": "Zulia",
+    "ru": "Сулия",
+    "country": "8fdfd4e4-196b-4b5a-ad9a-684aa8049eea",
+    "countryCode": "VE",
+    "stateCode": "V"
+  }
+]

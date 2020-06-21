@@ -1,1 +1,123 @@
-[{"id":"a8a0cb09-1618-40de-9870-8bedd7f79c09","name":"Keren","ru":"Keren","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"00e6032e-fea7-4c5a-ae66-b68241cd52e6","stateCode":"AN","latitude":"15.77792000","longitude":"38.45107000"},{"id":"628e4bb9-b255-4f71-89d3-1ef4e7c66342","name":"Adi Keyh","ru":"Adi Keyh","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"0170916b-8cf7-4c35-ac96-2c702bd92bb9","stateCode":"DU","latitude":"14.84444000","longitude":"39.37722000"},{"id":"11cb3a90-7e4e-46cd-b2cf-e2cce8319eff","name":"Dek’emhāre","ru":"Dek’emhāre","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"0170916b-8cf7-4c35-ac96-2c702bd92bb9","stateCode":"DU","latitude":"15.07000000","longitude":"39.04750000"},{"id":"315e9af4-0f94-47dc-a309-666dd1b248be","name":"Mendefera","ru":"Mendefera","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"0170916b-8cf7-4c35-ac96-2c702bd92bb9","stateCode":"DU","latitude":"14.88722000","longitude":"38.81528000"},{"id":"8028ad69-025d-4767-80ab-0b32c3dbe338","name":"Ak’ordat","ru":"Ak’ordat","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"7ffbde37-54b4-4ec3-9a9e-1c9c6ae16717","stateCode":"GB","latitude":"15.54798000","longitude":"37.88291000"},{"id":"b32157f3-29ab-4acc-84b0-643ae920f810","name":"Barentu","ru":"Barentu","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"7ffbde37-54b4-4ec3-9a9e-1c9c6ae16717","stateCode":"GB","latitude":"15.10582000","longitude":"37.59067000"},{"id":"0288bf59-5ea6-4406-9741-e8eea7d55a6a","name":"Teseney","ru":"Teseney","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"7ffbde37-54b4-4ec3-9a9e-1c9c6ae16717","stateCode":"GB","latitude":"15.11000000","longitude":"36.65750000"},{"id":"9cce3226-4070-4509-a9bc-f0ab4eb38d3d","name":"Asmara","ru":"Asmara","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"4e3014aa-108c-4d8d-8926-a46b6ec5c0f7","stateCode":"MA","latitude":"15.33805000","longitude":"38.93184000"},{"id":"a0f7f9be-7683-40f3-bfd5-51eae4b830b3","name":"Massawa","ru":"Massawa","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"31efac21-ed85-4bf1-94c6-36c76200af7f","stateCode":"SK","latitude":"15.60811000","longitude":"39.47455000"},{"id":"1b8a7b94-075e-422c-98c4-2d9c67fa6b5b","name":"Assab","ru":"Assab","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"d8ae9ce1-c8d8-4ba4-8d54-eca74a6e0051","stateCode":"DK","latitude":"13.00917000","longitude":"42.73944000"},{"id":"9236e858-0554-4369-a413-afe03d14a2e4","name":"Edd","ru":"Edd","country":"dc4eb1fd-6990-44e4-920f-ccc44f3709eb","countryCode":"ER","state":"d8ae9ce1-c8d8-4ba4-8d54-eca74a6e0051","stateCode":"DK","latitude":"13.93088000","longitude":"41.69380000"}]
+[
+  {
+    "id": "f492ef3a-6b84-4405-ac2f-1a91460cc2da",
+    "en": "Keren",
+    "ru": "Керен",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "0de379f0-e2b8-4b46-a89f-3e2c96806558",
+    "stateCode": "AN",
+    "latitude": "15.77792000",
+    "longitude": "38.45107000"
+  },
+  {
+    "id": "afe0cccc-1174-4f1a-af47-d16d6b9f93de",
+    "en": "Adi Keyh",
+    "ru": "Ади Кейх",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "bb967a62-87d7-4536-a137-4195f5a11f3b",
+    "stateCode": "DU",
+    "latitude": "14.84444000",
+    "longitude": "39.37722000"
+  },
+  {
+    "id": "8bad48de-eb87-420b-ac3e-daa70211c2f0",
+    "en": "Dek’emhāre",
+    "ru": "Декемхара",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "bb967a62-87d7-4536-a137-4195f5a11f3b",
+    "stateCode": "DU",
+    "latitude": "15.07000000",
+    "longitude": "39.04750000"
+  },
+  {
+    "id": "fe7046eb-614c-4433-a4b7-3e529373e526",
+    "en": "Mendefera",
+    "ru": "Мендефера",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "bb967a62-87d7-4536-a137-4195f5a11f3b",
+    "stateCode": "DU",
+    "latitude": "14.88722000",
+    "longitude": "38.81528000"
+  },
+  {
+    "id": "d462d8f0-b59a-42e2-97d5-fbe207f13c7f",
+    "en": "Ak’ordat",
+    "ru": "Ак'ордат",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "531ebc8e-d208-4312-ae5e-9747ab7f85a3",
+    "stateCode": "GB",
+    "latitude": "15.54798000",
+    "longitude": "37.88291000"
+  },
+  {
+    "id": "5604ddbf-e6a1-4994-a8ff-7c0ff0a7e808",
+    "en": "Barentu",
+    "ru": "Баренту",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "531ebc8e-d208-4312-ae5e-9747ab7f85a3",
+    "stateCode": "GB",
+    "latitude": "15.10582000",
+    "longitude": "37.59067000"
+  },
+  {
+    "id": "29916a38-ca1a-47d8-8012-16cae60d0874",
+    "en": "Teseney",
+    "ru": "Тесней",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "531ebc8e-d208-4312-ae5e-9747ab7f85a3",
+    "stateCode": "GB",
+    "latitude": "15.11000000",
+    "longitude": "36.65750000"
+  },
+  {
+    "id": "04968e05-02c0-47c8-8f74-7e90fb5ef8bc",
+    "en": "Asmara",
+    "ru": "Асмэра",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "38609bcc-1667-4128-b8d0-0e60140402ee",
+    "stateCode": "MA",
+    "latitude": "15.33805000",
+    "longitude": "38.93184000"
+  },
+  {
+    "id": "7b693e96-c5a7-4eb4-84a5-a7da88dee3d7",
+    "en": "Massawa",
+    "ru": "Массауа",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "7ef832c0-59a7-4c2b-bbbe-233569701e64",
+    "stateCode": "SK",
+    "latitude": "15.60811000",
+    "longitude": "39.47455000"
+  },
+  {
+    "id": "a9a0cbbc-473f-4192-8e29-d7f13b2f24a0",
+    "en": "Assab",
+    "ru": "Ассаб",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "5f109be2-922a-4e6a-856f-546c9180f7d5",
+    "stateCode": "DK",
+    "latitude": "13.00917000",
+    "longitude": "42.73944000"
+  },
+  {
+    "id": "de6aff5b-edde-4b35-a491-2a62e76dc875",
+    "en": "Edd",
+    "ru": "Эдд",
+    "country": "e129d49f-7497-41c4-934b-1b25f43c6f06",
+    "countryCode": "ER",
+    "state": "5f109be2-922a-4e6a-856f-546c9180f7d5",
+    "stateCode": "DK",
+    "latitude": "13.93088000",
+    "longitude": "41.69380000"
+  }
+]

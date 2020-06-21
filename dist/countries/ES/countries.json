@@ -1,1 +1,12 @@
-[{"id":"44203247-50e2-4e6e-88d5-39232f5810eb","name":"Spain","ru":"Spain","iso3":"ESP","iso2":"ES","phoneCode":"34","capital":"fe6fca1a-8c3a-40ac-b09f-4c36d65ce66f","currency":"EUR"}]
+[
+  {
+    "id": "b9ff0ff3-95df-4d1d-b709-24ba7b5ceaaa",
+    "en": "Spain",
+    "ru": "Испания",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "phoneCode": "34",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

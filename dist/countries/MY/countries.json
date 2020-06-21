@@ -1,1 +1,12 @@
-[{"id":"f51c6202-e47c-4f94-ab2b-0eebeb31ba53","name":"Malaysia","ru":"Malaysia","iso3":"MYS","iso2":"MY","phoneCode":"60","capital":"7a888fc8-e235-4d91-922e-a1c2c3a7d1ea","currency":"MYR"}]
+[
+  {
+    "id": "b1deff45-d4b1-4e99-8c59-8d5620388a61",
+    "en": "Malaysia",
+    "ru": "Малайзия",
+    "iso3": "MYS",
+    "iso2": "MY",
+    "phoneCode": "60",
+    "capital": null,
+    "currency": "MYR"
+  }
+]

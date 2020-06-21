@@ -1,1 +1,42 @@
-[{"id":"f4bc5853-3d02-4732-846c-6940881618e2","name":"ʻEua","ru":"ʻEua","country":"82ba8dc5-69cc-4625-9b8d-eb8e15615400","countryCode":"TO","stateCode":"01"},{"id":"615834bc-3eb4-4f32-982a-eec0406e7047","name":"Haʻapai","ru":"Haʻapai","country":"82ba8dc5-69cc-4625-9b8d-eb8e15615400","countryCode":"TO","stateCode":"02"},{"id":"a101fc3a-8538-4951-9095-25c87e24811e","name":"Niuas","ru":"Niuas","country":"82ba8dc5-69cc-4625-9b8d-eb8e15615400","countryCode":"TO","stateCode":"03"},{"id":"5c893f26-2f28-4cb4-a1ac-fd9ada1fc88e","name":"Tongatapu","ru":"Tongatapu","country":"82ba8dc5-69cc-4625-9b8d-eb8e15615400","countryCode":"TO","stateCode":"04"},{"id":"c95cfe14-afdb-49f8-8855-f8018b58923c","name":"Vavaʻu","ru":"Vavaʻu","country":"82ba8dc5-69cc-4625-9b8d-eb8e15615400","countryCode":"TO","stateCode":"05"}]
+[
+  {
+    "id": "612a92ec-ee0b-4587-ad85-03be14112529",
+    "en": "ʻEua",
+    "ru": "ʻEua",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "stateCode": "01"
+  },
+  {
+    "id": "7b565cff-8784-4898-9fbf-dbc245952d65",
+    "en": "Haʻapai",
+    "ru": "Хаапай",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "stateCode": "02"
+  },
+  {
+    "id": "6c1842d1-d827-4ace-9d7f-4bbfc3bcdcc5",
+    "en": "Niuas",
+    "ru": "Niuas",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "stateCode": "03"
+  },
+  {
+    "id": "e7143b1c-b8da-493a-a450-b9fec8d681a6",
+    "en": "Tongatapu",
+    "ru": "Тонгатапу",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "stateCode": "04"
+  },
+  {
+    "id": "3f47aa4b-d7ce-405e-8526-5bb6acac5252",
+    "en": "Vavaʻu",
+    "ru": "Вавау",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "stateCode": "05"
+  }
+]

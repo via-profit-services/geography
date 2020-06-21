@@ -1,1 +1,42 @@
-[{"id":"1646a861-1e7b-422b-b06d-a73a22aa5bd4","name":"Capital Governorate","ru":"Capital Governorate","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","stateCode":"13"},{"id":"8e0a4647-07cb-461a-b076-e8151d851373","name":"Central Governorate","ru":"Central Governorate","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","stateCode":"16"},{"id":"0182a9c5-fc7f-441a-b390-4fa775e53708","name":"Muharraq Governorate","ru":"Muharraq Governorate","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","stateCode":"15"},{"id":"8609b221-7f25-46ab-80bf-31ff9d58104a","name":"Northern Governorate","ru":"Northern Governorate","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","stateCode":"17"},{"id":"476b4990-c78d-4a22-9165-f3c3cddd0405","name":"Southern Governorate","ru":"Southern Governorate","country":"2a11beae-aec2-4826-a9cc-8595e2dbfb68","countryCode":"BH","stateCode":"14"}]
+[
+  {
+    "id": "0df1ad32-8041-40e2-a5ba-96be88a472a2",
+    "en": "Capital Governorate",
+    "ru": "столичная губерния",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "stateCode": "13"
+  },
+  {
+    "id": "7a3f30a6-e894-465e-8306-910073d6ad73",
+    "en": "Central Governorate",
+    "ru": "Центральная губерния области",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "stateCode": "16"
+  },
+  {
+    "id": "6df67f90-3b23-443f-b99a-0ffeb14ad902",
+    "en": "Muharraq Governorate",
+    "ru": "губернаторство Мухаррак",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "stateCode": "15"
+  },
+  {
+    "id": "1141baf8-25e6-4f69-8bcf-45d64d1dae4a",
+    "en": "Northern Governorate",
+    "ru": "Северная губерния",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "stateCode": "17"
+  },
+  {
+    "id": "26761267-8ed6-4b19-a5c9-ca62cafcc077",
+    "en": "Southern Governorate",
+    "ru": "южная губерния",
+    "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
+    "countryCode": "BH",
+    "stateCode": "14"
+  }
+]

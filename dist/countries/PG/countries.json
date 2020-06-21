@@ -1,1 +1,12 @@
-[{"id":"e9e868f9-fa2b-4927-91d1-67f5d51a0b14","name":"Papua new Guinea","ru":"Papua new Guinea","iso3":"PNG","iso2":"PG","phoneCode":"675","capital":"e3fcf64a-3cbf-4a9f-9cac-368a10f40192","currency":"PGK"}]
+[
+  {
+    "id": "5e9f385f-06cb-44d1-a49c-53997b6cf14e",
+    "en": "Papua new Guinea",
+    "ru": "Папуа Новая Гвинея",
+    "iso3": "PNG",
+    "iso2": "PG",
+    "phoneCode": "675",
+    "capital": null,
+    "currency": "PGK"
+  }
+]

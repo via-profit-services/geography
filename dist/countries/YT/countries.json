@@ -1,1 +1,12 @@
-[{"id":"5afb265c-12f8-4c73-be93-121d08b8e930","name":"Mayotte","ru":"Mayotte","iso3":"MYT","iso2":"YT","phoneCode":"262","capital":null,"currency":"EUR"}]
+[
+  {
+    "id": "15b6595c-0b78-4dd3-aff6-81dedfc35e64",
+    "en": "Mayotte",
+    "ru": "Майотта",
+    "iso3": "MYT",
+    "iso2": "YT",
+    "phoneCode": "262",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

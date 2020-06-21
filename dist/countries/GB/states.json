@@ -1,1 +1,1978 @@
-[{"id":"89441b11-e5eb-4206-93bd-ae001ef72daa","name":"Aberdeen","ru":"Aberdeen","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ABE"},{"id":"df70ae1e-e352-4338-baa6-894c13c7b33f","name":"Aberdeenshire","ru":"Aberdeenshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ABD"},{"id":"e8a42b5f-5784-4218-a944-ebeeb925bb6c","name":"Angus","ru":"Angus","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ANS"},{"id":"670e1103-c1fd-4125-aa32-9da7de5c42fe","name":"Antrim","ru":"Antrim","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ANT"},{"id":"adda5487-9edc-4eb5-9639-9d2ef491fb81","name":"Antrim and Newtownabbey","ru":"Antrim and Newtownabbey","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ANN"},{"id":"ccd54f6b-aa4a-4b41-a508-f913461b6172","name":"Ards","ru":"Ards","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ARD"},{"id":"af012450-9ce0-42f3-950b-a8593897648b","name":"Ards and North Down","ru":"Ards and North Down","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"AND"},{"id":"29db4802-e9a1-4547-bec0-305a0202a908","name":"Argyll and Bute","ru":"Argyll and Bute","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"AGB"},{"id":"8b9674ab-5d09-4891-8a6d-5e76e10cfcac","name":"Armagh City and District Council","ru":"Armagh City and District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ARM"},{"id":"564d0eea-c5d1-4eb4-8d1f-155bef38aa7d","name":"Armagh, Banbridge and Craigavon","ru":"Armagh, Banbridge and Craigavon","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ABC"},{"id":"99bd287c-e4d4-4090-9b07-6129d9d6c9c7","name":"Ascension Island","ru":"Ascension Island","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SH-AC"},{"id":"0e6374fc-61db-4643-8dca-0c2ac4ae5e4e","name":"Ballymena Borough","ru":"Ballymena Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BLA"},{"id":"914dedf4-6c0e-4889-8335-af96940653e6","name":"Ballymoney","ru":"Ballymoney","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BLY"},{"id":"98ba1e11-a65c-42da-9d2c-806a2966da6f","name":"Banbridge","ru":"Banbridge","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BNB"},{"id":"a422a623-d7b6-4559-8d58-03797911d911","name":"Barnsley","ru":"Barnsley","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BNS"},{"id":"95abbc06-a61f-46da-b8e4-d70477f6fdae","name":"Bath and North East Somerset","ru":"Bath and North East Somerset","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BAS"},{"id":"06a0bacd-8896-46b9-b112-51831c8391b8","name":"Bedford","ru":"Bedford","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BDF"},{"id":"1d5cb3ee-a69a-42c4-b297-a1a4b945ad9b","name":"Belfast district","ru":"Belfast district","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BFS"},{"id":"facb19df-a015-477c-8ba7-dc3dd0b13a77","name":"Birmingham","ru":"Birmingham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BIR"},{"id":"d46faf07-6d69-4daa-9989-80545594e5c2","name":"Blackburn with Darwen","ru":"Blackburn with Darwen","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BBD"},{"id":"e4d7d654-05fa-49c2-a7b8-de4642d6af91","name":"Blackpool","ru":"Blackpool","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BPL"},{"id":"c5d104a6-6a6a-4cb8-abb5-8c09423f728f","name":"Blaenau Gwent County Borough","ru":"Blaenau Gwent County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BGW"},{"id":"1f92332a-30b2-499d-9183-0cd998e6b8e3","name":"Bolton","ru":"Bolton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BOL"},{"id":"e10f17b4-940d-4d45-a5d7-08175cb1cada","name":"Bournemouth","ru":"Bournemouth","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BMH"},{"id":"a749e400-4566-4f6e-ba84-d67e9a617410","name":"Bracknell Forest","ru":"Bracknell Forest","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BRC"},{"id":"8c1a7162-91de-46c4-b44c-110b6fbe5014","name":"Bradford","ru":"Bradford","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BRD"},{"id":"711d5a4b-bf8e-4cfe-bd37-f7dd3c75ab12","name":"Bridgend County Borough","ru":"Bridgend County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BGE"},{"id":"a7d82b4a-d126-4f13-a93d-13134186da35","name":"Brighton and Hove","ru":"Brighton and Hove","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BNH"},{"id":"114c7af0-7c28-404c-93ac-b6f644fbd68a","name":"Buckinghamshire","ru":"Buckinghamshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BKM"},{"id":"6122f05a-4700-473f-b05b-c242c6e3c0bb","name":"Bury","ru":"Bury","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BUR"},{"id":"a6500906-cb62-4925-9fef-e1996c27cecd","name":"Caerphilly County Borough","ru":"Caerphilly County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CAY"},{"id":"2c749dd8-54dc-4c6a-9520-b58808ab2fa9","name":"Calderdale","ru":"Calderdale","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CLD"},{"id":"b0a5a666-1ceb-40bc-ba29-1a32ac532cee","name":"Cambridgeshire","ru":"Cambridgeshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CAM"},{"id":"6b85ff38-3db1-47a9-ab4f-282204bbba5b","name":"Carmarthenshire","ru":"Carmarthenshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CMN"},{"id":"9be75bfe-8534-49c8-90b4-9dbc3d13d497","name":"Carrickfergus Borough Council","ru":"Carrickfergus Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CKF"},{"id":"5319b6b4-59cc-4567-b10b-45fcbd04f586","name":"Castlereagh","ru":"Castlereagh","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CSR"},{"id":"f144deb2-8b03-4e2c-a334-e9bd3590304e","name":"Causeway Coast and Glens","ru":"Causeway Coast and Glens","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CCG"},{"id":"dc1ebf38-739a-4c58-b411-2ea083e7a9fc","name":"Central Bedfordshire","ru":"Central Bedfordshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CBF"},{"id":"1ce9cd21-2eb9-4bf2-bfc9-84c6013b735c","name":"Ceredigion","ru":"Ceredigion","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CGN"},{"id":"13ec420a-deb9-4f6d-b2b9-786240ffe730","name":"Cheshire East","ru":"Cheshire East","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CHE"},{"id":"48e47b10-33ab-49b9-97b1-c4585cd761c4","name":"Cheshire West and Chester","ru":"Cheshire West and Chester","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CHW"},{"id":"8fe7db36-0e86-4d01-96d1-75a8193ecf9f","name":"City and County of Cardiff","ru":"City and County of Cardiff","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CRF"},{"id":"e3820771-8189-4466-8a12-a5edddf01b6f","name":"City and County of Swansea","ru":"City and County of Swansea","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SWA"},{"id":"bcd5af69-21cd-4df2-9bad-4c0e01cfceb0","name":"City of Bristol","ru":"City of Bristol","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BST"},{"id":"18ef2104-d7b1-4839-82bf-5d853a2f5d34","name":"City of Derby","ru":"City of Derby","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DER"},{"id":"6222f40f-dd0e-4ca4-836e-61d78c5c8290","name":"City of Kingston upon Hull","ru":"City of Kingston upon Hull","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"KHL"},{"id":"a60264c8-d0b9-4474-8b2d-29608e3ac11d","name":"City of Leicester","ru":"City of Leicester","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LCE"},{"id":"f501b734-af29-45c5-8ad9-d1f94026ffbe","name":"City of London","ru":"City of London","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LND"},{"id":"b74995ef-26e9-4a3d-a8b6-3b037f5663c5","name":"City of Nottingham","ru":"City of Nottingham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NGM"},{"id":"d4d371a0-85df-417d-853d-392708edfff0","name":"City of Peterborough","ru":"City of Peterborough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"PTE"},{"id":"466821a0-4f60-4381-aa50-61b4372a3d5a","name":"City of Plymouth","ru":"City of Plymouth","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"PLY"},{"id":"6111eb7f-74dc-430c-8d8a-dddb61035f48","name":"City of Portsmouth","ru":"City of Portsmouth","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"POR"},{"id":"b4c5c4cf-7e15-4929-9b4b-79c90d763ac2","name":"City of Southampton","ru":"City of Southampton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STH"},{"id":"7cdd016f-c2b9-4b93-859f-c3f90e1fec3c","name":"City of Stoke-on-Trent","ru":"City of Stoke-on-Trent","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STE"},{"id":"a5681197-d4bf-44cb-885c-44a893a6b737","name":"City of Sunderland","ru":"City of Sunderland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SND"},{"id":"5f557d1c-345b-4403-aff5-6b9bd1e23b14","name":"City of Westminster","ru":"City of Westminster","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WSM"},{"id":"06d5612e-fa29-428c-b4ae-a118fa19c1c2","name":"City of Wolverhampton","ru":"City of Wolverhampton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WLV"},{"id":"a889f506-660d-46e2-b116-211a6caef7cd","name":"City of York","ru":"City of York","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"YOR"},{"id":"54ef50ad-fc3d-4ab8-885e-98b4dfcc1b21","name":"Clackmannanshire","ru":"Clackmannanshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CLK"},{"id":"dbc2b365-cddc-4b5e-8fe3-705eecda0f82","name":"Coleraine Borough Council","ru":"Coleraine Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CLR"},{"id":"8f834ef9-c451-4c9c-bf51-8963ad2c2ba6","name":"Conwy County Borough","ru":"Conwy County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CWY"},{"id":"0e553d71-c9ca-4343-bd70-3979d47c05f3","name":"Cookstown District Council","ru":"Cookstown District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CKT"},{"id":"45678742-4e86-458d-8cbb-9e409df01489","name":"Cornwall","ru":"Cornwall","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CON"},{"id":"945d5ece-81c3-415c-b53f-a0bbea7ea328","name":"County Durham","ru":"County Durham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DUR"},{"id":"5ed0396e-7d51-4f48-8cf4-0b733a9bed80","name":"Coventry","ru":"Coventry","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"COV"},{"id":"06ce7d40-07e5-4bed-a590-0a76d1c167bb","name":"Craigavon Borough Council","ru":"Craigavon Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CGV"},{"id":"8cb93221-acbe-47e6-903f-39a6b5e63678","name":"Cumbria","ru":"Cumbria","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CMA"},{"id":"abe37912-4c0c-4bba-a608-9fcf70da23c8","name":"Darlington","ru":"Darlington","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DAL"},{"id":"80d81f47-33d4-49da-bcd7-eade031f6998","name":"Denbighshire","ru":"Denbighshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DEN"},{"id":"ed7248ea-2e14-4eda-8f5f-5c447cc28534","name":"Derbyshire","ru":"Derbyshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DBY"},{"id":"cd2985fc-53b8-4235-adac-3372b4bf848d","name":"Derry City and Strabane","ru":"Derry City and Strabane","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DRS"},{"id":"a985b9c1-c37b-4890-8646-fdcd20f1f658","name":"Derry City Council","ru":"Derry City Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DRY"},{"id":"e7eed233-0340-4fa7-9724-52532ac0226d","name":"Devon","ru":"Devon","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DEV"},{"id":"4b4e7990-7eab-47cd-87ac-462bc7071c92","name":"Doncaster","ru":"Doncaster","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DNC"},{"id":"eb3e7844-ba49-4af5-a767-ae39cafc45e7","name":"Dorset","ru":"Dorset","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DOR"},{"id":"a58d1017-48ce-4ed9-a7f8-c5e769c906b7","name":"Down District Council","ru":"Down District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DOW"},{"id":"2fb1a11a-1f87-4d0b-8fb4-3dd5753b771a","name":"Dudley","ru":"Dudley","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DUD"},{"id":"3befaab4-4c0e-4ffa-84b9-e969e2d1da1c","name":"Dumfries and Galloway","ru":"Dumfries and Galloway","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DGY"},{"id":"97ee8060-b418-4475-b828-8dc6e3f49026","name":"Dundee","ru":"Dundee","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DND"},{"id":"6d3f12d5-3a32-4244-af88-46861abc5c58","name":"Dungannon and South Tyrone Borough Council","ru":"Dungannon and South Tyrone Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"DGN"},{"id":"b493178d-3a9c-4cd0-a878-b730e1910838","name":"East Ayrshire","ru":"East Ayrshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"EAY"},{"id":"ca4bb37e-5b84-4725-a25a-b15b629a8805","name":"East Dunbartonshire","ru":"East Dunbartonshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"EDU"},{"id":"02cb6efa-79c6-4f19-bad7-9ed6758946de","name":"East Lothian","ru":"East Lothian","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ELN"},{"id":"ef9f7271-a804-4839-b325-ef131faf6d3b","name":"East Renfrewshire","ru":"East Renfrewshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ERW"},{"id":"a93a33ae-b441-4c7c-9823-4e58430e8d8a","name":"East Riding of Yorkshire","ru":"East Riding of Yorkshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ERY"},{"id":"5b154f66-a97d-452d-a662-ddf3ea01d39b","name":"East Sussex","ru":"East Sussex","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ESX"},{"id":"511e27eb-f83d-4fa4-80ee-e6800cc79f47","name":"Edinburgh","ru":"Edinburgh","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"EDH"},{"id":"3d85427c-dbee-4701-a20e-cc9850a0625b","name":"England","ru":"England","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ENG"},{"id":"8a6c4c37-669b-401a-95d5-5c1cc1258d08","name":"Essex","ru":"Essex","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ESS"},{"id":"5e697ef5-3979-4907-89ed-7cc95e1f8c4d","name":"Falkirk","ru":"Falkirk","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"FAL"},{"id":"12eaf5c5-0e23-4c1e-9eef-a6ea126d66c0","name":"Fermanagh and Omagh","ru":"Fermanagh and Omagh","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"FMO"},{"id":"8f5cf870-b708-4f33-b2e6-a804809ffd13","name":"Fermanagh District Council","ru":"Fermanagh District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"FER"},{"id":"4368d589-da4e-4bfd-9a71-739a7987162f","name":"Fife","ru":"Fife","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"FIF"},{"id":"92873ff3-9cc0-4d0b-99fe-e843bf7ab881","name":"Flintshire","ru":"Flintshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"FLN"},{"id":"6faed13c-3212-4584-a242-f800e2785bb5","name":"Gateshead","ru":"Gateshead","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"GAT"},{"id":"3fc3506a-7690-4ab3-abdc-6bbe17e33672","name":"Glasgow","ru":"Glasgow","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"GLG"},{"id":"0a08a567-1997-419a-b986-41ac5cfffaf0","name":"Gloucestershire","ru":"Gloucestershire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"GLS"},{"id":"89ef4963-84b7-4ae3-af35-29b8b6e2b6aa","name":"Gwynedd","ru":"Gwynedd","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"GWN"},{"id":"09cd1af4-5c84-4ef8-90dc-bf0f67bf9e4c","name":"Halton","ru":"Halton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HAL"},{"id":"243ede1e-8325-43cb-994d-9bc68e5f8d6c","name":"Hampshire","ru":"Hampshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HAM"},{"id":"f891681d-3148-46ae-9151-1fcaf3ec6485","name":"Hartlepool","ru":"Hartlepool","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HPL"},{"id":"8cdfdf07-bbbd-4975-a22b-dc81f0fbc856","name":"Herefordshire","ru":"Herefordshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HEF"},{"id":"51b9a34d-7df5-4a63-9b09-f89be5dd0dff","name":"Hertfordshire","ru":"Hertfordshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HRT"},{"id":"acfda78f-a9a1-4722-93f4-de59f4885a41","name":"Highland","ru":"Highland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HLD"},{"id":"90e57eef-f49f-4dfc-8575-647aee96c256","name":"Inverclyde","ru":"Inverclyde","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"IVC"},{"id":"b4d7bad3-401b-4e0f-a1d0-eafd8c112a2a","name":"Isle of Wight","ru":"Isle of Wight","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"IOW"},{"id":"dd42048f-aa1c-4253-9783-8dbffbc7fc60","name":"Isles of Scilly","ru":"Isles of Scilly","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"IOS"},{"id":"8c2a72b2-d06d-461d-be92-1a822fc4a363","name":"Kent","ru":"Kent","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"KEN"},{"id":"90b386a0-4cae-482d-84fa-41b4dc3866e4","name":"Kirklees","ru":"Kirklees","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"KIR"},{"id":"a86131d3-b320-4b30-b2ef-9e81a2c58e2c","name":"Knowsley","ru":"Knowsley","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"KWL"},{"id":"ec617394-cd5d-4737-b440-29f3fd3c54e5","name":"Lancashire","ru":"Lancashire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LAN"},{"id":"42b6c3a4-5316-457a-8302-1273ee9a1361","name":"Larne Borough Council","ru":"Larne Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LRN"},{"id":"128ba7b4-cf25-4e2d-9953-11c15297e2ff","name":"Leeds","ru":"Leeds","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LDS"},{"id":"875845be-a7e3-4101-85f8-451f9eb16c4a","name":"Leicestershire","ru":"Leicestershire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LEC"},{"id":"6b559b3b-bffd-4db5-ab85-ab0f04c35f40","name":"Limavady Borough Council","ru":"Limavady Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LMV"},{"id":"cc39db20-e91c-4b43-b649-6a534ff82568","name":"Lincolnshire","ru":"Lincolnshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LIN"},{"id":"85e2bf17-8d57-4b27-93a6-4860b75236fb","name":"Lisburn and Castlereagh","ru":"Lisburn and Castlereagh","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LBC"},{"id":"a9c9a344-282a-4e1b-8b9f-d49522fceaa0","name":"Lisburn City Council","ru":"Lisburn City Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LSB"},{"id":"5967dc5e-c048-4009-b1b2-e277f793b25b","name":"Liverpool","ru":"Liverpool","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LIV"},{"id":"5eb09bae-e355-4124-af10-2d6d4c059686","name":"London Borough of Barking and Dagenham","ru":"London Borough of Barking and Dagenham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BDG"},{"id":"cc6d1e26-8801-4d97-8c24-e492b20fa80d","name":"London Borough of Barnet","ru":"London Borough of Barnet","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BNE"},{"id":"4e62bb86-34e4-4e1b-b51b-1a78707f0505","name":"London Borough of Bexley","ru":"London Borough of Bexley","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BEX"},{"id":"12cdcbf8-e155-42b8-8caa-c5f8d6415535","name":"London Borough of Brent","ru":"London Borough of Brent","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BEN"},{"id":"8467cb63-e211-48e5-9814-3ea3e705c677","name":"London Borough of Bromley","ru":"London Borough of Bromley","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"BRY"},{"id":"7f9ce209-2d83-4a4f-abe5-97f34cdda5f1","name":"London Borough of Camden","ru":"London Borough of Camden","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CMD"},{"id":"f4ed5bff-3c00-4385-90e7-960f986ab28e","name":"London Borough of Croydon","ru":"London Borough of Croydon","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"CRY"},{"id":"1e979e30-1cf2-4ac2-bdb6-321009e74885","name":"London Borough of Ealing","ru":"London Borough of Ealing","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"EAL"},{"id":"586564b7-2b22-45f8-ae8d-2eca998f1c79","name":"London Borough of Enfield","ru":"London Borough of Enfield","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ENF"},{"id":"83921f5e-0ac1-44c9-97d8-fec03d82030c","name":"London Borough of Hackney","ru":"London Borough of Hackney","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HCK"},{"id":"bb85d337-b318-4852-b25a-e403a941aa13","name":"London Borough of Hammersmith and Fulham","ru":"London Borough of Hammersmith and Fulham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HMF"},{"id":"f80d089c-9791-4b9a-a0b4-21ee59fc3d45","name":"London Borough of Haringey","ru":"London Borough of Haringey","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HRY"},{"id":"20224c15-570c-4b75-afab-8713c41665f7","name":"London Borough of Harrow","ru":"London Borough of Harrow","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HRW"},{"id":"4ce28561-a0f4-4aec-87fa-fcf4308392f2","name":"London Borough of Havering","ru":"London Borough of Havering","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HAV"},{"id":"414142f8-ac17-4618-ba2d-dbbb12949c9f","name":"London Borough of Hillingdon","ru":"London Borough of Hillingdon","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HIL"},{"id":"19069d42-89f8-4f03-be97-f3f5d853c188","name":"London Borough of Hounslow","ru":"London Borough of Hounslow","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"HNS"},{"id":"e07e81d8-9cf8-42e4-8aec-2d53140b504b","name":"London Borough of Islington","ru":"London Borough of Islington","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ISL"},{"id":"f726d1f1-b172-45f1-96c8-6607d62b7ddd","name":"London Borough of Lambeth","ru":"London Borough of Lambeth","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LBH"},{"id":"7d6515cc-ef55-4631-b69c-fdc77cd35792","name":"London Borough of Lewisham","ru":"London Borough of Lewisham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"LEW"},{"id":"0ea075be-7653-4962-8fe5-0f60c9ea892d","name":"London Borough of Merton","ru":"London Borough of Merton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MRT"},{"id":"bac37777-c191-4bd2-aac8-480aa35227e2","name":"London Borough of Newham","ru":"London Borough of Newham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NWM"},{"id":"29fe2ffd-d435-4ec3-a964-e3cb6faede88","name":"London Borough of Redbridge","ru":"London Borough of Redbridge","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RDB"},{"id":"91838442-ef8b-45aa-a2d5-cbc773ce70c5","name":"London Borough of Richmond upon Thames","ru":"London Borough of Richmond upon Thames","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RIC"},{"id":"981f3626-3611-455b-bcb3-d2cd46b30383","name":"London Borough of Southwark","ru":"London Borough of Southwark","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SWK"},{"id":"558f3ce6-2d9c-45ca-b1e8-c1a17b4a5efe","name":"London Borough of Sutton","ru":"London Borough of Sutton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STN"},{"id":"3e9adca1-9e50-4972-a938-4020febb220b","name":"London Borough of Tower Hamlets","ru":"London Borough of Tower Hamlets","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"TWH"},{"id":"500fb607-66a1-41e1-8f47-9f304f20be3a","name":"London Borough of Waltham Forest","ru":"London Borough of Waltham Forest","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WFT"},{"id":"d070070e-8101-4121-883c-16de9e655da2","name":"London Borough of Wandsworth","ru":"London Borough of Wandsworth","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WND"},{"id":"07c6b822-6e74-44fb-b5bb-5640cd0a36eb","name":"Magherafelt District Council","ru":"Magherafelt District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MFT"},{"id":"7be1e7f2-8873-403f-8753-c14e9e471627","name":"Manchester","ru":"Manchester","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MAN"},{"id":"a99ecd88-9d65-43df-a60a-5a61b5ab5a33","name":"Medway","ru":"Medway","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MDW"},{"id":"7dff1e87-1c1a-45c2-9974-d6849fb4c2b4","name":"Merthyr Tydfil County Borough","ru":"Merthyr Tydfil County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MTY"},{"id":"c686d7f4-ecf2-40a4-bcfa-28a46d206647","name":"Metropolitan Borough of Wigan","ru":"Metropolitan Borough of Wigan","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WGN"},{"id":"3e8dde91-099b-453e-b78f-6d6e138d9822","name":"Mid and East Antrim","ru":"Mid and East Antrim","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MEA"},{"id":"2abd43aa-aa5c-4564-b91a-210563a51d8f","name":"Mid Ulster","ru":"Mid Ulster","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MUL"},{"id":"6ca9259a-0ecf-4e6e-85af-21b6f2a2b8b1","name":"Middlesbrough","ru":"Middlesbrough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MDB"},{"id":"9b46b261-6c94-4c8a-8397-4ca3a5d53e78","name":"Midlothian","ru":"Midlothian","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MLN"},{"id":"9c3331d1-5b53-47fe-9132-52dfd1d5b3a3","name":"Milton Keynes","ru":"Milton Keynes","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MIK"},{"id":"1af709a3-7bab-487b-b573-576550511816","name":"Monmouthshire","ru":"Monmouthshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MON"},{"id":"33e43e82-dbf4-4cf3-8c2d-1829dd575d18","name":"Moray","ru":"Moray","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MRY"},{"id":"fcd4c543-9bfd-4456-88d4-fde537647691","name":"Moyle District Council","ru":"Moyle District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"MYL"},{"id":"c2fa31dd-e581-4c87-9e8c-2babbf2f8a3f","name":"Neath Port Talbot County Borough","ru":"Neath Port Talbot County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NTL"},{"id":"70f196f3-b437-404f-9979-5966c5401cc2","name":"Newcastle upon Tyne","ru":"Newcastle upon Tyne","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NET"},{"id":"036b9594-9098-4dec-aa8b-0459cfb744f1","name":"Newport","ru":"Newport","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NWP"},{"id":"31d08a7f-a2f0-459b-a2a2-53b7429eecb9","name":"Newry and Mourne District Council","ru":"Newry and Mourne District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NYM"},{"id":"e40bfe47-d04f-495c-9b88-9ae52fd4037f","name":"Newry, Mourne and Down","ru":"Newry, Mourne and Down","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NMD"},{"id":"f3066d85-77eb-40a1-b206-6fd9e1aca4a3","name":"Newtownabbey Borough Council","ru":"Newtownabbey Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NTA"},{"id":"3ee80bf3-665a-47af-8f92-cef4c723a9f2","name":"Norfolk","ru":"Norfolk","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NFK"},{"id":"c648a7c4-3f11-44d6-af12-a1c5b1ca14d3","name":"North Ayrshire","ru":"North Ayrshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NAY"},{"id":"1c462033-d630-45ac-ad99-90fd9ef654e5","name":"North Down Borough Council","ru":"North Down Borough Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NDN"},{"id":"c5ab5f8d-2e5a-4f06-8025-ecde15a8fcd0","name":"North East Lincolnshire","ru":"North East Lincolnshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NEL"},{"id":"3531abaa-0997-494b-8133-aa9c4efb0288","name":"North Lanarkshire","ru":"North Lanarkshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NLK"},{"id":"9e3d52e5-c8ca-4777-8079-8d2cb45edef2","name":"North Lincolnshire","ru":"North Lincolnshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NLN"},{"id":"a7b4363a-3916-410c-a3ec-42af0efd9b1d","name":"North Somerset","ru":"North Somerset","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NSM"},{"id":"43ddf5eb-ab66-4d1a-b87f-49ccda0c3889","name":"North Tyneside","ru":"North Tyneside","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NTY"},{"id":"b23bb0c1-61ea-4026-a3d5-fdf38a425545","name":"North Yorkshire","ru":"North Yorkshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NYK"},{"id":"f77e5fa7-38c0-44bc-a1d8-09d612cd7e05","name":"Northamptonshire","ru":"Northamptonshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NTH"},{"id":"1e485cf7-f4f3-4cd1-9311-806bd6e31fc5","name":"Northern Ireland","ru":"Northern Ireland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NIR"},{"id":"e1a7324e-c778-4e86-949b-dc2269a2a728","name":"Northumberland","ru":"Northumberland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NBL"},{"id":"b213e5cf-4e78-454f-b5e8-4f8127e13d4a","name":"Nottinghamshire","ru":"Nottinghamshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"NTT"},{"id":"d009c400-a1f8-491d-bf1f-fa0ff2441cda","name":"Oldham","ru":"Oldham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"OLD"},{"id":"12f60010-b9f7-4a2f-9ebf-2882edbe4dc4","name":"Omagh District Council","ru":"Omagh District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"OMH"},{"id":"d6c7a291-a0d7-4167-88bb-307b1207fee2","name":"Orkney Islands","ru":"Orkney Islands","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ORK"},{"id":"79fb553c-1cb9-4d3e-b272-8afe4ef2aa65","name":"Outer Hebrides","ru":"Outer Hebrides","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ELS"},{"id":"03c26c98-1c20-4c95-b89f-d9b8b42db1d0","name":"Oxfordshire","ru":"Oxfordshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"OXF"},{"id":"4ba055a2-fc2e-4262-9218-03843e062fd2","name":"Pembrokeshire","ru":"Pembrokeshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"PEM"},{"id":"ab05b437-f8e7-4e0c-9b30-a7e19c5a6e32","name":"Perth and Kinross","ru":"Perth and Kinross","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"PKN"},{"id":"afa1135e-1f4a-4f87-9725-8b443721443a","name":"Poole","ru":"Poole","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"POL"},{"id":"bcfbabb2-5013-4d02-9d1d-ed0bda5a1df5","name":"Powys","ru":"Powys","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"POW"},{"id":"90c3f447-67a2-4fc4-9c14-a84ab65795cf","name":"Reading","ru":"Reading","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RDG"},{"id":"8ba3f61c-7151-49a9-937e-a0ffa1adac34","name":"Redcar and Cleveland","ru":"Redcar and Cleveland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RCC"},{"id":"607a6ba2-5845-4343-bb2e-40978d789bc3","name":"Renfrewshire","ru":"Renfrewshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RFW"},{"id":"2ffc9dbe-bec0-4175-9ae7-7a67ba4ed8dd","name":"Rhondda Cynon Taf","ru":"Rhondda Cynon Taf","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RCT"},{"id":"69f42de4-57e6-44ba-9854-b97825927a2f","name":"Rochdale","ru":"Rochdale","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RCH"},{"id":"5af0cb34-0866-41ca-bed1-ecc29b305d8f","name":"Rotherham","ru":"Rotherham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ROT"},{"id":"385826c2-93e4-4008-be25-e442023f6b19","name":"Royal Borough of Greenwich","ru":"Royal Borough of Greenwich","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"GRE"},{"id":"6ae52d9d-b708-48e7-b810-9152274ffe75","name":"Royal Borough of Kensington and Chelsea","ru":"Royal Borough of Kensington and Chelsea","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"KEC"},{"id":"6ef5a455-d6df-4aae-97f0-cc9af1a2b0d4","name":"Royal Borough of Kingston upon Thames","ru":"Royal Borough of Kingston upon Thames","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"KTT"},{"id":"f2d2df92-417b-479c-8ddf-186e172e2ed7","name":"Rutland","ru":"Rutland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"RUT"},{"id":"aed2e268-5494-4dc3-bd0c-7602e46188d6","name":"Saint Helena","ru":"Saint Helena","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SH-HL"},{"id":"26c01f12-0deb-45f6-9d45-0d5f0786b341","name":"Salford","ru":"Salford","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SLF"},{"id":"d4a18309-1522-4251-8da0-afecbab4abc4","name":"Sandwell","ru":"Sandwell","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SAW"},{"id":"91c0cfc2-eaa6-44ff-8956-a664e7bad30c","name":"Scotland","ru":"Scotland","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SCT"},{"id":"0420d8c9-ef6f-4d29-b318-c95c2eb67d3e","name":"Scottish Borders","ru":"Scottish Borders","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SCB"},{"id":"cd823780-26bb-4a49-a21a-b5b4e14846db","name":"Sefton","ru":"Sefton","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SFT"},{"id":"72fc4c45-69fc-4e2e-ac11-331704be6094","name":"Sheffield","ru":"Sheffield","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SHF"},{"id":"d5b22e03-c5dd-4313-be90-426bd7dc37fd","name":"Shetland Islands","ru":"Shetland Islands","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"ZET"},{"id":"39950228-e243-4fef-8ba2-3cc63df67726","name":"Shropshire","ru":"Shropshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SHR"},{"id":"0e2ef999-c626-4c15-837c-cba4c30609d6","name":"Slough","ru":"Slough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SLG"},{"id":"b6677a91-711d-4aa2-b3ed-9668abbf37f3","name":"Solihull","ru":"Solihull","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SOL"},{"id":"f91ecee5-9228-462b-b0c0-43bf509071c9","name":"Somerset","ru":"Somerset","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SOM"},{"id":"be612080-80fb-43c5-88bc-a500f188eadb","name":"South Ayrshire","ru":"South Ayrshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SAY"},{"id":"6a8792d3-e435-4670-aa7f-9784cbbf7a05","name":"South Gloucestershire","ru":"South Gloucestershire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SGC"},{"id":"debbb3d9-2cb3-4c62-ae3b-125c6982b15c","name":"South Lanarkshire","ru":"South Lanarkshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SLK"},{"id":"45d6e4b5-b06e-49e8-a2c3-19c4bc8653d3","name":"South Tyneside","ru":"South Tyneside","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STY"},{"id":"ab869b50-efab-4199-a064-5ecf9ee1043d","name":"Southend-on-Sea","ru":"Southend-on-Sea","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SOS"},{"id":"74646428-c85c-499c-928a-4cb9b826bbad","name":"St Helens","ru":"St Helens","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SHN"},{"id":"08fe8f54-3568-49e2-8f87-1352d23ad07b","name":"Staffordshire","ru":"Staffordshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STS"},{"id":"9e838d27-ae8d-439d-af43-8f5ed95ac587","name":"Stirling","ru":"Stirling","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STG"},{"id":"69094e52-235b-4ab7-a12d-33bf98ef92cb","name":"Stockport","ru":"Stockport","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SKP"},{"id":"3cc54564-4464-4a89-8203-9d221cb60913","name":"Stockton-on-Tees","ru":"Stockton-on-Tees","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STT"},{"id":"bea15368-1975-4f89-a044-64c5ca6a9189","name":"Strabane District Council","ru":"Strabane District Council","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"STB"},{"id":"696ac5a6-c257-4f88-ba61-cf61f075e3b7","name":"Suffolk","ru":"Suffolk","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SFK"},{"id":"ac37b01e-13b4-4b03-b558-a4a08b42f216","name":"Surrey","ru":"Surrey","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SRY"},{"id":"84b28b96-f4ab-4b53-a59f-1d4eb4e28a27","name":"Swindon","ru":"Swindon","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"SWD"},{"id":"157bf9aa-8994-4a6d-b1cc-2648a2ed68af","name":"Tameside","ru":"Tameside","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"TAM"},{"id":"87439135-2d25-42a1-a873-9e0f613b00dc","name":"Telford and Wrekin","ru":"Telford and Wrekin","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"TFW"},{"id":"a277aec6-4f62-47a5-9c6a-f39557eae2bf","name":"Thurrock","ru":"Thurrock","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"THR"},{"id":"c6e67fd2-3e53-4230-a319-fe0b5d7164b4","name":"Torbay","ru":"Torbay","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"TOB"},{"id":"e5601029-f286-4133-98d9-c37369e93eab","name":"Torfaen","ru":"Torfaen","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"TOF"},{"id":"f18388ba-ad68-461a-9ba1-4399c0f878c3","name":"Trafford","ru":"Trafford","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"TRF"},{"id":"e74e4444-9520-4d52-be23-4fd6e6193914","name":"United Kingdom","ru":"United Kingdom","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"UKM"},{"id":"54f7541f-7286-4f78-8007-497041cfa4fe","name":"Vale of Glamorgan","ru":"Vale of Glamorgan","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"VGL"},{"id":"1bf5cc55-b8c9-4c50-9255-79ee4b048c36","name":"Wakefield","ru":"Wakefield","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WKF"},{"id":"3bcde41c-65a5-4bf1-afe6-e427dc8b4101","name":"Wales","ru":"Wales","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WLS"},{"id":"8541abeb-4595-48b4-94e8-5eafb7c1df8b","name":"Walsall","ru":"Walsall","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WLL"},{"id":"1cf10224-48ce-416f-883b-00fd3ce33b38","name":"Warrington","ru":"Warrington","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WRT"},{"id":"6b74e68e-2399-420b-96a2-2780d816403b","name":"Warwickshire","ru":"Warwickshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WAR"},{"id":"6ebbd70c-1e00-415e-9801-26feae2ed8fb","name":"West Berkshire","ru":"West Berkshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WBK"},{"id":"6cb102cb-d6c6-4011-8328-f7d3b69efcfe","name":"West Dunbartonshire","ru":"West Dunbartonshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WDU"},{"id":"41839f42-0c8e-42c8-b4b7-60319da5bbc0","name":"West Lothian","ru":"West Lothian","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WLN"},{"id":"d75b03e5-0c0c-49c4-8a72-3b015f4bf9e1","name":"West Sussex","ru":"West Sussex","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WSX"},{"id":"a94a08fd-b046-4cdc-addf-2b6a5b3544d8","name":"Wiltshire","ru":"Wiltshire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WIL"},{"id":"8f0c40c2-655c-49ab-a0fc-e6422a1ba4ce","name":"Windsor and Maidenhead","ru":"Windsor and Maidenhead","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WNM"},{"id":"2e42cd72-5be6-48c6-9612-3eea11d6340c","name":"Wirral","ru":"Wirral","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WRL"},{"id":"07f3b4b4-014f-4909-9442-01f3c30a744d","name":"Wokingham","ru":"Wokingham","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WOK"},{"id":"4c7eb2a9-edc5-4669-96d8-9ebfdd61f77e","name":"Worcestershire","ru":"Worcestershire","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WOR"},{"id":"0a20d116-6bdd-419d-8805-b44e77ae3ef0","name":"Wrexham County Borough","ru":"Wrexham County Borough","country":"43e9ab8e-feeb-4529-8ace-81e88112abca","countryCode":"GB","stateCode":"WRX"}]
+[
+  {
+    "id": "3c41b470-c016-49ef-b272-bf6c6a7365ea",
+    "en": "Aberdeen",
+    "ru": "Абердин",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ABE"
+  },
+  {
+    "id": "ce0b401c-65d4-406f-baaf-9195af152733",
+    "en": "Aberdeenshire",
+    "ru": "Абердиншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ABD"
+  },
+  {
+    "id": "e440f48a-844d-4b41-b116-411eab26109e",
+    "en": "Angus",
+    "ru": "ангус",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ANS"
+  },
+  {
+    "id": "5aa9d44f-2693-4c44-859f-d8a266a049bb",
+    "en": "Antrim",
+    "ru": "Антрим",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ANT"
+  },
+  {
+    "id": "437d45a0-b738-4d09-9ab3-89e640aaa1a5",
+    "en": "Antrim and Newtownabbey",
+    "ru": "Антрим и Ньютаунабби",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ANN"
+  },
+  {
+    "id": "7f583b6e-a412-41ef-a5e2-cff1ec1eb39a",
+    "en": "Ards",
+    "ru": "Ардс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ARD"
+  },
+  {
+    "id": "f9c5ebaf-2da6-4ed2-b9c5-e2043f2ed43b",
+    "en": "Ards and North Down",
+    "ru": "Ардс и Норт Даун",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "AND"
+  },
+  {
+    "id": "6fa2ead6-88c9-4d79-b864-906940583ecb",
+    "en": "Argyll and Bute",
+    "ru": "Аргайл и Бьют",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "AGB"
+  },
+  {
+    "id": "d7b5784c-53ff-471d-9344-bf5d11204b47",
+    "en": "Armagh City and District Council",
+    "ru": "Арма Городской и Районный Совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ARM"
+  },
+  {
+    "id": "6af4a89e-09b2-4b5e-ba0f-6a65d1b3a9f4",
+    "en": "Armagh, Banbridge and Craigavon",
+    "ru": "Арма, Банбридж и Крейгавон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ABC"
+  },
+  {
+    "id": "cfaf4a65-d034-4028-a620-fcd0e54ec3a1",
+    "en": "Ascension Island",
+    "ru": "Остров Вознесения",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SH-AC"
+  },
+  {
+    "id": "92abd1b1-1847-489b-abcd-785377e57df0",
+    "en": "Ballymena Borough",
+    "ru": "Баллименский р-н",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BLA"
+  },
+  {
+    "id": "6fded5ea-510a-4ab8-a993-580f6734f2ee",
+    "en": "Ballymoney",
+    "ru": "Ballymoney",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BLY"
+  },
+  {
+    "id": "50f11b56-2cee-4b7c-9f37-657cdd447bf1",
+    "en": "Banbridge",
+    "ru": "Банбридж",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BNB"
+  },
+  {
+    "id": "1b73ad18-8aa6-4569-b76c-1e4e6947621b",
+    "en": "Barnsley",
+    "ru": "Барнсли",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BNS"
+  },
+  {
+    "id": "523735d9-c501-4cde-87c2-a09a6ee768cd",
+    "en": "Bath and North East Somerset",
+    "ru": "Бат и Северо-Восточный Сомерсет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BAS"
+  },
+  {
+    "id": "13a3b053-6f64-4672-8a7b-5441f86267b8",
+    "en": "Bedford",
+    "ru": "Бедфорд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BDF"
+  },
+  {
+    "id": "e04ebb9d-514c-4610-a888-85681ab74f6f",
+    "en": "Belfast district",
+    "ru": "Белфаст район",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BFS"
+  },
+  {
+    "id": "6becd984-a042-4d7c-b00b-0de53982648b",
+    "en": "Birmingham",
+    "ru": "Бирмингем",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BIR"
+  },
+  {
+    "id": "ec387b3f-0897-43e9-bf39-d76db9d66789",
+    "en": "Blackburn with Darwen",
+    "ru": "Блэкберн с Дарвен",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BBD"
+  },
+  {
+    "id": "a8f31184-e0f8-46d9-a51a-4977c4dc1f25",
+    "en": "Blackpool",
+    "ru": "Блэкпул",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BPL"
+  },
+  {
+    "id": "b0118d40-0cd3-40f9-a79b-c4d905a40094",
+    "en": "Blaenau Gwent County Borough",
+    "ru": "Blaenau Gwent County Borough",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BGW"
+  },
+  {
+    "id": "834bdefc-8e2c-4c6e-ac76-181dfa6aeeb8",
+    "en": "Bolton",
+    "ru": "Болтон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BOL"
+  },
+  {
+    "id": "1db41766-e86b-4baa-b5fa-d64c9b648aab",
+    "en": "Bournemouth",
+    "ru": "Борнмут",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BMH"
+  },
+  {
+    "id": "e4a676e3-1e58-4bce-a825-a8537ce7488a",
+    "en": "Bracknell Forest",
+    "ru": "Бракнелл Форест",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BRC"
+  },
+  {
+    "id": "8b3b656f-779b-4158-8e84-6b7219b1c462",
+    "en": "Bradford",
+    "ru": "Брэдфорд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BRD"
+  },
+  {
+    "id": "0737b985-465b-48fc-9e49-852ebd37a3b1",
+    "en": "Bridgend County Borough",
+    "ru": "Бридженд уездный р-н",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BGE"
+  },
+  {
+    "id": "d0fe72a0-3fc5-4c20-9ef6-2a25258ab4c9",
+    "en": "Brighton and Hove",
+    "ru": "Брайтон и Хоув",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BNH"
+  },
+  {
+    "id": "d0e003d3-736a-4e11-8d7d-d1b21fc1530d",
+    "en": "Buckinghamshire",
+    "ru": "Бакингемшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BKM"
+  },
+  {
+    "id": "a740a2a5-196a-4b0b-8d28-969b93c5e7cb",
+    "en": "Bury",
+    "ru": "Бери области",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BUR"
+  },
+  {
+    "id": "d2045202-5f0d-4c6f-90a5-fcd2df6b4d89",
+    "en": "Caerphilly County Borough",
+    "ru": "Caerphilly County Borough",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CAY"
+  },
+  {
+    "id": "dbe79a6e-d135-4e09-aa63-083a7a87eda4",
+    "en": "Calderdale",
+    "ru": "Кальдердейл",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CLD"
+  },
+  {
+    "id": "636e8417-e5fd-4154-8899-df79a28bb5e2",
+    "en": "Cambridgeshire",
+    "ru": "Кембриджшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CAM"
+  },
+  {
+    "id": "2caf2acb-174f-4efa-b1b6-6b8cc581c2ad",
+    "en": "Carmarthenshire",
+    "ru": "Кармартеншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CMN"
+  },
+  {
+    "id": "971b19e3-ce05-4268-bf7a-a2adadc70d49",
+    "en": "Carrickfergus Borough Council",
+    "ru": "район Каррикфергусский городской совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CKF"
+  },
+  {
+    "id": "c3de78b9-31bf-4550-8341-293c4026fd64",
+    "en": "Castlereagh",
+    "ru": "Castlereagh",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CSR"
+  },
+  {
+    "id": "26ab3ab2-d55f-4557-b601-737933909294",
+    "en": "Causeway Coast and Glens",
+    "ru": "Козуэй Кост и Гленс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CCG"
+  },
+  {
+    "id": "68ff229d-34e4-4ab2-8a04-a91de3aa4572",
+    "en": "Central Bedfordshire",
+    "ru": "Центральный Бедфордшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CBF"
+  },
+  {
+    "id": "d90b7ab6-e0c6-44d1-943c-957f64dd862d",
+    "en": "Ceredigion",
+    "ru": "Ceredigion",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CGN"
+  },
+  {
+    "id": "8ee45a78-9a70-41ad-9383-dc0a064e3b66",
+    "en": "Cheshire East",
+    "ru": "Чешир Восток",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CHE"
+  },
+  {
+    "id": "c3172e8c-a35a-4a04-adcd-493e2aa18d95",
+    "en": "Cheshire West and Chester",
+    "ru": "Чешир Уэст и Честер",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CHW"
+  },
+  {
+    "id": "9cf81be8-9c4b-4bba-b3e5-38ffff276deb",
+    "en": "City and County of Cardiff",
+    "ru": "Город и округ Кардифф",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CRF"
+  },
+  {
+    "id": "405a5b80-3efd-4a50-b3d5-5cc479ce8d3d",
+    "en": "City and County of Swansea",
+    "ru": "Город и округ Суонси",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SWA"
+  },
+  {
+    "id": "c62e889a-7cf3-43f7-9939-8c9ca17c4ca2",
+    "en": "City of Bristol",
+    "ru": "Город Бристоль",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BST"
+  },
+  {
+    "id": "33925054-7ddc-4148-b711-59f19f3a4a11",
+    "en": "City of Derby",
+    "ru": "Город Дерби",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DER"
+  },
+  {
+    "id": "df70ea81-5dc6-40ae-b91d-dca8315d946c",
+    "en": "City of Kingston upon Hull",
+    "ru": "Город Кингстон-апон-Халл",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "KHL"
+  },
+  {
+    "id": "a7895e17-9035-4610-addf-c34794cc977e",
+    "en": "City of Leicester",
+    "ru": "Город Лестер",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LCE"
+  },
+  {
+    "id": "f69ce8f3-52f5-4980-b201-0411f3bd020b",
+    "en": "City of London",
+    "ru": "Город Лондон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LND"
+  },
+  {
+    "id": "ce0fa8b3-deba-40d9-b8af-5ced8c29fae2",
+    "en": "City of Nottingham",
+    "ru": "Город Ноттингем",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NGM"
+  },
+  {
+    "id": "988448aa-e493-4841-af9c-3467d4277129",
+    "en": "City of Peterborough",
+    "ru": "Город Питерборо",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "PTE"
+  },
+  {
+    "id": "38bf7fae-4c4e-4794-86d8-0d577a2bb103",
+    "en": "City of Plymouth",
+    "ru": "Город Плимут",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "PLY"
+  },
+  {
+    "id": "a035baaf-3c9f-40a8-9d74-e9a15ea7cb56",
+    "en": "City of Portsmouth",
+    "ru": "Город Портсмут",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "POR"
+  },
+  {
+    "id": "c84d499a-1f71-49a8-b6f0-b47921cf247f",
+    "en": "City of Southampton",
+    "ru": "Город Саутгемптон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STH"
+  },
+  {
+    "id": "eccfde1e-86b2-43a3-9ced-a7d9a24305f7",
+    "en": "City of Stoke-on-Trent",
+    "ru": "Город Сток-он-Трент",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STE"
+  },
+  {
+    "id": "4da752ad-004e-4061-a431-065ad64e7dfd",
+    "en": "City of Sunderland",
+    "ru": "Город Сандерленд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SND"
+  },
+  {
+    "id": "33ad1b31-df0d-4878-94de-1fbb2d252fc7",
+    "en": "City of Westminster",
+    "ru": "Город Вестминстер",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WSM"
+  },
+  {
+    "id": "f427a373-866d-4b95-8a9e-b82643a0b691",
+    "en": "City of Wolverhampton",
+    "ru": "Город Вулверхэмптон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WLV"
+  },
+  {
+    "id": "699243f2-010f-4b96-9cc1-fad3803cea36",
+    "en": "City of York",
+    "ru": "Город Йорк",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "YOR"
+  },
+  {
+    "id": "1fc5eafa-8c4d-49ba-9ba9-f45f8c2aa3b5",
+    "en": "Clackmannanshire",
+    "ru": "Клакманнаншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CLK"
+  },
+  {
+    "id": "57c836f9-52df-47b7-b0f0-25bca93a13dd",
+    "en": "Coleraine Borough Council",
+    "ru": "район Колрейнский городской совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CLR"
+  },
+  {
+    "id": "743d9801-726e-43f0-ba55-5b657365d2e3",
+    "en": "Conwy County Borough",
+    "ru": "Конви Каунти",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CWY"
+  },
+  {
+    "id": "2ada081a-5825-41f5-8348-50960d1be5e8",
+    "en": "Cookstown District Council",
+    "ru": "район Кукстаун, районный совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CKT"
+  },
+  {
+    "id": "7c4c2fa8-ca88-48ad-98be-cb51131d7952",
+    "en": "Cornwall",
+    "ru": "Корнуолл",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CON"
+  },
+  {
+    "id": "e4021f90-a476-4094-a86d-ae1e547b0bc6",
+    "en": "County Durham",
+    "ru": "Графство Дарем",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DUR"
+  },
+  {
+    "id": "22cc7da7-4a84-4ec9-ba5e-4d19795b8b98",
+    "en": "Coventry",
+    "ru": "Ковентри",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "COV"
+  },
+  {
+    "id": "13442c3c-d2a4-4d11-9854-5cf74cad2dd6",
+    "en": "Craigavon Borough Council",
+    "ru": "район Крайгавонский городской совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CGV"
+  },
+  {
+    "id": "c56817c5-85de-477c-8c88-3e8aa40341f8",
+    "en": "Cumbria",
+    "ru": "Камбрия",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CMA"
+  },
+  {
+    "id": "6e632d68-7da5-4206-b96e-171ae0cd6e7d",
+    "en": "Darlington",
+    "ru": "Дарлингтон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DAL"
+  },
+  {
+    "id": "37af6c54-4a86-4dfb-a9e9-085ed1c77c4f",
+    "en": "Denbighshire",
+    "ru": "Денбишир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DEN"
+  },
+  {
+    "id": "43a89174-4a7e-4f59-92df-cff05ca98313",
+    "en": "Derbyshire",
+    "ru": "Дербишир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DBY"
+  },
+  {
+    "id": "a4ce655f-6dd9-449a-bc60-9df3af72dd09",
+    "en": "Derry City and Strabane",
+    "ru": "Дерри Сити и Страбане",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DRS"
+  },
+  {
+    "id": "358a9bc6-a79a-4e57-ac71-d6a6de74b10f",
+    "en": "Derry City Council",
+    "ru": "район Дерри городского совета",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DRY"
+  },
+  {
+    "id": "b71618f4-9ba8-4813-bce7-29bf1906f146",
+    "en": "Devon",
+    "ru": "Девон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DEV"
+  },
+  {
+    "id": "212460aa-3b4e-41ba-9e34-6e67900ee64b",
+    "en": "Doncaster",
+    "ru": "донкастер",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DNC"
+  },
+  {
+    "id": "741cd3e0-902f-4ccd-b512-3940289114b0",
+    "en": "Dorset",
+    "ru": "Дорсет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DOR"
+  },
+  {
+    "id": "0491c513-5210-4179-af40-c284de41f115",
+    "en": "Down District Council",
+    "ru": "районный районный совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DOW"
+  },
+  {
+    "id": "2c294f2f-57af-46ff-a650-3a1587efc52a",
+    "en": "Dudley",
+    "ru": "Дадли",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DUD"
+  },
+  {
+    "id": "35dd7afd-ef7b-4501-a58b-c669ec94c2ec",
+    "en": "Dumfries and Galloway",
+    "ru": "Дамфрис и Галлоуэй",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DGY"
+  },
+  {
+    "id": "cb6ecc21-3d62-4f3d-8f51-084c56b58dc9",
+    "en": "Dundee",
+    "ru": "Данди",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DND"
+  },
+  {
+    "id": "7e9c5bdc-cb3e-47c8-871a-53d4f961fa19",
+    "en": "Dungannon and South Tyrone Borough Council",
+    "ru": "Дунганнон и Южно-Тиронский городской совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "DGN"
+  },
+  {
+    "id": "5609300e-4362-49d6-b545-8e934457f018",
+    "en": "East Ayrshire",
+    "ru": "Восточный Эйршир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "EAY"
+  },
+  {
+    "id": "c48c6d3c-2482-4262-96de-f74489efae10",
+    "en": "East Dunbartonshire",
+    "ru": "Восточный Данбартоншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "EDU"
+  },
+  {
+    "id": "bf4309ce-d05e-4d55-b093-9179c5c90df7",
+    "en": "East Lothian",
+    "ru": "Восточный Лотиан",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ELN"
+  },
+  {
+    "id": "3220822e-d2d6-4da4-8141-7923dd07fa30",
+    "en": "East Renfrewshire",
+    "ru": "Восточный Ренфрушир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ERW"
+  },
+  {
+    "id": "42899a59-cab1-4e69-b9a3-b079b48f2dc1",
+    "en": "East Riding of Yorkshire",
+    "ru": "Восточный райдинг Йоркшира",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ERY"
+  },
+  {
+    "id": "bf75ee6e-598b-455c-ac6b-5e054a2458e4",
+    "en": "East Sussex",
+    "ru": "Восточный Суссекс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ESX"
+  },
+  {
+    "id": "2dfe855e-3259-4c05-8c5b-2bb864045ded",
+    "en": "Edinburgh",
+    "ru": "Эдинбург",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "EDH"
+  },
+  {
+    "id": "7233e56b-4682-497d-9c0a-d3c0163edb06",
+    "en": "England",
+    "ru": "англия",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ENG"
+  },
+  {
+    "id": "7dce3708-ac74-42bc-ba24-4eb71d0b57bb",
+    "en": "Essex",
+    "ru": "Эссекс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ESS"
+  },
+  {
+    "id": "a0be2145-32cb-4aca-a178-6546c6d9d787",
+    "en": "Falkirk",
+    "ru": "Фолкерк",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "FAL"
+  },
+  {
+    "id": "c38591da-1f64-431a-bee4-66f40bdcc766",
+    "en": "Fermanagh and Omagh",
+    "ru": "Фермана и Ома",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "FMO"
+  },
+  {
+    "id": "9dca710b-b4f1-48e7-a371-f0a590ef3d2f",
+    "en": "Fermanagh District Council",
+    "ru": "областной Ферманский районный совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "FER"
+  },
+  {
+    "id": "8f794021-93b5-49b5-9be0-0dcf206424df",
+    "en": "Fife",
+    "ru": "Файф",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "FIF"
+  },
+  {
+    "id": "a373861b-5757-487a-93ba-b8549aefb52a",
+    "en": "Flintshire",
+    "ru": "Флинтшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "FLN"
+  },
+  {
+    "id": "8909bd9f-1823-4c7b-8c02-e9234db6d9aa",
+    "en": "Gateshead",
+    "ru": "Гейтсхед",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "GAT"
+  },
+  {
+    "id": "5cb6abf0-5dd2-4122-b45e-8f321316afd6",
+    "en": "Glasgow",
+    "ru": "Глазго",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "GLG"
+  },
+  {
+    "id": "2dde244d-8ec4-46f2-8dfe-42dffc465f0a",
+    "en": "Gloucestershire",
+    "ru": "Глостершир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "GLS"
+  },
+  {
+    "id": "5e61402a-faec-445e-a328-85752d94befd",
+    "en": "Gwynedd",
+    "ru": "Гвинед",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "GWN"
+  },
+  {
+    "id": "3539c834-4c14-49ac-abee-6edfeafed751",
+    "en": "Halton",
+    "ru": "Халтон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HAL"
+  },
+  {
+    "id": "26ea0308-1f92-40f6-8e80-3434273ca7a2",
+    "en": "Hampshire",
+    "ru": "Гэмпшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HAM"
+  },
+  {
+    "id": "7db77a63-44ce-4b7c-a7b4-e181b6568b82",
+    "en": "Hartlepool",
+    "ru": "Хартлпул",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HPL"
+  },
+  {
+    "id": "88cb95ae-02ba-43a7-ba77-d86d52e397f4",
+    "en": "Herefordshire",
+    "ru": "Херефордшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HEF"
+  },
+  {
+    "id": "37d9c365-975d-4038-8969-40e7cee72de7",
+    "en": "Hertfordshire",
+    "ru": "Хартфордшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HRT"
+  },
+  {
+    "id": "1a89a0db-0a05-4db2-853a-2dbce2a2d40f",
+    "en": "Highland",
+    "ru": "нагорье",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HLD"
+  },
+  {
+    "id": "cea4b3f4-ba22-431b-9a19-5cf49ac460f2",
+    "en": "Inverclyde",
+    "ru": "Инверклайд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "IVC"
+  },
+  {
+    "id": "33e36fe3-0435-4982-973a-bdd85d40de41",
+    "en": "Isle of Wight",
+    "ru": "Остров Уайт",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "IOW"
+  },
+  {
+    "id": "27684e1b-7553-49b7-b7bb-41d472f71d6e",
+    "en": "Isles of Scilly",
+    "ru": "Острова Силли",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "IOS"
+  },
+  {
+    "id": "93981eec-9d20-4f80-bb0e-ebc8556487c2",
+    "en": "Kent",
+    "ru": "Кент",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "KEN"
+  },
+  {
+    "id": "a248105f-5eae-4f8a-abc3-24bc471e491e",
+    "en": "Kirklees",
+    "ru": "Кирклис",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "KIR"
+  },
+  {
+    "id": "466fcc3c-3619-461a-9204-c55955892c02",
+    "en": "Knowsley",
+    "ru": "Knowsley",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "KWL"
+  },
+  {
+    "id": "5cee5f6e-261c-4bcb-8c03-af4716f6f887",
+    "en": "Lancashire",
+    "ru": "Ланкашир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LAN"
+  },
+  {
+    "id": "7486b705-159a-4f39-bd12-7f132b848da7",
+    "en": "Larne Borough Council",
+    "ru": "район Ларненский районный совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LRN"
+  },
+  {
+    "id": "fbb3042d-314b-4d52-a99d-28cc3aa84876",
+    "en": "Leeds",
+    "ru": "Лидс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LDS"
+  },
+  {
+    "id": "a695ab21-97aa-4295-8ae6-d8304b030975",
+    "en": "Leicestershire",
+    "ru": "Лестершир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LEC"
+  },
+  {
+    "id": "89624cc0-af6e-48df-a4ce-3ca71f614560",
+    "en": "Limavady Borough Council",
+    "ru": "район Лимавадинского районного совета",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LMV"
+  },
+  {
+    "id": "d85847a6-2f70-4cc7-bd5b-1084b40cc671",
+    "en": "Lincolnshire",
+    "ru": "Линкольншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LIN"
+  },
+  {
+    "id": "3444ade6-ef46-40bd-acd3-3a3a9011db6e",
+    "en": "Lisburn and Castlereagh",
+    "ru": "Лисберн и Каслри, Роберт Стюарт",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LBC"
+  },
+  {
+    "id": "c36ff573-940a-4901-82f4-f652605060fc",
+    "en": "Lisburn City Council",
+    "ru": "Лисбернский городской совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LSB"
+  },
+  {
+    "id": "a2b835ee-032e-4de2-a80f-b84c83e694a3",
+    "en": "Liverpool",
+    "ru": "Ливерпуль",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LIV"
+  },
+  {
+    "id": "97db4d10-23e2-4429-933c-04d5b151abf2",
+    "en": "London Borough of Barking and Dagenham",
+    "ru": "лондонский район Баркинг и Дагенхем",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BDG"
+  },
+  {
+    "id": "875a5030-4e18-4896-93a6-282c4f72f186",
+    "en": "London Borough of Barnet",
+    "ru": "Лондон Боро Барнет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BNE"
+  },
+  {
+    "id": "918fb2b0-4303-4ed8-969a-049b2b6f32a7",
+    "en": "London Borough of Bexley",
+    "ru": "лондонский р-н бексли",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BEX"
+  },
+  {
+    "id": "7e1a0ca4-8f57-4ca0-a3f5-6a3092f5f1c1",
+    "en": "London Borough of Brent",
+    "ru": "лондонский р-н брент",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BEN"
+  },
+  {
+    "id": "a60f6395-4a2b-4834-af06-7791b6358fa7",
+    "en": "London Borough of Bromley",
+    "ru": "лондонский р-н бромли",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "BRY"
+  },
+  {
+    "id": "650b7c54-e836-4f31-ab11-c7c32e92dca0",
+    "en": "London Borough of Camden",
+    "ru": "Лондонский боро Камден",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CMD"
+  },
+  {
+    "id": "17d12c4a-b6bf-4269-8c23-96d810ac4721",
+    "en": "London Borough of Croydon",
+    "ru": "лондонский р-н Кройдон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "CRY"
+  },
+  {
+    "id": "52696d24-c3bd-4072-8807-748df3c26cd9",
+    "en": "London Borough of Ealing",
+    "ru": "Лондонский Район Илинга",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "EAL"
+  },
+  {
+    "id": "d48cb8b7-e74e-4ec8-95d8-c0fe25524d29",
+    "en": "London Borough of Enfield",
+    "ru": "лондонский р-н энфилд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ENF"
+  },
+  {
+    "id": "b8fb6cb3-4efb-449c-804f-b9cc4a2cd2eb",
+    "en": "London Borough of Hackney",
+    "ru": "лондонский р-н хакни",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HCK"
+  },
+  {
+    "id": "2fbb8800-5192-4254-9020-dacf813e88a2",
+    "en": "London Borough of Hammersmith and Fulham",
+    "ru": "Лондон Боро Хаммерсмит и Фулхэм",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HMF"
+  },
+  {
+    "id": "e1377026-6e33-4faf-8a6f-dbc736bb75df",
+    "en": "London Borough of Haringey",
+    "ru": "лондонский р-н харингей",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HRY"
+  },
+  {
+    "id": "4ab95b4f-c45e-4253-9bfd-fb9b6d7e460c",
+    "en": "London Borough of Harrow",
+    "ru": "лондонский р-н бороны",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HRW"
+  },
+  {
+    "id": "a7277778-02be-4607-a172-723b7cf038df",
+    "en": "London Borough of Havering",
+    "ru": "лондонский р-н хаверинг",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HAV"
+  },
+  {
+    "id": "e8afaad8-60ec-4d45-ad2e-eb37df679696",
+    "en": "London Borough of Hillingdon",
+    "ru": "лондонский р-н хиллингдон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HIL"
+  },
+  {
+    "id": "e09f9d6e-550d-449c-a8ce-9a62cfbaacf3",
+    "en": "London Borough of Hounslow",
+    "ru": "лондонский р-н хаунслоу",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "HNS"
+  },
+  {
+    "id": "a59910ea-f7a5-4381-99b4-4b1da2fd52e1",
+    "en": "London Borough of Islington",
+    "ru": "лондонский р-н Ислингтон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ISL"
+  },
+  {
+    "id": "d267f3d2-199c-4b2f-804e-6e5a901cf9b0",
+    "en": "London Borough of Lambeth",
+    "ru": "лондонский р-н ламбет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LBH"
+  },
+  {
+    "id": "984104e6-14e9-4ce9-9bc4-170e292fb278",
+    "en": "London Borough of Lewisham",
+    "ru": "лондонский р-н льюишам",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "LEW"
+  },
+  {
+    "id": "bb8b79d5-8d78-4de7-b1ce-c7f5c0dbb2ca",
+    "en": "London Borough of Merton",
+    "ru": "лондонский р-н мертон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MRT"
+  },
+  {
+    "id": "8ab64d98-b35c-4567-a3b6-3e297ddcee7d",
+    "en": "London Borough of Newham",
+    "ru": "лондонский р-н ньюхэм",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NWM"
+  },
+  {
+    "id": "ad3655af-f68c-493f-b334-02f10d313cf2",
+    "en": "London Borough of Redbridge",
+    "ru": "Лондон Боро Редбридж",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RDB"
+  },
+  {
+    "id": "546b4a93-77d1-499b-a05f-83f109a3e11d",
+    "en": "London Borough of Richmond upon Thames",
+    "ru": "Лондон Боро Ричмонд на Темзе",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RIC"
+  },
+  {
+    "id": "acc55a96-f8c3-47f5-b9dc-e11ddce6cfef",
+    "en": "London Borough of Southwark",
+    "ru": "Лондон Боро Саутуорк",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SWK"
+  },
+  {
+    "id": "51f57472-4919-4059-af98-c93e3ad2bb1e",
+    "en": "London Borough of Sutton",
+    "ru": "лондонский р-н саттон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STN"
+  },
+  {
+    "id": "7803e6cc-f388-4f45-894e-a568701daea6",
+    "en": "London Borough of Tower Hamlets",
+    "ru": "лондонский р-н Тауэр Гамлетс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "TWH"
+  },
+  {
+    "id": "a7aae5ef-81ab-4439-9e55-1a826aa507fa",
+    "en": "London Borough of Waltham Forest",
+    "ru": "лондонский боро уолтем форест",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WFT"
+  },
+  {
+    "id": "c745e6bf-b594-4c54-bc3c-77d5c0ce878b",
+    "en": "London Borough of Wandsworth",
+    "ru": "лондонский р-н уондсворт",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WND"
+  },
+  {
+    "id": "669cbda9-d787-416e-90d1-2e6c306c235d",
+    "en": "Magherafelt District Council",
+    "ru": "Мажерафельтский районный совет области",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MFT"
+  },
+  {
+    "id": "9dbc1b1e-c99a-48c2-b22a-323345a2b0f1",
+    "en": "Manchester",
+    "ru": "Манчестер",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MAN"
+  },
+  {
+    "id": "9f79442a-5f65-4696-8087-76ec269f3a3e",
+    "en": "Medway",
+    "ru": "Медуэй",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MDW"
+  },
+  {
+    "id": "7d33ee17-c44f-4c7f-93d3-7138d35a650c",
+    "en": "Merthyr Tydfil County Borough",
+    "ru": "Мертир Тидфиловский р-н",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MTY"
+  },
+  {
+    "id": "c381707d-1600-4245-93ac-7238545bede3",
+    "en": "Metropolitan Borough of Wigan",
+    "ru": "Митрополит",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WGN"
+  },
+  {
+    "id": "dd94f550-3ccf-4286-a749-295af736f43e",
+    "en": "Mid and East Antrim",
+    "ru": "Средний и Восточный Антрим",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MEA"
+  },
+  {
+    "id": "fb4b3124-8382-46eb-8020-f11db6101546",
+    "en": "Mid Ulster",
+    "ru": "Средний Ольстер",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MUL"
+  },
+  {
+    "id": "a3abc0f7-bcf2-44d5-ad44-109aa065d81a",
+    "en": "Middlesbrough",
+    "ru": "Мидлсбро",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MDB"
+  },
+  {
+    "id": "8809aba0-2e30-4ee5-9aaf-3aee68cb1390",
+    "en": "Midlothian",
+    "ru": "мидлотиан",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MLN"
+  },
+  {
+    "id": "e65c64c8-c255-489d-91c2-58e6f638dec9",
+    "en": "Milton Keynes",
+    "ru": "Милтон Кейнс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MIK"
+  },
+  {
+    "id": "dea8ad37-cc80-4a29-9ecf-6abd32519f6c",
+    "en": "Monmouthshire",
+    "ru": "Монмутшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MON"
+  },
+  {
+    "id": "78f0cb0b-6a5a-4c83-bebd-61a7e4535928",
+    "en": "Moray",
+    "ru": "Морей",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MRY"
+  },
+  {
+    "id": "6c84719b-5f47-4dfc-9252-c6e33f53fe7b",
+    "en": "Moyle District Council",
+    "ru": "Мойловский районный совет области",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "MYL"
+  },
+  {
+    "id": "41672266-3e3f-4bd2-b7e5-b32697e94245",
+    "en": "Neath Port Talbot County Borough",
+    "ru": "Нит Порт Талбот Каунти",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NTL"
+  },
+  {
+    "id": "92c69507-4eb8-453f-9b77-f6bdf3afece6",
+    "en": "Newcastle upon Tyne",
+    "ru": "Ньюкасл-апон-Тайн",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NET"
+  },
+  {
+    "id": "daf84eeb-339e-4c45-b0f0-407840f693d8",
+    "en": "Newport",
+    "ru": "Ньюпорт",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NWP"
+  },
+  {
+    "id": "74811782-00d3-4bab-b2f8-4f4adb7cfdd9",
+    "en": "Newry and Mourne District Council",
+    "ru": "район Ньюри и Морн районный совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NYM"
+  },
+  {
+    "id": "b2e662c8-9b41-4ca8-bb8e-fcc1fb3dd2da",
+    "en": "Newry, Mourne and Down",
+    "ru": "Ньюри, Морн и Даун",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NMD"
+  },
+  {
+    "id": "5f490972-9a39-451a-a577-9f9c230aceb4",
+    "en": "Newtownabbey Borough Council",
+    "ru": "район Ньютаунабби Районный совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NTA"
+  },
+  {
+    "id": "b4125584-b923-40f0-92d5-b768423e0315",
+    "en": "Norfolk",
+    "ru": "Норфолк",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NFK"
+  },
+  {
+    "id": "d734c8b4-ec5d-4cda-a4d3-9bf28c4570aa",
+    "en": "North Ayrshire",
+    "ru": "Северный Эйршир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NAY"
+  },
+  {
+    "id": "38ba92d8-d665-4204-889a-839b08a20dab",
+    "en": "North Down Borough Council",
+    "ru": "район Северный Даун Городской Совет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NDN"
+  },
+  {
+    "id": "a3c2a92e-db2e-42a2-b5c5-ab86a4196825",
+    "en": "North East Lincolnshire",
+    "ru": "Северо-Восток Линкольншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NEL"
+  },
+  {
+    "id": "c9f31f6d-93ed-476c-9d80-adf1ce433295",
+    "en": "North Lanarkshire",
+    "ru": "Северный Ланаркшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NLK"
+  },
+  {
+    "id": "374d4d7c-f93c-4165-9a27-889e520f5c02",
+    "en": "North Lincolnshire",
+    "ru": "Северный Линкольншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NLN"
+  },
+  {
+    "id": "63d442dc-1d17-4eae-8198-d7abad9f5555",
+    "en": "North Somerset",
+    "ru": "Северный Сомерсет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NSM"
+  },
+  {
+    "id": "a18818f1-290f-45cd-b5db-d6a18a75f677",
+    "en": "North Tyneside",
+    "ru": "северный тайнсайд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NTY"
+  },
+  {
+    "id": "4360436b-49d9-4e6c-b8ab-d986791442a8",
+    "en": "North Yorkshire",
+    "ru": "Северный Йоркшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NYK"
+  },
+  {
+    "id": "f18094fb-bb33-40ba-bcc5-8facdda2702e",
+    "en": "Northamptonshire",
+    "ru": "Нортгемптоншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NTH"
+  },
+  {
+    "id": "13b3f810-204f-47a6-be1b-adb113897cc8",
+    "en": "Northern Ireland",
+    "ru": "Северная Ирландия",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NIR"
+  },
+  {
+    "id": "d43218fb-54ee-4fdd-b9a6-dfc2f693cdd8",
+    "en": "Northumberland",
+    "ru": "Нортумберленд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NBL"
+  },
+  {
+    "id": "9f69b0be-d437-4396-a09d-9687da75d4a8",
+    "en": "Nottinghamshire",
+    "ru": "Ноттингемшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "NTT"
+  },
+  {
+    "id": "9af9f878-aae9-4434-a4d5-2667c1ceca66",
+    "en": "Oldham",
+    "ru": "Олдем",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "OLD"
+  },
+  {
+    "id": "ae3b55f1-67e0-4a67-a46b-b03c7abb0a66",
+    "en": "Omagh District Council",
+    "ru": "Ома районный совет области",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "OMH"
+  },
+  {
+    "id": "c07347de-9436-49e8-b9cb-affdf53e7896",
+    "en": "Orkney Islands",
+    "ru": "Оркнейские острова",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ORK"
+  },
+  {
+    "id": "9aee60ee-b821-47ae-92c4-dc998ef34b49",
+    "en": "Outer Hebrides",
+    "ru": "Внешние Гебриды",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ELS"
+  },
+  {
+    "id": "864b36b9-c117-4cb4-b1e8-cb45d638d58b",
+    "en": "Oxfordshire",
+    "ru": "Оксфордшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "OXF"
+  },
+  {
+    "id": "0840f037-ff4c-440a-8c96-b61fb0ab7cd2",
+    "en": "Pembrokeshire",
+    "ru": "Пембрукшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "PEM"
+  },
+  {
+    "id": "c8c54899-06c7-435d-940d-7f21dd4a377d",
+    "en": "Perth and Kinross",
+    "ru": "Перт и Кинросс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "PKN"
+  },
+  {
+    "id": "7be120a4-ee7a-4dcb-ae3d-bd2af6f56590",
+    "en": "Poole",
+    "ru": "Пул",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "POL"
+  },
+  {
+    "id": "844dd95b-b0e7-4878-b76b-1a55efadc76b",
+    "en": "Powys",
+    "ru": "Поуис",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "POW"
+  },
+  {
+    "id": "b13b7a5d-08fd-4775-a4ef-0539af53cf9b",
+    "en": "Reading",
+    "ru": "Чтение региона",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RDG"
+  },
+  {
+    "id": "a4ca0584-2718-49e2-9832-f55439ba706a",
+    "en": "Redcar and Cleveland",
+    "ru": "Редкар и Кливленд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RCC"
+  },
+  {
+    "id": "3492eed2-b82c-4943-8fc8-998676f420a6",
+    "en": "Renfrewshire",
+    "ru": "Ренфрушир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RFW"
+  },
+  {
+    "id": "64436231-3ca2-44d7-8d92-82bb72e0a456",
+    "en": "Rhondda Cynon Taf",
+    "ru": "Рондда Кинон Таф",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RCT"
+  },
+  {
+    "id": "aaf47039-a2bc-42c6-89d3-a4d7ded3a9a6",
+    "en": "Rochdale",
+    "ru": "Рочдейл",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RCH"
+  },
+  {
+    "id": "73d20619-3286-43bd-b031-35ddd262feca",
+    "en": "Rotherham",
+    "ru": "Ротерем",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ROT"
+  },
+  {
+    "id": "89885f36-198e-4108-93a1-0c91f8e90f1f",
+    "en": "Royal Borough of Greenwich",
+    "ru": "Королевский р-н Гринвич",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "GRE"
+  },
+  {
+    "id": "0bc7ae3a-715d-4977-90cf-fe3f94daa268",
+    "en": "Royal Borough of Kensington and Chelsea",
+    "ru": "Королевский р-н Кенсингтон и Челси",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "KEC"
+  },
+  {
+    "id": "68217097-9163-436c-9a67-04f92782a224",
+    "en": "Royal Borough of Kingston upon Thames",
+    "ru": "Королевский р-н Кингстон-апон-Темс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "KTT"
+  },
+  {
+    "id": "2ebf5d0a-cf09-4825-9492-4b28ebbb6fe6",
+    "en": "Rutland",
+    "ru": "Ратленд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "RUT"
+  },
+  {
+    "id": "6e3bf4d9-5266-490a-9831-976e529c31ff",
+    "en": "Saint Helena",
+    "ru": "Святой Елены",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SH-HL"
+  },
+  {
+    "id": "04da91ad-dce1-452c-a3c5-3881f2c3bd78",
+    "en": "Salford",
+    "ru": "Солфорд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SLF"
+  },
+  {
+    "id": "7257dcee-c607-424b-a93d-4523336ceb7f",
+    "en": "Sandwell",
+    "ru": "Sandwell",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SAW"
+  },
+  {
+    "id": "98375b37-3374-43b1-9099-f7ea696fb6eb",
+    "en": "Scotland",
+    "ru": "Шотландия",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SCT"
+  },
+  {
+    "id": "d0303f85-d522-4ee6-8676-f8fdaee9a172",
+    "en": "Scottish Borders",
+    "ru": "шотландские границы",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SCB"
+  },
+  {
+    "id": "5a366f35-23d0-4019-b777-d8e68f44d9ac",
+    "en": "Sefton",
+    "ru": "Сефтон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SFT"
+  },
+  {
+    "id": "b48a8667-c61e-4740-b7ff-66c3c162a848",
+    "en": "Sheffield",
+    "ru": "Шеффилд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SHF"
+  },
+  {
+    "id": "ff204548-99f3-4c64-bac4-b710f5814452",
+    "en": "Shetland Islands",
+    "ru": "Шетландские острова",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "ZET"
+  },
+  {
+    "id": "f4aa904b-7826-48f8-b05b-81790dbd23f0",
+    "en": "Shropshire",
+    "ru": "Шропшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SHR"
+  },
+  {
+    "id": "ca12bf6e-5d52-49c8-965e-a407c12f6610",
+    "en": "Slough",
+    "ru": "Слау",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SLG"
+  },
+  {
+    "id": "8adb50d4-996d-4d98-84f1-61d4cb5d320d",
+    "en": "Solihull",
+    "ru": "Солихалл",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SOL"
+  },
+  {
+    "id": "77f01442-5203-458b-891c-4e7db51f2a68",
+    "en": "Somerset",
+    "ru": "Сомерсет",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SOM"
+  },
+  {
+    "id": "aba92181-04be-4844-af27-24db901c8de9",
+    "en": "South Ayrshire",
+    "ru": "Южный Эйршир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SAY"
+  },
+  {
+    "id": "73c7cec6-2739-4a65-bf1d-5220542379cf",
+    "en": "South Gloucestershire",
+    "ru": "Южный Глостершир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SGC"
+  },
+  {
+    "id": "0996a5c4-e12b-4975-8994-d0355a112928",
+    "en": "South Lanarkshire",
+    "ru": "Южный Ланаркшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SLK"
+  },
+  {
+    "id": "07654a21-aa28-4e5f-ab3c-6d481b618db6",
+    "en": "South Tyneside",
+    "ru": "Южный Тайнсайд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STY"
+  },
+  {
+    "id": "76c65353-2511-411f-b07e-ba27bdfbd493",
+    "en": "Southend-on-Sea",
+    "ru": "Саутенд-он-Си",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SOS"
+  },
+  {
+    "id": "2612ce7f-9ec5-46c7-a546-38eb54d0ffed",
+    "en": "St Helens",
+    "ru": "Сент-Хеленс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SHN"
+  },
+  {
+    "id": "e3c01c77-2654-4dab-9d29-f49a143f8a3c",
+    "en": "Staffordshire",
+    "ru": "Стаффордшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STS"
+  },
+  {
+    "id": "5e956976-f844-43fc-90ce-f72c5da4f335",
+    "en": "Stirling",
+    "ru": "Стирлинг",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STG"
+  },
+  {
+    "id": "df528728-b48d-4e43-b190-81b22379ab64",
+    "en": "Stockport",
+    "ru": "Стокпорт",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SKP"
+  },
+  {
+    "id": "a274867a-9e85-42d6-b107-fcf33ef8c496",
+    "en": "Stockton-on-Tees",
+    "ru": "Стоктон-он-Тис",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STT"
+  },
+  {
+    "id": "49dcf9ac-911e-4590-a505-537e68547936",
+    "en": "Strabane District Council",
+    "ru": "районный совет Страбане",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "STB"
+  },
+  {
+    "id": "320a2907-efa6-44cb-921e-1fb1d12185c5",
+    "en": "Suffolk",
+    "ru": "Саффолк",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SFK"
+  },
+  {
+    "id": "fa97c850-02a7-456d-80f3-6dde3af93074",
+    "en": "Surrey",
+    "ru": "Суррей",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SRY"
+  },
+  {
+    "id": "7732dc4f-90d0-4b27-87ae-56ca4c1a1d10",
+    "en": "Swindon",
+    "ru": "Суиндон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "SWD"
+  },
+  {
+    "id": "4a2b1c5c-fad7-42c1-ab8c-efa20c2867ad",
+    "en": "Tameside",
+    "ru": "Теймсайд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "TAM"
+  },
+  {
+    "id": "0ff52c36-cd23-4c13-84b6-9c14a9ee2f06",
+    "en": "Telford and Wrekin",
+    "ru": "Телфорд и Ререкин",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "TFW"
+  },
+  {
+    "id": "a27d646b-45a9-4ec7-a21e-19a2cdff4636",
+    "en": "Thurrock",
+    "ru": "Туррок",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "THR"
+  },
+  {
+    "id": "29c7427e-1dc1-4a78-b301-81f28588356c",
+    "en": "Torbay",
+    "ru": "Торбей",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "TOB"
+  },
+  {
+    "id": "0c76c270-0cdf-46bb-a36b-40eea0645bff",
+    "en": "Torfaen",
+    "ru": "Торфаен",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "TOF"
+  },
+  {
+    "id": "4f6a246d-0295-4c24-a336-1de7b964c813",
+    "en": "Trafford",
+    "ru": "Траффорд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "TRF"
+  },
+  {
+    "id": "1a9c4f78-e39f-4f22-a9fd-bc1f09de3af3",
+    "en": "United Kingdom",
+    "ru": "Великобритания",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "UKM"
+  },
+  {
+    "id": "86021c5d-5f66-47a2-845f-93d89c3e569f",
+    "en": "Vale of Glamorgan",
+    "ru": "Долина Гламорган",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "VGL"
+  },
+  {
+    "id": "bcda56b6-f75d-40bd-b501-61af5b338660",
+    "en": "Wakefield",
+    "ru": "Уэйкфилд",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WKF"
+  },
+  {
+    "id": "f65afb88-e410-4a46-9573-ae196651a21f",
+    "en": "Wales",
+    "ru": "Уэльс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WLS"
+  },
+  {
+    "id": "2a69c85e-1eed-450e-acb4-7cbc3665724a",
+    "en": "Walsall",
+    "ru": "Уолсолл",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WLL"
+  },
+  {
+    "id": "e1d388e7-ac8b-45b8-9b28-4c1aa8f10907",
+    "en": "Warrington",
+    "ru": "Уоррингтон",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WRT"
+  },
+  {
+    "id": "cd472b61-84b1-43c6-a5ee-1595e1aa6198",
+    "en": "Warwickshire",
+    "ru": "Уорикшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WAR"
+  },
+  {
+    "id": "0f61553b-54e7-42c2-98b6-a4ee7970615c",
+    "en": "West Berkshire",
+    "ru": "Западный Беркшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WBK"
+  },
+  {
+    "id": "f960a4e5-1af2-466a-b007-6f2b1d13460a",
+    "en": "West Dunbartonshire",
+    "ru": "Западный Данбартоншир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WDU"
+  },
+  {
+    "id": "376118d9-dbbc-49da-9518-a0cdc151f30b",
+    "en": "West Lothian",
+    "ru": "Западный Лотиан",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WLN"
+  },
+  {
+    "id": "f472b328-2abc-4e3f-b7f7-9b1c7f955971",
+    "en": "West Sussex",
+    "ru": "Западный Суссекс",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WSX"
+  },
+  {
+    "id": "278dd274-39a5-407c-a7fb-f3a3bd66d475",
+    "en": "Wiltshire",
+    "ru": "Уилтшир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WIL"
+  },
+  {
+    "id": "5174d109-5660-4ca0-b8d8-580bbe662210",
+    "en": "Windsor and Maidenhead",
+    "ru": "Виндзор и Мейденхед",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WNM"
+  },
+  {
+    "id": "df882aaf-cfac-44f3-9314-159340730fc2",
+    "en": "Wirral",
+    "ru": "Виррал",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WRL"
+  },
+  {
+    "id": "1c166abe-2c2a-4fda-8c4c-2d61608380b4",
+    "en": "Wokingham",
+    "ru": "Wokingham",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WOK"
+  },
+  {
+    "id": "a7737248-bd14-4c6a-ad14-9f0ad6bf8b05",
+    "en": "Worcestershire",
+    "ru": "Вустершир",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WOR"
+  },
+  {
+    "id": "bbbb028c-11b3-4c28-acfa-757e79591ab3",
+    "en": "Wrexham County Borough",
+    "ru": "Wrexham County Borough",
+    "country": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "countryCode": "GB",
+    "stateCode": "WRX"
+  }
+]

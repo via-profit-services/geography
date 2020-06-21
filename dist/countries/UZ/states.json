@@ -1,1 +1,114 @@
-[{"id":"ad7f0fdd-f074-42e3-98d5-16e88e5d56ae","name":"Andijan Region","ru":"Andijan Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"AN"},{"id":"35cdd961-00ff-4931-b08f-bbf8fe3837f6","name":"Bukhara Region","ru":"Bukhara Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"BU"},{"id":"16c5c068-72bd-4725-9dcb-55625d3e9ea9","name":"Fergana Region","ru":"Fergana Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"FA"},{"id":"a7d29c33-44e7-43af-8639-a8482dc51c9b","name":"Jizzakh Region","ru":"Jizzakh Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"JI"},{"id":"8d129922-d33a-4bf7-b356-c7c54be67bbb","name":"Karakalpakstan","ru":"Karakalpakstan","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"QR"},{"id":"e2b8cfdb-6088-4091-a2c9-31ec3d89f191","name":"Namangan Region","ru":"Namangan Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"NG"},{"id":"a04ce288-0e71-4b01-9ded-324a07895ec7","name":"Navoiy Region","ru":"Navoiy Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"NW"},{"id":"d2717355-c4d4-4007-a497-952bb1325d7c","name":"Qashqadaryo Region","ru":"Qashqadaryo Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"QA"},{"id":"45dbf33b-60b4-46aa-ae88-756e02942f9a","name":"Samarqand Region","ru":"Samarqand Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"SA"},{"id":"b422c522-7677-4b5f-945a-089a9d65998e","name":"Sirdaryo Region","ru":"Sirdaryo Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"SI"},{"id":"67e40b91-a25e-4893-9373-70aae6770aa7","name":"Surxondaryo Region","ru":"Surxondaryo Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"SU"},{"id":"3f391b20-6939-47ed-b884-206d61b32f88","name":"Tashkent","ru":"Tashkent","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"TK"},{"id":"d9c4364f-2c01-4940-813d-7ccac8551ec0","name":"Tashkent Region","ru":"Tashkent Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"TO"},{"id":"50565392-9f79-4e7c-ace3-75d9f7a44774","name":"Xorazm Region","ru":"Xorazm Region","country":"84c9cfd2-874c-4d36-ad5c-d46583012bad","countryCode":"UZ","stateCode":"XO"}]
+[
+  {
+    "id": "32e1d672-881d-4b67-84b0-bebb623d39a4",
+    "en": "Andijan Region",
+    "ru": "Андижанская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "AN"
+  },
+  {
+    "id": "3041fba6-11a1-47f7-b819-d94a2bf404e0",
+    "en": "Bukhara Region",
+    "ru": "Бухарская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "BU"
+  },
+  {
+    "id": "0126ba75-6924-4c82-bf2d-a7a3c3cec20b",
+    "en": "Fergana Region",
+    "ru": "Ферганская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "FA"
+  },
+  {
+    "id": "f373a3d1-8618-46b0-8d08-85ecf1380d6c",
+    "en": "Jizzakh Region",
+    "ru": "Джизакская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "JI"
+  },
+  {
+    "id": "0adf8b72-a5f3-47c2-b108-95355043da81",
+    "en": "Karakalpakstan",
+    "ru": "Каракалпакстан",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "QR"
+  },
+  {
+    "id": "59d01e30-1905-4f18-a26a-fa90804a85d6",
+    "en": "Namangan Region",
+    "ru": "Наманганская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "NG"
+  },
+  {
+    "id": "f1b0e90b-44fd-47df-88c0-a90deb174638",
+    "en": "Navoiy Region",
+    "ru": "Навоийская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "NW"
+  },
+  {
+    "id": "a124885a-143d-4fe1-b39e-9b9ae6e59625",
+    "en": "Qashqadaryo Region",
+    "ru": "Кашкадарьинская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "QA"
+  },
+  {
+    "id": "fe855bc7-0d7a-45b9-8a6b-dc24152d2a14",
+    "en": "Samarqand Region",
+    "ru": "Самаркандская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "SA"
+  },
+  {
+    "id": "fc592999-43fa-4e25-9258-732ac079a1b2",
+    "en": "Sirdaryo Region",
+    "ru": "Сырдарьинская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "SI"
+  },
+  {
+    "id": "ca3c35cb-40b0-4917-9317-377e8d534e6d",
+    "en": "Surxondaryo Region",
+    "ru": "Сурхондарьинская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "SU"
+  },
+  {
+    "id": "e4a383ea-bf2d-4474-abf1-e26d4bc343b9",
+    "en": "Tashkent",
+    "ru": "Ташкент",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "TK"
+  },
+  {
+    "id": "a8ff98e7-120d-4009-a50e-259d3fc86f9c",
+    "en": "Tashkent Region",
+    "ru": "Ташкентская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "TO"
+  },
+  {
+    "id": "0ca65bde-c054-4850-bc53-f8f3e27297b8",
+    "en": "Xorazm Region",
+    "ru": "Хорезмская область",
+    "country": "dd957625-4de9-4205-bc6d-8c6bed71f715",
+    "countryCode": "UZ",
+    "stateCode": "XO"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"f3eff14a-2e67-4cb4-a8ed-9ab6122cb89b","name":"Korea North\n","ru":"Korea North\n","iso3":"PRK","iso2":"KP","phoneCode":"850","capital":"00ec46fe-8641-4fba-9a37-4066600bef47","currency":"KPW"}]
+[
+  {
+    "id": "dd16680e-bc64-4317-a8f2-0853963e93bd",
+    "en": "Korea North\n",
+    "ru": "Korea North\n",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "phoneCode": "850",
+    "capital": null,
+    "currency": "KPW"
+  }
+]

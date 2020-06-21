@@ -1,1 +1,98 @@
-[{"id":"446c3ba3-82c2-4b85-a2c0-fd443d7a8d69","name":"Bouenza Department","ru":"Bouenza Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"11"},{"id":"c4469a1a-1450-4f18-9df7-ff29fbb678a6","name":"Brazzaville","ru":"Brazzaville","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"BZV"},{"id":"3381ae29-42ae-49d0-b401-d8c6d9560d5c","name":"Cuvette Department","ru":"Cuvette Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"8"},{"id":"5b27a254-3aa6-4633-b41e-85bbeae67187","name":"Cuvette-Ouest Department","ru":"Cuvette-Ouest Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"15"},{"id":"be1b8403-c94b-4732-8ded-acafa92755ce","name":"Kouilou Department","ru":"Kouilou Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"5"},{"id":"74118ea3-03bd-44d4-a3ac-85e65241dcd2","name":"Lékoumou Department","ru":"Lékoumou Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"2"},{"id":"6715de44-0c60-4447-a0b6-959cd129c393","name":"Likouala Department","ru":"Likouala Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"7"},{"id":"4ecdfef3-7bb5-43fc-9aa6-78df5ff7f623","name":"Niari Department","ru":"Niari Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"9"},{"id":"84d59773-bd9f-454f-9d4f-513447a28a08","name":"Plateaux Department","ru":"Plateaux Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"14"},{"id":"0d3fcf46-34ba-4aed-ab22-a6ac5fac6d34","name":"Pointe-Noire","ru":"Pointe-Noire","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"16"},{"id":"b2c80053-5845-466d-bfa9-fdcc84d0a469","name":"Pool Department","ru":"Pool Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"12"},{"id":"f215164c-7bd1-4243-9c6e-a7f8dcdf4c08","name":"Sangha Department","ru":"Sangha Department","country":"fed0e720-c045-4988-a879-a506ff756744","countryCode":"CG","stateCode":"13"}]
+[
+  {
+    "id": "e2875a2b-c36f-498e-8b0f-4d4e8b39a30a",
+    "en": "Bouenza Department",
+    "ru": "Bouenza отдел",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "11"
+  },
+  {
+    "id": "01bece36-ffda-44c4-ad0f-7e1d35d2fdeb",
+    "en": "Brazzaville",
+    "ru": "Браззавиль",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "BZV"
+  },
+  {
+    "id": "0a80577e-b30d-4a09-aac2-d3b037fe40cc",
+    "en": "Cuvette Department",
+    "ru": "областной кюветный отдел",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "8"
+  },
+  {
+    "id": "aad8d071-a077-49cd-9f54-3de2c2e3e30c",
+    "en": "Cuvette-Ouest Department",
+    "ru": "Кювет-Уэст",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "15"
+  },
+  {
+    "id": "62e44644-b074-402b-81af-358999da038a",
+    "en": "Kouilou Department",
+    "ru": "Куйлу департамент",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "5"
+  },
+  {
+    "id": "55f2566c-fe7c-4141-85c3-904af955653e",
+    "en": "Lékoumou Department",
+    "ru": "Lékoumou отдел",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "2"
+  },
+  {
+    "id": "457ecd9b-52cf-411c-8525-4d6ff3314242",
+    "en": "Likouala Department",
+    "ru": "областной Ликуальский департамент",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "7"
+  },
+  {
+    "id": "a91c3d61-0a64-448a-9b8f-61849fdf6441",
+    "en": "Niari Department",
+    "ru": "областной отдел Ниари",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "9"
+  },
+  {
+    "id": "78ee27ce-e09a-4448-9621-69681cbca782",
+    "en": "Plateaux Department",
+    "ru": "Отдел плато области",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "14"
+  },
+  {
+    "id": "455492cc-0c2c-416a-bbec-fa4b69321c2b",
+    "en": "Pointe-Noire",
+    "ru": "Пуэнт-Нуар",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "16"
+  },
+  {
+    "id": "a2deca5d-3ee2-4192-b4ae-be3de3a115ad",
+    "en": "Pool Department",
+    "ru": "областной бассейн",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "12"
+  },
+  {
+    "id": "81d288f1-1935-4164-ac0b-2f8dfd99efd1",
+    "en": "Sangha Department",
+    "ru": "Сангха область",
+    "country": "232c3ba9-da14-4c44-b34c-821e92e01812",
+    "countryCode": "CG",
+    "stateCode": "13"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"f820ac09-1f81-4ee7-9eba-c5723b333515","name":"Reunion","ru":"Reunion","iso3":"REU","iso2":"RE","phoneCode":"262","capital":"254783ed-9048-4068-bdb1-0af4c9a4e392","currency":"EUR"}]
+[
+  {
+    "id": "6268ad16-db83-47bb-885c-c93425b2bbf9",
+    "en": "Reunion",
+    "ru": "Реюньон страны",
+    "iso3": "REU",
+    "iso2": "RE",
+    "phoneCode": "262",
+    "capital": null,
+    "currency": "EUR"
+  }
+]

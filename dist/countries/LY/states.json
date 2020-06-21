@@ -1,1 +1,170 @@
-[{"id":"acd9dd4d-0249-4b37-9b47-b7c7a05b844e","name":"Al Wahat District","ru":"Al Wahat District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"WA"},{"id":"3d8942e6-5fb5-4807-aeec-cb7403962b18","name":"Benghazi","ru":"Benghazi","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"BA"},{"id":"77301e44-a03f-45f6-be62-700aba842cc6","name":"Derna District","ru":"Derna District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"DR"},{"id":"875a4d57-68fa-4f29-82bf-ab49a5f5cd05","name":"Ghat District","ru":"Ghat District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"GT"},{"id":"c79547ee-61db-4511-8ca9-d37a3b837b56","name":"Jabal al Akhdar","ru":"Jabal al Akhdar","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"JA"},{"id":"c6ee2a68-1a0c-4e5d-b10d-cbae60ba0e0c","name":"Jabal al Gharbi District","ru":"Jabal al Gharbi District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"JG"},{"id":"8a2fab72-d933-4cbd-b606-e39caab3eba1","name":"Jafara","ru":"Jafara","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"JI"},{"id":"5085d7fa-ff5f-4078-8295-a55a53fbeb07","name":"Jufra","ru":"Jufra","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"JU"},{"id":"c0eee728-cdec-4946-a5cc-1d9956c17c77","name":"Kufra District","ru":"Kufra District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"KF"},{"id":"bbbdc950-eb12-404b-b2d6-c5431d5269e7","name":"Marj District","ru":"Marj District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"MJ"},{"id":"73ef22b5-86be-45da-b87f-6acde4e7007a","name":"Misrata District","ru":"Misrata District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"MI"},{"id":"0d022640-24d2-489b-a17d-52de61b93187","name":"Murqub","ru":"Murqub","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"MB"},{"id":"1beb990c-0fa4-497f-b5e9-f5fab2cb3081","name":"Murzuq District","ru":"Murzuq District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"MQ"},{"id":"fd7855ab-07d1-433e-a578-2201b4de7f26","name":"Nalut District","ru":"Nalut District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"NL"},{"id":"19663104-f84e-441c-9ebd-9cf7408ab091","name":"Nuqat al Khams","ru":"Nuqat al Khams","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"NQ"},{"id":"6114e544-e484-4bfd-b783-9743b104d32c","name":"Sabha District","ru":"Sabha District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"SB"},{"id":"8ba1f8e4-4a86-4d13-a0f1-b47d870abe28","name":"Sirte District","ru":"Sirte District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"SR"},{"id":"2fec8b93-c9fa-4cfa-9729-b9318f77d628","name":"Tripoli District","ru":"Tripoli District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"TB"},{"id":"7dcb65f0-b383-41d2-9b8b-92b7f8a09a2e","name":"Wadi al Hayaa District","ru":"Wadi al Hayaa District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"WD"},{"id":"4a345f76-b884-4c7c-98ab-8a4eabcd03aa","name":"Wadi al Shatii District","ru":"Wadi al Shatii District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"WS"},{"id":"212fa9d1-0834-42a9-828c-a90a562dd3a7","name":"Zawiya District","ru":"Zawiya District","country":"d1a9e05d-dfa9-4f7f-baca-122d5e024958","countryCode":"LY","stateCode":"ZA"}]
+[
+  {
+    "id": "21db4c27-50fb-4879-accf-ba4a96fc5ba4",
+    "en": "Al Wahat District",
+    "ru": "Аль Вахат округ",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "WA"
+  },
+  {
+    "id": "6818362d-e656-45b0-9df0-ed165c8f1939",
+    "en": "Benghazi",
+    "ru": "Бенгази",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "BA"
+  },
+  {
+    "id": "ba7e46b8-ddcb-444b-bac4-5b5fd58d264b",
+    "en": "Derna District",
+    "ru": "Дерна район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "DR"
+  },
+  {
+    "id": "8155f809-16b0-43ab-ab49-999b568a75ab",
+    "en": "Ghat District",
+    "ru": "Гатский район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "GT"
+  },
+  {
+    "id": "45cf29a7-5800-4e35-b33b-944af3b5662e",
+    "en": "Jabal al Akhdar",
+    "ru": "Джабаль аль Ахдар",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "JA"
+  },
+  {
+    "id": "c212c7af-099e-4f61-aaa3-20c5ff121ed9",
+    "en": "Jabal al Gharbi District",
+    "ru": "Джабал аль Гарби округ",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "JG"
+  },
+  {
+    "id": "c6a43d7b-170f-494e-bd76-fd19008ad90c",
+    "en": "Jafara",
+    "ru": "Джафара",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "JI"
+  },
+  {
+    "id": "9fe4cf00-bdd4-41b7-918c-99746fdeee76",
+    "en": "Jufra",
+    "ru": "Юфра",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "JU"
+  },
+  {
+    "id": "378916a1-d7a0-4c53-9bc8-5c5abe7149ab",
+    "en": "Kufra District",
+    "ru": "Куфра район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "KF"
+  },
+  {
+    "id": "81b2ea83-96d9-4380-b520-ffcb8c17c016",
+    "en": "Marj District",
+    "ru": "Маржский район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "MJ"
+  },
+  {
+    "id": "808ab5d6-8b2e-4586-88c0-5336309c5b3b",
+    "en": "Misrata District",
+    "ru": "Мисрата район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "MI"
+  },
+  {
+    "id": "156a297a-1781-4d30-a502-7cdf983f2b52",
+    "en": "Murqub",
+    "ru": "Муркуб",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "MB"
+  },
+  {
+    "id": "22ec5920-472e-4dcc-bd59-fe5bac99d688",
+    "en": "Murzuq District",
+    "ru": "Мурзукский район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "MQ"
+  },
+  {
+    "id": "077d7dc2-cf16-4c70-9916-5869a409d88c",
+    "en": "Nalut District",
+    "ru": "Налутский район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "NL"
+  },
+  {
+    "id": "2c4e6bac-58d9-4f38-a3b1-47fe7ce6d577",
+    "en": "Nuqat al Khams",
+    "ru": "Нукат аль Хамс",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "NQ"
+  },
+  {
+    "id": "5cbcc810-72c5-4b50-92fe-dcc956ce84db",
+    "en": "Sabha District",
+    "ru": "Сабха район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "SB"
+  },
+  {
+    "id": "27c9d89e-cc8e-418e-9384-6ba38597f2e0",
+    "en": "Sirte District",
+    "ru": "Сиртский район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "SR"
+  },
+  {
+    "id": "97efe013-8a51-416e-ae0d-edcd198841dc",
+    "en": "Tripoli District",
+    "ru": "Трипольский район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "TB"
+  },
+  {
+    "id": "73eec57d-679f-4a19-9753-2e9c7ab94f48",
+    "en": "Wadi al Hayaa District",
+    "ru": "Вади аль Хаяа округ",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "WD"
+  },
+  {
+    "id": "5fe8db1a-451d-4d27-b014-746d11af05cc",
+    "en": "Wadi al Shatii District",
+    "ru": "Вади аль Шатий Район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "WS"
+  },
+  {
+    "id": "dc17571e-2c3c-499e-8c9b-d1ee505a850c",
+    "en": "Zawiya District",
+    "ru": "Завия район",
+    "country": "6902665b-e00f-4feb-b7fd-c3a62044fe69",
+    "countryCode": "LY",
+    "stateCode": "ZA"
+  }
+]

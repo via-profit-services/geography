@@ -1,1 +1,12 @@
-[{"id":"ca144747-355e-4457-bef9-b6648ca740d5","name":"Kiribati","ru":"Kiribati","iso3":"KIR","iso2":"KI","phoneCode":"686","capital":"fb9e8116-91b7-48fd-b7fd-0402d9a7e75d","currency":"AUD"}]
+[
+  {
+    "id": "ebb9951d-3913-44c9-914e-db14314deb59",
+    "en": "Kiribati",
+    "ru": "Кирибати",
+    "iso3": "KIR",
+    "iso2": "KI",
+    "phoneCode": "686",
+    "capital": null,
+    "currency": "AUD"
+  }
+]

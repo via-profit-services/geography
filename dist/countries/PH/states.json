@@ -1,1 +1,778 @@
-[{"id":"615c0127-b10a-4382-b943-f314d3dd34f7","name":"Abra","ru":"Abra","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ABR"},{"id":"e823b608-044b-4d28-acc6-9aa0cbea5bd9","name":"Agusan del Norte","ru":"Agusan del Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"AGN"},{"id":"8c72c1df-90ea-4393-bdb6-ef3a83723b66","name":"Agusan del Sur","ru":"Agusan del Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"AGS"},{"id":"24db570e-f817-4379-abe8-3b3a0c685e5a","name":"Aklan","ru":"Aklan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"AKL"},{"id":"6468357d-4a08-4381-9f67-ad9e900ea0c1","name":"Albay","ru":"Albay","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ALB"},{"id":"6a50cc47-c2ef-4c05-ba80-e982e2eace42","name":"Antique","ru":"Antique","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ANT"},{"id":"b99b70d1-b316-42ca-9d61-2761c00dcae2","name":"Apayao","ru":"Apayao","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"APA"},{"id":"40350497-a6cf-4d03-b934-4964deba1f0e","name":"Aurora","ru":"Aurora","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"AUR"},{"id":"7c4cff15-086a-497a-b976-2d7b376378fb","name":"Autonomous Region in Muslim Mindanao","ru":"Autonomous Region in Muslim Mindanao","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"14"},{"id":"65f68448-5d4b-457c-8961-498a7ef6603d","name":"Basilan","ru":"Basilan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BAS"},{"id":"3b9c366d-476b-4955-ba8c-e0fe2ca560c3","name":"Bataan","ru":"Bataan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BAN"},{"id":"e0f34abf-8307-46d0-812d-a1a626b6ec4a","name":"Batanes","ru":"Batanes","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BTN"},{"id":"b6e43bf0-468c-4713-92af-2622b9bb089a","name":"Batangas","ru":"Batangas","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BTG"},{"id":"fd7ce43e-472a-415d-99b6-63001b2eae31","name":"Benguet","ru":"Benguet","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BEN"},{"id":"c2a2a38e-a01f-46ec-9e9e-6b1e74377166","name":"Bicol Region","ru":"Bicol Region","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"05"},{"id":"89613366-a1d5-4535-bd80-6671c95cae4f","name":"Biliran","ru":"Biliran","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BIL"},{"id":"e0b12f73-b9f6-4395-ab04-030c1e349db1","name":"Bohol","ru":"Bohol","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BOH"},{"id":"fcc39be5-04e4-45a0-90d6-67435659f7f0","name":"Bukidnon","ru":"Bukidnon","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BUK"},{"id":"0bca10a2-2b49-4994-aee3-2e6ba6f85f42","name":"Bulacan","ru":"Bulacan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"BUL"},{"id":"c91ecc65-570d-460c-a2a4-4c755483bbe8","name":"Cagayan","ru":"Cagayan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAG"},{"id":"326cbc88-091b-4541-9254-9c555254b317","name":"Cagayan Valley","ru":"Cagayan Valley","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"02"},{"id":"d001ace9-aec7-4690-b271-4ef1e1ada363","name":"Calabarzon","ru":"Calabarzon","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"40"},{"id":"4d90e749-35ab-4a69-8a77-fc068dd471f7","name":"Camarines Norte","ru":"Camarines Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAN"},{"id":"5b8c124d-41e6-47bb-a3cc-e28de6480cc0","name":"Camarines Sur","ru":"Camarines Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAS"},{"id":"739988b4-683e-49b5-b247-f17544ab34e5","name":"Camiguin","ru":"Camiguin","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAM"},{"id":"6370fdb2-1e72-42d0-a372-3e9a38c0ef5c","name":"Capiz","ru":"Capiz","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAP"},{"id":"ac391823-bea2-4523-a64b-a5eadaabc616","name":"Caraga","ru":"Caraga","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"13"},{"id":"2171cf9e-1b2b-4e39-a6d1-5b2d6ec08329","name":"Catanduanes","ru":"Catanduanes","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAT"},{"id":"2bb86afd-7ead-44e2-b44a-185f9ff41793","name":"Cavite","ru":"Cavite","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CAV"},{"id":"27761097-e421-4c67-8a90-274de588928c","name":"Cebu","ru":"Cebu","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"CEB"},{"id":"1c5b55f4-92c3-4b98-b720-53e830f4a561","name":"Central Luzon","ru":"Central Luzon","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"03"},{"id":"539381db-e371-4be2-ac85-ecc3b77649f2","name":"Central Visayas","ru":"Central Visayas","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"07"},{"id":"07e4de7b-bc10-47ba-8a05-6954b8dfce49","name":"Compostela Valley","ru":"Compostela Valley","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"COM"},{"id":"583de875-b4d3-4f09-8634-e0ba376e64df","name":"Cordillera Administrative Region","ru":"Cordillera Administrative Region","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"15"},{"id":"62061227-e2d6-4cd9-a6da-5aa609c694e2","name":"Cotabato","ru":"Cotabato","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"NCO"},{"id":"6752a2d8-bc6c-48b8-84e0-7cc47418243d","name":"Davao del Norte","ru":"Davao del Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"DAV"},{"id":"dd684a96-486c-4dea-bc28-be5582a432fc","name":"Davao del Sur","ru":"Davao del Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"DAS"},{"id":"12c1e486-639c-4f42-a4e3-919ae057959d","name":"Davao Occidental","ru":"Davao Occidental","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"DVO"},{"id":"c4fa5d4b-1d5e-4c04-ae57-bde65ecc58ac","name":"Davao Oriental","ru":"Davao Oriental","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"DAO"},{"id":"3163191b-3456-4ed6-bec4-d99047c8b1d2","name":"Davao Region","ru":"Davao Region","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"11"},{"id":"aa958493-eebb-44aa-86b1-8b89aee760b6","name":"Dinagat Islands","ru":"Dinagat Islands","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"DIN"},{"id":"2d7b0e04-6908-4408-ad44-767c82e7e633","name":"Eastern Samar","ru":"Eastern Samar","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"EAS"},{"id":"4dfeb25b-b655-4e85-8f51-30e61b0dd866","name":"Eastern Visayas","ru":"Eastern Visayas","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"08"},{"id":"21c5ee92-2df6-4ccc-9152-6498fc645d2d","name":"Guimaras","ru":"Guimaras","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"GUI"},{"id":"42921af4-0017-451b-b249-2b217ca30e96","name":"Ifugao","ru":"Ifugao","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"IFU"},{"id":"1dd7cdb1-d43d-44d0-9d45-7d36b2c41747","name":"Ilocos Norte","ru":"Ilocos Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ILN"},{"id":"4c66a9bc-b34f-4795-9db4-f92af94aec78","name":"Ilocos Region","ru":"Ilocos Region","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"01"},{"id":"76ae1a87-82c6-4672-9fae-7fce00d31617","name":"Ilocos Sur","ru":"Ilocos Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ILS"},{"id":"a9ebff4b-5978-4902-9b98-85b217a16fde","name":"Iloilo","ru":"Iloilo","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ILI"},{"id":"a36c6426-47c5-4db7-9ef4-c3872300466b","name":"Isabela","ru":"Isabela","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ISA"},{"id":"c66adfe3-a486-4538-94c2-32136358cc00","name":"Kalinga","ru":"Kalinga","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"KAL"},{"id":"f99a87d5-4da4-4ca9-a68f-dae03764689e","name":"La Union","ru":"La Union","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"LUN"},{"id":"de9d7fb5-3547-4ab7-b6e3-e1ae661eef7f","name":"Laguna","ru":"Laguna","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"LAG"},{"id":"a2be3175-b6a1-427f-8cc6-6d51aeb4e9a2","name":"Lanao del Norte","ru":"Lanao del Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"LAN"},{"id":"93b3f362-e8aa-43fe-9284-ecfd3729207a","name":"Lanao del Sur","ru":"Lanao del Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"LAS"},{"id":"9a79666d-9a00-434b-9404-ee9f6beb352c","name":"Leyte","ru":"Leyte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"LEY"},{"id":"dcb395f8-7db7-4e7a-85cf-e6bf5c26ecc8","name":"Maguindanao","ru":"Maguindanao","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MAG"},{"id":"21732eb5-3f67-4a0e-ac51-e20a2fdbb948","name":"Marinduque","ru":"Marinduque","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MAD"},{"id":"aa374e22-6d80-4303-b823-bfff310393e8","name":"Masbate","ru":"Masbate","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MAS"},{"id":"4f2fa21e-7a5a-48c9-91bf-3b5b01fc2387","name":"Metro Manila","ru":"Metro Manila","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"00"},{"id":"00f217c4-92d5-4aa0-bc8e-b67d4c6e6213","name":"Mimaropa","ru":"Mimaropa","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"41"},{"id":"25b7129e-9c4c-4180-afeb-98eaa220ad8c","name":"Misamis Occidental","ru":"Misamis Occidental","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MSC"},{"id":"1a04f587-557b-4dce-8d39-68bb2f18dca2","name":"Misamis Oriental","ru":"Misamis Oriental","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MSR"},{"id":"8e9621e1-37c8-4109-949f-1169c9643111","name":"Mountain Province","ru":"Mountain Province","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MOU"},{"id":"0fb09385-70ed-485a-a688-ba5dd98f4803","name":"Negros Occidental","ru":"Negros Occidental","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"NEC"},{"id":"e3f7fe26-1a34-42e3-aa8d-cd77b11af6f9","name":"Negros Oriental","ru":"Negros Oriental","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"NER"},{"id":"7e5cbf37-defd-45ca-a851-2594134ae3c6","name":"Northern Mindanao","ru":"Northern Mindanao","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"10"},{"id":"d0e3abef-17ba-4eb3-92a2-70a8a346ae19","name":"Northern Samar","ru":"Northern Samar","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"NSA"},{"id":"1310b5c7-62d5-4300-b9f0-500cae7e44af","name":"Nueva Ecija","ru":"Nueva Ecija","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"NUE"},{"id":"e7934cc2-5565-46b0-890a-53aea877f12f","name":"Nueva Vizcaya","ru":"Nueva Vizcaya","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"NUV"},{"id":"a6329d6c-8270-4a4c-bca5-ab35df856673","name":"Occidental Mindoro","ru":"Occidental Mindoro","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MDC"},{"id":"67f5ff84-6c68-43e4-ba58-b98a3f6b46c1","name":"Oriental Mindoro","ru":"Oriental Mindoro","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"MDR"},{"id":"0676af59-c6ef-4d33-9d46-38a7263eee37","name":"Palawan","ru":"Palawan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"PLW"},{"id":"bfbd84ed-b539-46dc-9b59-77d5d566796d","name":"Pampanga","ru":"Pampanga","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"PAM"},{"id":"a813edbc-b3ac-4c9e-b55f-ced2d1c9e7a3","name":"Pangasinan","ru":"Pangasinan","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"PAN"},{"id":"5b41f436-4f44-4292-a64a-b3cfcce44713","name":"Quezon","ru":"Quezon","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"QUE"},{"id":"03114b1c-509e-4a8c-90df-59c1c13a4c60","name":"Quirino","ru":"Quirino","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"QUI"},{"id":"9dcaceb3-5dce-44c3-beeb-62b7c36906cd","name":"Rizal","ru":"Rizal","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"RIZ"},{"id":"debf2f58-ce85-471b-8448-834f96681005","name":"Romblon","ru":"Romblon","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ROM"},{"id":"8de09328-859d-4d81-aa72-b5776215d232","name":"Sarangani","ru":"Sarangani","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SAR"},{"id":"bb9d076c-cbf5-4127-b555-4a76b34a70a5","name":"Siquijor","ru":"Siquijor","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SIG"},{"id":"46157ecd-ac58-4255-b941-7f2ba9a236c8","name":"Soccsksargen","ru":"Soccsksargen","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"12"},{"id":"218786f4-f85d-422f-94d5-8c9a180c713d","name":"Sorsogon","ru":"Sorsogon","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SOR"},{"id":"6bacc10a-a660-4d99-a7e8-42324c384f7d","name":"South Cotabato","ru":"South Cotabato","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SCO"},{"id":"f7c11eca-62ac-4737-bd9b-7bff92cf3bf2","name":"Southern Leyte","ru":"Southern Leyte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SLE"},{"id":"76d6d0b9-0dab-4c22-8208-2a3f3abe11fa","name":"Sultan Kudarat","ru":"Sultan Kudarat","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SUK"},{"id":"62f58ccd-65cc-4404-ba83-cc44be7f9caa","name":"Sulu","ru":"Sulu","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SLU"},{"id":"21767976-5e1b-41b7-9eed-093edc90e731","name":"Surigao del Norte","ru":"Surigao del Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SUN"},{"id":"51aed927-442a-4cc7-a4c6-46cff1f644ba","name":"Surigao del Sur","ru":"Surigao del Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"SUR"},{"id":"89abe632-659b-4444-a240-06af90fb252f","name":"Tarlac","ru":"Tarlac","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"TAR"},{"id":"c59edcaf-2e6e-4b93-a84f-636ba004b296","name":"Tawi-Tawi","ru":"Tawi-Tawi","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"TAW"},{"id":"d2615c83-7285-4108-b872-cf9e78f968a6","name":"Western Visayas","ru":"Western Visayas","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"06"},{"id":"d475801c-14ec-4028-b9b7-f58a1678fadc","name":"Zambales","ru":"Zambales","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ZMB"},{"id":"70522c16-b728-4ff4-b229-6a173e07887a","name":"Zamboanga del Norte","ru":"Zamboanga del Norte","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ZAN"},{"id":"8a33b2e4-4982-46b4-9bb3-4cf5f9da6cfe","name":"Zamboanga del Sur","ru":"Zamboanga del Sur","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ZAS"},{"id":"fcfe9939-2409-4d82-a27d-70576b8c8780","name":"Zamboanga Peninsula","ru":"Zamboanga Peninsula","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"09"},{"id":"54c64a14-5564-4119-85cc-1315b0e42f06","name":"Zamboanga Sibugay","ru":"Zamboanga Sibugay","country":"58e53ebd-2689-4dd6-9969-a7bf03168da8","countryCode":"PH","stateCode":"ZSI"}]
+[
+  {
+    "id": "6fd918c4-77ec-4e26-a5f8-1855999a1ed7",
+    "en": "Abra",
+    "ru": "Абра",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ABR"
+  },
+  {
+    "id": "b42399d6-e6e7-46da-bfc2-61310c2d73eb",
+    "en": "Agusan del Norte",
+    "ru": "Агусан дель Норте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "AGN"
+  },
+  {
+    "id": "e02f197d-1824-405c-91da-be2aa69efd16",
+    "en": "Agusan del Sur",
+    "ru": "Агусан-дель-Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "AGS"
+  },
+  {
+    "id": "56b50c4e-8717-4a64-8092-4e916605caaf",
+    "en": "Aklan",
+    "ru": "Аклан",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "AKL"
+  },
+  {
+    "id": "68db02cb-6853-41d5-a7b3-d9b376ec353e",
+    "en": "Albay",
+    "ru": "Албай",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ALB"
+  },
+  {
+    "id": "8c7811f3-4f36-4594-a0a4-212b65598ed0",
+    "en": "Antique",
+    "ru": "Античный регион",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ANT"
+  },
+  {
+    "id": "691ce1f4-cfd7-4a58-aaa3-62e2c37a487f",
+    "en": "Apayao",
+    "ru": "Апаяо",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "APA"
+  },
+  {
+    "id": "3bec4885-3423-4878-8b34-efbaef5c2b75",
+    "en": "Aurora",
+    "ru": "Аврора",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "AUR"
+  },
+  {
+    "id": "9117b1f9-aa09-423b-b930-2f561a67cf5a",
+    "en": "Autonomous Region in Muslim Mindanao",
+    "ru": "Автономный округ в Мусульманском Минданао",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "14"
+  },
+  {
+    "id": "2e1bdb02-40e0-45f0-afc0-5861f4de2059",
+    "en": "Basilan",
+    "ru": "Базилан",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BAS"
+  },
+  {
+    "id": "dc3c8b22-9f77-4ac5-888c-8b7a55e96f4c",
+    "en": "Bataan",
+    "ru": "Батаан",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BAN"
+  },
+  {
+    "id": "f08d4358-e4c3-457c-ab70-ca2a4b6d23f9",
+    "en": "Batanes",
+    "ru": "Батанес",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BTN"
+  },
+  {
+    "id": "18e04bd6-236c-48a1-bcb0-e615f80ace38",
+    "en": "Batangas",
+    "ru": "Батангас",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BTG"
+  },
+  {
+    "id": "142c8625-ab7a-4503-acc8-377669cdc63a",
+    "en": "Benguet",
+    "ru": "бенге",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BEN"
+  },
+  {
+    "id": "2b2776ae-e728-4039-819b-f5c34bacc728",
+    "en": "Bicol Region",
+    "ru": "Бикольский край",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "05"
+  },
+  {
+    "id": "cf9b3ab0-5dc6-4165-b8ea-704561bf88e8",
+    "en": "Biliran",
+    "ru": "Билиран",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BIL"
+  },
+  {
+    "id": "9dbf4385-3fec-4979-a9c4-31535de88744",
+    "en": "Bohol",
+    "ru": "Бохол",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BOH"
+  },
+  {
+    "id": "cddef65a-ba26-472a-8d67-037722e07127",
+    "en": "Bukidnon",
+    "ru": "Букиднон",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BUK"
+  },
+  {
+    "id": "29cf80bb-8158-473f-ab3d-0ea4964bce67",
+    "en": "Bulacan",
+    "ru": "Булакан",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "BUL"
+  },
+  {
+    "id": "693253c1-f546-48c5-88b5-8b3ac7ec70d5",
+    "en": "Cagayan",
+    "ru": "Кагаян",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAG"
+  },
+  {
+    "id": "3b92de03-75c0-4e2e-9cce-ee98e8abf0cb",
+    "en": "Cagayan Valley",
+    "ru": "Кагаянская долина",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "02"
+  },
+  {
+    "id": "1cf317df-86ae-4c9e-b592-68866f0b8840",
+    "en": "Calabarzon",
+    "ru": "Калабарзон",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "40"
+  },
+  {
+    "id": "cd51b91f-5769-4c72-a609-0801141ae73d",
+    "en": "Camarines Norte",
+    "ru": "Камаринс Норте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAN"
+  },
+  {
+    "id": "39a5a22a-3223-4486-af5b-97dcb7c3e27e",
+    "en": "Camarines Sur",
+    "ru": "Камарин-Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAS"
+  },
+  {
+    "id": "da4d838f-03ee-43fb-a848-d9cb97b85667",
+    "en": "Camiguin",
+    "ru": "Камигин",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAM"
+  },
+  {
+    "id": "18023911-7aa5-4f19-ab2c-e6305441d896",
+    "en": "Capiz",
+    "ru": "Capiz",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAP"
+  },
+  {
+    "id": "bfc408d9-4e2b-4abc-aa98-2ce443180163",
+    "en": "Caraga",
+    "ru": "Карага",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "13"
+  },
+  {
+    "id": "e3b31a17-ed11-4450-b3cb-ff61a58e4799",
+    "en": "Catanduanes",
+    "ru": "катандуанес",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAT"
+  },
+  {
+    "id": "4254ef10-9785-4134-a2f7-801d204232e5",
+    "en": "Cavite",
+    "ru": "Кавите",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CAV"
+  },
+  {
+    "id": "da2465af-217f-42e0-a4f0-4b6716be5953",
+    "en": "Cebu",
+    "ru": "Себу",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "CEB"
+  },
+  {
+    "id": "5c63e65f-b8f3-427a-9322-c662e5b21f50",
+    "en": "Central Luzon",
+    "ru": "Центральный Лусон",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "03"
+  },
+  {
+    "id": "75f8bf6c-d15b-49bf-9d0c-b613fed48f5f",
+    "en": "Central Visayas",
+    "ru": "Центральные Висайи",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "07"
+  },
+  {
+    "id": "1041436a-7760-49ea-823b-69b0fe6486ce",
+    "en": "Compostela Valley",
+    "ru": "Компостела долина",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "COM"
+  },
+  {
+    "id": "c3054e25-46ff-4056-b660-0fbdfadd3f3a",
+    "en": "Cordillera Administrative Region",
+    "ru": "Cordillera Административный район",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "15"
+  },
+  {
+    "id": "4efc6a30-7465-4281-a14f-d740485982c2",
+    "en": "Cotabato",
+    "ru": "Котабато",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "NCO"
+  },
+  {
+    "id": "2621732c-e5d4-4342-bb98-1719dfcd5cbb",
+    "en": "Davao del Norte",
+    "ru": "Давао дель Норте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "DAV"
+  },
+  {
+    "id": "4b5dddb0-7079-44e0-a4d9-380b81dc8d77",
+    "en": "Davao del Sur",
+    "ru": "Давао дель Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "DAS"
+  },
+  {
+    "id": "7993f7b5-d248-42d5-a349-0dd6318dc00d",
+    "en": "Davao Occidental",
+    "ru": "Давао Западный",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "DVO"
+  },
+  {
+    "id": "d0893590-586b-4c95-ae6f-6b3f675a98d9",
+    "en": "Davao Oriental",
+    "ru": "Давао Восточный",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "DAO"
+  },
+  {
+    "id": "ab0409c2-c474-4f1d-a4cf-3985825f11b0",
+    "en": "Davao Region",
+    "ru": "Давао область",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "11"
+  },
+  {
+    "id": "7563eedf-4fbc-44cc-9ae6-3cfdf6386392",
+    "en": "Dinagat Islands",
+    "ru": "Динагатские острова",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "DIN"
+  },
+  {
+    "id": "26cde9f1-e917-485b-95b3-2280accc7833",
+    "en": "Eastern Samar",
+    "ru": "Восточный Самар",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "EAS"
+  },
+  {
+    "id": "e63ba39d-43e7-4e31-a129-907a1947e7dc",
+    "en": "Eastern Visayas",
+    "ru": "Восточные Висайи",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "08"
+  },
+  {
+    "id": "ab642f26-d748-4e8f-a3ee-fb950674f1c9",
+    "en": "Guimaras",
+    "ru": "Гимарас",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "GUI"
+  },
+  {
+    "id": "1008188d-bb34-4126-83a0-2b453dc24b5c",
+    "en": "Ifugao",
+    "ru": "Ифугао",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "IFU"
+  },
+  {
+    "id": "d8961fd6-dca0-4297-83d2-0b16b5e3e84c",
+    "en": "Ilocos Norte",
+    "ru": "Ilocos Norte",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ILN"
+  },
+  {
+    "id": "ee349a42-81b9-49dd-b0a6-5ac7e11a4f75",
+    "en": "Ilocos Region",
+    "ru": "Илокос Регион",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "01"
+  },
+  {
+    "id": "3d976361-1308-4efe-9b17-8c8873b253db",
+    "en": "Ilocos Sur",
+    "ru": "Илокос Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ILS"
+  },
+  {
+    "id": "8b1c8067-1900-4828-8cf5-9ff4c78f9a52",
+    "en": "Iloilo",
+    "ru": "Илоило",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ILI"
+  },
+  {
+    "id": "0356dcd8-e074-44e7-b4a3-d4ee1443197b",
+    "en": "Isabela",
+    "ru": "Изабела",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ISA"
+  },
+  {
+    "id": "f2ec89cf-5f93-4041-81d1-248e7addb1e9",
+    "en": "Kalinga",
+    "ru": "Калинга",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "KAL"
+  },
+  {
+    "id": "e3273d80-2fd0-4073-ac6c-1cd3bc5fadb2",
+    "en": "La Union",
+    "ru": "La Union",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "LUN"
+  },
+  {
+    "id": "810c64f6-80db-4c71-b88f-9cfcadfafa90",
+    "en": "Laguna",
+    "ru": "Лагуна",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "LAG"
+  },
+  {
+    "id": "54a1a8f0-d1bf-4ca1-b612-6a44b3236a90",
+    "en": "Lanao del Norte",
+    "ru": "Ланао дель Норте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "LAN"
+  },
+  {
+    "id": "1557ea55-6a59-4c11-b20e-344f84e53b39",
+    "en": "Lanao del Sur",
+    "ru": "Ланао дель Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "LAS"
+  },
+  {
+    "id": "e1bfefda-e046-4a3a-8dd9-a12c849afb2c",
+    "en": "Leyte",
+    "ru": "лейте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "LEY"
+  },
+  {
+    "id": "33ce891c-8676-497a-989c-2bafb5f0c3ad",
+    "en": "Maguindanao",
+    "ru": "Магуинданао",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MAG"
+  },
+  {
+    "id": "64652d1f-582d-47f3-b667-1c659a2e1099",
+    "en": "Marinduque",
+    "ru": "Marinduque",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MAD"
+  },
+  {
+    "id": "3e010a68-7b71-46b6-bb83-da672ae5182b",
+    "en": "Masbate",
+    "ru": "Масбате",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MAS"
+  },
+  {
+    "id": "17ec930a-5719-47d2-876b-f9f41f473797",
+    "en": "Metro Manila",
+    "ru": "Метро Манила",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "00"
+  },
+  {
+    "id": "fb31754a-0c5b-4b7a-a0a0-bde2aa44edc5",
+    "en": "Mimaropa",
+    "ru": "Мимаропа",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "41"
+  },
+  {
+    "id": "96453bcd-f62b-4f90-a7b0-38dc065a154d",
+    "en": "Misamis Occidental",
+    "ru": "Misamis Occidental",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MSC"
+  },
+  {
+    "id": "0995698c-c3ea-401b-9690-4af371dfcc85",
+    "en": "Misamis Oriental",
+    "ru": "Misamis Oriental",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MSR"
+  },
+  {
+    "id": "aad48f07-0bd2-4781-8ecc-82b68d7c8cff",
+    "en": "Mountain Province",
+    "ru": "Горная провинция",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MOU"
+  },
+  {
+    "id": "8a6b1b8e-c237-4628-a213-ce88976ddcc4",
+    "en": "Negros Occidental",
+    "ru": "Негрос Западный",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "NEC"
+  },
+  {
+    "id": "aa27872d-1e01-41e7-ad92-0308b31dba62",
+    "en": "Negros Oriental",
+    "ru": "Негрос Восточный",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "NER"
+  },
+  {
+    "id": "30d815c7-3a76-4d22-a472-d39ee6b5108c",
+    "en": "Northern Mindanao",
+    "ru": "Северный Минданао",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "10"
+  },
+  {
+    "id": "eff36ba8-679a-44ac-b3a4-336b40433f08",
+    "en": "Northern Samar",
+    "ru": "Северный Самар",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "NSA"
+  },
+  {
+    "id": "7f77e2ff-5c73-4d27-9d4c-d367fdb30646",
+    "en": "Nueva Ecija",
+    "ru": "Нуэва Эсиха",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "NUE"
+  },
+  {
+    "id": "2e334844-88f3-44c1-ab0e-671189aeaa0c",
+    "en": "Nueva Vizcaya",
+    "ru": "Нуэва Биская",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "NUV"
+  },
+  {
+    "id": "7d78ea01-c804-445c-8e3f-e7ac64caf2d2",
+    "en": "Occidental Mindoro",
+    "ru": "Западный Миндоро",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MDC"
+  },
+  {
+    "id": "cd514ac7-78dd-4419-98fa-fd7cc499d4e8",
+    "en": "Oriental Mindoro",
+    "ru": "Восточный Миндоро",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "MDR"
+  },
+  {
+    "id": "3cdd5a97-4a60-4949-847a-676eb576d4f7",
+    "en": "Palawan",
+    "ru": "Палаван",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "PLW"
+  },
+  {
+    "id": "b35d93bb-8c27-48ad-b031-a4330088f3c9",
+    "en": "Pampanga",
+    "ru": "Пампанга",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "PAM"
+  },
+  {
+    "id": "c2cb5c96-255f-4a42-9dc9-451994014049",
+    "en": "Pangasinan",
+    "ru": "Пангасинан",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "PAN"
+  },
+  {
+    "id": "e65dbdaa-67fc-4986-8511-170e18517c10",
+    "en": "Quezon",
+    "ru": "Кесон",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "QUE"
+  },
+  {
+    "id": "4c04fc1c-249d-4cfd-af0d-43f1fdb75b0b",
+    "en": "Quirino",
+    "ru": "Квирино",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "QUI"
+  },
+  {
+    "id": "1f0387e6-1d49-4eb1-8d09-cf583e7efbed",
+    "en": "Rizal",
+    "ru": "Ризал",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "RIZ"
+  },
+  {
+    "id": "2e81bd78-1324-4d4f-b22c-97c4bfcdc165",
+    "en": "Romblon",
+    "ru": "Ромблон",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ROM"
+  },
+  {
+    "id": "eb52f47e-3996-433c-8289-b2884f670f46",
+    "en": "Sarangani",
+    "ru": "Сарангани",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SAR"
+  },
+  {
+    "id": "e83a8e86-dbfc-43c2-b81d-44ceb06a3b80",
+    "en": "Siquijor",
+    "ru": "Siquijor",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SIG"
+  },
+  {
+    "id": "8e82d585-ced9-4094-883e-dc0cb115cc1f",
+    "en": "Soccsksargen",
+    "ru": "Soccsksargen",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "12"
+  },
+  {
+    "id": "de3f1c2a-0780-430c-8dc6-19ae36caa32a",
+    "en": "Sorsogon",
+    "ru": "Сорсогон",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SOR"
+  },
+  {
+    "id": "7df4eca1-a078-44b1-8c9b-5e78f0de518b",
+    "en": "South Cotabato",
+    "ru": "Южный Котабато",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SCO"
+  },
+  {
+    "id": "9fbf0d2d-1db8-42ee-8d01-d36303034c20",
+    "en": "Southern Leyte",
+    "ru": "Южный Лейте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SLE"
+  },
+  {
+    "id": "eec533a1-c65b-4b18-9d96-2b1dbafecc8d",
+    "en": "Sultan Kudarat",
+    "ru": "Султан Кударат",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SUK"
+  },
+  {
+    "id": "7fdb3e0e-a496-448c-8f0c-3a8d30e82af5",
+    "en": "Sulu",
+    "ru": "Сулу",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SLU"
+  },
+  {
+    "id": "72f59821-8a9d-4fe9-afa8-ad278247841e",
+    "en": "Surigao del Norte",
+    "ru": "Суригао дель Норте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SUN"
+  },
+  {
+    "id": "cd347274-9b0c-4f70-bf99-1682fa4de32d",
+    "en": "Surigao del Sur",
+    "ru": "Суригао дель Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "SUR"
+  },
+  {
+    "id": "a3e6fe25-0a91-4521-bf43-19ffd8855cab",
+    "en": "Tarlac",
+    "ru": "Тарлак",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "TAR"
+  },
+  {
+    "id": "43763e0e-7158-43b5-ad38-42d02bdf69be",
+    "en": "Tawi-Tawi",
+    "ru": "Тави-Тави",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "TAW"
+  },
+  {
+    "id": "45486b21-3a0a-4557-b80f-b08921b78d0d",
+    "en": "Western Visayas",
+    "ru": "Западные Висайи",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "06"
+  },
+  {
+    "id": "bad679d7-e44c-468b-9757-4d5a702ee1bc",
+    "en": "Zambales",
+    "ru": "Замбалес",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ZMB"
+  },
+  {
+    "id": "926f8799-da70-44cf-a785-a0b2a90ebb97",
+    "en": "Zamboanga del Norte",
+    "ru": "Замбоанга дель Норте",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ZAN"
+  },
+  {
+    "id": "b3bce80d-04f2-4bcc-9eb5-398c82b9634c",
+    "en": "Zamboanga del Sur",
+    "ru": "Замбоанга дель Сур",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ZAS"
+  },
+  {
+    "id": "2fd683c4-7e04-42cd-8726-2bff7dbde530",
+    "en": "Zamboanga Peninsula",
+    "ru": "Полуостров Замбоанга",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "09"
+  },
+  {
+    "id": "7c721028-0171-4a3c-bd4b-aa9da5f2e282",
+    "en": "Zamboanga Sibugay",
+    "ru": "замбоанга Сибугай",
+    "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
+    "countryCode": "PH",
+    "stateCode": "ZSI"
+  }
+]

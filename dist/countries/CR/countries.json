@@ -1,1 +1,12 @@
-[{"id":"a89d081a-36d0-4cda-b4ab-c89bbcc8a63c","name":"Costa Rica","ru":"Costa Rica","iso3":"CRI","iso2":"CR","phoneCode":"506","capital":"65e673af-2a39-435d-9491-1c1647b43f36","currency":"CRC"}]
+[
+  {
+    "id": "77e3950d-fef9-44a3-a0bd-4925124a297c",
+    "en": "Costa Rica",
+    "ru": "Коста-Рика",
+    "iso3": "CRI",
+    "iso2": "CR",
+    "phoneCode": "506",
+    "capital": null,
+    "currency": "CRC"
+  }
+]

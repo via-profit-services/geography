@@ -1,1 +1,82 @@
-[{"id":"16d4d654-4efd-4fda-ac0b-7857d93f92aa","name":"Artibonite","ru":"Artibonite","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"AR"},{"id":"43521402-6c6c-494d-89d7-dd7f3c7d31fe","name":"Centre","ru":"Centre","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"CE"},{"id":"6d4c8b55-1075-4029-b70e-6ab394b33c24","name":"Grand'Anse","ru":"Grand'Anse","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"GA"},{"id":"5e388bd1-daee-4001-afc6-b978707e50a2","name":"Nippes","ru":"Nippes","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"NI"},{"id":"61495a6c-c577-44a8-bb68-83c1facc1b7d","name":"Nord","ru":"Nord","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"ND"},{"id":"abf0a6f7-a6b3-44ab-8b83-94b26aff4217","name":"Nord-Est","ru":"Nord-Est","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"NE"},{"id":"221837b6-4288-451e-aad0-378d6f6e5f75","name":"Nord-Ouest","ru":"Nord-Ouest","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"NO"},{"id":"10a25d33-454a-44b8-a852-1634a544b4b6","name":"Ouest","ru":"Ouest","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"OU"},{"id":"8590e163-e710-4d71-8f4d-5752e491d846","name":"Sud","ru":"Sud","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"SD"},{"id":"4a84c8e8-56da-41fd-ab9e-5ec5f4ec9199","name":"Sud-Est","ru":"Sud-Est","country":"e0245ba6-0bc0-4ea7-b939-eb88f0edff0b","countryCode":"HT","stateCode":"SE"}]
+[
+  {
+    "id": "e4963d6d-491b-48aa-90c0-c9eee93bc00e",
+    "en": "Artibonite",
+    "ru": "Артибонит",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "AR"
+  },
+  {
+    "id": "518597dd-79fe-47e4-835f-4dfe0a602c8c",
+    "en": "Centre",
+    "ru": "областной центр",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "CE"
+  },
+  {
+    "id": "5b552d27-67bd-477d-b175-6f2115b80f06",
+    "en": "Grand'Anse",
+    "ru": "Гранд Анс",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "GA"
+  },
+  {
+    "id": "f3cc2b14-a5c7-4362-89ed-da660dc0d10d",
+    "en": "Nippes",
+    "ru": "соски",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "NI"
+  },
+  {
+    "id": "70bdb9cc-1ec6-4ac3-8180-f983c61d9ca5",
+    "en": "Nord",
+    "ru": "Норд",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "ND"
+  },
+  {
+    "id": "3fc7df14-3c6c-4ff0-8418-1bc1f85b0227",
+    "en": "Nord-Est",
+    "ru": "Норд-Восток",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "NE"
+  },
+  {
+    "id": "384c890a-6854-4729-9b9c-74fa5b63eb2f",
+    "en": "Nord-Ouest",
+    "ru": "Норд-Уэст",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "NO"
+  },
+  {
+    "id": "592f514f-ca99-4f5f-90a9-9f2afeaf8b09",
+    "en": "Ouest",
+    "ru": "Ouest",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "OU"
+  },
+  {
+    "id": "68aaef78-e3ee-408f-817a-a6c75f1ce5dd",
+    "en": "Sud",
+    "ru": "юг",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "SD"
+  },
+  {
+    "id": "c3e1a3c0-a36f-4398-bf08-43700c6c2d27",
+    "en": "Sud-Est",
+    "ru": "юг",
+    "country": "e47f0580-16f2-4687-87c9-2e58c749e2cd",
+    "countryCode": "HT",
+    "stateCode": "SE"
+  }
+]

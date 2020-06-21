@@ -1,1 +1,42 @@
-[{"id":"19a8ab7f-6405-4079-9852-ba2278358129","name":"Centrale Region","ru":"Centrale Region","country":"a09cf2a7-d920-4f47-b42f-1a0c07995f01","countryCode":"TG","stateCode":"C"},{"id":"840c190c-35fc-42dd-b5da-e0934b6e545e","name":"Kara Region","ru":"Kara Region","country":"a09cf2a7-d920-4f47-b42f-1a0c07995f01","countryCode":"TG","stateCode":"K"},{"id":"285d2b63-91ef-45ee-8ce5-07b5eafc1b8b","name":"Maritime","ru":"Maritime","country":"a09cf2a7-d920-4f47-b42f-1a0c07995f01","countryCode":"TG","stateCode":"M"},{"id":"e05956b9-ab20-47d1-a36b-809523247eab","name":"Plateaux Region","ru":"Plateaux Region","country":"a09cf2a7-d920-4f47-b42f-1a0c07995f01","countryCode":"TG","stateCode":"P"},{"id":"ad959cec-6d78-4588-ad6d-d553c0aff07c","name":"Savanes Region","ru":"Savanes Region","country":"a09cf2a7-d920-4f47-b42f-1a0c07995f01","countryCode":"TG","stateCode":"S"}]
+[
+  {
+    "id": "1f95625c-4bd1-44d6-a597-4e193aa8807c",
+    "en": "Centrale Region",
+    "ru": "Центральный регион",
+    "country": "5e38b2cb-5e8f-401e-a0ba-0dcf9fb225b3",
+    "countryCode": "TG",
+    "stateCode": "C"
+  },
+  {
+    "id": "3cc047a0-0bd0-4b00-99d5-9782a3c3446e",
+    "en": "Kara Region",
+    "ru": "Карская область",
+    "country": "5e38b2cb-5e8f-401e-a0ba-0dcf9fb225b3",
+    "countryCode": "TG",
+    "stateCode": "K"
+  },
+  {
+    "id": "d9feae5f-0bac-49d3-b5b6-7242b84ff232",
+    "en": "Maritime",
+    "ru": "Приморский край",
+    "country": "5e38b2cb-5e8f-401e-a0ba-0dcf9fb225b3",
+    "countryCode": "TG",
+    "stateCode": "M"
+  },
+  {
+    "id": "b36f8047-43b8-4928-8322-ece6302b0e7a",
+    "en": "Plateaux Region",
+    "ru": "Плато Регион",
+    "country": "5e38b2cb-5e8f-401e-a0ba-0dcf9fb225b3",
+    "countryCode": "TG",
+    "stateCode": "P"
+  },
+  {
+    "id": "296c4d1b-3328-4c2d-a572-43732c4ef659",
+    "en": "Savanes Region",
+    "ru": "Саванеская область",
+    "country": "5e38b2cb-5e8f-401e-a0ba-0dcf9fb225b3",
+    "countryCode": "TG",
+    "stateCode": "S"
+  }
+]

@@ -1,1 +1,74 @@
-[{"id":"88c02b26-3a93-4daf-a2c6-62d94ac23062","name":"Batken Region","ru":"Batken Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"B"},{"id":"a8836c92-ef31-484b-bd68-2ec1939e8614","name":"Bishkek","ru":"Bishkek","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"GB"},{"id":"a0985563-b7ea-4645-bd1c-27ad4546f31f","name":"Chuy Region","ru":"Chuy Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"C"},{"id":"14d53ad7-10d1-415c-9fcc-3cc3a184778e","name":"Issyk-Kul Region","ru":"Issyk-Kul Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"Y"},{"id":"c17a9648-b96d-4946-b6bf-9b810d7ad63b","name":"Jalal-Abad Region","ru":"Jalal-Abad Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"J"},{"id":"f7b95331-5deb-49e0-ac53-27801fee1dca","name":"Naryn Region","ru":"Naryn Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"N"},{"id":"8f461fcb-624a-4848-848c-21291c728181","name":"Osh","ru":"Osh","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"GO"},{"id":"10ae14cb-5ed0-4daa-9fc2-826073e3e517","name":"Osh Region","ru":"Osh Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"O"},{"id":"1401ca60-bc5f-487d-b502-f86f2f046f4a","name":"Talas Region","ru":"Talas Region","country":"42149bb5-9bd2-43d2-bc89-047a216bf55d","countryCode":"KG","stateCode":"T"}]
+[
+  {
+    "id": "61e5ec29-ca52-434b-94c1-e76faf9344d7",
+    "en": "Batken Region",
+    "ru": "Баткенская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "B"
+  },
+  {
+    "id": "75453806-927f-48d1-a9db-ce79c4e96d81",
+    "en": "Bishkek",
+    "ru": "Бишкек",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "GB"
+  },
+  {
+    "id": "937704da-7703-4117-bd19-e907e36bc3f7",
+    "en": "Chuy Region",
+    "ru": "Чуйская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "C"
+  },
+  {
+    "id": "0e48fc2b-27dc-49e7-9a32-34819259f855",
+    "en": "Issyk-Kul Region",
+    "ru": "Иссык-Кульская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "Y"
+  },
+  {
+    "id": "9e7bc5e1-1068-4a9b-ad2f-15cb2930c86f",
+    "en": "Jalal-Abad Region",
+    "ru": "Джалал-Абадская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "J"
+  },
+  {
+    "id": "96b8f26d-0628-4e78-b4f4-41ab52ab083f",
+    "en": "Naryn Region",
+    "ru": "Нарынская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "N"
+  },
+  {
+    "id": "b3ff3044-8a04-4dbb-818b-92453d9242dc",
+    "en": "Osh",
+    "ru": "Ош",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "GO"
+  },
+  {
+    "id": "66c6a5d0-7acf-450f-8dd5-eb3bdde33c45",
+    "en": "Osh Region",
+    "ru": "Ошская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "O"
+  },
+  {
+    "id": "fa2dcb3a-1f98-4c0a-9189-2b520866b915",
+    "en": "Talas Region",
+    "ru": "Таласская область",
+    "country": "754aab3c-c876-48bb-86f0-1dd96735629f",
+    "countryCode": "KG",
+    "stateCode": "T"
+  }
+]

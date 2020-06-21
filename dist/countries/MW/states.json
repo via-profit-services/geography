@@ -1,1 +1,242 @@
-[{"id":"1a4fb60b-6c3e-4331-a6f7-f121704cdb50","name":"Balaka District","ru":"Balaka District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"BA"},{"id":"42ed5e99-bc08-4ccf-8535-5cfc67277fee","name":"Blantyre District","ru":"Blantyre District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"BL"},{"id":"4fecae88-6f7f-4d13-8270-d1bd4d923cf3","name":"Central Region","ru":"Central Region","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"C"},{"id":"a5337fce-8757-498b-898f-b20f09ac1f7f","name":"Chikwawa District","ru":"Chikwawa District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"CK"},{"id":"4a7a2453-521c-457f-abdc-9e4f454ed508","name":"Chiradzulu District","ru":"Chiradzulu District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"CR"},{"id":"b02b5b54-9a9f-4e23-a9da-196d6a1626f5","name":"Chitipa district","ru":"Chitipa district","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"CT"},{"id":"99b8b6c0-c3f4-46ad-9e50-899c268fdd16","name":"Dedza District","ru":"Dedza District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"DE"},{"id":"d1a26097-def3-4fc3-aec5-8679b368b467","name":"Dowa District","ru":"Dowa District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"DO"},{"id":"09a244c0-4d44-4bed-8feb-5360ea4657aa","name":"Karonga District","ru":"Karonga District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"KR"},{"id":"6d1771d4-194d-41c7-8362-101d16849e32","name":"Kasungu District","ru":"Kasungu District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"KS"},{"id":"aed0d77c-f3ae-4c7e-9bda-f0c2e0a1684c","name":"Likoma District","ru":"Likoma District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"LK"},{"id":"3386b412-5348-46f0-8895-7647211d04ee","name":"Lilongwe District","ru":"Lilongwe District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"LI"},{"id":"f852f81f-3e9b-43a7-8b29-a61b733f8178","name":"Machinga District","ru":"Machinga District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"MH"},{"id":"94249e1a-3f38-4b2e-8875-98f00a5f04c4","name":"Mangochi District","ru":"Mangochi District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"MG"},{"id":"34b601fb-9a13-4aae-9322-7048da022be3","name":"Mchinji District","ru":"Mchinji District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"MC"},{"id":"fed750c7-cc87-446d-b729-5d95a9528acb","name":"Mulanje District","ru":"Mulanje District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"MU"},{"id":"31526a49-781a-4dbc-8d0f-feeaf25eec52","name":"Mwanza District","ru":"Mwanza District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"MW"},{"id":"3f34ecbc-1b46-4bab-a4a7-45bbd45836fa","name":"Mzimba District","ru":"Mzimba District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"MZ"},{"id":"04d0b932-3242-48ed-88ba-577c9e02cebf","name":"Nkhata Bay District","ru":"Nkhata Bay District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"NB"},{"id":"65a6faa5-9933-4cc0-a8a1-a6d98bcb16ff","name":"Nkhotakota District","ru":"Nkhotakota District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"NK"},{"id":"bd8c84f7-2bd8-4c3c-b590-d9e72e5f7dec","name":"Northern Region","ru":"Northern Region","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"N"},{"id":"4969a9c8-0fe4-4434-a3b4-039575c676fd","name":"Nsanje District","ru":"Nsanje District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"NS"},{"id":"a09f14f1-9a1e-4924-9a01-c6ecbb9c1c5a","name":"Ntcheu District","ru":"Ntcheu District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"NU"},{"id":"a91beee6-8e59-4805-82b9-9f0169beaf0c","name":"Ntchisi District","ru":"Ntchisi District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"NI"},{"id":"071e1b2d-2e78-4105-8fa1-779075993eaa","name":"Phalombe District","ru":"Phalombe District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"PH"},{"id":"ff2d1dbd-4d54-4c2b-a3cb-f922691ad03f","name":"Rumphi District","ru":"Rumphi District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"RU"},{"id":"b46a1a1d-45e2-4cd5-8aaf-960e99219d99","name":"Salima District","ru":"Salima District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"SA"},{"id":"ffedc3ba-fe30-4cb4-84e8-9a734966abd3","name":"Southern Region","ru":"Southern Region","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"S"},{"id":"e0b9b312-aac8-4fcc-92dc-bcdd346249fd","name":"Thyolo District","ru":"Thyolo District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"TH"},{"id":"e57ce021-927d-4f11-977f-e620f385c182","name":"Zomba District","ru":"Zomba District","country":"62f55253-61f3-4a55-8984-0c69513e61ef","countryCode":"MW","stateCode":"ZO"}]
+[
+  {
+    "id": "73e51983-44b1-427c-b47b-7d1079be7cfa",
+    "en": "Balaka District",
+    "ru": "Балакский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "BA"
+  },
+  {
+    "id": "f3907c22-3b28-4443-aaf2-a62295b8458a",
+    "en": "Blantyre District",
+    "ru": "Блантайр округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "BL"
+  },
+  {
+    "id": "8771fb71-eee8-4e7d-8ff8-ac9e90ba386d",
+    "en": "Central Region",
+    "ru": "Центральный регион",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "C"
+  },
+  {
+    "id": "a95d3b13-0e9a-49f4-8ceb-54f0ceb49cbe",
+    "en": "Chikwawa District",
+    "ru": "Chikwawa район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "CK"
+  },
+  {
+    "id": "2f71e424-d4b2-42d0-9f60-49ee344dc966",
+    "en": "Chiradzulu District",
+    "ru": "Чирадзулу район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "CR"
+  },
+  {
+    "id": "7ccf7f01-f727-48aa-bbff-eea5575fb887",
+    "en": "Chitipa district",
+    "ru": "Читипинский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "CT"
+  },
+  {
+    "id": "769bbf0f-2798-444e-b739-6b59187ff804",
+    "en": "Dedza District",
+    "ru": "Дедзинский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "DE"
+  },
+  {
+    "id": "28b52637-3732-4381-837f-2983eb2990da",
+    "en": "Dowa District",
+    "ru": "Довский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "DO"
+  },
+  {
+    "id": "68c146e2-3634-4ab1-8905-a1e6272799d0",
+    "en": "Karonga District",
+    "ru": "Каронга округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "KR"
+  },
+  {
+    "id": "ebd5cd90-499a-4840-a330-c732ebb2ce5a",
+    "en": "Kasungu District",
+    "ru": "Касунгу район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "KS"
+  },
+  {
+    "id": "e052b55a-474a-4fe6-b8a7-fd1dd3fe1d8e",
+    "en": "Likoma District",
+    "ru": "Ликомский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "LK"
+  },
+  {
+    "id": "f75b88a0-bae3-4e33-bdd3-c3219058f812",
+    "en": "Lilongwe District",
+    "ru": "Лилонгве округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "LI"
+  },
+  {
+    "id": "0ab8426c-9024-4e69-bec3-d050fbea958c",
+    "en": "Machinga District",
+    "ru": "Мачинга район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "MH"
+  },
+  {
+    "id": "b31cab2e-5e75-4166-a0e0-293c60e486ec",
+    "en": "Mangochi District",
+    "ru": "Манготский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "MG"
+  },
+  {
+    "id": "7d90b740-d9df-4dbf-b771-351eeab34352",
+    "en": "Mchinji District",
+    "ru": "Мчинджинский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "MC"
+  },
+  {
+    "id": "6007a390-8be6-4603-99e2-45c59d708fbe",
+    "en": "Mulanje District",
+    "ru": "Муланье район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "MU"
+  },
+  {
+    "id": "233da6ac-19ce-4c4b-b7c4-6fb23d5f596c",
+    "en": "Mwanza District",
+    "ru": "Мванза округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "MW"
+  },
+  {
+    "id": "36457427-f96e-4934-ae39-3cf6133335a0",
+    "en": "Mzimba District",
+    "ru": "Мзимба район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "MZ"
+  },
+  {
+    "id": "1d13dad2-01b9-4085-a303-16d60a98cee7",
+    "en": "Nkhata Bay District",
+    "ru": "Нхата Бэй Район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "NB"
+  },
+  {
+    "id": "97c2ab63-ed23-4cff-8d41-9305062689b8",
+    "en": "Nkhotakota District",
+    "ru": "Нхотакота район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "NK"
+  },
+  {
+    "id": "2eea5752-8057-463e-8b2f-da31ee52494b",
+    "en": "Northern Region",
+    "ru": "Северный регион",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "N"
+  },
+  {
+    "id": "f082968a-512c-4b25-8d22-9d11cb24568a",
+    "en": "Nsanje District",
+    "ru": "Нсанье район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "NS"
+  },
+  {
+    "id": "6e49fe59-fb92-47ec-9a1e-eb8729cf31df",
+    "en": "Ntcheu District",
+    "ru": "Нтчеу округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "NU"
+  },
+  {
+    "id": "a5c3ddaa-5b99-4b87-af1f-fae855202d4d",
+    "en": "Ntchisi District",
+    "ru": "Нчисинский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "NI"
+  },
+  {
+    "id": "03817711-98df-44a3-a2a1-db467aeb56ab",
+    "en": "Phalombe District",
+    "ru": "Фаломбе округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "PH"
+  },
+  {
+    "id": "56ca1ac0-0c9d-46cd-b665-4733e52a33e1",
+    "en": "Rumphi District",
+    "ru": "Румпхский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "RU"
+  },
+  {
+    "id": "d12b1fe3-e882-4db5-8323-e39823e2e6e1",
+    "en": "Salima District",
+    "ru": "Салимский район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "SA"
+  },
+  {
+    "id": "62be0499-1b70-470a-a5d5-05ba740918f6",
+    "en": "Southern Region",
+    "ru": "Южный регион",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "S"
+  },
+  {
+    "id": "0a5bb665-ec6c-47e1-b245-69603d6d80ea",
+    "en": "Thyolo District",
+    "ru": "Тиоло округ",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "TH"
+  },
+  {
+    "id": "511cb479-5444-42c1-91cd-57dba162201f",
+    "en": "Zomba District",
+    "ru": "зомба район",
+    "country": "578ac0e3-b86e-4fc8-9041-06c3e655005f",
+    "countryCode": "MW",
+    "stateCode": "ZO"
+  }
+]

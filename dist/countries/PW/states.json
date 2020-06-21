@@ -1,1 +1,130 @@
-[{"id":"c53d05ce-efcb-492b-ae00-1d01599e1935","name":"Aimeliik","ru":"Aimeliik","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"002"},{"id":"f5c48f35-5f2c-45a0-bf69-9abc60f161e2","name":"Airai","ru":"Airai","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"004"},{"id":"b2d25b60-8108-42b7-b7bb-519314ab3af5","name":"Angaur","ru":"Angaur","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"010"},{"id":"358e5e8b-dbb1-4249-abc4-415b2f2422f4","name":"Hatohobei","ru":"Hatohobei","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"050"},{"id":"e139f3da-7e4e-4685-b1e9-94aa593e6c66","name":"Kayangel","ru":"Kayangel","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"100"},{"id":"02b2b090-39dd-48bc-80f7-c5ba5011c317","name":"Koror","ru":"Koror","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"150"},{"id":"e965a9da-fb80-4edb-a911-fad76ccbb388","name":"Melekeok","ru":"Melekeok","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"212"},{"id":"5801c927-67b5-4677-ad00-220b79d9bc52","name":"Ngaraard","ru":"Ngaraard","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"214"},{"id":"25bfecb9-5e7f-4f36-80ad-16ce53cd9e0c","name":"Ngarchelong","ru":"Ngarchelong","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"218"},{"id":"3f60bc5d-961a-48c6-9035-b25a277c11ab","name":"Ngardmau","ru":"Ngardmau","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"222"},{"id":"20f57304-971c-4d64-ac51-1454ede2bf1d","name":"Ngatpang","ru":"Ngatpang","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"224"},{"id":"fc5cc9b5-526a-4c66-9dee-5b9ff9e3c726","name":"Ngchesar","ru":"Ngchesar","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"226"},{"id":"d02b2e20-5fc0-4f2d-b558-5788223c49fd","name":"Ngeremlengui","ru":"Ngeremlengui","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"227"},{"id":"2a47034a-42cf-4168-86ca-b511204ed8ba","name":"Ngiwal","ru":"Ngiwal","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"228"},{"id":"c5159174-c9a5-4d17-b0ba-999a1649899a","name":"Peleliu","ru":"Peleliu","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"350"},{"id":"944fdd6c-423f-47df-a6a3-9319e9502c36","name":"Sonsorol","ru":"Sonsorol","country":"2020aa28-ac5c-4097-bae2-2fb185f5e478","countryCode":"PW","stateCode":"370"}]
+[
+  {
+    "id": "868fad6c-d534-4b48-8797-0222ef9ccc8d",
+    "en": "Aimeliik",
+    "ru": "Aimeliik",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "002"
+  },
+  {
+    "id": "ca1c34dd-1d50-42d7-9e5b-48e622343205",
+    "en": "Airai",
+    "ru": "Airai",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "004"
+  },
+  {
+    "id": "37ff1838-764a-4892-8e52-77e9a5dbfeec",
+    "en": "Angaur",
+    "ru": "ангаур",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "010"
+  },
+  {
+    "id": "56dc88e9-9af2-470c-9812-63929e1eb775",
+    "en": "Hatohobei",
+    "ru": "Хатохобей",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "050"
+  },
+  {
+    "id": "8259dc29-a2ab-436e-99a0-7d2f7101eb9f",
+    "en": "Kayangel",
+    "ru": "Каянгель",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "100"
+  },
+  {
+    "id": "529a56d3-b3ff-430b-8996-5fb2b792327b",
+    "en": "Koror",
+    "ru": "Корор",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "150"
+  },
+  {
+    "id": "9d4cfb7e-e9b7-4cf3-85a1-bbdc01b8a1ac",
+    "en": "Melekeok",
+    "ru": "Мелекеок",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "212"
+  },
+  {
+    "id": "dfdaf8ef-06cd-41f1-aacf-a6ec59561597",
+    "en": "Ngaraard",
+    "ru": "Нгараард",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "214"
+  },
+  {
+    "id": "a42cc6f9-77e4-401d-921d-444095197630",
+    "en": "Ngarchelong",
+    "ru": "Нгарчелонг",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "218"
+  },
+  {
+    "id": "1fabc828-03ec-4a93-8fb7-8faac8aaa43e",
+    "en": "Ngardmau",
+    "ru": "Нгардмау",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "222"
+  },
+  {
+    "id": "bf0ed13b-aa47-47c6-9dba-10b518f1c78b",
+    "en": "Ngatpang",
+    "ru": "Нгатпанг",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "224"
+  },
+  {
+    "id": "b7a95243-01fe-457f-be08-50edcd581c09",
+    "en": "Ngchesar",
+    "ru": "Нгчесар",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "226"
+  },
+  {
+    "id": "451b0c0f-73cc-4840-80d2-f4ae46740fde",
+    "en": "Ngeremlengui",
+    "ru": "Ngeremlengui",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "227"
+  },
+  {
+    "id": "7f439c0b-53cb-42f9-be63-e13a9563bd61",
+    "en": "Ngiwal",
+    "ru": "Ngiwal",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "228"
+  },
+  {
+    "id": "8ee4dfe1-4c27-43dd-870b-035a9dc8ca96",
+    "en": "Peleliu",
+    "ru": "Пелелиу",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "350"
+  },
+  {
+    "id": "69a8adb1-f709-4dda-843b-a1eb5ab8a6f4",
+    "en": "Sonsorol",
+    "ru": "Сонсорол",
+    "country": "7a9b9bb1-1802-4878-a167-41ecd0db082b",
+    "countryCode": "PW",
+    "stateCode": "370"
+  }
+]

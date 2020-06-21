@@ -1,1 +1,50 @@
-[{"id":"3f1d4221-da1c-44ee-9c96-9ad5b1fa9dbe","name":"Banjul","ru":"Banjul","country":"09d0d43b-4383-465a-867e-863b1fe3dfc4","countryCode":"GM","stateCode":"B"},{"id":"fc425f12-a42d-447a-b660-e1fe78c01fa0","name":"Central River Division","ru":"Central River Division","country":"09d0d43b-4383-465a-867e-863b1fe3dfc4","countryCode":"GM","stateCode":"M"},{"id":"300d4c3c-352b-402d-88cc-92657ca05876","name":"Lower River Division","ru":"Lower River Division","country":"09d0d43b-4383-465a-867e-863b1fe3dfc4","countryCode":"GM","stateCode":"L"},{"id":"6913ec3e-e979-4ee4-90ed-a977c4c50c0b","name":"North Bank Division","ru":"North Bank Division","country":"09d0d43b-4383-465a-867e-863b1fe3dfc4","countryCode":"GM","stateCode":"N"},{"id":"c49ace2a-edc6-4bf5-b1f2-8c0456a99967","name":"Upper River Division","ru":"Upper River Division","country":"09d0d43b-4383-465a-867e-863b1fe3dfc4","countryCode":"GM","stateCode":"U"},{"id":"2e03eedd-deb1-4ef5-8b01-a5e3d23b3ec9","name":"West Coast Division","ru":"West Coast Division","country":"09d0d43b-4383-465a-867e-863b1fe3dfc4","countryCode":"GM","stateCode":"W"}]
+[
+  {
+    "id": "cd5b9f7a-399e-4551-8569-c785f54c10ce",
+    "en": "Banjul",
+    "ru": "Банжул",
+    "country": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "countryCode": "GM",
+    "stateCode": "B"
+  },
+  {
+    "id": "0511a346-38b2-49bc-95ce-f188ea56bd9e",
+    "en": "Central River Division",
+    "ru": "Центральное речное деление",
+    "country": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "countryCode": "GM",
+    "stateCode": "M"
+  },
+  {
+    "id": "887d3e87-10e8-47a1-8dab-d8c00311243d",
+    "en": "Lower River Division",
+    "ru": "Нижняя Река Дивизион",
+    "country": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "countryCode": "GM",
+    "stateCode": "L"
+  },
+  {
+    "id": "3d03f7ff-6e3f-4ff3-8bf1-7d6500c5f462",
+    "en": "North Bank Division",
+    "ru": "Северный берег",
+    "country": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "countryCode": "GM",
+    "stateCode": "N"
+  },
+  {
+    "id": "15cc0928-9a49-4858-bef8-0f3ef635d6f7",
+    "en": "Upper River Division",
+    "ru": "Верхнее Речное Подразделение",
+    "country": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "countryCode": "GM",
+    "stateCode": "U"
+  },
+  {
+    "id": "5b679a71-9942-4111-acb1-768015e8f521",
+    "en": "West Coast Division",
+    "ru": "Западное побережье",
+    "country": "e5881543-bf59-4604-8f26-52d9e52d41c4",
+    "countryCode": "GM",
+    "stateCode": "W"
+  }
+]

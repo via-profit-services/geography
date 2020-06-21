@@ -1,1 +1,12 @@
-[{"id":"43e9ab8e-feeb-4529-8ace-81e88112abca","name":"United Kingdom","ru":"United Kingdom","iso3":"GBR","iso2":"GB","phoneCode":"44","capital":"a591218f-f46e-4935-afec-fe2a45079066","currency":"GBP"}]
+[
+  {
+    "id": "0218aeb9-0392-41ce-961c-134c5733a723",
+    "en": "United Kingdom",
+    "ru": "Великобритания",
+    "iso3": "GBR",
+    "iso2": "GB",
+    "phoneCode": "44",
+    "capital": null,
+    "currency": "GBP"
+  }
+]

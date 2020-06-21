@@ -1,1 +1,154 @@
-[{"id":"5d8898d6-bd98-4a20-ae7a-8f0dd0f66e25","name":"Bumthang District","ru":"Bumthang District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"33"},{"id":"d7fe2847-2700-4620-ba80-0582a676628e","name":"Chukha District","ru":"Chukha District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"12"},{"id":"63206107-9ad3-4ad9-a19d-1e6f69883803","name":"Dagana District","ru":"Dagana District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"22"},{"id":"13bfcaff-64ff-46e4-a866-67c59346ed87","name":"Gasa District","ru":"Gasa District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"GA"},{"id":"198273fc-539e-4a31-983f-bbe020d700b9","name":"Haa District","ru":"Haa District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"13"},{"id":"fa5cb059-567d-4cc7-90fd-65c2a249353d","name":"Lhuntse District","ru":"Lhuntse District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"44"},{"id":"5ab16aad-bb29-4083-863c-1579f14607c4","name":"Mongar District","ru":"Mongar District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"42"},{"id":"33ec66fd-7d17-4b53-b894-110d834fdc24","name":"Paro District","ru":"Paro District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"11"},{"id":"002c8875-b14d-400b-b8a0-abb816cd281e","name":"Pemagatshel District","ru":"Pemagatshel District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"43"},{"id":"4837d98d-dceb-46c9-8222-01035807ccbd","name":"Punakha District","ru":"Punakha District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"23"},{"id":"f35960f3-1a45-4449-8af6-bec3b0bfbc8b","name":"Samdrup Jongkhar District","ru":"Samdrup Jongkhar District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"45"},{"id":"53aafdd0-6bc0-4b54-9c0e-db0838818c90","name":"Samtse District","ru":"Samtse District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"14"},{"id":"64391d2b-cf3b-4088-ad4b-32b100e79343","name":"Sarpang District","ru":"Sarpang District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"31"},{"id":"524ed1d3-d93e-487c-8168-12b984a43c41","name":"Thimphu District","ru":"Thimphu District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"15"},{"id":"f141be09-76e6-4895-a21d-526985d26400","name":"Trashigang District","ru":"Trashigang District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"41"},{"id":"089271fb-e370-450f-a767-e7b7cd0a854d","name":"Trongsa District","ru":"Trongsa District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"32"},{"id":"da0fdebd-da95-4707-a7ac-da228990e49f","name":"Tsirang District","ru":"Tsirang District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"21"},{"id":"ea09884f-e530-4c10-8c6d-712d88cd24ca","name":"Wangdue Phodrang District","ru":"Wangdue Phodrang District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"24"},{"id":"ec98dfd0-8f5f-4c72-926b-f6514e531612","name":"Zhemgang District","ru":"Zhemgang District","country":"0150f44f-9aae-4f3a-8cd1-638dcb9919fe","countryCode":"BT","stateCode":"34"}]
+[
+  {
+    "id": "18a48650-5f2f-48a1-ab4f-0b621dafda0e",
+    "en": "Bumthang District",
+    "ru": "Бумтханг округ",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "33"
+  },
+  {
+    "id": "223f5fbf-40e4-4fba-8884-09b796eca0ec",
+    "en": "Chukha District",
+    "ru": "Чухинский район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "12"
+  },
+  {
+    "id": "abcfccbc-fe17-42f4-ab00-8c2b717e67d8",
+    "en": "Dagana District",
+    "ru": "Дагана район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "22"
+  },
+  {
+    "id": "30cf0f77-4f9a-42e1-a9b5-a42e26654cba",
+    "en": "Gasa District",
+    "ru": "Гасенский район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "GA"
+  },
+  {
+    "id": "3ed80c7e-d689-49ca-9c0e-eb2a740376fe",
+    "en": "Haa District",
+    "ru": "Хаа округ",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "13"
+  },
+  {
+    "id": "e5e94845-c58b-47dd-8b0a-9af64a4e50d2",
+    "en": "Lhuntse District",
+    "ru": "Лунце округ",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "44"
+  },
+  {
+    "id": "29b77e72-9f03-48ec-86b8-3cda9357f5c9",
+    "en": "Mongar District",
+    "ru": "Монгарский район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "42"
+  },
+  {
+    "id": "9abad928-06d4-42f5-9cb4-c58992ae97cf",
+    "en": "Paro District",
+    "ru": "Паро округ",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "11"
+  },
+  {
+    "id": "be8b53a2-a367-4c97-b39a-b8fce7f625e9",
+    "en": "Pemagatshel District",
+    "ru": "Пемагашель район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "43"
+  },
+  {
+    "id": "02b494a3-8288-4e8b-9d65-a5039c279802",
+    "en": "Punakha District",
+    "ru": "Пунахинский район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "23"
+  },
+  {
+    "id": "599e429c-f388-447d-b62a-c30dc65e5018",
+    "en": "Samdrup Jongkhar District",
+    "ru": "Samdrup Jongkhar район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "45"
+  },
+  {
+    "id": "6ebdb1e7-ea02-4854-9b52-ce39c38d2b76",
+    "en": "Samtse District",
+    "ru": "Самцевский район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "14"
+  },
+  {
+    "id": "4caff2d1-aa55-41b7-9016-bbdcf0c43ca4",
+    "en": "Sarpang District",
+    "ru": "Сарпангский район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "31"
+  },
+  {
+    "id": "b38d0808-1f42-4028-b31e-ddb42c276184",
+    "en": "Thimphu District",
+    "ru": "Тхимпху округ",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "15"
+  },
+  {
+    "id": "3cbf944a-6351-4c59-bedc-8b7c2469008b",
+    "en": "Trashigang District",
+    "ru": "Трашиганг район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "41"
+  },
+  {
+    "id": "c36c06b8-5245-47cb-bc77-8630eae840f3",
+    "en": "Trongsa District",
+    "ru": "Тронгса район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "32"
+  },
+  {
+    "id": "0aac73ab-0d23-49a7-8f79-49ab76ae2222",
+    "en": "Tsirang District",
+    "ru": "Циранг район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "21"
+  },
+  {
+    "id": "eb4af2a0-f51f-41c6-9d9e-43dc243ee0e9",
+    "en": "Wangdue Phodrang District",
+    "ru": "Wangdue Phodrang район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "24"
+  },
+  {
+    "id": "baf62713-33bb-4f5a-883d-ea548ef5e43a",
+    "en": "Zhemgang District",
+    "ru": "жемганг район",
+    "country": "9f4560c9-cfba-48aa-bf7e-141f7cb0e822",
+    "countryCode": "BT",
+    "stateCode": "34"
+  }
+]

@@ -1,1 +1,1026 @@
-[{"id":"2ef3f3dc-38da-47e5-9bec-09c4d8ebdd0e","name":"Abruzzo","ru":"Abruzzo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"65"},{"id":"36027e8f-6854-4031-bd86-f2f07f6b89ef","name":"Aosta Valley","ru":"Aosta Valley","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"23"},{"id":"4cff801f-ffe0-4f8a-8e01-7eded9ce0592","name":"Apulia","ru":"Apulia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"75"},{"id":"de0b7478-ba32-4564-adde-0ee9881e372c","name":"Basilicata","ru":"Basilicata","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"77"},{"id":"54e0f8ba-3f98-4f68-ac79-b0d189190586","name":"Benevento Province","ru":"Benevento Province","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BN"},{"id":"8fee50a4-c3d6-4627-a4a9-547b4be2aca6","name":"Calabria","ru":"Calabria","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"78"},{"id":"1a8098a5-3086-4acb-8143-1f7b48526318","name":"Campania","ru":"Campania","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"72"},{"id":"4059bf8b-3118-441e-bc6a-8d0de1f1d414","name":"Emilia-Romagna","ru":"Emilia-Romagna","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"45"},{"id":"102863e0-061f-483d-a13e-74a6780d3b24","name":"Friuli–Venezia Giulia","ru":"Friuli–Venezia Giulia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"36"},{"id":"5f5081c4-8bab-4e6e-b219-fea3edfc2362","name":"Lazio","ru":"Lazio","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"62"},{"id":"1999958a-2fb2-4298-8f0f-3a7d9899eb6d","name":"Libero consorzio comunale di Agrigento","ru":"Libero consorzio comunale di Agrigento","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AG"},{"id":"09c2b8b2-ae9a-4618-94dc-d1eba5d1ba43","name":"Libero consorzio comunale di Caltanissetta","ru":"Libero consorzio comunale di Caltanissetta","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CL"},{"id":"bccf86b3-4f13-4b32-9d6b-10e1de41e611","name":"Libero consorzio comunale di Enna","ru":"Libero consorzio comunale di Enna","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"EN"},{"id":"fe04d151-c42c-434d-889f-0effc294be66","name":"Libero consorzio comunale di Ragusa","ru":"Libero consorzio comunale di Ragusa","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RG"},{"id":"cc0fc2fb-0f36-4310-a0f1-306112560248","name":"Libero consorzio comunale di Siracusa","ru":"Libero consorzio comunale di Siracusa","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SR"},{"id":"5bd180b4-1ea8-4f91-b502-f6b3d1127dd8","name":"Libero consorzio comunale di Trapani","ru":"Libero consorzio comunale di Trapani","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TP"},{"id":"de791901-3554-4880-afcf-faaf816c3ff4","name":"Liguria","ru":"Liguria","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"42"},{"id":"bcb7013e-580b-48ee-992a-6f28468f542a","name":"Lombardy","ru":"Lombardy","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"25"},{"id":"76c550e9-f2f6-4916-b39b-0839dbfd4926","name":"Marche","ru":"Marche","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"57"},{"id":"f9f5a056-bbb8-4a15-a94a-cb9026533ad2","name":"Metropolitan City of Bari","ru":"Metropolitan City of Bari","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BA"},{"id":"39af0225-bcd6-4a2e-b307-7358cfffda91","name":"Metropolitan City of Bologna","ru":"Metropolitan City of Bologna","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BO"},{"id":"c7546eca-9023-4826-96f1-2b2783e5e94d","name":"Metropolitan City of Cagliari","ru":"Metropolitan City of Cagliari","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CA"},{"id":"6faeff70-23cf-4751-8b55-82f88f560d63","name":"Metropolitan City of Catania","ru":"Metropolitan City of Catania","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CT"},{"id":"1a50a5fd-4634-4bbb-ad7f-47fc5ffc3977","name":"Metropolitan City of Florence","ru":"Metropolitan City of Florence","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"FI"},{"id":"b4411e69-a4ed-47ac-826a-04a8a73fd151","name":"Metropolitan City of Genoa","ru":"Metropolitan City of Genoa","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"GE"},{"id":"45646409-917e-46ab-a3f1-ddf835b26921","name":"Metropolitan City of Messina","ru":"Metropolitan City of Messina","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"ME"},{"id":"e9173c25-678e-4478-b10a-fcb1f4e98aab","name":"Metropolitan City of Milan","ru":"Metropolitan City of Milan","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MI"},{"id":"f07d8c9d-7b3f-4c74-84bc-46009b8d3e24","name":"Metropolitan City of Naples","ru":"Metropolitan City of Naples","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"NA"},{"id":"1bda3152-b441-4b35-a3ce-afe3d08ce353","name":"Metropolitan City of Palermo","ru":"Metropolitan City of Palermo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PA"},{"id":"95fdfd78-75c2-41a8-a3d6-64c6c6db44b8","name":"Metropolitan City of Reggio Calabria","ru":"Metropolitan City of Reggio Calabria","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RC"},{"id":"3c37eefd-8889-4b7e-a4f8-4e9dbcb30fab","name":"Metropolitan City of Rome","ru":"Metropolitan City of Rome","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RM"},{"id":"f19d31b3-ad08-423d-ba71-5b7eda6cecd5","name":"Metropolitan City of Turin","ru":"Metropolitan City of Turin","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TO"},{"id":"987a6df2-7c1f-4440-ad9e-c4a262d8b6cc","name":"Metropolitan City of Venice","ru":"Metropolitan City of Venice","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VE"},{"id":"0bb1548c-6472-4f64-8bd6-6650b2ab23a5","name":"Molise","ru":"Molise","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"67"},{"id":"4f7ad837-93e6-464f-854b-d32468074ba3","name":"Pesaro and Urbino Province","ru":"Pesaro and Urbino Province","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PU"},{"id":"c04413ac-efde-4ece-b0a2-d8983adf68d3","name":"Piedmont","ru":"Piedmont","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"21"},{"id":"c8cdfbe8-a669-469a-9360-b83191504cf9","name":"Province of Alessandria","ru":"Province of Alessandria","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AL"},{"id":"7d2d7c6f-a76f-4705-9346-07dec2a05fcc","name":"Province of Ancona","ru":"Province of Ancona","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AN"},{"id":"5815deb8-6c1a-4631-be94-e86a3f29b6f6","name":"Province of Ascoli Piceno","ru":"Province of Ascoli Piceno","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AP"},{"id":"c6ec6e57-9a09-4911-ae65-1dae2ddb7dd0","name":"Province of Asti","ru":"Province of Asti","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AT"},{"id":"17c9bb6b-c79c-416a-9038-552bd1959b41","name":"Province of Avellino","ru":"Province of Avellino","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AV"},{"id":"ccfdc5c5-b813-44ce-a4ac-feac3dc9cd0d","name":"Province of Barletta-Andria-Trani","ru":"Province of Barletta-Andria-Trani","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BT"},{"id":"4fb81b8c-2984-4f2d-965b-5e8d098dcaa8","name":"Province of Belluno","ru":"Province of Belluno","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BL"},{"id":"93d67d29-929f-4dc0-986d-ebd5cce5d9ac","name":"Province of Bergamo","ru":"Province of Bergamo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BG"},{"id":"150cac47-0ab0-4590-be58-9622d706bbeb","name":"Province of Biella","ru":"Province of Biella","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BI"},{"id":"0711d060-63d6-4441-a132-e5513620740c","name":"Province of Brescia","ru":"Province of Brescia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BS"},{"id":"7f618436-dc01-42c5-8421-b009d2b91743","name":"Province of Brindisi","ru":"Province of Brindisi","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BR"},{"id":"f64a58c1-8093-4d40-82ef-441b4aabd505","name":"Province of Campobasso","ru":"Province of Campobasso","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CB"},{"id":"44784090-b8f5-4a71-8a97-477552407151","name":"Province of Carbonia-Iglesias","ru":"Province of Carbonia-Iglesias","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CI"},{"id":"a89e6789-74c2-4011-b5d4-0f5af3daaf6a","name":"Province of Caserta","ru":"Province of Caserta","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CE"},{"id":"c21dc623-0a64-44f7-8d0f-84840c6100f8","name":"Province of Catanzaro","ru":"Province of Catanzaro","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CZ"},{"id":"000b5884-f70a-491e-a043-1273f549b550","name":"Province of Chieti","ru":"Province of Chieti","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CH"},{"id":"a92a943f-3dc4-4435-b81a-d4f5889c85bc","name":"Province of Como","ru":"Province of Como","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CO"},{"id":"19f544cc-36d4-4402-98af-228bb2aa3b1c","name":"Province of Cosenza","ru":"Province of Cosenza","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CS"},{"id":"c482cb2c-9894-4fd4-8b6c-cc86ed661f03","name":"Province of Cremona","ru":"Province of Cremona","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CR"},{"id":"e75eb41d-a501-4601-a6ec-533707eb9173","name":"Province of Crotone","ru":"Province of Crotone","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"KR"},{"id":"9daae5d1-8071-4055-929e-75eeea16bfc9","name":"Province of Cuneo","ru":"Province of Cuneo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"CN"},{"id":"e9a493f1-5844-4ed9-b517-e1690443b963","name":"Province of Fermo","ru":"Province of Fermo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"FM"},{"id":"bb29ca0d-4391-4a96-8f14-7e44119fa26b","name":"Province of Ferrara","ru":"Province of Ferrara","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"FE"},{"id":"33c3dfd8-ab79-4e03-92a2-959d69e99f35","name":"Province of Foggia","ru":"Province of Foggia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"FG"},{"id":"9fcb0375-7718-4c0d-853b-65f502fe0137","name":"Province of Forlì-Cesena","ru":"Province of Forlì-Cesena","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"FC"},{"id":"13564a86-6a93-4872-840b-3bc1e8fba3f0","name":"Province of Frosinone","ru":"Province of Frosinone","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"FR"},{"id":"0ac32759-d703-46e1-8daf-65b81590d9bf","name":"Province of Gorizia","ru":"Province of Gorizia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"GO"},{"id":"eae27dad-3675-444f-9b73-d06363301741","name":"Province of Grosseto","ru":"Province of Grosseto","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"GR"},{"id":"be6cb39a-1e7a-4c46-99db-638bac4e05f9","name":"Province of Imperia","ru":"Province of Imperia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"IM"},{"id":"829aeecc-5426-42a7-8006-43e3611a1a9e","name":"Province of Isernia","ru":"Province of Isernia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"IS"},{"id":"1de9541f-2bd7-4162-9274-0bdc68216ccf","name":"Province of L'Aquila","ru":"Province of L'Aquila","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"AQ"},{"id":"061fb77e-eb37-449f-975b-d42d17b5c2f2","name":"Province of La Spezia","ru":"Province of La Spezia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SP"},{"id":"10a93afb-2105-4a6a-9470-3ec2e83fad14","name":"Province of Latina","ru":"Province of Latina","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"LT"},{"id":"be587633-a982-4098-8af4-cba22c56d28c","name":"Province of Lecce","ru":"Province of Lecce","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"LE"},{"id":"af8f6e11-637d-4c7a-a92f-60d2dcd47dab","name":"Province of Lecco","ru":"Province of Lecco","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"LC"},{"id":"bff6b749-8d69-411b-902b-832b4ddab0a8","name":"Province of Livorno","ru":"Province of Livorno","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"LI"},{"id":"76cc7105-02b0-484f-bce6-52422fd52bf7","name":"Province of Lodi","ru":"Province of Lodi","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"LO"},{"id":"dcacbb0f-99a3-45e6-99b3-f1a066ba3727","name":"Province of Lucca","ru":"Province of Lucca","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"LU"},{"id":"92b2d206-400a-4a8c-af3b-a4322e524138","name":"Province of Macerata","ru":"Province of Macerata","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MC"},{"id":"90c03d9c-df07-4b51-bb70-7e4d0e336c61","name":"Province of Mantua","ru":"Province of Mantua","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MN"},{"id":"1c029ac3-ddc0-4771-b2cd-6743f94062f6","name":"Province of Massa and Carrara","ru":"Province of Massa and Carrara","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MS"},{"id":"c2a18fa9-f356-49f9-87a5-ee50c54e610f","name":"Province of Matera","ru":"Province of Matera","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MT"},{"id":"90632930-5b36-4dd9-a7ff-821237a1b739","name":"Province of Medio Campidano","ru":"Province of Medio Campidano","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VS"},{"id":"bf9c92fa-e493-4e0c-806a-4c866ec75478","name":"Province of Modena","ru":"Province of Modena","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MO"},{"id":"9ac3f717-f089-4d48-8674-5a87c8ba85c4","name":"Province of Monza and Brianza","ru":"Province of Monza and Brianza","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"MB"},{"id":"fa314f67-0fb9-4196-b31b-8d5a65d75a48","name":"Province of Novara","ru":"Province of Novara","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"NO"},{"id":"010ca835-31a4-4045-a5cc-381c311eb97e","name":"Province of Nuoro","ru":"Province of Nuoro","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"NU"},{"id":"faa7dca0-09b6-4e72-99e4-596ba8ac701a","name":"Province of Ogliastra","ru":"Province of Ogliastra","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"OG"},{"id":"c203f475-920f-4b3e-9894-03b0660e096e","name":"Province of Olbia-Tempio","ru":"Province of Olbia-Tempio","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"OT"},{"id":"3e932546-0460-449a-854f-46cec20dac2b","name":"Province of Oristano","ru":"Province of Oristano","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"OR"},{"id":"1f0aa651-25b4-48c3-a25d-af03e037c4b7","name":"Province of Padua","ru":"Province of Padua","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PD"},{"id":"495d7bc3-bdbb-4454-ad87-85acade2e410","name":"Province of Parma","ru":"Province of Parma","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PR"},{"id":"ba902039-9c01-426c-9810-a47e74326e7b","name":"Province of Pavia","ru":"Province of Pavia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PV"},{"id":"bb6ab1b0-208a-4026-b466-8a07abd80c67","name":"Province of Perugia","ru":"Province of Perugia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PG"},{"id":"4aa65c83-51c1-4b40-90ab-e4c0c4258f78","name":"Province of Pescara","ru":"Province of Pescara","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PE"},{"id":"32bdf392-b70f-4c6c-b64e-d2a897a420fe","name":"Province of Piacenza","ru":"Province of Piacenza","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PC"},{"id":"8bac9c41-6da4-48b1-b945-95b6cf779bca","name":"Province of Pisa","ru":"Province of Pisa","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PI"},{"id":"2621c2f1-d97d-4cca-b2d8-a2634679157d","name":"Province of Pistoia","ru":"Province of Pistoia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PT"},{"id":"923d2b6c-5e6e-423f-afa9-f1eb83f4eb38","name":"Province of Pordenone","ru":"Province of Pordenone","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PN"},{"id":"5bfe5796-004f-48c7-a6db-467b882f0b1d","name":"Province of Potenza","ru":"Province of Potenza","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PZ"},{"id":"cc9bf622-0987-4e3a-9aff-9767c5cfe45e","name":"Province of Prato","ru":"Province of Prato","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"PO"},{"id":"c3c984bb-6fbb-4af1-a9b6-d8dc47286f47","name":"Province of Ravenna","ru":"Province of Ravenna","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RA"},{"id":"8f3f2ba8-c92b-4780-ad93-d21e88466ba4","name":"Province of Reggio Emilia","ru":"Province of Reggio Emilia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RE"},{"id":"ea3726e0-08de-4888-9c20-ef93b1d716c7","name":"Province of Rieti","ru":"Province of Rieti","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RI"},{"id":"9ae9b6b0-58fb-44ba-b36b-ede1cbd3e9d1","name":"Province of Rimini","ru":"Province of Rimini","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RN"},{"id":"2f34bab0-e8a3-40b4-bb48-f3f5c0a6dc6e","name":"Province of Rovigo","ru":"Province of Rovigo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"RO"},{"id":"1cde6acc-e524-4a0a-835b-e47f6204c66c","name":"Province of Salerno","ru":"Province of Salerno","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SA"},{"id":"a6bee771-0b76-4c4d-b5f4-287e70d61e85","name":"Province of Sassari","ru":"Province of Sassari","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SS"},{"id":"455835e9-f88d-4968-8be3-4003e450a172","name":"Province of Savona","ru":"Province of Savona","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SV"},{"id":"82498962-d4ae-41fe-a745-0e133817884b","name":"Province of Siena","ru":"Province of Siena","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SI"},{"id":"00065217-68f9-40d6-b323-9e6f8ec96726","name":"Province of Sondrio","ru":"Province of Sondrio","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"SO"},{"id":"fae3de39-df1a-499e-8bee-98fe0a92a0bd","name":"Province of Taranto","ru":"Province of Taranto","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TA"},{"id":"5f721b23-f063-49cf-b939-d448744f7baf","name":"Province of Teramo","ru":"Province of Teramo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TE"},{"id":"06e1ae60-19d6-49c1-bfa8-caffdf69d5a2","name":"Province of Terni","ru":"Province of Terni","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TR"},{"id":"6ed58962-78f5-437c-868c-b669bb2f0f36","name":"Province of Treviso","ru":"Province of Treviso","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TV"},{"id":"0f480903-d428-4700-b829-27c8ea73d46b","name":"Province of Trieste","ru":"Province of Trieste","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TS"},{"id":"69d945e1-16ba-43c5-807b-6ba006169b61","name":"Province of Udine","ru":"Province of Udine","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"UD"},{"id":"2d206491-1aa6-41e3-a55e-b62b1d71e745","name":"Province of Varese","ru":"Province of Varese","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VA"},{"id":"837a48c2-bd26-4fa8-8a67-4b8d5de9d6e8","name":"Province of Verbano-Cusio-Ossola","ru":"Province of Verbano-Cusio-Ossola","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VB"},{"id":"39e7c2eb-19f3-448d-820a-78da085ba847","name":"Province of Vercelli","ru":"Province of Vercelli","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VC"},{"id":"8cede3dd-d80e-4b9c-8517-cd4b9a5409b4","name":"Province of Verona","ru":"Province of Verona","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VR"},{"id":"4d4191b2-4c94-4bd3-a60d-936a0dca649d","name":"Province of Vibo Valentia","ru":"Province of Vibo Valentia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VV"},{"id":"01f495f9-7d3f-483a-9b70-272c61f34582","name":"Province of Vicenza","ru":"Province of Vicenza","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VI"},{"id":"d93b6314-6643-46e2-96e8-608d1081e15a","name":"Province of Viterbo","ru":"Province of Viterbo","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"VT"},{"id":"0493365a-c6f6-47f2-820e-4fd7e064b780","name":"Sardinia","ru":"Sardinia","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"88"},{"id":"4f527217-ee1d-429b-9bb9-b3bdefe015a2","name":"Sicily","ru":"Sicily","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"82"},{"id":"0611dc0e-a9b4-49bb-a3ef-ec0427e6d461","name":"South Tyrol","ru":"South Tyrol","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"BZ"},{"id":"66c60407-d639-44ef-a5ba-8e857c65a975","name":"Trentino","ru":"Trentino","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"TN"},{"id":"feca2736-28ce-48b7-a7c1-314c8d15b4c1","name":"Trentino-South Tyrol","ru":"Trentino-South Tyrol","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"32"},{"id":"fe7af4db-482c-4a1d-8b76-1bd9c3031a18","name":"Tuscany","ru":"Tuscany","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"52"},{"id":"aa500687-7fd4-4398-8f3d-dc312b9f3881","name":"Umbria","ru":"Umbria","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"55"},{"id":"fac8fcfa-cd8f-411e-ab0e-7d3944b4786e","name":"Veneto","ru":"Veneto","country":"7544a336-1b20-4141-8223-2a616be37603","countryCode":"IT","stateCode":"34"}]
+[
+  {
+    "id": "d46bbcd1-33ba-4f32-81d9-c3acf00dc424",
+    "en": "Abruzzo",
+    "ru": "Абруццо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "65"
+  },
+  {
+    "id": "832e16ff-3f8b-4bf0-9918-9dc30ddd6888",
+    "en": "Aosta Valley",
+    "ru": "Аостская долина",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "23"
+  },
+  {
+    "id": "759e4d76-d414-4ea0-8003-f4cfce86c3a2",
+    "en": "Apulia",
+    "ru": "Апулия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "75"
+  },
+  {
+    "id": "6b4361a9-8ba1-4a69-af74-fbeb6aee33d0",
+    "en": "Basilicata",
+    "ru": "Базиликата",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "77"
+  },
+  {
+    "id": "17e4842b-1e36-451e-82d2-7a4f77783225",
+    "en": "Benevento Province",
+    "ru": "Беневенто провинция",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BN"
+  },
+  {
+    "id": "f6f1e635-0e79-4271-b898-3aa2545fc139",
+    "en": "Calabria",
+    "ru": "Калабрия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "78"
+  },
+  {
+    "id": "964760de-868b-4698-8a57-66983da411e3",
+    "en": "Campania",
+    "ru": "Кампания",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "72"
+  },
+  {
+    "id": "b16b0a4a-a9aa-452b-8070-43705d4cdac8",
+    "en": "Emilia-Romagna",
+    "ru": "Эмилия-Романья",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "45"
+  },
+  {
+    "id": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
+    "en": "Friuli–Venezia Giulia",
+    "ru": "Фриули – Венеция Джулия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "36"
+  },
+  {
+    "id": "19e5b20c-c3ef-45f4-b153-200a380e44de",
+    "en": "Lazio",
+    "ru": "Лацио",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "62"
+  },
+  {
+    "id": "ea2b2058-aa60-4cbe-8651-a12049cac362",
+    "en": "Libero consorzio comunale di Agrigento",
+    "ru": "Либеро консорциум комунале ди Агридженто",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AG"
+  },
+  {
+    "id": "fd7b7c9f-7cef-44c3-9251-7b818b620385",
+    "en": "Libero consorzio comunale di Caltanissetta",
+    "ru": "Либеро консорциум комунале ди Кальтаниссетта",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CL"
+  },
+  {
+    "id": "3313ff55-7acf-4dae-b609-ff3c55751bb7",
+    "en": "Libero consorzio comunale di Enna",
+    "ru": "Либеро консорцио комунале ди Энна",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "EN"
+  },
+  {
+    "id": "eca7bb77-3eff-4e3a-ab11-3b2e07115046",
+    "en": "Libero consorzio comunale di Ragusa",
+    "ru": "Либеро консорцио комунале ди Рагуза",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RG"
+  },
+  {
+    "id": "0aa26dd3-049e-4475-97b3-d320f5f73336",
+    "en": "Libero consorzio comunale di Siracusa",
+    "ru": "Либеро консорцио комунале ди Сиракузы",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SR"
+  },
+  {
+    "id": "bd9492bd-8fcb-4959-b357-767e392a873d",
+    "en": "Libero consorzio comunale di Trapani",
+    "ru": "Либеро консорцио комунале ди Трапани",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TP"
+  },
+  {
+    "id": "7bee899b-3167-498f-9c94-751d6f8e04e7",
+    "en": "Liguria",
+    "ru": "Лигурия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "42"
+  },
+  {
+    "id": "d8861537-5a15-4c22-b8af-e12e288d4671",
+    "en": "Lombardy",
+    "ru": "Ломбардия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "25"
+  },
+  {
+    "id": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
+    "en": "Marche",
+    "ru": "Марке",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "57"
+  },
+  {
+    "id": "a3b45981-1e54-4345-89c8-db441e8cbf85",
+    "en": "Metropolitan City of Bari",
+    "ru": "митрополит город бари",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BA"
+  },
+  {
+    "id": "02a1ba5a-7c42-475b-8b71-5a8d570df68a",
+    "en": "Metropolitan City of Bologna",
+    "ru": "митрополит город болонья",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BO"
+  },
+  {
+    "id": "3abecda9-3aa4-4404-8797-3790df4eaa57",
+    "en": "Metropolitan City of Cagliari",
+    "ru": "столичный город кальяри",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CA"
+  },
+  {
+    "id": "70d11dbd-1c88-4397-ac4b-343158da18a4",
+    "en": "Metropolitan City of Catania",
+    "ru": "столичный город катания",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CT"
+  },
+  {
+    "id": "eab50fa1-4e20-4cc9-a028-9fb298392d89",
+    "en": "Metropolitan City of Florence",
+    "ru": "митрополит город флоренция",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "FI"
+  },
+  {
+    "id": "1dbd4dad-475d-49b5-9418-92de0c3cdfaa",
+    "en": "Metropolitan City of Genoa",
+    "ru": "столичный город генуя",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "GE"
+  },
+  {
+    "id": "8f723de7-1234-4f98-b7b5-75c3ed2c6805",
+    "en": "Metropolitan City of Messina",
+    "ru": "Митрополит Город Мессина",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "ME"
+  },
+  {
+    "id": "9cc15158-04e5-4cd8-86cf-7e786c9bca32",
+    "en": "Metropolitan City of Milan",
+    "ru": "столичный город милан",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MI"
+  },
+  {
+    "id": "bf2dfa04-3875-44ed-bd53-c29b2c974f22",
+    "en": "Metropolitan City of Naples",
+    "ru": "столичный город неаполь",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "NA"
+  },
+  {
+    "id": "0b5c5b0d-7e3b-41f2-b87c-b4587e5299f0",
+    "en": "Metropolitan City of Palermo",
+    "ru": "столичный город палермо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PA"
+  },
+  {
+    "id": "664c2c36-563c-4074-9b3b-11629bbb0d0e",
+    "en": "Metropolitan City of Reggio Calabria",
+    "ru": "столичный город реджо калабрия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RC"
+  },
+  {
+    "id": "6e0cb9db-6bb3-4536-836b-7358fb72cb60",
+    "en": "Metropolitan City of Rome",
+    "ru": "митрополит город рим",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RM"
+  },
+  {
+    "id": "96238278-be45-4824-8670-40f6799da67d",
+    "en": "Metropolitan City of Turin",
+    "ru": "митрополит город турин",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TO"
+  },
+  {
+    "id": "657bfc88-283c-4364-adbc-38d765cdddf6",
+    "en": "Metropolitan City of Venice",
+    "ru": "столичный город Венеция",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VE"
+  },
+  {
+    "id": "4c6dcc85-b868-44a3-9232-2c8f0b514136",
+    "en": "Molise",
+    "ru": "Молизе",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "67"
+  },
+  {
+    "id": "2ebb48be-e1eb-4090-b2bf-4f643bcb56ae",
+    "en": "Pesaro and Urbino Province",
+    "ru": "Пезаро и провинция Урбино",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PU"
+  },
+  {
+    "id": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
+    "en": "Piedmont",
+    "ru": "Пьемонт",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "21"
+  },
+  {
+    "id": "ffee8d7e-bb3a-4425-b629-f1d426b21cd8",
+    "en": "Province of Alessandria",
+    "ru": "Алессандрийская область",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AL"
+  },
+  {
+    "id": "69fcbe1f-0462-4781-ba24-6c19fbace29d",
+    "en": "Province of Ancona",
+    "ru": "Провинция Анкона",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AN"
+  },
+  {
+    "id": "1276f482-d79d-4bc7-ab63-ec2870a53ba8",
+    "en": "Province of Ascoli Piceno",
+    "ru": "Провинция Асколи-Пичено",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AP"
+  },
+  {
+    "id": "d178dc7f-984b-40a3-98d7-40adc233b0ae",
+    "en": "Province of Asti",
+    "ru": "Асти",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AT"
+  },
+  {
+    "id": "6e3843f8-1261-4da6-b6ff-55286f120d76",
+    "en": "Province of Avellino",
+    "ru": "Авеллино",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AV"
+  },
+  {
+    "id": "282bdf12-ae09-4c72-9a95-d64d7cbe7f79",
+    "en": "Province of Barletta-Andria-Trani",
+    "ru": "Провинция Барлетта-Андрия-Трани",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BT"
+  },
+  {
+    "id": "92b19944-4b7e-4303-b767-6d05a45b4667",
+    "en": "Province of Belluno",
+    "ru": "Провинция Беллуно",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BL"
+  },
+  {
+    "id": "a5a36a2a-fd60-4d02-b090-f79e7f40a7ba",
+    "en": "Province of Bergamo",
+    "ru": "Провинция Бергамо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BG"
+  },
+  {
+    "id": "9bd7f006-b340-4ab3-9be0-8440aa1566fd",
+    "en": "Province of Biella",
+    "ru": "Провинция Биелла",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BI"
+  },
+  {
+    "id": "d24a29f8-b492-4748-9ff6-c2ceddb42835",
+    "en": "Province of Brescia",
+    "ru": "Брешия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BS"
+  },
+  {
+    "id": "7fd20ef1-975f-4457-bf99-001840b7a660",
+    "en": "Province of Brindisi",
+    "ru": "Провинция Бриндизи",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BR"
+  },
+  {
+    "id": "8add1e6f-592f-40ea-be77-a9b8330ac71c",
+    "en": "Province of Campobasso",
+    "ru": "Кампобассо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CB"
+  },
+  {
+    "id": "b74ba1c5-003c-434d-ae4c-c389409eb8ae",
+    "en": "Province of Carbonia-Iglesias",
+    "ru": "Провинция Карбония-Иглесиас",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CI"
+  },
+  {
+    "id": "093055e5-fdc4-4fff-a00c-ed8d14802206",
+    "en": "Province of Caserta",
+    "ru": "Провинция Казерта",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CE"
+  },
+  {
+    "id": "164f78d6-8b45-4f8d-b6b2-444248d700eb",
+    "en": "Province of Catanzaro",
+    "ru": "Провинция Катандзаро",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CZ"
+  },
+  {
+    "id": "664a485b-d213-4dc9-9a19-9e6e631d885f",
+    "en": "Province of Chieti",
+    "ru": "Провинция Кьети",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CH"
+  },
+  {
+    "id": "df8138e6-9d39-48b5-bdf3-1a35ab93b21f",
+    "en": "Province of Como",
+    "ru": "Провинция Комо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CO"
+  },
+  {
+    "id": "61946769-84c0-4d39-bb45-09e637a9875b",
+    "en": "Province of Cosenza",
+    "ru": "Козенца",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CS"
+  },
+  {
+    "id": "65ad354c-5a41-4c38-bbcc-731265dc86ce",
+    "en": "Province of Cremona",
+    "ru": "Провинция Кремона",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CR"
+  },
+  {
+    "id": "5dd9d0ce-cfbc-488f-8252-3f56e6306bd2",
+    "en": "Province of Crotone",
+    "ru": "Провинция Кротоне",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "KR"
+  },
+  {
+    "id": "5bea5c7d-10a6-432e-9f78-627d89fd21ec",
+    "en": "Province of Cuneo",
+    "ru": "Кунео",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "CN"
+  },
+  {
+    "id": "452195a8-da2c-421a-a009-3b7ae3a5db73",
+    "en": "Province of Fermo",
+    "ru": "Провинция Фермо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "FM"
+  },
+  {
+    "id": "979b112d-6283-43cd-865d-0a3e64e25996",
+    "en": "Province of Ferrara",
+    "ru": "Провинция Феррара",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "FE"
+  },
+  {
+    "id": "41debb42-bb19-4a62-b04a-33008f729762",
+    "en": "Province of Foggia",
+    "ru": "Фоджа",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "FG"
+  },
+  {
+    "id": "4eacadf4-fb61-45df-a734-728c13bbbdc8",
+    "en": "Province of Forlì-Cesena",
+    "ru": "Провинция Форли-Чезена",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "FC"
+  },
+  {
+    "id": "5a25638b-501f-44a7-a41d-cc93969b02a1",
+    "en": "Province of Frosinone",
+    "ru": "Провинция Фрозиноне",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "FR"
+  },
+  {
+    "id": "d4fa06db-f740-4d87-b749-1a535a9cef58",
+    "en": "Province of Gorizia",
+    "ru": "Гориция",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "GO"
+  },
+  {
+    "id": "b564453a-ab48-4f99-a9ff-ea39c6cef24c",
+    "en": "Province of Grosseto",
+    "ru": "Гроссето",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "GR"
+  },
+  {
+    "id": "32baca3d-4e6c-44d0-95d4-eea3f1f24529",
+    "en": "Province of Imperia",
+    "ru": "Провинция Империя",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "IM"
+  },
+  {
+    "id": "7dbfbd41-e9e5-4365-bf37-358f93e2e69e",
+    "en": "Province of Isernia",
+    "ru": "Провинция Изерния",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "IS"
+  },
+  {
+    "id": "ce5af422-46dc-4798-823b-b9bfeb5a8f75",
+    "en": "Province of L'Aquila",
+    "ru": "Провинция Аквила",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "AQ"
+  },
+  {
+    "id": "11b27cf4-be8e-4536-b3f2-147781b8aef9",
+    "en": "Province of La Spezia",
+    "ru": "Провинция Ла Специя",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SP"
+  },
+  {
+    "id": "8ce26cf2-33b5-4eee-a9db-a19905653432",
+    "en": "Province of Latina",
+    "ru": "Латинская область",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "LT"
+  },
+  {
+    "id": "24016799-cd12-43a5-8c02-986ec2618ca8",
+    "en": "Province of Lecce",
+    "ru": "Провинция Лечче",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "LE"
+  },
+  {
+    "id": "b9586376-d8f2-4899-a768-bb5a07dbb339",
+    "en": "Province of Lecco",
+    "ru": "Провинция Лекко",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "LC"
+  },
+  {
+    "id": "6567057d-5de9-4f2b-a1bf-88549d953ebf",
+    "en": "Province of Livorno",
+    "ru": "Ливорно",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "LI"
+  },
+  {
+    "id": "1f471044-b9b5-45d8-8064-bd47909fe516",
+    "en": "Province of Lodi",
+    "ru": "Провинция Лоди",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "LO"
+  },
+  {
+    "id": "deb9a6da-e721-4821-a516-726b238c8477",
+    "en": "Province of Lucca",
+    "ru": "Провинция Лукка",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "LU"
+  },
+  {
+    "id": "0902953b-01ed-4e22-81dd-2e05e95cf30a",
+    "en": "Province of Macerata",
+    "ru": "Провинция Мачерата",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MC"
+  },
+  {
+    "id": "0320dc83-98d6-4cd7-8093-7e1502baa8b2",
+    "en": "Province of Mantua",
+    "ru": "Провинция Мантуя",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MN"
+  },
+  {
+    "id": "6fda9e7f-0bc9-4b32-bc91-c0a05da49879",
+    "en": "Province of Massa and Carrara",
+    "ru": "Масса и Каррара",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MS"
+  },
+  {
+    "id": "b4d823f6-a62f-4fbb-9c67-30b3c6ab3d0b",
+    "en": "Province of Matera",
+    "ru": "Провинция Матера",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MT"
+  },
+  {
+    "id": "3d800134-3284-4782-ae5f-e113368b5645",
+    "en": "Province of Medio Campidano",
+    "ru": "Провинция Медио Кампидано",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VS"
+  },
+  {
+    "id": "b44aaf71-b14e-40dc-a624-c8aa0e4c0260",
+    "en": "Province of Modena",
+    "ru": "Провинция Модена",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MO"
+  },
+  {
+    "id": "87c815b3-0632-4218-9507-e635a5ed54c2",
+    "en": "Province of Monza and Brianza",
+    "ru": "Монца и Брианца",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "MB"
+  },
+  {
+    "id": "b2e09791-b8f1-4893-8d7a-ae65cb87f323",
+    "en": "Province of Novara",
+    "ru": "Провинция Новара",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "NO"
+  },
+  {
+    "id": "9c421b0c-1d3b-4237-b474-c02ab0f40923",
+    "en": "Province of Nuoro",
+    "ru": "Провинция Нуоро",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "NU"
+  },
+  {
+    "id": "811f7cf7-3117-4250-accf-554bb6624473",
+    "en": "Province of Ogliastra",
+    "ru": "Провинция Оглиастра",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "OG"
+  },
+  {
+    "id": "b06aad49-a4d2-4122-b333-83309ec71473",
+    "en": "Province of Olbia-Tempio",
+    "ru": "Провинция Ольбия-Темпио",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "OT"
+  },
+  {
+    "id": "53e94d16-da9b-4e12-a123-c5e1118de08c",
+    "en": "Province of Oristano",
+    "ru": "Провинция Ористано",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "OR"
+  },
+  {
+    "id": "42b7e453-6be0-47d5-a51a-2d8128e2d5e9",
+    "en": "Province of Padua",
+    "ru": "Провинция Падуя",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PD"
+  },
+  {
+    "id": "f6a5c327-60cc-4665-b99f-9f0a60cf2996",
+    "en": "Province of Parma",
+    "ru": "Провинция Парма",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PR"
+  },
+  {
+    "id": "eef2ba21-37ff-4b40-8d14-cbe7dc76feb5",
+    "en": "Province of Pavia",
+    "ru": "Провинция Павия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PV"
+  },
+  {
+    "id": "0892b54a-7048-4ef4-9257-fced2e13ac91",
+    "en": "Province of Perugia",
+    "ru": "провинция Перуджа",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PG"
+  },
+  {
+    "id": "dba80e4d-596e-4644-ab5d-1117142d7a84",
+    "en": "Province of Pescara",
+    "ru": "Провинция Пескара",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PE"
+  },
+  {
+    "id": "b5cf89de-128c-4493-af3a-fb5c54ccce82",
+    "en": "Province of Piacenza",
+    "ru": "Провинция Пьяченца",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PC"
+  },
+  {
+    "id": "163fa990-a96d-4e4b-bdc5-7d5e344b44ac",
+    "en": "Province of Pisa",
+    "ru": "Пизанская область",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PI"
+  },
+  {
+    "id": "9593d4b0-f6b2-46f1-9a62-88e3f1d90ca0",
+    "en": "Province of Pistoia",
+    "ru": "Пистойя",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PT"
+  },
+  {
+    "id": "1978b176-09b6-4f44-bd46-1a0afd9066e1",
+    "en": "Province of Pordenone",
+    "ru": "Провинция Порденоне",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PN"
+  },
+  {
+    "id": "4622fc04-d945-45f1-a3a6-8429c12d6096",
+    "en": "Province of Potenza",
+    "ru": "Провинция Потенца",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PZ"
+  },
+  {
+    "id": "21a5a963-b99f-4575-9b58-14784defa3f2",
+    "en": "Province of Prato",
+    "ru": "Провинция Прато",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "PO"
+  },
+  {
+    "id": "18a2cf28-7e5d-4df8-975e-c6f1680947d6",
+    "en": "Province of Ravenna",
+    "ru": "Равенна",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RA"
+  },
+  {
+    "id": "c39134f2-f89d-45bb-a9a6-06675a3260a5",
+    "en": "Province of Reggio Emilia",
+    "ru": "Провинция Реджио Эмилия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RE"
+  },
+  {
+    "id": "fe0e2256-7023-4170-a769-a458c364944d",
+    "en": "Province of Rieti",
+    "ru": "Провинция Риети",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RI"
+  },
+  {
+    "id": "4441cd40-f617-483f-bb4b-00daee38447d",
+    "en": "Province of Rimini",
+    "ru": "Провинция Римини",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RN"
+  },
+  {
+    "id": "288fe807-7316-4bbd-9229-3157deb8186a",
+    "en": "Province of Rovigo",
+    "ru": "Ровиго",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "RO"
+  },
+  {
+    "id": "c4c1d761-781b-4e98-a1cb-429d29239e7b",
+    "en": "Province of Salerno",
+    "ru": "Провинция Салерно",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SA"
+  },
+  {
+    "id": "b6283e14-8e90-43dd-9665-7a963c5e31ab",
+    "en": "Province of Sassari",
+    "ru": "Провинция Сассари",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SS"
+  },
+  {
+    "id": "d1b2ac01-029f-417f-8941-10bab3745b5e",
+    "en": "Province of Savona",
+    "ru": "Провинция Савона",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SV"
+  },
+  {
+    "id": "3a527daf-fda7-4af9-a7d5-1ce70ed94659",
+    "en": "Province of Siena",
+    "ru": "Провинция Сиена",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SI"
+  },
+  {
+    "id": "07c0c53d-381b-4ce0-be31-a305bc301ac2",
+    "en": "Province of Sondrio",
+    "ru": "Сондрио",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "SO"
+  },
+  {
+    "id": "a8c31ef1-a0aa-413c-a5c0-5cd85ec75ea6",
+    "en": "Province of Taranto",
+    "ru": "Провинция Таранто",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TA"
+  },
+  {
+    "id": "f72d3b3a-1aff-417b-bd01-b0cd1f3a3196",
+    "en": "Province of Teramo",
+    "ru": "Провинция Терамо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TE"
+  },
+  {
+    "id": "ac8ef714-3298-4bef-9e26-a4701e39e981",
+    "en": "Province of Terni",
+    "ru": "Провинция Терни",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TR"
+  },
+  {
+    "id": "388d0d28-44b9-46c5-b19e-4f61bc1adf6b",
+    "en": "Province of Treviso",
+    "ru": "Провинция Тревизо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TV"
+  },
+  {
+    "id": "78018b09-4273-4de5-b42e-7a3f92fda34d",
+    "en": "Province of Trieste",
+    "ru": "Триестская область",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TS"
+  },
+  {
+    "id": "72d54392-6833-4ff4-ae98-216cec3134f9",
+    "en": "Province of Udine",
+    "ru": "Удинская область",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "UD"
+  },
+  {
+    "id": "ae9daf6c-0027-4724-85e2-e3e45ae69e1c",
+    "en": "Province of Varese",
+    "ru": "Провинция Варезе",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VA"
+  },
+  {
+    "id": "8f892534-41df-46cd-9f96-30d891cc2758",
+    "en": "Province of Verbano-Cusio-Ossola",
+    "ru": "Вербано-Кузьо-Оссола",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VB"
+  },
+  {
+    "id": "4e65c0a6-04a7-4c48-9476-7b8a843b999a",
+    "en": "Province of Vercelli",
+    "ru": "Провинция Верчелли",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VC"
+  },
+  {
+    "id": "c7ac8279-c697-49a6-bc6d-e2268643e914",
+    "en": "Province of Verona",
+    "ru": "Провинция Верона",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VR"
+  },
+  {
+    "id": "a4771a9f-9a35-4b13-b5b8-9c34c7ae7a54",
+    "en": "Province of Vibo Valentia",
+    "ru": "Вибо Валентия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VV"
+  },
+  {
+    "id": "f0b47f67-0c6c-4e76-8374-d55da515eb3b",
+    "en": "Province of Vicenza",
+    "ru": "Виченца",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VI"
+  },
+  {
+    "id": "b9be2803-4f19-433f-aaaa-42068a649d33",
+    "en": "Province of Viterbo",
+    "ru": "Витербо",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "VT"
+  },
+  {
+    "id": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
+    "en": "Sardinia",
+    "ru": "Сардиния",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "88"
+  },
+  {
+    "id": "9034b0fd-7d77-40a5-a332-7bea9c6e0ae0",
+    "en": "Sicily",
+    "ru": "Сицилия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "82"
+  },
+  {
+    "id": "b7662186-528d-4d85-939d-8d03eccb6b17",
+    "en": "South Tyrol",
+    "ru": "Южный Тироль",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "BZ"
+  },
+  {
+    "id": "32966861-ed5a-48d1-b2ad-1455ab09319b",
+    "en": "Trentino",
+    "ru": "Трентино",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "TN"
+  },
+  {
+    "id": "3df6775d-a42c-43c2-809f-16ed67743607",
+    "en": "Trentino-South Tyrol",
+    "ru": "Трентино-Южный Тироль",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "32"
+  },
+  {
+    "id": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
+    "en": "Tuscany",
+    "ru": "Тоскана",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "52"
+  },
+  {
+    "id": "515b7e2c-485b-408b-813e-5a046e27c457",
+    "en": "Umbria",
+    "ru": "Умбрия",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "55"
+  },
+  {
+    "id": "5f997da5-ec5b-4e61-9674-34c367054a6c",
+    "en": "Veneto",
+    "ru": "Венето",
+    "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
+    "countryCode": "IT",
+    "stateCode": "34"
+  }
+]

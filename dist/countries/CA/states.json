@@ -1,1 +1,106 @@
-[{"id":"c370b527-ab59-43f0-8d3a-03cfc7ebbb91","name":"Alberta","ru":"Alberta","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"AB"},{"id":"e5b3546e-9391-43e3-bbab-da4e14585edb","name":"British Columbia","ru":"British Columbia","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"BC"},{"id":"17b6d883-bbc5-4eab-aa30-365180d3a5a4","name":"Manitoba","ru":"Manitoba","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"MB"},{"id":"94d9e04f-0d53-49a0-a66e-b8120ef76409","name":"New Brunswick","ru":"New Brunswick","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"NB"},{"id":"0d7a1b28-c848-477e-b681-6ebc318d9fd8","name":"Newfoundland and Labrador","ru":"Newfoundland and Labrador","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"NL"},{"id":"59b16c3e-3759-4c67-844f-0803ba23bf7f","name":"Northwest Territories","ru":"Northwest Territories","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"NT"},{"id":"4720d634-b0c4-49df-b495-118fa9ec25bb","name":"Nova Scotia","ru":"Nova Scotia","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"NS"},{"id":"e465023e-29ba-468d-83c5-d099f8412615","name":"Nunavut","ru":"Nunavut","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"NU"},{"id":"f677eacb-334c-4e6c-b1a9-d6b2189c31cd","name":"Ontario","ru":"Ontario","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"ON"},{"id":"49b0cb0d-e689-4df8-a88b-659bbaf1bfc7","name":"Prince Edward Island","ru":"Prince Edward Island","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"PE"},{"id":"fabd61a7-b35a-4e2c-9ca4-f4d5c0d99093","name":"Quebec","ru":"Quebec","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"QC"},{"id":"e20df7cc-1c29-4682-b366-4a1724be3048","name":"Saskatchewan","ru":"Saskatchewan","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"SK"},{"id":"1eab2c49-d073-402f-8635-6f2ca09b0424","name":"Yukon","ru":"Yukon","country":"3e89aecc-4937-4f97-a65e-1bdc23429277","countryCode":"CA","stateCode":"YT"}]
+[
+  {
+    "id": "b03cc2eb-a75f-4cd6-a2be-2cfe495f97ab",
+    "en": "Alberta",
+    "ru": "Альберта",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "AB"
+  },
+  {
+    "id": "9f87b23b-38ca-4df4-a575-69810ce9ae4e",
+    "en": "British Columbia",
+    "ru": "Британская Колумбия",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "BC"
+  },
+  {
+    "id": "6ac0ce8b-697c-4f8c-9cfc-779308554624",
+    "en": "Manitoba",
+    "ru": "Манитоба",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "MB"
+  },
+  {
+    "id": "75e759ab-6bb9-4300-b1f7-a31a93312938",
+    "en": "New Brunswick",
+    "ru": "Нью-Брансуик",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "NB"
+  },
+  {
+    "id": "f99a462c-1c04-429b-ba02-ffe9d26e2203",
+    "en": "Newfoundland and Labrador",
+    "ru": "ньюфаундленд и лабрадор",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "NL"
+  },
+  {
+    "id": "311abe1a-d501-4e8f-aa58-fba9dc422fb9",
+    "en": "Northwest Territories",
+    "ru": "Северо-Западные Территории",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "NT"
+  },
+  {
+    "id": "ec0d97e2-d98d-4e09-ae64-c0e44ec6b7da",
+    "en": "Nova Scotia",
+    "ru": "Новая Шотландия",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "NS"
+  },
+  {
+    "id": "fb52ceb6-6f60-4601-b613-88c22786e22b",
+    "en": "Nunavut",
+    "ru": "Нунавут",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "NU"
+  },
+  {
+    "id": "6f11c881-89d2-4a23-8a33-156dce3883fe",
+    "en": "Ontario",
+    "ru": "Онтарио",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "ON"
+  },
+  {
+    "id": "e562d209-806b-4427-b9c5-358fa6639db5",
+    "en": "Prince Edward Island",
+    "ru": "Остров Принца Эдуарда",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "PE"
+  },
+  {
+    "id": "cda87e64-fb87-45e0-a1d0-5230995f078b",
+    "en": "Quebec",
+    "ru": "Квебек",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "QC"
+  },
+  {
+    "id": "52c46782-35f4-4482-b00d-161eafaa8488",
+    "en": "Saskatchewan",
+    "ru": "Саскачеван",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "SK"
+  },
+  {
+    "id": "dd59ae43-79e6-4c8e-9522-d960d5a35b59",
+    "en": "Yukon",
+    "ru": "Юкон",
+    "country": "5e8f0791-3bf4-462b-8857-ab5337b5372c",
+    "countryCode": "CA",
+    "stateCode": "YT"
+  }
+]

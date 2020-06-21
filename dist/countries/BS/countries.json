@@ -1,1 +1,12 @@
-[{"id":"816dd4ff-6834-4f77-a4c4-5023499cf0fe","name":"Bahamas The","ru":"Bahamas The","iso3":"BHS","iso2":"BS","phoneCode":"+1-242","capital":"509d18c4-f393-40a3-9d25-2696d9916808","currency":"BSD"}]
+[
+  {
+    "id": "b7aa3c96-e10d-4c9f-9085-d6960d673c2d",
+    "en": "Bahamas The",
+    "ru": "Багамские острова",
+    "iso3": "BHS",
+    "iso2": "BS",
+    "phoneCode": "+1-242",
+    "capital": null,
+    "currency": "BSD"
+  }
+]

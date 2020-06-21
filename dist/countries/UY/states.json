@@ -1,1 +1,154 @@
-[{"id":"fcdc26ed-1cf2-4ab9-b10f-9730a10222ed","name":"Artigas Department","ru":"Artigas Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"AR"},{"id":"62319c0f-4855-4f07-a478-8e5ba288f572","name":"Canelones Department","ru":"Canelones Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"CA"},{"id":"513bfa6d-c067-42f4-b1ae-7eef5f0474e9","name":"Cerro Largo Department","ru":"Cerro Largo Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"CL"},{"id":"99456cb1-fb66-40e0-b06d-a43dd7cea9a2","name":"Colonia Department","ru":"Colonia Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"CO"},{"id":"e36bf34a-b36d-4644-a5c0-f751a795419a","name":"Durazno Department","ru":"Durazno Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"DU"},{"id":"156741f5-c2c2-4f17-9579-6abd0995d271","name":"Flores Department","ru":"Flores Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"FS"},{"id":"e20c4a83-3010-4f3f-8450-20eaa4645388","name":"Florida Department","ru":"Florida Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"FD"},{"id":"51d839ef-3793-40a8-ab70-c84448a06347","name":"Lavalleja Department","ru":"Lavalleja Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"LA"},{"id":"9e1cdb91-6ebf-431e-9611-d5d8633687e2","name":"Maldonado Department","ru":"Maldonado Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"MA"},{"id":"1ebb53af-6fc2-480c-b591-3cb290e4186d","name":"Montevideo Department","ru":"Montevideo Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"MO"},{"id":"462fb16a-31a7-4ea4-abc5-bcfc5d8b7590","name":"Paysandú Department","ru":"Paysandú Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"PA"},{"id":"7c7c6dcc-3a8f-4578-9925-f128a0a6fd62","name":"Río Negro Department","ru":"Río Negro Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"RN"},{"id":"3cddf5ba-2b3f-4020-a9b3-cd554bd21d73","name":"Rivera Department","ru":"Rivera Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"RV"},{"id":"ebeb6bcb-939d-44da-abe1-b0c007c1d67e","name":"Rocha Department","ru":"Rocha Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"RO"},{"id":"30577e72-a792-4b06-87ff-a45230b12738","name":"Salto Department","ru":"Salto Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"SA"},{"id":"54863227-2c56-4a0d-b347-69c952635b7f","name":"San José Department","ru":"San José Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"SJ"},{"id":"a5e75a34-758b-4ddf-9d9c-72111907e279","name":"Soriano Department","ru":"Soriano Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"SO"},{"id":"8fc09527-5a01-4703-a0db-34cc3e713ac1","name":"Tacuarembó Department","ru":"Tacuarembó Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"TA"},{"id":"536b155f-1247-439b-b7ac-ae8126585d81","name":"Treinta y Tres Department","ru":"Treinta y Tres Department","country":"ea2dac94-ab90-4af7-8a2f-96146811749e","countryCode":"UY","stateCode":"TT"}]
+[
+  {
+    "id": "31621faa-d7de-4f7e-bd1a-060c45b781ad",
+    "en": "Artigas Department",
+    "ru": "районный отдел Артигас",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "AR"
+  },
+  {
+    "id": "dde77e0f-013e-4ddb-bea1-e978b6de3868",
+    "en": "Canelones Department",
+    "ru": "областной отдел канелонов",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "CA"
+  },
+  {
+    "id": "ffc3dfce-8c57-47f1-8174-275972c3a645",
+    "en": "Cerro Largo Department",
+    "ru": "Cerro Largo департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "CL"
+  },
+  {
+    "id": "f15343fa-e645-4011-9138-aa1d9e86abbb",
+    "en": "Colonia Department",
+    "ru": "Колония департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "CO"
+  },
+  {
+    "id": "49f287ec-e198-427d-a630-0758c7457348",
+    "en": "Durazno Department",
+    "ru": "Дуразненский районный отдел",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "DU"
+  },
+  {
+    "id": "8c5351d3-eba7-4aed-8d9d-ba7236ca7bc1",
+    "en": "Flores Department",
+    "ru": "Флорес департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "FS"
+  },
+  {
+    "id": "5f0b0614-1d7f-4f21-8082-8c284af8cbf2",
+    "en": "Florida Department",
+    "ru": "Флорида департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "FD"
+  },
+  {
+    "id": "791a85bb-356f-4932-a6c1-0b366be07573",
+    "en": "Lavalleja Department",
+    "ru": "Лаваллея департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "LA"
+  },
+  {
+    "id": "09cea7a0-2b8f-41f9-83eb-e2b9cae023d8",
+    "en": "Maldonado Department",
+    "ru": "Мальдонадо департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "MA"
+  },
+  {
+    "id": "3ce20fe1-3f38-4ed2-b65f-4782fe19bfb5",
+    "en": "Montevideo Department",
+    "ru": "Монтевидео департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "MO"
+  },
+  {
+    "id": "f44625b6-69d2-4cfd-85a5-52b8d117c6d9",
+    "en": "Paysandú Department",
+    "ru": "Пайсанду департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "PA"
+  },
+  {
+    "id": "20d85306-54fd-4a97-92a6-138b965f6ac1",
+    "en": "Río Negro Department",
+    "ru": "Рио Негро Департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "RN"
+  },
+  {
+    "id": "60eb8ca0-a728-4d28-85c6-3d7d737c09e4",
+    "en": "Rivera Department",
+    "ru": "Риверский районный отдел",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "RV"
+  },
+  {
+    "id": "3f43f058-d267-4f05-9a2e-c1251b6feef2",
+    "en": "Rocha Department",
+    "ru": "отдел Роча области",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "RO"
+  },
+  {
+    "id": "9add194a-948d-4464-8e1e-dd51e5f11ebc",
+    "en": "Salto Department",
+    "ru": "сальто департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "SA"
+  },
+  {
+    "id": "e3a589ba-ac37-4b49-81bb-ccc2a67caa41",
+    "en": "San José Department",
+    "ru": "Сан-Хосе департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "SJ"
+  },
+  {
+    "id": "83f92ecc-976d-461e-8a63-bf121ebc6bd3",
+    "en": "Soriano Department",
+    "ru": "Сориано отделение",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "SO"
+  },
+  {
+    "id": "89f7c7ca-39da-48a6-b3ba-e7c68c8b93f0",
+    "en": "Tacuarembó Department",
+    "ru": "Такуарембо Департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "TA"
+  },
+  {
+    "id": "3337f44f-be9f-4e90-8820-f75682aebc12",
+    "en": "Treinta y Tres Department",
+    "ru": "Трейнта и Трес департамент",
+    "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
+    "countryCode": "UY",
+    "stateCode": "TT"
+  }
+]

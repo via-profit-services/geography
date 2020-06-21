@@ -1,1 +1,58 @@
-[{"id":"b04ba0fe-d367-473e-8b8c-ff7f32cfb8ea","name":"Andorra la Vella","ru":"Andorra la Vella","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"07"},{"id":"48c7012a-fae1-44a3-963e-f5c5f63d4d8a","name":"Canillo","ru":"Canillo","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"02"},{"id":"6228e13d-f435-4091-8a23-d8b8ad8b9291","name":"Encamp","ru":"Encamp","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"03"},{"id":"a9da991e-79a1-40f4-ab93-574a144cd8ca","name":"Escaldes-Engordany","ru":"Escaldes-Engordany","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"08"},{"id":"72308059-e51b-4910-9ef6-da5f84bfce2e","name":"La Massana","ru":"La Massana","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"04"},{"id":"e7d97dc9-5140-4999-8315-39b740778fca","name":"Ordino","ru":"Ordino","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"05"},{"id":"9e65f1a6-e9eb-4921-ae61-26f3f5f5a994","name":"Sant Julià de Lòria","ru":"Sant Julià de Lòria","country":"4c901909-1f7b-4876-9ba3-3a796b032aba","countryCode":"AD","stateCode":"06"}]
+[
+  {
+    "id": "64f97262-1054-4456-b7e2-9b1890f8a159",
+    "en": "Andorra la Vella",
+    "ru": "Андорра ла Велла",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "07"
+  },
+  {
+    "id": "5b632892-663c-457f-b8c9-3f20a9ed456c",
+    "en": "Canillo",
+    "ru": "Канильо",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "02"
+  },
+  {
+    "id": "6cb6a31d-6316-4990-ae5d-99d208b314ca",
+    "en": "Encamp",
+    "ru": "Энкамп",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "03"
+  },
+  {
+    "id": "ba2cdda1-27a4-454b-8f86-0a464e537131",
+    "en": "Escaldes-Engordany",
+    "ru": "Эскальдес-Энгорданы",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "08"
+  },
+  {
+    "id": "f14b784f-b345-443e-a014-e32dfc711f3f",
+    "en": "La Massana",
+    "ru": "Ла Массана",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "04"
+  },
+  {
+    "id": "0972f68c-47ae-4192-ae45-e66db718acc1",
+    "en": "Ordino",
+    "ru": "Ордино",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "05"
+  },
+  {
+    "id": "39ad265e-0046-47b1-80c2-a5ee421fd701",
+    "en": "Sant Julià de Lòria",
+    "ru": "Сан-Хулиа-де-Лория",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "stateCode": "06"
+  }
+]

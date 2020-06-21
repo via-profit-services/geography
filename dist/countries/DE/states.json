@@ -1,1 +1,138 @@
-[{"id":"0e0e9955-d87c-4697-bc94-c3ca49544a4b","name":"Baden-Württemberg","ru":"Baden-Württemberg","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"BW"},{"id":"4f7bb991-95f3-4e8e-a216-e731a337e204","name":"Bavaria","ru":"Bavaria","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"BY"},{"id":"a1ce33bc-4c6e-4d39-8e4f-68bd563e8dad","name":"Berlin","ru":"Berlin","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"BE"},{"id":"a06afc8e-2142-4959-8b0e-4b39756f0388","name":"Brandenburg","ru":"Brandenburg","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"BB"},{"id":"c35f2b02-74c5-4989-95fc-a442ce6dea1e","name":"Bremen","ru":"Bremen","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"HB"},{"id":"b9b21268-8057-4e5e-8427-3182c6c5a04f","name":"Hamburg","ru":"Hamburg","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"HH"},{"id":"f411f82b-d675-4b96-a4d6-b9f2d534f64d","name":"Hesse","ru":"Hesse","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"HE"},{"id":"08613939-0b21-4756-8830-d31f60099662","name":"Lower Saxony","ru":"Lower Saxony","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"NI"},{"id":"3dca7d99-be68-4530-91ee-27cd7d4321fd","name":"Mecklenburg-Vorpommern","ru":"Mecklenburg-Vorpommern","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"MV"},{"id":"e3996ada-fe6e-47a1-b4d3-6c86937c37ac","name":"Neufahrn in Niederbayern","ru":"Neufahrn in Niederbayern","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"LA"},{"id":"d9d60766-85c4-4804-9694-5da369f8b57d","name":"North Rhine-Westphalia","ru":"North Rhine-Westphalia","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"NW"},{"id":"02b7d6a0-f984-49b0-8e0a-159c63e01b6b","name":"Rhineland-Palatinate","ru":"Rhineland-Palatinate","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"RP"},{"id":"3ec05d61-c0b1-4784-8ffc-24206c817251","name":"Saarland","ru":"Saarland","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"SL"},{"id":"109325c4-0be4-4c2b-a495-bc4a128fa246","name":"Saxony","ru":"Saxony","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"SN"},{"id":"01e8128d-3963-42aa-a609-e7c40d98e406","name":"Saxony-Anhalt","ru":"Saxony-Anhalt","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"ST"},{"id":"89f9e950-160e-41fc-a2cd-e2bdd0f5c277","name":"Schleswig-Holstein","ru":"Schleswig-Holstein","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"SH"},{"id":"8ae29a58-46d0-4e4c-9004-93e49a8a5ca6","name":"Thuringia","ru":"Thuringia","country":"e60b3dcf-7478-470c-ac32-56ddcdf323ed","countryCode":"DE","stateCode":"TH"}]
+[
+  {
+    "id": "897cee27-db72-4cd0-9aac-8262ccdec74b",
+    "en": "Baden-Württemberg",
+    "ru": "Баден-Вюртемберг",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "BW"
+  },
+  {
+    "id": "a5c57538-9c18-417a-8ccd-1205f5d70f42",
+    "en": "Bavaria",
+    "ru": "Бавария",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "BY"
+  },
+  {
+    "id": "4c79e170-282e-48d1-8b40-faee43555822",
+    "en": "Berlin",
+    "ru": "Берлин",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "BE"
+  },
+  {
+    "id": "71aa8d10-a30b-4dd9-ad12-3b4eac9a3ecd",
+    "en": "Brandenburg",
+    "ru": "Бранденбург",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "BB"
+  },
+  {
+    "id": "45a1748c-23b3-46c2-9e49-486c754ece66",
+    "en": "Bremen",
+    "ru": "Бремен",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "HB"
+  },
+  {
+    "id": "719e281e-ff41-4d45-8a79-caa90d59f219",
+    "en": "Hamburg",
+    "ru": "Гамбург",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "HH"
+  },
+  {
+    "id": "83dbe111-3089-4735-872c-f0505b362fb8",
+    "en": "Hesse",
+    "ru": "Гессен",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "HE"
+  },
+  {
+    "id": "e26ded0e-7017-4e00-87e8-031986ad01be",
+    "en": "Lower Saxony",
+    "ru": "Нижняя Саксония",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "NI"
+  },
+  {
+    "id": "6b2cadab-1bff-4f3b-a90e-b0d67a442f39",
+    "en": "Mecklenburg-Vorpommern",
+    "ru": "Мекленбург-Передняя Померания",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "MV"
+  },
+  {
+    "id": "d1be1700-853c-4adf-9b2e-2cf108503dd5",
+    "en": "Neufahrn in Niederbayern",
+    "ru": "Neufahrn в Нидербаерне",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "LA"
+  },
+  {
+    "id": "589e8d0e-267e-4f2b-9896-79a796862ea3",
+    "en": "North Rhine-Westphalia",
+    "ru": "Северный Рейн-Вестфалия",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "NW"
+  },
+  {
+    "id": "e5c5b287-d56f-4525-888d-64d7da89881c",
+    "en": "Rhineland-Palatinate",
+    "ru": "Рейнланд-Пфальц",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "RP"
+  },
+  {
+    "id": "2d533af2-7d5a-4110-ace8-ab5352da95a0",
+    "en": "Saarland",
+    "ru": "Саар",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "SL"
+  },
+  {
+    "id": "3028afdc-16ea-4b43-a2c9-216f211ba974",
+    "en": "Saxony",
+    "ru": "Саксония",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "SN"
+  },
+  {
+    "id": "dc7127b7-5e0b-4ba5-976b-b50848e15881",
+    "en": "Saxony-Anhalt",
+    "ru": "Саксония-Анхальт",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "ST"
+  },
+  {
+    "id": "afb79127-2203-4261-b85d-38e06958a4a2",
+    "en": "Schleswig-Holstein",
+    "ru": "Шлезвиг-Гольштейн",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "SH"
+  },
+  {
+    "id": "0900a5fb-d610-454d-9f90-77b37a2d7b1b",
+    "en": "Thuringia",
+    "ru": "Тюрингия",
+    "country": "38672fce-9f80-4eea-989b-4e926a4da00c",
+    "countryCode": "DE",
+    "stateCode": "TH"
+  }
+]

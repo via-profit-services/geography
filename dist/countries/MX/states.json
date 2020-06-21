@@ -1,1 +1,250 @@
-[{"id":"d42abd95-0bda-421a-aa6d-3daf0aaf48c4","name":"Aguascalientes","ru":"Aguascalientes","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"AGU"},{"id":"0d856291-3647-490b-ab67-024fef6647e5","name":"Baja California","ru":"Baja California","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"BCN"},{"id":"68f58ab7-9710-49a9-b14d-cf2ad4492ba7","name":"Baja California Sur","ru":"Baja California Sur","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"BCS"},{"id":"de3dacc7-49d5-492d-99a5-009f01f03027","name":"Campeche","ru":"Campeche","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"CAM"},{"id":"e71e0399-cc5b-4eda-a85f-b0157e034537","name":"Chiapas","ru":"Chiapas","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"CHP"},{"id":"4af97ce7-2f7f-4534-8e62-0c62a4b54015","name":"Chihuahua","ru":"Chihuahua","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"CHH"},{"id":"2cc8f170-17f6-467c-8198-d222bca160a4","name":"Coahuila","ru":"Coahuila","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"COA"},{"id":"134ea217-c14e-415f-a89a-3b517d1c1c8a","name":"Colima","ru":"Colima","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"COL"},{"id":"e697a8f1-3b79-42fb-9cdb-14e5be167158","name":"Durango","ru":"Durango","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"DUR"},{"id":"aadb1b1a-ea63-4bbd-bbd4-db2b64339411","name":"Guanajuato","ru":"Guanajuato","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"GUA"},{"id":"dc4c1186-b4db-4ff8-ba64-182ea0739340","name":"Guerrero","ru":"Guerrero","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"GRO"},{"id":"5f556048-0c4a-4ea3-8bab-be1244dd02c2","name":"Hidalgo","ru":"Hidalgo","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"HID"},{"id":"a8ff3292-8cae-4426-9f36-fa86acc8d3ee","name":"México","ru":"México","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"MEX"},{"id":"677f5699-f171-49c7-bb62-0491063b97d4","name":"Mexico City","ru":"Mexico City","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"CMX"},{"id":"6500fddb-738c-4e31-a724-a01dfbbf4d0d","name":"Michoacán","ru":"Michoacán","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"MIC"},{"id":"92400fdb-7379-4f23-93e4-9bef86d70821","name":"Morelos","ru":"Morelos","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"MOR"},{"id":"fce3c5da-dbf2-4ae4-9cb4-29d9fdc33210","name":"Nayarit","ru":"Nayarit","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"NAY"},{"id":"56f4cf2d-c2cd-4daa-8120-d041dbd94a41","name":"Nuevo León","ru":"Nuevo León","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"NLE"},{"id":"d3751949-7f6b-45d9-9805-6eeee28d8774","name":"Oaxaca","ru":"Oaxaca","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"OAX"},{"id":"d33dd3d2-0b61-4972-aaea-23968fc65823","name":"Puebla","ru":"Puebla","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"PUE"},{"id":"fb74c909-6f33-4e34-a31a-abe81f629586","name":"Querétaro","ru":"Querétaro","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"QUE"},{"id":"c09b21fe-31f2-45ab-8e2c-4fb6a2a9a64b","name":"Quintana Roo","ru":"Quintana Roo","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"ROO"},{"id":"d5e2a84a-cb72-48e8-b657-6182f42255c2","name":"San Luis Potosí","ru":"San Luis Potosí","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"SLP"},{"id":"5b6e96cc-1d74-4cd9-9180-ed026e0afbbc","name":"Sinaloa","ru":"Sinaloa","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"SIN"},{"id":"7a72006a-9391-4823-a321-edcf9f9ee21d","name":"Sonora","ru":"Sonora","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"SON"},{"id":"8f42c93c-405e-49c8-b7ae-7221bd1c071d","name":"Tabasco","ru":"Tabasco","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"TAB"},{"id":"517acb43-f0d7-4c37-94fb-0e1afb1a99ec","name":"Tamaulipas","ru":"Tamaulipas","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"TAM"},{"id":"120c1181-b92d-4736-b104-3c09e8951cb0","name":"Tlaxcala","ru":"Tlaxcala","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"TLA"},{"id":"f4896560-a04e-454f-9651-905a2ad7fc28","name":"Veracruz","ru":"Veracruz","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"VER"},{"id":"433634cc-7dad-47c2-a8da-2d38ec393401","name":"Yucatán","ru":"Yucatán","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"YUC"},{"id":"a0bf038a-2c27-4cf5-b7b2-dae2568e88ab","name":"Zacatecas","ru":"Zacatecas","country":"c87bdc04-0d6b-4ec1-86e5-3091db7feaa6","countryCode":"MX","stateCode":"ZAC"}]
+[
+  {
+    "id": "547d2316-c86d-4bd0-8117-30c48086dfe7",
+    "en": "Aguascalientes",
+    "ru": "Агуаскальентес",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "AGU"
+  },
+  {
+    "id": "f6d41c8d-27d2-4c88-882e-10694201e61a",
+    "en": "Baja California",
+    "ru": "Нижняя Калифорния",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "BCN"
+  },
+  {
+    "id": "30a1fd3b-5a83-4de9-aa05-bb7a79dcebde",
+    "en": "Baja California Sur",
+    "ru": "Нижняя Калифорния Сур",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "BCS"
+  },
+  {
+    "id": "2498268b-1ca7-461f-9e89-40fcfae901f5",
+    "en": "Campeche",
+    "ru": "Кампече",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "CAM"
+  },
+  {
+    "id": "23cedb25-fd2c-436e-819f-f180b09fd3f4",
+    "en": "Chiapas",
+    "ru": "Чьяпас",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "CHP"
+  },
+  {
+    "id": "3db3e90f-0a2e-4899-9e24-746191fb0edd",
+    "en": "Chihuahua",
+    "ru": "чихуахуа",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "CHH"
+  },
+  {
+    "id": "8d1688c3-1e08-47c3-b5c6-33e2acb27a49",
+    "en": "Coahuila",
+    "ru": "Коауила",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "COA"
+  },
+  {
+    "id": "5ace7c61-0ec3-40f1-b2bb-890356fb9b95",
+    "en": "Colima",
+    "ru": "Колима",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "COL"
+  },
+  {
+    "id": "e1b84d41-4522-4716-90d9-56485f12f79d",
+    "en": "Durango",
+    "ru": "Дуранго",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "DUR"
+  },
+  {
+    "id": "2a92bf59-3d2d-4dec-aff6-f992bc20672d",
+    "en": "Guanajuato",
+    "ru": "Гуанахуато",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "GUA"
+  },
+  {
+    "id": "ede8dabf-994e-4099-9963-3409fadf2770",
+    "en": "Guerrero",
+    "ru": "Герреро",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "GRO"
+  },
+  {
+    "id": "41a1a480-8081-4fc9-9ac0-eaa7a7994de4",
+    "en": "Hidalgo",
+    "ru": "Идальго",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "HID"
+  },
+  {
+    "id": "b4e7c963-edd7-47c2-a79c-13fba3506309",
+    "en": "México",
+    "ru": "Мехико",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "MEX"
+  },
+  {
+    "id": "1a986540-e3a0-4f8e-8e59-02b1137d002e",
+    "en": "Mexico City",
+    "ru": "Мехико",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "CMX"
+  },
+  {
+    "id": "00628c49-51e1-4dd2-84a2-82ea8800518c",
+    "en": "Michoacán",
+    "ru": "Мичоакан",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "MIC"
+  },
+  {
+    "id": "ac8e63de-1ac1-478e-8045-476fe29b763f",
+    "en": "Morelos",
+    "ru": "Морелос",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "MOR"
+  },
+  {
+    "id": "ab484f27-7c59-4af0-aaab-55b803694f29",
+    "en": "Nayarit",
+    "ru": "найарит",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "NAY"
+  },
+  {
+    "id": "4967bed6-b5ef-4d5b-909f-6c2a6815b115",
+    "en": "Nuevo León",
+    "ru": "Нуэво-Леон",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "NLE"
+  },
+  {
+    "id": "2760a85e-867a-4149-8484-aa4e9dc0dd8a",
+    "en": "Oaxaca",
+    "ru": "Оахака",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "OAX"
+  },
+  {
+    "id": "9ff813f8-256e-45c3-87af-a49f4b475fd5",
+    "en": "Puebla",
+    "ru": "Пуэбла",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "PUE"
+  },
+  {
+    "id": "f7fd7c97-4175-41f7-9284-5be4db89f9e4",
+    "en": "Querétaro",
+    "ru": "Керетаро",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "QUE"
+  },
+  {
+    "id": "7d77e03a-7f32-481b-a627-0124785e8852",
+    "en": "Quintana Roo",
+    "ru": "Кинтана Роо",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "ROO"
+  },
+  {
+    "id": "964e243d-2741-4a44-85f9-3191d06d7209",
+    "en": "San Luis Potosí",
+    "ru": "Сан-Луис-Потоси",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "SLP"
+  },
+  {
+    "id": "fb27180f-162a-4b52-9c4a-2a85491cc40e",
+    "en": "Sinaloa",
+    "ru": "Синалоа",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "SIN"
+  },
+  {
+    "id": "a337f5ec-4221-40df-919d-e6d8979e5d94",
+    "en": "Sonora",
+    "ru": "сонора",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "SON"
+  },
+  {
+    "id": "84b7b5f4-fc3e-4136-906c-24012d012c2e",
+    "en": "Tabasco",
+    "ru": "Табаско",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "TAB"
+  },
+  {
+    "id": "32e29b57-e38b-4acd-b7f5-1f20db3cff5c",
+    "en": "Tamaulipas",
+    "ru": "Тамаулипас",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "TAM"
+  },
+  {
+    "id": "28181059-3160-432d-8331-bd457895106f",
+    "en": "Tlaxcala",
+    "ru": "Тласкала",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "TLA"
+  },
+  {
+    "id": "739e1128-1230-4c3d-8ef6-74aaf02806bc",
+    "en": "Veracruz",
+    "ru": "Веракрус",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "VER"
+  },
+  {
+    "id": "5d4858bf-7894-41b2-9aad-be58da3cb4bc",
+    "en": "Yucatán",
+    "ru": "Юкатан",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "YUC"
+  },
+  {
+    "id": "fe18810d-1182-4791-84dd-43e30e6874da",
+    "en": "Zacatecas",
+    "ru": "Сакатекас",
+    "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
+    "countryCode": "MX",
+    "stateCode": "ZAC"
+  }
+]

@@ -1,1 +1,12 @@
-[{"id":"bf489185-e907-4744-8e3f-ab5137f1901f","name":"Uganda","ru":"Uganda","iso3":"UGA","iso2":"UG","phoneCode":"256","capital":"27128038-9424-4e5d-b450-9100a51e9801","currency":"UGX"}]
+[
+  {
+    "id": "6a2b14ff-edcb-4426-9e3d-2a2fe4a67391",
+    "en": "Uganda",
+    "ru": "Уганда",
+    "iso3": "UGA",
+    "iso2": "UG",
+    "phoneCode": "256",
+    "capital": null,
+    "currency": "UGX"
+  }
+]

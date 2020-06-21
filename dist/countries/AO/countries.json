@@ -1,1 +1,12 @@
-[{"id":"0b875a0e-fc9d-4322-8b74-9bde8b78c8ef","name":"Angola","ru":"Angola","iso3":"AGO","iso2":"AO","phoneCode":"244","capital":"baeb24e9-d725-436f-9064-922fda934de4","currency":"AOA"}]
+[
+  {
+    "id": "84643f99-14ee-410f-ad7b-63c7ad6fc58b",
+    "en": "Angola",
+    "ru": "ангола",
+    "iso3": "AGO",
+    "iso2": "AO",
+    "phoneCode": "244",
+    "capital": null,
+    "currency": "AOA"
+  }
+]
