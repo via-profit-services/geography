@@ -144,18 +144,19 @@ const bootstrap = async () => {
   }, []);
 
   await launchBrowser();
-  // const StartAfter = 'AD';
-  const StartAfter = 'MW';
-  let skip = true;
-  await chunks.reduce(async (prevPromise, chunk) => {
-    await prevPromise;
-    if (chunk.includes(StartAfter)) {
-      skip = false;
-    }
-    if (!skip) {
-      await translateChunk(chunk);
-    }
-  }, Promise.resolve());
+  await translateChunk(['RU']);
+
+  // const StartAfter = 'RU';
+  // let skip = true;
+  // await chunks.reduce(async (prevPromise, chunk) => {
+  //   await prevPromise;
+  //   if (chunk.includes(StartAfter)) {
+  //     skip = false;
+  //   }
+  //   if (!skip) {
+  //     await translateChunk(chunk);
+  //   }
+  // }, Promise.resolve());
   await closeBrowser();
 };
 
