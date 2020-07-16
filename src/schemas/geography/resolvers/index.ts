@@ -17,24 +17,21 @@ const resolvers: IResolvers<any, Context> = {
     cities: CitiesListConnection,
     states: StatesListConnection,
     countries: CountriesListConnection,
-    city: async (parent: {id: string}, args, context) => {
-      const { id } = parent;
+    city: async (parent: {id?: string}, args: {id?: string}, context) => {
       const loaders = createLoaders(context);
-      const city = await loaders.cities.load(id);
+      const city = await loaders.cities.load(parent?.id || args?.id);
 
       return city || null;
     },
-    country: async (parent: {id: string}, args, context) => {
-      const { id } = parent;
+    country: async (parent: {id?: string}, args: {id?: string}, context) => {
       const loaders = createLoaders(context);
-      const country = await loaders.countries.load(id);
+      const country = await loaders.countries.load(parent?.id || args?.id);
 
       return country || null;
     },
-    state: async (parent: {id: string}, args, context) => {
-      const { id } = parent;
+    state: async (parent: {id?: string}, args: {id?: string}, context) => {
       const loaders = createLoaders(context);
-      const state = await loaders.states.load(id);
+      const state = await loaders.states.load(parent?.id || args?.id);
 
       return state || null;
     },
