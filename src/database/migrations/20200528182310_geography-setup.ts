@@ -20,8 +20,8 @@ export async function up(knex: Knex): Promise<any> {
 
     CREATE TABLE "geographyCountries" (
       "id" uuid NOT NULL,
-      "name" varchar(100) NOT NULL,
       "ru" varchar(100) NOT NULL,
+      "en" varchar(100) NOT NULL,
       "iso3" varchar(4) NOT NULL,
       "iso2" varchar(4) NOT NULL,
       "phoneCode" varchar(20) NOT NULL,
@@ -33,8 +33,8 @@ export async function up(knex: Knex): Promise<any> {
 
     CREATE TABLE "geographyStates" (
       "id" uuid NOT NULL,
-      "name" varchar(100) NOT NULL,
       "ru" varchar(100) NOT NULL,
+      "en" varchar(100) NOT NULL,
       "country" uuid NOT NULL,
       "stateCode" varchar(10) NOT NULL,
       "countryCode" varchar(10) NOT NULL,
@@ -45,14 +45,15 @@ export async function up(knex: Knex): Promise<any> {
 
     CREATE TABLE "geographyCities" (
       "id" uuid NOT NULL,
-      "name" varchar(100) NOT NULL,
       "ru" varchar(100) NOT NULL,
+      "en" varchar(100) NOT NULL,
       "country" uuid NOT NULL,
       "countryCode" varchar(10) NOT NULL,
       "state" uuid NOT NULL,
       "stateCode" varchar(10) NOT NULL,
       "latitude" varchar(20) NOT NULL,
       "longitude" varchar(20) NOT NULL,
+      "timezone" varchar(60) NOT NULL,
       CONSTRAINT "geographyCities_pk" PRIMARY KEY (id)
     );
     ALTER TABLE "geographyCities" ADD CONSTRAINT "geographyCities_fk_country" FOREIGN KEY ("country") REFERENCES "geographyCountries"(id) ON DELETE CASCADE;
