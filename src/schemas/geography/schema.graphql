@@ -108,26 +108,27 @@ input CountriesSearch {
 
 
 input CitiesListFilter {
-  state: ID
-  stateCode: String
-  country: ID
-  countryCode: String
+  state: [ID]
+  stateCode: [String]
+  country: [ID]
+  countryCode: [String]
+  timezone: [String]
 }
 
 input StatesListFilter {
-  id: ID
-  stateCode: String
-  country: ID
-  countryCode: String
+  id: [ID]
+  stateCode: [String]
+  country: [ID]
+  countryCode: [String]
 }
 
 input CountriesListFilter {
-  id: ID
-  iso3: String
-  iso2: String
-  phoneCode: String
-  currency: String
-  capital: ID
+  id: [ID]
+  iso3: [String]
+  iso2: [String]
+  phoneCode: [String]
+  currency: [String]
+  capital: [ID]
 }
 
 
@@ -138,6 +139,7 @@ enum CitiesListOrderField {
   stateCode
   country
   countryCode
+  timezone
 }
 
 enum StatesListOrderField {
@@ -260,6 +262,7 @@ type City {
   stateCode: String!
   latitude: String!
   longitude: String!
+  timezone: String!
 }
 
 
