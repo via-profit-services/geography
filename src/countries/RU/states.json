@@ -10,7 +10,7 @@
   {
     "id": "1f7debd8-a214-4bc5-882a-8ca7ef7a4e21",
     "en": "Altai Republic",
-    "ru": "республика алтай",
+    "ru": "Республика алтай",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "stateCode": "AL"
@@ -58,7 +58,7 @@
   {
     "id": "cf346a11-27d8-4b68-b69a-8365ae3bfafd",
     "en": "Chechen Republic",
-    "ru": "чеченская республика",
+    "ru": "Чеченская республика",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "stateCode": "CE"
@@ -89,8 +89,8 @@
   },
   {
     "id": "93626005-36b7-4ba9-a188-212be0e5221e",
-    "en": "Irkutsk",
-    "ru": "Иркутск",
+    "en": "Irkutsk Oblast",
+    "ru": "Иркутская область",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "stateCode": "IRK"
@@ -266,7 +266,7 @@
   {
     "id": "a1b37a90-e498-4dab-95f2-95c7de63afdf",
     "en": "Moscow",
-    "ru": "москва",
+    "ru": "Москва",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "stateCode": "MOW"
@@ -498,7 +498,7 @@
   {
     "id": "191e2b68-913a-446c-9c32-7c3f9c2eeab8",
     "en": "Sakhalin",
-    "ru": "сахалин",
+    "ru": "Сахалин",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "stateCode": "SAK"
