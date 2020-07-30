@@ -662,5 +662,13 @@
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "stateCode": "ZAB"
+  },
+  {
+    "id": "9a64e68c-ccd6-44ad-8a34-535a66207a15",
+    "en": "Crimea Republic",
+    "ru": "Республика Крым",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "stateCode": "SIP"
   }
 ]
