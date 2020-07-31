@@ -24,7 +24,7 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.4.5
+yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.4.6
 ```
 
 Список версий [см. здесь](https://gitlab.com/via-profit-services/geography/-/tags)
@@ -59,19 +59,30 @@ import * as ua from '@via-profit-services/geography/dist/countries/UA';
 const list = [kz, ru, ua];
 
 export async function up(knex: Knex): Promise<any> {
-  return knex.raw(`
-    delete from "geographyCities";
-    delete from "geographyStates";
-    delete from "geographyCountries";
-  `)
-    .then(() => {
-      return list.reduce(async (prev, { countries, states, cities }) => {
-        await prev;
-        await knex('geographyCountries').insert(countries);
-        await knex('geographyStates').insert(states);
-        await knex('geographyCities').insert(cities);
-      }, Promise.resolve());
-    });
+  return list.reduce(async (prev, { countries, states, cities }) => {
+    await prev;
+
+    // insert countries
+    await knex.raw(`
+      ${knex('geographyCountries').insert(countries).toQuery()}
+      on conflict ("id") do update set
+      ${Object.keys(countries[0]).map((field) => `"${field}" = excluded."${field}"`).join(',')}
+    `);
+
+    // insert states
+    await knex.raw(`
+      ${knex('geographyStates').insert(states).toQuery()}
+      on conflict ("id") do update set
+      ${Object.keys(states[0]).map((field) => `"${field}" = excluded."${field}"`).join(', ')}
+    `);
+
+    // insert cities
+    await knex.raw(`
+      ${knex('geographyCities').insert(cities).toQuery()}
+      on conflict ("id") do update set
+      ${Object.keys(cities[0]).map((field) => `"${field}" = excluded."${field}"`).join(', ')}
+    `);
+  }, Promise.resolve());
 }
 
 export async function down(knex: Knex): Promise<any> {
