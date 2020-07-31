@@ -24,7 +24,7 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.4.5
+yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.4.6
 ```
 
 Список версий [см. здесь](https://gitlab.com/via-profit-services/geography/-/tags)
