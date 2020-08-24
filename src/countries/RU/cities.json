@@ -7080,18 +7080,6 @@
     "timezone": "Asia/Yekaterinburg"
   },
   {
-    "id": "dd934034-f545-42c8-95f8-ae4d10d7a930",
-    "en": "Chelyabinsk",
-    "ru": "Челябинск",
-    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
-    "countryCode": "RU",
-    "state": "d0570ae8-7716-4571-a0d4-4ac06604a68e",
-    "stateCode": "CHE",
-    "latitude": "55.16553000",
-    "longitude": "61.41673000",
-    "timezone": "Asia/Yekaterinburg"
-  },
-  {
     "id": "7b65a07f-4ee7-4a87-a767-9a0648fe1db4",
     "en": "Kanashevo",
     "ru": "Канашево",
