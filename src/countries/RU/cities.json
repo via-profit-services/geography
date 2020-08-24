@@ -44845,14 +44845,14 @@
   },
   {
     "id": "30371275-13ac-4038-9fe3-f0e076251fe0",
-    "en": "Kazan’",
+    "en": "Kazan",
     "ru": "Казань",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "state": "50b1e47e-0155-4f3d-8d85-49a39d50defc",
     "stateCode": "TA",
-    "latitude": "55.75000000",
-    "longitude": "49.13333000",
+    "latitude": "55.796289",
+    "longitude": "49.108795",
     "timezone": "Europe/Moscow"
   },
   {
@@ -44937,18 +44937,6 @@
     "stateCode": "TA",
     "latitude": "55.41667000",
     "longitude": "48.16667000",
-    "timezone": "Europe/Moscow"
-  },
-  {
-    "id": "ca28fd7a-fded-4618-8d99-0b0817e9abd8",
-    "en": "Kazan",
-    "ru": "Казань",
-    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
-    "countryCode": "RU",
-    "state": "50b1e47e-0155-4f3d-8d85-49a39d50defc",
-    "stateCode": "TA",
-    "latitude": "55.78874000",
-    "longitude": "49.12214000",
     "timezone": "Europe/Moscow"
   },
   {
