@@ -26582,13 +26582,13 @@
   {
     "id": "eee73838-158d-4048-98da-0e390f974f7f",
     "en": "Khimki Urban Okrug",
-    "ru": "Химки",
+    "ru": "Городской округ Химки",
     "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
     "countryCode": "RU",
     "state": "1840e714-a38c-409e-974d-b6301edcc52e",
     "stateCode": "MOS",
-    "latitude": "55.91667000",
-    "longitude": "37.41667000",
+    "latitude": "55.943190",
+    "longitude": "37.436984",
     "timezone": "Europe/Moscow"
   },
   {
