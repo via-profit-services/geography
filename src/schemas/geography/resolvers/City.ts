@@ -20,6 +20,7 @@ const driverResolver = new Proxy<TDriverResolver>({
   stateCode: () => ({}),
   latitude: () => ({}),
   longitude: () => ({}),
+  timezone: () => ({}),
 }, {
   get: (target, prop: keyof ICity) => {
     const resolver: IFieldResolver<IParent, Context> = async (parent, args, context) => {
