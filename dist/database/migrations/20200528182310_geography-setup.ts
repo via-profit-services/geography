@@ -8,8 +8,7 @@
  *     `geographyCountries`
  */
 
-/* eslint-disable import/no-extraneous-dependencies */
-import * as Knex from 'knex';
+import { Knex } from '@via-profit-services/core';
 
 export async function up(knex: Knex): Promise<any> {
   return knex.raw(`
