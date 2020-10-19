@@ -2,7 +2,7 @@
     "name": "@via-profit-services/geography",
     "private": true,
     "support": "https://via-profit.ru",
-    "version": "0.4.8",
+    "version": "0.4.9",
     "description": "Via Profit Geography Schema",
     "main": "dist/index.js",
     "scripts": {
