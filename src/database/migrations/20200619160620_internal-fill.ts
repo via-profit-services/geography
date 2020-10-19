@@ -1,5 +1,5 @@
 /* eslint-disable import/no-extraneous-dependencies */
-import * as Knex from 'knex';
+import { Knex } from '@via-profit-services/core';
 
 import * as by from '../../countries/BY';
 import * as ru from '../../countries/RU';
