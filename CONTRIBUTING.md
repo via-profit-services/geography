@@ -95,7 +95,7 @@ psql --host=localhost --username=services --dbname=services_geography --password
 Склонируйте репозиторий
 
 ```bash
-git clone git@gitlab.com:via-profit-services/geography.git
+git clone git@github.com:via-profit-services/geography.git
 ```
 
 **Замечание:** _(Необязательно)_ Чтобы запустить localhost на SSL используйте [mkcert](https://github.com/FiloSottile/mkcert) 

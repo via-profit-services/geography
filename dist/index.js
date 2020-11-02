@@ -2,7 +2,7 @@
  * 
  *  Via Profit Services / Geography
  * 
- *  Repository https://gitlab.com/via-profit-services/geography
+ *  Repository https://github.com/via-profit-services/geography
  *  Contact    promo@via-profit.ru
  *  Website    https://via-profit.ru
  *       

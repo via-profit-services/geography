@@ -66,12 +66,12 @@ npm manifest:
       },
       "repository": {
           "type": "git",
-          "url": "git@gitlab.com:via-profit-services/file-storage.git"
+          "url": "git@github.com:via-profit-services/file-storage.git"
       },
       "author": "Via Profit <promo@via-profit.ru>",
       "license": "MIT",
       "dependencies": {
-          "@via-profit-services/core": "ssh://git@gitlab.com:via-profit-services/core.git#semver:^0.18.1",
+          "@via-profit-services/core": "ssh://git@github.com:via-profit-services/core.git#semver:^0.18.1",
           "graphql": "^14.6.0",
           "graphql-import-node": "^0.0.4",
           "graphql-shield": "^7.2.2",
@@ -1401,9 +1401,9 @@ Lockfile:
       semver "^6.3.0"
       tsutils "^3.17.1"
   
-  "@via-profit-services/core@ssh://git@gitlab.com:via-profit-services/core.git#semver:^0.18.1":
+  "@via-profit-services/core@ssh://git@github.com:via-profit-services/core.git#semver:^0.18.1":
     version "0.18.1"
-    resolved "ssh://git@gitlab.com:via-profit-services/core.git#b320c5c345de02a99cd9abe9c4686656f880f6c2"
+    resolved "ssh://git@github.com:via-profit-services/core.git#b320c5c345de02a99cd9abe9c4686656f880f6c2"
     dependencies:
       "@graphql-toolkit/core" "^0.9.1"
       "@graphql-toolkit/schema-merging" "^0.9.1"
