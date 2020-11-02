@@ -24,10 +24,10 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@gitlab.com:via-profit-services/geography.git#semver:^0.4.9
+yarn add ssh://git@github.com:via-profit-services/geography.git#semver:^0.4.9
 ```
 
-Список версий [см. здесь](https://gitlab.com/via-profit-services/geography/-/tags)
+Список версий [см. здесь](https://github.com/via-profit-services/geography/-/tags)
 
 ### Миграции
 
