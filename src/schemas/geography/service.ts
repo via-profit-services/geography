@@ -42,21 +42,20 @@ class Geography {
         // This is a temporary solution until the «Search» module is implemented
         if (search) {
           search.forEach(({ field, query }) => {
-            query.split(' ').map((subquery) => {
+            query.split(' ').map((subquery) =>
               // Note: Set type ::text forcibly
-              return builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`);
-            });
+               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`),
+            );
           });
         }
+
         return builder;
       })
       .orderBy(convertOrderByToKnex(orderBy))
-      .then(async (nodes) => {
-        return {
+      .then(async (nodes) => ({
           totalCount: nodes.length ? Number(nodes[0].totalCount) : 0,
           // eslint-disable-next-line @typescript-eslint/no-unused-vars
-          nodes: nodes.map(({ totalCount, ...nodeData }) => {
-            return {
+          nodes: nodes.map(({ totalCount, ...nodeData }) => ({
               ...nodeData,
               country: {
                 id: nodeData.country,
@@ -66,10 +65,8 @@ class Geography {
               },
               createdAt,
               updatedAt: createdAt,
-            };
-          }),
-        };
-      });
+            })),
+        }));
 
 
     const { totalCount, nodes } = dbResponse;
@@ -96,6 +93,7 @@ class Geography {
 
   public async getCity(id: string): Promise<ICity | false> {
     const nodes = await this.getCitiesByIds([id]);
+
     return nodes.length ? nodes[0] : false;
   }
 
@@ -120,31 +118,28 @@ class Geography {
         // This is a temporary solution until the «Search» module is implemented
         if (search) {
           search.forEach(({ field, query }) => {
-            query.split(' ').map((subquery) => {
+            query.split(' ').map((subquery) =>
               // Note: Set type ::text forcibly
-              return builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`);
-            });
+               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`),
+            );
           });
         }
+
         return builder;
       })
       .orderBy(convertOrderByToKnex(orderBy))
-      .then(async (nodes) => {
-        return {
+      .then(async (nodes) => ({
           totalCount: nodes.length ? Number(nodes[0].totalCount) : 0,
           // eslint-disable-next-line @typescript-eslint/no-unused-vars
-          nodes: nodes.map(({ totalCount, ...nodeData }) => {
-            return {
+          nodes: nodes.map(({ totalCount, ...nodeData }) => ({
               ...nodeData,
               country: {
                 id: nodeData.country,
               },
               createdAt,
               updatedAt: createdAt,
-            };
-          }),
-        };
-      });
+            })),
+        }));
 
 
     const { totalCount, nodes } = dbResponse;
@@ -171,6 +166,7 @@ class Geography {
 
   public async getState(id: string): Promise<IState | false> {
     const nodes = await this.getSatatesByIds([id]);
+
     return nodes.length ? nodes[0] : false;
   }
 
@@ -195,31 +191,28 @@ class Geography {
         // This is a temporary solution until the «Search» module is implemented
         if (search) {
           search.forEach(({ field, query }) => {
-            query.split(' ').map((subquery) => {
+            query.split(' ').map((subquery) =>
               // Note: Set type ::text forcibly
-              return builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`);
-            });
+               builder.orWhereRaw(`"${field}"::text ${TWhereAction.ILIKE} '%${subquery}%'`),
+            );
           });
         }
+
         return builder;
       })
       .orderBy(convertOrderByToKnex(orderBy))
-      .then(async (nodes) => {
-        return {
+      .then(async (nodes) => ({
           totalCount: nodes.length ? Number(nodes[0].totalCount) : 0,
           // eslint-disable-next-line @typescript-eslint/no-unused-vars
-          nodes: nodes.map(({ totalCount, ...nodeData }) => {
-            return {
+          nodes: nodes.map(({ totalCount, ...nodeData }) => ({
               ...nodeData,
               capital: nodeData.capital ? {
                 id: nodeData.capital,
               } : null,
               createdAt,
               updatedAt: createdAt,
-            };
-          }),
-        };
-      });
+            })),
+        }));
 
 
     const { totalCount, nodes } = dbResponse;
@@ -246,6 +239,7 @@ class Geography {
 
   public async getCountry(id: string): Promise<ICountry | false> {
     const nodes = await this.getCountriesByIds([id]);
+
     return nodes.length ? nodes[0] : false;
   }
 }
