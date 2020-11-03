@@ -2,7 +2,7 @@
     "name": "@via-profit-services/geography",
     "private": true,
     "support": "https://via-profit.ru",
-    "version": "0.4.9",
+    "version": "0.4.10",
     "description": "Via Profit Geography Schema",
     "main": "dist/index.js",
     "engines": {
@@ -61,8 +61,8 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "graphql": "^15.4.0",
-        "@via-profit-services/core": "^0.30.10"
+        "@via-profit-services/core": "^0.30.10",
+        "graphql": "^15.4.0"
     },
     "devDependencies": {
         "@jagi/jest-transform-graphql": "^1.0.2",
