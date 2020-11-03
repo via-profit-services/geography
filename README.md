@@ -4,6 +4,9 @@
 
 > Via Profit services / **Geography** - это пакет, который является частью сервиса, базирующегося на `via-profit-services` и представляет собой реализацию схемы работы с городами.
 
+![npm (scoped)](https://img.shields.io/npm/v/@via-profit-services/geography?color=blue)
+![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/@via-profit-services/geography?color=red)
+
 
 ## TODO
 
@@ -24,10 +27,9 @@
 ### Установка
 
 ```bash
-yarn add ssh://git@github.com:via-profit-services/geography.git#semver:^0.4.9
+yarn add @via-profit-services/geography
 ```
 
-Список версий [см. здесь](https://github.com/via-profit-services/geography/-/tags)
 
 ### Миграции
 

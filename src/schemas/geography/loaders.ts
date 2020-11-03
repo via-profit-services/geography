@@ -27,22 +27,16 @@ export default function createLoaders(context: Context) {
   const service = new GeographyService({ context });
 
   // cities loader
-  loaders.cities = new DataLoader((ids: string[]) => {
-    return service.getCitiesByIds(ids)
-      .then((nodes) => collateForDataloader(ids, nodes as Node<ICity>[]));
-  });
+  loaders.cities = new DataLoader((ids: string[]) => service.getCitiesByIds(ids)
+      .then((nodes) => collateForDataloader(ids, nodes as Node<ICity>[])));
 
   // states loader
-  loaders.states = new DataLoader((ids: string[]) => {
-    return service.getSatatesByIds(ids)
-      .then((nodes) => collateForDataloader(ids, nodes as Node<IState>[]));
-  });
+  loaders.states = new DataLoader((ids: string[]) => service.getSatatesByIds(ids)
+      .then((nodes) => collateForDataloader(ids, nodes as Node<IState>[])));
 
   // countries loader
-  loaders.countries = new DataLoader((ids: string[]) => {
-    return service.getCountriesByIds(ids)
-      .then((nodes) => collateForDataloader(ids, nodes as Node<ICountry>[]));
-  });
+  loaders.countries = new DataLoader((ids: string[]) => service.getCountriesByIds(ids)
+      .then((nodes) => collateForDataloader(ids, nodes as Node<ICountry>[])));
 
   return loaders;
 }
