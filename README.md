@@ -17,14 +17,21 @@
 
 ## Содержание
 
+- [Зависимости](#dependencies)
 - [Установка и настройка](#setup)
 - [Как использовать](#how-to-use)
 - [Подключение](#integration)
 
+## <a name="dependencies"></a> Зависимости
+
+  Модули, которые необходимо установить вручную
+- [@via-profit-services/core](https://github.com/via-profit-services/core) - Основной graphql-сервер
 
 ## <a name="setup"></a> Установка и настройка
 
 ### Установка
+
+Предполагается, что у вас уже установлен пакет [@via-profit-services/core](https://github.com/via-profit-services/core). Если нет, то перейдите на страницу проекта и установите модуль согласно документации
 
 ```bash
 yarn add @via-profit-services/geography
@@ -36,7 +43,8 @@ yarn add @via-profit-services/geography
 1. После первой установки примените все необходимые миграции:
 
 ```bash
-yarn knex:migrate:latest
+yarn via-profit-core get-migrations -m ./src/database/migrations
+yarn via-profit-core knex migrate latest --knexfile ./src/utils/knexfile.ts
 ```
 
 После применения миграций будут созданы все необходимые таблицы в вашей базе данных
@@ -53,7 +61,7 @@ yarn knex:migrate:make internal-geography-fill
 
 ```ts
 /* eslint-disable import/no-extraneous-dependencies */
-import * as Knex from 'knex';
+import { knex } from '@via-profit-services/core';
 import * as kz from '@via-profit-services/geography/dist/countries/KZ';
 import * as ru from '@via-profit-services/geography/dist/countries/RU';
 import * as ua from '@via-profit-services/geography/dist/countries/UA';

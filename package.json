@@ -1,8 +1,7 @@
 {
     "name": "@via-profit-services/geography",
-    "private": true,
     "support": "https://via-profit.ru",
-    "version": "0.4.10",
+    "version": "0.4.11",
     "description": "Via Profit Geography Schema",
     "main": "dist/index.js",
     "engines": {
@@ -61,12 +60,10 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "@via-profit-services/core": "^0.30.10",
-        "graphql": "^15.4.0"
+        "@via-profit-services/core": "^0.31.1"
     },
     "devDependencies": {
         "@jagi/jest-transform-graphql": "^1.0.2",
-        "@types/faker": "^4.1.10",
         "@types/jest": "^24.0.23",
         "@types/node": "^13.13.5",
         "@types/supertest": "^2.0.8",
@@ -93,7 +90,6 @@
         "eslint-plugin-promise": "^4.2.1",
         "eslint-plugin-react": "^7.21.5",
         "eslint-plugin-standard": "^4.0.2",
-        "faker": "^4.1.0",
         "filemanager-webpack-plugin": "^2.0.5",
         "form-data": "^3.0.0",
         "geo-tz": "^6.0.0",
