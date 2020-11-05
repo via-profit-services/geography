@@ -54,14 +54,14 @@ yarn via-profit-core knex migrate latest --knexfile ./src/utils/knexfile.ts
 2. Создайте файл миграций используя команду ниже:
 
 ```bash
-yarn knex:migrate:make internal-geography-fill
+yarn via-profit-core knex migrate make -n internal-geography-fill --knexfile ./src/utils/knexfile.ts
 ```
 
 3. Поместите код, указанный ниже, в созданный файл миграций. При необходимости скорректируйте набор стран, которые вы будете использовать
 
 ```ts
 /* eslint-disable import/no-extraneous-dependencies */
-import { knex } from '@via-profit-services/core';
+import { Knex } from '@via-profit-services/core';
 import * as kz from '@via-profit-services/geography/dist/countries/KZ';
 import * as ru from '@via-profit-services/geography/dist/countries/RU';
 import * as ua from '@via-profit-services/geography/dist/countries/UA';
