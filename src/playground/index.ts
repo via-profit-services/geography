@@ -1,51 +1,54 @@
 /* eslint-disable no-console */
-/* eslint-disable import/no-extraneous-dependencies */
-import { App, schemas } from '@via-profit-services/core';
-import chalk from 'chalk';
-import { v4 as uuidv4 } from 'uuid';
+import { makeExecutableSchema } from '@graphql-tools/schema';
+import applicationFactory, { typeDefs, resolvers } from '@via-profit-services/core';
+import knexFactory from '@via-profit-services/knex';
+import dotenv from 'dotenv';
+import express from 'express';
+import http from 'http';
 
-import { typeDefs, resolvers } from '../schemas/geography';
-import { configureApp } from '../utils/configureApp';
+import geographyFactory from '../index';
 
-const config = configureApp({
+dotenv.config();
+
+const PORT = 9005;
+const app = express();
+const server = http.createServer(app);
+
+const knex = knexFactory({
+  connection: {
+    user: process.env.DB_USER,
+    database: process.env.DB_NAME,
+    password: process.env.DB_PASSWORD,
+    host: process.env.DB_HOST,
+  },
+});
+
+const geography = geographyFactory();
+
+const schema = makeExecutableSchema({
   typeDefs: [
     typeDefs,
+    geography.typeDefs,
   ],
   resolvers: [
     resolvers,
+    geography.resolvers,
+  ],
+})
+
+const application = applicationFactory({
+  schema,
+  server,
+  debug: true,
+  enableIntrospection: true,
+  middleware: [
+    knex.middleware,
+    geography.middleware,
   ],
 });
 
-const app = new App(config);
-const AuthService = schemas.auth.service;
-
-app.bootstrap((props) => {
-  const { resolveUrl, context } = props;
-  if (process.env.NODE_ENV !== 'development') {
-    console.log(`GraphQL server was started at ${resolveUrl.graphql}`);
-
-    return;
-  }
-
-  console.log('');
-  const authService = new AuthService({ context });
-  const { accessToken } = authService.generateTokens({
-    uuid: uuidv4(),
-    roles: ['developer'],
-  }, {
-    access: 2.592e6,
-    refresh: 2.592e6,
-  });
-
-  console.log(chalk.green('Your development token is:'));
-  console.log(chalk.yellow(accessToken.token));
-  console.log('');
-
-  console.log('');
-  console.log(chalk.green('============== Server =============='));
-  console.log('');
-  console.log(`${chalk.green('GraphQL server')}:     ${chalk.yellow(resolveUrl.graphql)}`);
-  console.log(`${chalk.green('Auth server')}:        ${chalk.yellow(resolveUrl.auth)}`);
-
-  console.log('');
+app.use(application);
+server.listen(PORT, () => {
+  console.log(`GraphQL server started at http://localhost:${PORT}/graphql`);
+  console.log(`Subscription server started at ws://localhost:${PORT}/graphql`);
 });

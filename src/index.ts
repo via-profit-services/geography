@@ -1,2 +1,8 @@
+import GeographyService from './GeographyService';
+import geographyMiddlewareFactory from './middleware';
 
-export * from './schemas';
+export {
+  GeographyService,
+};
+
+export default geographyMiddlewareFactory;
