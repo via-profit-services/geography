@@ -5,27 +5,33 @@ import DataLoader from 'dataloader';
 import GeographyService from './GeographyService';
 
 
+const dataloader: Pick<DataLoaderCollection, 'geography'> = {
+  geography: {
+    countries: null,
+    states: null,
+    cities: null,
+  },
+};
+
 export default (context: Context): Pick<DataLoaderCollection, 'geography'> => {
+
+  if (dataloader.geography.cities !== null) {
+    return dataloader;
+  }
 
   const service = new GeographyService({ context });
 
   // cities loader
-  const cities = new DataLoader((ids: string[]) => service.getCitiesByIds(ids)
+  dataloader.geography.cities = new DataLoader((ids: string[]) => service.getCitiesByIds(ids)
       .then((nodes) => collateForDataloader(ids, nodes as Node<City>[])));
 
   // states loader
-  const states = new DataLoader((ids: string[]) => service.getSatatesByIds(ids)
+  dataloader.geography.states = new DataLoader((ids: string[]) => service.getSatatesByIds(ids)
       .then((nodes) => collateForDataloader(ids, nodes as Node<State>[])));
 
   // countries loader
-  const countries = new DataLoader((ids: string[]) => service.getCountriesByIds(ids)
+  dataloader.geography.countries = new DataLoader((ids: string[]) => service.getCountriesByIds(ids)
       .then((nodes) => collateForDataloader(ids, nodes as Node<Country>[])));
 
-  return {
-    geography: {
-      countries,
-      states,
-      cities,
-    },
-  };
+  return dataloader;
 }
