@@ -1,15 +1,13 @@
 declare module '@via-profit-services/geography' {
   import { Context, OutputFilter, ListResponse, Middleware } from '@via-profit-services/core';
-  import { IResolvers } from '@graphql-tools/utils';
-  import { DocumentNode } from 'graphql';
 
   export interface GeographyServiceProps {
     context: Context;
   }
 
   export type GeographyMiddlewareFactory = () => {
-    typeDefs: DocumentNode;
-    resolvers: IResolvers;
+    typeDefs: string;
+    resolvers: any;
     middleware: Middleware;
   }
 

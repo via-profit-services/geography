@@ -11,6 +11,7 @@ import webpackBaseConfig from './webpack-config-base';
 const webpackProdConfig: Configuration = merge(webpackBaseConfig, {
   entry: {
     index: path.resolve(__dirname, '../src/index.ts'),
+    schema: path.resolve(__dirname, '../src/schema.graphql'),
   },
   optimization: {
     minimize: false,
@@ -54,6 +55,11 @@ Contact    ${packageInfo.support}
           fs.copySync(
             path.resolve(__dirname, '../src/countries'),
             path.resolve(__dirname, '../dist/countries'),
+          );
+
+          fs.copySync(
+            path.resolve(__dirname, '../src/schema.d.ts'),
+            path.resolve(__dirname, '../dist/schema.d.ts'),
           );
           callback();
         });

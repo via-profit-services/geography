@@ -12,9 +12,11 @@ dotenv.config();
 
 const PORT = 9005;
 const app = express();
+const LOG_DIR = './log';
 const server = http.createServer(app);
 
 const knex = knexFactory({
+  logDir: LOG_DIR,
   connection: {
     user: process.env.DB_USER,
     database: process.env.DB_NAME,
@@ -36,18 +38,19 @@ const schema = makeExecutableSchema({
   ],
 })
 
-const application = applicationFactory({
+const { viaProfitGraphql } = applicationFactory({
   schema,
   server,
+  logDir: LOG_DIR,
   debug: true,
   enableIntrospection: true,
   middleware: [
-    knex.middleware,
+    knex,
     geography.middleware,
   ],
 });
 
-app.use(application);
+app.use(viaProfitGraphql);
 server.listen(PORT, () => {
   console.log(`GraphQL server started at http://localhost:${PORT}/graphql`);
   console.log(`Subscription server started at ws://localhost:${PORT}/graphql`);
