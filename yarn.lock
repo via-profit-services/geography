@@ -858,10 +858,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^14.14.11":
-  version: 14.14.11
-  resolution: "@types/node@npm:14.14.11"
-  checksum: aa09069a4914819692278da742c11f629ce61ff40682e13afbc4421d0647107bffb6bcb8929d1cf8da22821779164078ae86a382f61324c9df7e1af8eaed567b
+"@types/node@npm:^14.14.13":
+  version: 14.14.13
+  resolution: "@types/node@npm:14.14.13"
+  checksum: a879dae2e047e75055b0f4fb217aac31e905e49f921054f6425e8494e7a75dec82d351770b1a0e79a00322345896646a4dadc5fa27c857e392d6909e54cdba9e
   languageName: node
   linkType: hard
 
@@ -1161,9 +1161,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.5.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 0.31.6-rc.5
-  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.5.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
+"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
+  version: 0.31.6-rc.6
+  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
   dependencies:
     bufferutil: ^4.0.2
     utf-8-validate: ^5.0.3
@@ -1180,7 +1180,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: b37fb0cbe7eccfb668f7cad0d99c60ddcf80e2c58523794cb884c208202ac4d0ec44ccc0f4f16e13b9a293f1d9cde0f24da8deef9a1a722f7ec00fef9dfa112a
+  checksum: f53de38224d74994e473aa773a006d5836d0dab6efd6e5ce3b650da983a444467422eec7272502fd6b40ccce6d3587a540e7cdeb7e9b2b2e65adced8a0b44070
   languageName: node
   linkType: hard
 
@@ -1201,7 +1201,7 @@ __metadata:
     "@types/express": ^4.17.9
     "@types/fs-extra": ^9.0.4
     "@types/jest": ^26.0.18
-    "@types/node": ^14.14.11
+    "@types/node": ^14.14.13
     "@types/supertest": ^2.0.8
     "@types/uuid": ^7.0.0
     "@types/webpack": ^4.41.25
@@ -1210,7 +1210,7 @@ __metadata:
     "@types/webpack-node-externals": ^1.7.0
     "@typescript-eslint/eslint-plugin": ^4.6.1
     "@typescript-eslint/parser": ^4.6.1
-    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.5.tgz"
+    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.6.tgz"
     "@via-profit-services/eslint-config": ^0.1.11
     "@via-profit-services/knex": "file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.3.tgz"
     "@zerollup/ts-transform-paths": ^1.7.11
