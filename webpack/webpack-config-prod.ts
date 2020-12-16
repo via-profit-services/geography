@@ -58,7 +58,7 @@ Contact    ${packageInfo.support}
           );
 
           fs.copySync(
-            path.resolve(__dirname, '../src/schema.d.ts'),
+            path.resolve(__dirname, '../src/@types/schema.d.ts'),
             path.resolve(__dirname, '../dist/schema.d.ts'),
           );
           callback();

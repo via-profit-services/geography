@@ -16,6 +16,9 @@
 /converted
 /sessions
 
+/package.tgz
+/package-*.tgz
+
 /sandbox.js
 
 
