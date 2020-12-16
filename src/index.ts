@@ -1,8 +1,9 @@
-import GeographyService from './GeographyService';
-import geographyMiddlewareFactory from './middleware';
+import factory from './middleware';
+import resolvers from './resolvers';
+import typeDefs from './schema.graphql';
 
 export {
-  GeographyService,
+  factory,
+  resolvers,
+  typeDefs,
 };
-
-export default geographyMiddlewareFactory;

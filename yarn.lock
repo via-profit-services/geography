@@ -1161,9 +1161,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 0.31.6-rc.6
-  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
+"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.15.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
+  version: 0.31.6-rc.15
+  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.15.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
   dependencies:
     bufferutil: ^4.0.2
     utf-8-validate: ^5.0.3
@@ -1173,6 +1173,7 @@ __metadata:
     graphql: "*"
     moment: "*"
     moment-timezone: "*"
+    supports-color: "*"
     winston: "*"
     winston-daily-rotate-file: "*"
   dependenciesMeta:
@@ -1180,7 +1181,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: f53de38224d74994e473aa773a006d5836d0dab6efd6e5ce3b650da983a444467422eec7272502fd6b40ccce6d3587a540e7cdeb7e9b2b2e65adced8a0b44070
+  checksum: 3ed3e823877e7ac5329bcae4c14d2e53865290b566555fc72f490b1a2b618c38825ff77e4839f35011e570a792f7b8718371345f48e39ba5b1f096f2f63f6d8d
   languageName: node
   linkType: hard
 
@@ -1210,9 +1211,9 @@ __metadata:
     "@types/webpack-node-externals": ^1.7.0
     "@typescript-eslint/eslint-plugin": ^4.6.1
     "@typescript-eslint/parser": ^4.6.1
-    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.6.tgz"
+    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.15.tgz"
     "@via-profit-services/eslint-config": ^0.1.11
-    "@via-profit-services/knex": "file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.3.tgz"
+    "@via-profit-services/knex": "file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.6.tgz"
     "@zerollup/ts-transform-paths": ^1.7.11
     clean-webpack-plugin: ^3.0.0
     copy-webpack-plugin: ^5.1.1
@@ -1278,9 +1279,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.3.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 0.1.0-rc.3
-  resolution: "@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.3.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
+"@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
+  version: 0.1.0-rc.6
+  resolution: "@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
   dependencies:
     pg: ^8.5.1
     pg-hstore: ^2.3.3
@@ -1293,7 +1294,7 @@ __metadata:
     moment-timezone: "*"
     winston: "*"
     winston-daily-rotate-file: "*"
-  checksum: 45e11467ca3f0585241a8f3d016227e0d56785bc02b93b179ffa1b661357ff99ea0a232499faefd6da4938a42d61360e8ffe9153218dab71cd17f2e0ade8f555
+  checksum: c2d31f473726577c3a0cf33430544a2f8f8f3a54014482216ecc7c4f1b74fe19d697aee151a0566d4fc09e00aca6fa70f12d9e958f0680ddb89cbee1af541727
   languageName: node
   linkType: hard
 

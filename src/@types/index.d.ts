@@ -5,11 +5,7 @@ declare module '@via-profit-services/geography' {
     context: Context;
   }
 
-  export type GeographyMiddlewareFactory = () => {
-    typeDefs: string;
-    resolvers: any;
-    middleware: Middleware;
-  }
+  export type GeographyMiddlewareFactory = () => Middleware;
 
   export interface Country {
     id: string;
@@ -53,7 +49,7 @@ declare module '@via-profit-services/geography' {
   }
 
 
-  export class GeographyService {
+  class GeographyService {
     props: GeographyServiceProps;
     constructor(props: GeographyServiceProps);
     getCities(filter: Partial<OutputFilter>): Promise<ListResponse<City>>;
@@ -67,13 +63,14 @@ declare module '@via-profit-services/geography' {
     getCountry(id: string): Promise<Country | false>;
   }
 
-  const geographyMiddlewareFactory: GeographyMiddlewareFactory;
-  export default geographyMiddlewareFactory;
+  export const typeDefs: string;
+  export const resolvers: any;
+  export const factory: GeographyMiddlewareFactory;
 }
 
 declare module '@via-profit-services/core' {
   import DataLoader from 'dataloader';
-  import { Country, State, City } from '@via-profit-services/geography';
+  import { Country, State, City, GeographyService } from '@via-profit-services/geography';
 
   interface DataLoaderCollection {
     geography: {
@@ -81,6 +78,10 @@ declare module '@via-profit-services/core' {
       states: DataLoader<string,  Node<State>>;
       cities: DataLoader<string,  Node<City>>;
     }
+  }
+
+  interface ServicesCollection {
+    geography: GeographyService;
   }
 }
 

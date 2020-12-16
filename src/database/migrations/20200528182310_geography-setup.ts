@@ -8,7 +8,7 @@
  *     `geographyCountries`
  */
 
-import { Knex } from '@via-profit-services/knex';
+import type Knex from 'knex';
 
 export async function up(knex: Knex): Promise<any> {
   return knex.raw(`
