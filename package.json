@@ -34,6 +34,7 @@
         "analyze": "cross-env ANALYZE=true yarn build:dist",
         "test": "jest",
         "lint": "eslint --ext .ts ./src/ --fix .",
+        "seed": "yarn knex seed:run --knexfile ./.knex/knexfile.js",
         "migrate:latest": "yarn knex migrate:latest --knexfile ./.knex/knexfile.js",
         "migrate:up": "yarn knex migrate:up --knexfile ./.knex/knexfile.js",
         "migrate:down": "yarn knex migrate:down --knexfile ./.knex/knexfile.js",
