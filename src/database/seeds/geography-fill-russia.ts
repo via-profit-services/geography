@@ -7,12 +7,6 @@ const list = [ru];
 
 // eslint-disable-next-line arrow-body-style
 export async function seed(knex: Knex): Promise<any> {
-  await knex.raw(`
-    truncate table "geographyCountries" cascade;
-    truncate table "geographyStates" cascade;
-    truncate table "geographyCities" cascade;
-  `);
-
   return list.reduce(async (prev, { countries, states, cities }) => {
     await prev;
 
