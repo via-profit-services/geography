@@ -1161,27 +1161,28 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.15.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 0.31.6-rc.15
-  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.15.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
+"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
+  version: 1.0-rc.1
+  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
   dependencies:
     bufferutil: ^4.0.2
+    content-type: ^1.0.4
+    raw-body: ^2.4.1
     utf-8-validate: ^5.0.3
   peerDependencies:
-    dataloader: "*"
-    express: "*"
-    graphql: "*"
-    moment: "*"
-    moment-timezone: "*"
-    supports-color: "*"
-    winston: "*"
-    winston-daily-rotate-file: "*"
+    dataloader: ^2.0.0
+    express: ^4.17.1
+    graphql: ^15.4.0
+    moment: ^2.29.1
+    moment-timezone: ^0.5.32
+    winston: ^3.3.3
+    winston-daily-rotate-file: ^4.5.0
   dependenciesMeta:
     bufferutil:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 3ed3e823877e7ac5329bcae4c14d2e53865290b566555fc72f490b1a2b618c38825ff77e4839f35011e570a792f7b8718371345f48e39ba5b1f096f2f63f6d8d
+  checksum: 061625c2014e55f7e07cbc7235bb240d44513388b3f0ca3ce35d33e45f78c887340db9f87a0ed92912d59764a5d032b21f988c7eba4ea26e368be90c6aa1eda9
   languageName: node
   linkType: hard
 
@@ -1211,9 +1212,9 @@ __metadata:
     "@types/webpack-node-externals": ^1.7.0
     "@typescript-eslint/eslint-plugin": ^4.6.1
     "@typescript-eslint/parser": ^4.6.1
-    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-0.31.6-rc.15.tgz"
+    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz"
     "@via-profit-services/eslint-config": ^0.1.11
-    "@via-profit-services/knex": "file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.6.tgz"
+    "@via-profit-services/knex": "file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz"
     "@zerollup/ts-transform-paths": ^1.7.11
     clean-webpack-plugin: ^3.0.0
     copy-webpack-plugin: ^5.1.1
@@ -1273,28 +1274,20 @@ __metadata:
     winston: ^3.3.3
     winston-daily-rotate-file: ^4.5.0
   peerDependencies:
-    "@via-profit-services/core": "*"
-    "@via-profit-services/knex": "*"
+    "@via-profit-services/core": ^1.0.0
+    "@via-profit-services/knex": ^1.0.0
     graphql: "*"
   languageName: unknown
   linkType: soft
 
-"@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 0.1.0-rc.6
-  resolution: "@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-0.1.0-rc.6.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
-  dependencies:
-    pg: ^8.5.1
-    pg-hstore: ^2.3.3
-    pg-listen: ^1.6.0
-    supports-color: ^8.0.0
+"@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
+  version: 1.0.0-rc.1
+  resolution: "@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
   peerDependencies:
-    "@via-profit-services/core": "*"
-    knex: "*"
-    moment: "*"
-    moment-timezone: "*"
-    winston: "*"
-    winston-daily-rotate-file: "*"
-  checksum: c2d31f473726577c3a0cf33430544a2f8f8f3a54014482216ecc7c4f1b74fe19d697aee151a0566d4fc09e00aca6fa70f12d9e958f0680ddb89cbee1af541727
+    "@via-profit-services/core": 1.x.x
+    knex: 1.x.x
+    pg: ^8.5.1
+  checksum: 0892df69eac7fff4bbb1bbf4a56c9dcea9b6ae87feb9a92903a50f2bb193e53403903f92f2d76d6bb30449ee5a737f66ef98c771d2d68beff2a169ad37826c22
   languageName: node
   linkType: hard
 
@@ -3312,7 +3305,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"content-type@npm:~1.0.4":
+"content-type@npm:^1.0.4, content-type@npm:~1.0.4":
   version: 1.0.4
   resolution: "content-type@npm:1.0.4"
   checksum: ff6e19cbf281c23d5608723a6dc60ac97e2280bd4d21602511283112321e6c1555895e395555e367672b54a0f1585276284b7c3c8be313aca73902ac2f2609fd
@@ -6111,19 +6104,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"http-errors@npm:~1.6.2":
-  version: 1.6.3
-  resolution: "http-errors@npm:1.6.3"
-  dependencies:
-    depd: ~1.1.2
-    inherits: 2.0.3
-    setprototypeof: 1.1.0
-    statuses: ">= 1.4.0 < 2"
-  checksum: 850a3bf69ffc56c5151cea4a31bdf47412b7a6af3ee3f4fc92d3c4d90f8398d8843806f0d81916b310b661eed93722272cf2d41c2cac2fd5d1d1c66d4077942c
-  languageName: node
-  linkType: hard
-
-"http-errors@npm:~1.7.2":
+"http-errors@npm:1.7.3, http-errors@npm:~1.7.2":
   version: 1.7.3
   resolution: "http-errors@npm:1.7.3"
   dependencies:
@@ -6133,6 +6114,18 @@ fsevents@~2.1.2:
     statuses: ">= 1.5.0 < 2"
     toidentifier: 1.0.0
   checksum: 563ae4a3f19c89029212922bade6ffcd0e4b7fa52e539f08c8f6941de7eaccb00bf76cb7692662192f2f0d567d4ac1f9d6a3d0ee70b166c8540cf791497f90ea
+  languageName: node
+  linkType: hard
+
+"http-errors@npm:~1.6.2":
+  version: 1.6.3
+  resolution: "http-errors@npm:1.6.3"
+  dependencies:
+    depd: ~1.1.2
+    inherits: 2.0.3
+    setprototypeof: 1.1.0
+    statuses: ">= 1.4.0 < 2"
+  checksum: 850a3bf69ffc56c5151cea4a31bdf47412b7a6af3ee3f4fc92d3c4d90f8398d8843806f0d81916b310b661eed93722272cf2d41c2cac2fd5d1d1c66d4077942c
   languageName: node
   linkType: hard
 
@@ -9759,39 +9752,10 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"pg-format@npm:^1.0.4":
-  version: 1.0.4
-  resolution: "pg-format@npm:1.0.4"
-  checksum: db56d6191fc2c332496c431d31a20e22303a75ced10e99d645e553a481a2220ce3b80bf3428f5e92fadd2b20b1bc695fe1c2e7e8a3d0eb74d34d5362971f47a9
-  languageName: node
-  linkType: hard
-
-"pg-hstore@npm:^2.3.3":
-  version: 2.3.3
-  resolution: "pg-hstore@npm:2.3.3"
-  dependencies:
-    underscore: ^1.7.0
-  checksum: 8e496d4800f08cb8510b11afe92e25af85cecfa0434b44b267d05c9ac27b22539252351eed39b0817ae37e434604bb67c84d8e30fdcc64f8b2bd1c44297d2a6b
-  languageName: node
-  linkType: hard
-
 "pg-int8@npm:1.0.1":
   version: 1.0.1
   resolution: "pg-int8@npm:1.0.1"
   checksum: b18c3a18e56a4f6de7c3c9df384a7ae47e7a3333ce1f36d324649116dfef4767ba01413993b12aa573ac44da1912d58cc6959eeb1c0f53a4ddb58861d1342a89
-  languageName: node
-  linkType: hard
-
-"pg-listen@npm:^1.6.0":
-  version: 1.6.1
-  resolution: "pg-listen@npm:1.6.1"
-  dependencies:
-    debug: ^4.1.1
-    pg-format: ^1.0.4
-    typed-emitter: ^0.1.0
-  peerDependencies:
-    pg: 7.x || 8.x
-  checksum: e45c8df22196ad456a0d58f86d141c4f56c9d4da0397b55e2cf060e8d9b318c65990f01a2cb08e613b6b024edf2c0efa79bd2102ea73ea19ce9f9811468a58d8
   languageName: node
   linkType: hard
 
@@ -10373,6 +10337,18 @@ fsevents@~2.1.2:
     iconv-lite: 0.4.24
     unpipe: 1.0.0
   checksum: 46dc02f8b4f358786d41e18fb55533fbe4702d390e22bbe2b9c98c88dec41cab23ea2315f3ae0bf4bc0213a2872c89943d3df6857f4e21f996ea9d2d92f1bcaa
+  languageName: node
+  linkType: hard
+
+"raw-body@npm:^2.4.1":
+  version: 2.4.1
+  resolution: "raw-body@npm:2.4.1"
+  dependencies:
+    bytes: 3.1.0
+    http-errors: 1.7.3
+    iconv-lite: 0.4.24
+    unpipe: 1.0.0
+  checksum: dc56e010d276f2fc3a17c2dd071f857917cd3734f64051488c845a9878a1eb47e03a9644861f135568d8ab4c2062072700b73060956b36f3a987025bc809402f
   languageName: node
   linkType: hard
 
@@ -12017,15 +11993,6 @@ resolve@1.1.7:
   languageName: node
   linkType: hard
 
-"supports-color@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "supports-color@npm:8.0.0"
-  dependencies:
-    has-flag: ^4.0.0
-  checksum: 9f60da6f115c2952712fe130060d94c1ab160d914fde264afbdcc6bd1cea9f47aebc02ffed206aa3e922427aa919c91212a7e03d0b4d570e76791918d541abcb
-  languageName: node
-  linkType: hard
-
 "symbol-tree@npm:^3.2.2":
   version: 3.2.4
   resolution: "symbol-tree@npm:3.2.4"
@@ -12583,13 +12550,6 @@ resolve@1.1.7:
   languageName: node
   linkType: hard
 
-"typed-emitter@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "typed-emitter@npm:0.1.0"
-  checksum: 3eda94d1fa1d037be8d3617ff85d98b25ba6bf87f0d27402df2388ee2b2ac7795e9ccac1070da7ffb2fb29be37af7fd1a8de63858e277b19a035692a0a21eb46
-  languageName: node
-  linkType: hard
-
 "typedarray-to-buffer@npm:^3.1.5":
   version: 3.1.5
   resolution: "typedarray-to-buffer@npm:3.1.5"
@@ -12656,13 +12616,6 @@ typescript@^3.7.2:
   dependencies:
     debug: ^2.2.0
   checksum: 0974f82a8750c3c247d5a9cf7fe91279d1fad0069dda7b717937e7960addddedf2ddabe3ffb1f504929acd0c924ef654c5c85185aee4c514a0fbf2e2a4efcf39
-  languageName: node
-  linkType: hard
-
-"underscore@npm:^1.7.0":
-  version: 1.12.0
-  resolution: "underscore@npm:1.12.0"
-  checksum: c4423fa2c68de8d5e0ccfdeeb7f61f803d6600b8ec14c1f154ad28f8734e3cdf39152e0e09a6a3f1e9911f6a815074b83803a7aa4dfee6f375427ec12e80d1d4
   languageName: node
   linkType: hard
 

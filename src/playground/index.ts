@@ -37,18 +37,17 @@ const server = http.createServer(app);
     ],
   })
 
-  const { viaProfitGraphql } = await core.factory({
+  const { graphQLExpress } = await core.factory({
     schema,
     server,
     debug: true,
-    enableIntrospection: true,
     middleware: [
       knexMiddleware,
       geographyMiddleware,
     ],
   });
 
-  app.use(viaProfitGraphql);
+  app.use(graphQLExpress);
   server.listen(PORT, () => {
     console.log(`GraphQL server started at http://localhost:${PORT}/graphql`);
   });
