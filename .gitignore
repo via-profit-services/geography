@@ -1,26 +1,25 @@
-/node_modules/
-/.env
-/.env.prod
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+.env
 /log
 /misc
-/sandbox.js
-
-# jest
 /coverage
-
-# webpack temporary dir
 /build
-
 /dist
 
-# jwt keys
-/keys
-dump.rdb
-
-/files
-/upload.sh
-/uploadMultiple.sh
 /public
 /source
 /converted
 /sessions
+
+/package.tgz
+/package-*.tgz
+
+/sandbox.js
+
+
+
