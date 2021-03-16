@@ -52,9 +52,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack-node-externals", "npm:1.7.1"],
             ["@typescript-eslint/eslint-plugin", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:4.6.1"],
             ["@typescript-eslint/parser", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:4.6.1"],
-            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.4"],
             ["@via-profit-services/eslint-config", "npm:0.1.11"],
-            ["@via-profit-services/knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.3"],
             ["@zerollup/ts-transform-paths", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.7.17"],
             ["clean-webpack-plugin", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:3.0.0"],
             ["copy-webpack-plugin", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:5.1.1"],
@@ -1503,17 +1503,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@via-profit-services/core", [
-        ["file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.", {
-          "packageLocation": "./.yarn/cache/@via-profit-services-core-file-730725b1a9-061625c201.zip/node_modules/@via-profit-services/core/",
+        ["npm:1.0.4", {
+          "packageLocation": "./.yarn/cache/@via-profit-services-core-npm-1.0.4-27c022a1d7-9f072f3b26.zip/node_modules/@via-profit-services/core/",
           "packageDependencies": [
-            ["@via-profit-services/core", "file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."]
+            ["@via-profit-services/core", "npm:1.0.4"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.", {
-          "packageLocation": "./.yarn/$$virtual/@via-profit-services-core-virtual-030befd9ad/0/cache/@via-profit-services-core-file-730725b1a9-061625c201.zip/node_modules/@via-profit-services/core/",
+        ["virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.4", {
+          "packageLocation": "./.yarn/$$virtual/@via-profit-services-core-virtual-9cbbb037f1/0/cache/@via-profit-services-core-npm-1.0.4-27c022a1d7-9f072f3b26.zip/node_modules/@via-profit-services/core/",
           "packageDependencies": [
-            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.4"],
             ["@types/dataloader", null],
             ["@types/express", "npm:4.17.9"],
             ["@types/graphql", null],
@@ -1581,9 +1581,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack-node-externals", "npm:1.7.1"],
             ["@typescript-eslint/eslint-plugin", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:4.6.1"],
             ["@typescript-eslint/parser", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:4.6.1"],
-            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.4"],
             ["@via-profit-services/eslint-config", "npm:0.1.11"],
-            ["@via-profit-services/knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.3"],
             ["@zerollup/ts-transform-paths", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.7.17"],
             ["clean-webpack-plugin", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:3.0.0"],
             ["copy-webpack-plugin", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:5.1.1"],
@@ -1647,21 +1647,21 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@via-profit-services/knex", [
-        ["file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.", {
-          "packageLocation": "./.yarn/cache/@via-profit-services-knex-file-8386bf6274-0892df69ea.zip/node_modules/@via-profit-services/knex/",
+        ["npm:1.0.3", {
+          "packageLocation": "./.yarn/cache/@via-profit-services-knex-npm-1.0.3-2993ed6b59-c1457ec8b0.zip/node_modules/@via-profit-services/knex/",
           "packageDependencies": [
-            ["@via-profit-services/knex", "file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."]
+            ["@via-profit-services/knex", "npm:1.0.3"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.", {
-          "packageLocation": "./.yarn/$$virtual/@via-profit-services-knex-virtual-cd444b4418/0/cache/@via-profit-services-knex-file-8386bf6274-0892df69ea.zip/node_modules/@via-profit-services/knex/",
+        ["virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.3", {
+          "packageLocation": "./.yarn/$$virtual/@via-profit-services-knex-virtual-23004001b3/0/cache/@via-profit-services-knex-npm-1.0.3-2993ed6b59-c1457ec8b0.zip/node_modules/@via-profit-services/knex/",
           "packageDependencies": [
-            ["@via-profit-services/knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.3"],
             ["@types/knex", null],
             ["@types/pg", null],
             ["@types/via-profit-services__core", null],
-            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."],
+            ["@via-profit-services/core", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:1.0.4"],
             ["knex", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:0.21.12"],
             ["pg", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:8.5.1"]
           ],

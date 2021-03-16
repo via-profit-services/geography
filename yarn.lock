@@ -1161,9 +1161,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 1.0-rc.1
-  resolution: "@via-profit-services/core@file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
+"@via-profit-services/core@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "@via-profit-services/core@npm:1.0.4"
   dependencies:
     bufferutil: ^4.0.2
     content-type: ^1.0.4
@@ -1182,7 +1182,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 061625c2014e55f7e07cbc7235bb240d44513388b3f0ca3ce35d33e45f78c887340db9f87a0ed92912d59764a5d032b21f988c7eba4ea26e368be90c6aa1eda9
+  checksum: 9f072f3b26f412d23287bf43ec57611b33c4610987892156a9a4f7f38755a04080b55e48ccef2fbce2dae36580a7d8a1262d7e93e84f1f6d017a40379bc81dad
   languageName: node
   linkType: hard
 
@@ -1212,9 +1212,9 @@ __metadata:
     "@types/webpack-node-externals": ^1.7.0
     "@typescript-eslint/eslint-plugin": ^4.6.1
     "@typescript-eslint/parser": ^4.6.1
-    "@via-profit-services/core": "file://home/dhs/Projects/@via-profit-services/core/package-1.0.0-rc.1.tgz"
+    "@via-profit-services/core": ^1.0.4
     "@via-profit-services/eslint-config": ^0.1.11
-    "@via-profit-services/knex": "file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz"
+    "@via-profit-services/knex": ^1.0.3
     "@zerollup/ts-transform-paths": ^1.7.11
     clean-webpack-plugin: ^3.0.0
     copy-webpack-plugin: ^5.1.1
@@ -1280,14 +1280,14 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A.":
-  version: 1.0.0-rc.1
-  resolution: "@via-profit-services/knex@file://home/dhs/Projects/@via-profit-services/knex/package-1.0.0-rc.1.tgz::locator=%40via-profit-services%2Fgeography%40workspace%3A."
+"@via-profit-services/knex@npm:^1.0.3":
+  version: 1.0.3
+  resolution: "@via-profit-services/knex@npm:1.0.3"
   peerDependencies:
     "@via-profit-services/core": 1.x.x
-    knex: 1.x.x
+    knex: ^0.21.12
     pg: ^8.5.1
-  checksum: 0892df69eac7fff4bbb1bbf4a56c9dcea9b6ae87feb9a92903a50f2bb193e53403903f92f2d76d6bb30449ee5a737f66ef98c771d2d68beff2a169ad37826c22
+  checksum: c1457ec8b0fb449c1624980632da2c2817fbfa539a6dad467437bb8bbe6f35f8cec3785fdd461982a3932a18c4a3f8e250298070e209a4139328e2c5380717b7
   languageName: node
   linkType: hard
 
