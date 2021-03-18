@@ -10,9 +10,9 @@ type GeographyQuery {
     first: Int
     offset: Int
     after: String
-    orderBy: [CitiesListOrderBy]
+    orderBy: [CitiesListOrderBy!]
     filter: CitiesListFilter
-    search: CitiesSearch
+    search: [CitiesSearch!]
   ): CitiesListConnection!
 
   """
@@ -22,9 +22,9 @@ type GeographyQuery {
     first: Int
     offset: Int
     after: String
-    orderBy: [StatesListOrderBy]
+    orderBy: [StatesListOrderBy!]
     filter: StatesListFilter
-    search: StatesSearch
+    search: [StatesSearch!]
   ): StatesListConnection!
 
   """
@@ -34,9 +34,9 @@ type GeographyQuery {
     first: Int
     offset: Int
     after: String
-    orderBy: [CountriesListOrderBy]
+    orderBy: [CountriesListOrderBy!]
     filter: CountriesListFilter
-    search: CountriesSearch
+    search: [CountriesSearch!]
   ): CountriesListConnection!
 
   country(id: ID!): Country
@@ -68,18 +68,18 @@ input CountriesListOrderBy {
   direction: OrderDirection!
 }
 
-enum CitiesSearchFields {
+enum CitiesSearchField {
   en
   ru
 }
 
-enum StatesSearchFields {
+enum StatesSearchField {
   en
   ru
   stateCode
 }
 
-enum CountriesSearchFields {
+enum CountriesSearchField {
   en
   ru
   iso2
@@ -87,17 +87,17 @@ enum CountriesSearchFields {
 }
 
 input CitiesSearch {
-  fields: [CitiesSearchFields!]!
+  field: CitiesSearchField!
   query: String!
 }
 
 input StatesSearch {
-  fields: [StatesSearchFields!]!
+  field: StatesSearchField!
   query: String!
 }
 
 input CountriesSearch {
-  fields: [CountriesSearchFields!]!
+  field: CountriesSearchField!
   query: String!
 }
 

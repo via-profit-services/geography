@@ -1,18 +1,7 @@
-/**
- * @via-profit-services/geography
- *
- * This migration file was created by the @via-profit-services/geography package
- * This migration will create 3 tables:
- *     `geographyCities`
- *     `geographyStates`
- *     `geographyCountries`
- */
-
 import type Knex from 'knex';
 
 export async function up(knex: Knex): Promise<any> {
   return knex.raw(`
-
     drop table if exists "geographyCities" cascade;
     drop table if exists "geographyStates" cascade;
     drop table if exists "geographyCountries" cascade;
