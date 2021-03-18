@@ -9,9 +9,9 @@ const geographyFactory: GeographyMiddlewareFactory = () => {
   const middleware: Middleware = ({ context }) => {
 
     // Geography Service
-    context.services.geography = context.services.geography ?? new GeographyService({ context });
+    context.services.geography = new GeographyService({ context });
 
-    context.dataloader.geography = context.dataloader.geography ?? {
+    context.dataloader.geography = {
       // Cities dataloader
       cities: new DataLoader((ids: string[]) => context.services.geography.getCitiesByIds(ids)
         .then((nodes) => collateForDataloader(ids, nodes as Node<City>[]))),
