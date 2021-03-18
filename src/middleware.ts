@@ -5,40 +5,29 @@ import DataLoader from 'dataloader';
 
 import GeographyService from './GeographyService';
 
-const pool: ReturnType<Middleware> = {
-  context: null,
-};
-
 const geographyFactory: GeographyMiddlewareFactory = () => {
-
   const middleware: Middleware = ({ context }) => {
 
-    if (pool.context !== null) {
-      return pool;
-    }
-
-    // Declare initial context state
-    pool.context = context;
-
     // Geography Service
-    const service = new GeographyService({ context });
-    pool.context.services.geography = service;
+    context.services.geography = context.services.geography ?? new GeographyService({ context });
 
-    pool.context.dataloader.geography = {
+    context.dataloader.geography = context.dataloader.geography ?? {
       // Cities dataloader
-      cities: new DataLoader((ids: string[]) => service.getCitiesByIds(ids)
+      cities: new DataLoader((ids: string[]) => context.services.geography.getCitiesByIds(ids)
         .then((nodes) => collateForDataloader(ids, nodes as Node<City>[]))),
 
       // States dataloader
-      states: new DataLoader((ids: string[]) => service.getSatatesByIds(ids)
+      states: new DataLoader((ids: string[]) => context.services.geography.getSatatesByIds(ids)
         .then((nodes) => collateForDataloader(ids, nodes as Node<State>[]))),
 
       // Countries dataloader
-      countries: new DataLoader((ids: string[]) => service.getCountriesByIds(ids)
+      countries: new DataLoader((ids: string[]) => context.services.geography.getCountriesByIds(ids)
         .then((nodes) => collateForDataloader(ids, nodes as Node<Country>[]))),
     };
 
-    return pool;
+    return {
+      context,
+    };
   }
 
   return middleware
