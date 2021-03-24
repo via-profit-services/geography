@@ -157,7 +157,7 @@ Cities list connection
 type CitiesListConnection {
   totalCount: Int!
   pageInfo: PageInfo!
-  edges: [CitiesEdge]!
+  edges: [CitiesEdge!]!
 }
 
 """
@@ -166,7 +166,7 @@ Countries list connection
 type CountriesListConnection {
   totalCount: Int!
   pageInfo: PageInfo!
-  edges: [CountriesEdge]!
+  edges: [CountriesEdge!]!
 }
 
 """
@@ -175,7 +175,7 @@ States list connection
 type StatesListConnection {
   totalCount: Int!
   pageInfo: PageInfo!
-  edges: [StatesEdge]!
+  edges: [StatesEdge!]!
 }
 
 """
