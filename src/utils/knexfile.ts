@@ -1,7 +1,8 @@
 import dotenv from 'dotenv';
-import type Knex from 'knex';
+import { Knex } from 'knex';
 
 const env = dotenv.config().parsed as NodeJS.ProcessEnv;
+
 
 const config: Knex.Config = {
   client: 'pg',

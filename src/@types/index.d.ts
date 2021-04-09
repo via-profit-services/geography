@@ -49,6 +49,51 @@ declare module '@via-profit-services/geography' {
   }
 
 
+  export type CitiesTableRecord = {
+    readonly id: string;
+    readonly ru: string;
+    readonly en: string;
+    readonly country: string;
+    readonly countryCode: string;
+    readonly state: string;
+    readonly stateCode: string;
+    readonly latitude: string;
+    readonly longitude: string;
+    readonly timezone: string;
+  }
+
+  export type CountriesTableRecord = {
+    readonly id: string;
+    readonly ru: string;
+    readonly en: string;
+    readonly iso3: string;
+    readonly iso2: string;
+    readonly phoneCode: string;
+    readonly currency: string;
+    readonly capital: string | null;
+  }
+
+  export type StatesTableRecord = {
+    readonly id: string;
+    readonly ru: string;
+    readonly en: string;
+    readonly country: string;
+    readonly stateCode: string;
+    readonly countryCode: string;
+  }
+
+  export type CitiesTableRecordResult = CitiesTableRecord & {
+    readonly totalCount: number;
+  };
+  export type CountriesTableRecordResult = CountriesTableRecord & {
+    readonly totalCount: number;
+  };
+  export type StatesTableRecordResult = StatesTableRecord & {
+    readonly totalCount: number;
+  };
+
+
+
   class GeographyService {
     props: GeographyServiceProps;
     constructor(props: GeographyServiceProps);

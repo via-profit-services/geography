@@ -6,7 +6,9 @@
 /sessions
 /assets
 /build
+/src
 /converted
+/countries
 /source
 /log
 /webpack

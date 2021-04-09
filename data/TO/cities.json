@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a9e7d9b3-a848-45c8-95f9-c5c59c553735",
+    "en": "‘Ohonua",
+    "ru": "‘Охонуа",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "612a92ec-ee0b-4587-ad85-03be14112529",
+    "stateCode": "01",
+    "latitude": "-21.33333000",
+    "longitude": "-174.95000000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "80e4f224-1a2f-4eb1-8770-fc922c521af8",
+    "en": "Pangai",
+    "ru": "Пангай",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "7b565cff-8784-4898-9fbf-dbc245952d65",
+    "stateCode": "02",
+    "latitude": "-19.81468000",
+    "longitude": "-174.35423000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "05d781fa-d55f-4ed9-b076-7b137e5d8cf0",
+    "en": "Hihifo",
+    "ru": "Hihifo",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "6c1842d1-d827-4ace-9d7f-4bbfc3bcdcc5",
+    "stateCode": "03",
+    "latitude": "-15.95440000",
+    "longitude": "-173.79616000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "76d6e92d-6099-478b-aa15-a3e055fe2b9b",
+    "en": "Haveluloto",
+    "ru": "Хавелулото",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "e7143b1c-b8da-493a-a450-b9fec8d681a6",
+    "stateCode": "04",
+    "latitude": "-21.15216000",
+    "longitude": "-175.21333000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "b4e4d02e-ad08-43df-86ee-f20188a3dca8",
+    "en": "Kolonga",
+    "ru": "Колонга",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "e7143b1c-b8da-493a-a450-b9fec8d681a6",
+    "stateCode": "04",
+    "latitude": "-21.13333000",
+    "longitude": "-175.06667000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "d9590892-632d-4c7c-a953-c58a7eb6e377",
+    "en": "Nuku‘alofa",
+    "ru": "Нукушалофа",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "e7143b1c-b8da-493a-a450-b9fec8d681a6",
+    "stateCode": "04",
+    "latitude": "-21.13938000",
+    "longitude": "-175.20180000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "ff610801-a20c-40c0-aecb-ff1662e0fbab",
+    "en": "Vaini",
+    "ru": "Вайни",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "e7143b1c-b8da-493a-a450-b9fec8d681a6",
+    "stateCode": "04",
+    "latitude": "-21.19292000",
+    "longitude": "-175.17678000",
+    "timezone": "Pacific/Tongatapu"
+  },
+  {
+    "id": "3180aa2b-46ea-4548-9ac6-be99268992da",
+    "en": "Neiafu",
+    "ru": "Neiafu",
+    "country": "0c6d600e-313a-4158-8d6a-552885b1c3b4",
+    "countryCode": "TO",
+    "state": "3f47aa4b-d7ce-405e-8526-5bb6acac5252",
+    "stateCode": "05",
+    "latitude": "-18.65060000",
+    "longitude": "-173.98404000",
+    "timezone": "Pacific/Tongatapu"
+  }
+]

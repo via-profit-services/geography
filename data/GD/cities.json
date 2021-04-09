@@ -1,0 +1,86 @@
+[
+  {
+    "id": "34d7ec6f-0c2e-4d17-9649-7bd0e8d7631c",
+    "en": "Hillsborough",
+    "ru": "Хиллсборо",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "5b82f62a-b8df-452a-b7ae-9e71b8190ff0",
+    "stateCode": "10",
+    "latitude": "12.48292000",
+    "longitude": "-61.45597000",
+    "timezone": "America/Grenada"
+  },
+  {
+    "id": "0dba5a63-ece9-40bb-9c62-c5b255dec2a7",
+    "en": "Grenville",
+    "ru": "Гренвилл",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "2363cdcd-d7c5-4c08-9d30-c0e8210a5189",
+    "stateCode": "01",
+    "latitude": "12.12278000",
+    "longitude": "-61.62498000",
+    "timezone": "America/Grenada"
+  },
+  {
+    "id": "96ba82ef-3d8f-4040-a4a6-229b85604f52",
+    "en": "Saint David’s",
+    "ru": "Святого Давида",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "835a6441-6e7d-481a-b581-d235f361e12c",
+    "stateCode": "02",
+    "latitude": "12.04903000",
+    "longitude": "-61.66875000",
+    "timezone": "America/Grenada"
+  },
+  {
+    "id": "2593be4a-a8b3-4657-96d0-ae29a06f492f",
+    "en": "Saint George's",
+    "ru": "Святого Георгия",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "49bacbf7-64ec-427e-a0b7-99d31e9b5752",
+    "stateCode": "03",
+    "latitude": "12.05288000",
+    "longitude": "-61.75226000",
+    "timezone": "America/Grenada"
+  },
+  {
+    "id": "c81a2056-0784-47cb-a47a-082f2b382dd9",
+    "en": "Gouyave",
+    "ru": "Gouyave",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "210dc44d-fc81-4537-9b8e-31f345be3527",
+    "stateCode": "04",
+    "latitude": "12.16462000",
+    "longitude": "-61.72965000",
+    "timezone": "America/Grenada"
+  },
+  {
+    "id": "d272bdf5-77c2-4ba7-8193-e00eac09537e",
+    "en": "Victoria",
+    "ru": "Виктория",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "9b881334-5a9b-4531-b073-4dbd46a7b1fc",
+    "stateCode": "05",
+    "latitude": "12.19021000",
+    "longitude": "-61.70677000",
+    "timezone": "America/Grenada"
+  },
+  {
+    "id": "a88ed1a7-a397-45dc-abe6-e591cc923276",
+    "en": "Sauteurs",
+    "ru": "сотеров",
+    "country": "6858acd6-04ba-45a7-8ab8-746d6b545a14",
+    "countryCode": "GD",
+    "state": "6de298e5-c818-4bf9-831a-18b4bac32b08",
+    "stateCode": "06",
+    "latitude": "12.21833000",
+    "longitude": "-61.63917000",
+    "timezone": "America/Grenada"
+  }
+]

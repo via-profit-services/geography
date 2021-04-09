@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c94d4056-3cea-46e7-b212-bcbe232970a0",
+    "en": "Andorra la Vella",
+    "ru": "Андорра ла Велла",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "64f97262-1054-4456-b7e2-9b1890f8a159",
+    "stateCode": "07",
+    "latitude": "42.50779000",
+    "longitude": "1.52109000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "c350d852-656e-4a3c-8bf4-bd3421ec5b9b",
+    "en": "Canillo",
+    "ru": "Канильо",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "5b632892-663c-457f-b8c9-3f20a9ed456c",
+    "stateCode": "02",
+    "latitude": "42.56760000",
+    "longitude": "1.59756000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "ed72a484-151f-41ef-a396-28fff7706aee",
+    "en": "El Tarter",
+    "ru": "Эль Тартер",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "5b632892-663c-457f-b8c9-3f20a9ed456c",
+    "stateCode": "02",
+    "latitude": "42.57952000",
+    "longitude": "1.65362000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "33999bf3-042a-4961-bfe3-63ce67e30b3a",
+    "en": "Encamp",
+    "ru": "Энкамп",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "6cb6a31d-6316-4990-ae5d-99d208b314ca",
+    "stateCode": "03",
+    "latitude": "42.53474000",
+    "longitude": "1.58014000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "611c0e2b-7d29-4237-8cbe-30cea62ce424",
+    "en": "Pas de la Casa",
+    "ru": "Пас де ла Каса",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "6cb6a31d-6316-4990-ae5d-99d208b314ca",
+    "stateCode": "03",
+    "latitude": "42.54277000",
+    "longitude": "1.73361000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "d4735ad2-1124-4b94-9a15-d636f6e029c4",
+    "en": "les Escaldes",
+    "ru": "Les Escaldes",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "ba2cdda1-27a4-454b-8f86-0a464e537131",
+    "stateCode": "08",
+    "latitude": "42.50729000",
+    "longitude": "1.53414000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "1240da09-2610-4d72-96ba-cca3c5bc0e9f",
+    "en": "Arinsal",
+    "ru": "Аринсал",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "f14b784f-b345-443e-a014-e32dfc711f3f",
+    "stateCode": "04",
+    "latitude": "42.57205000",
+    "longitude": "1.48453000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "3893d0c7-38b8-40e3-9ba4-f20c2a16556a",
+    "en": "la Massana",
+    "ru": "ла Массана",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "f14b784f-b345-443e-a014-e32dfc711f3f",
+    "stateCode": "04",
+    "latitude": "42.54499000",
+    "longitude": "1.51483000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "a0137fbf-1558-485f-9183-16672c305079",
+    "en": "Ordino",
+    "ru": "Ордино",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "0972f68c-47ae-4192-ae45-e66db718acc1",
+    "stateCode": "05",
+    "latitude": "42.55623000",
+    "longitude": "1.53319000",
+    "timezone": "Europe/Andorra"
+  },
+  {
+    "id": "9b2744ca-7f42-40f9-bc8c-8e6de798e7b0",
+    "en": "Sant Julià de Lòria",
+    "ru": "Сан-Хулиа-де-Лория",
+    "country": "eb4d631e-4328-4f7c-b9ed-1934832e28f2",
+    "countryCode": "AD",
+    "state": "39ad265e-0046-47b1-80c2-a5ee421fd701",
+    "stateCode": "06",
+    "latitude": "42.46372000",
+    "longitude": "1.49129000",
+    "timezone": "Europe/Andorra"
+  }
+]

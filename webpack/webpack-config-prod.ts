@@ -1,4 +1,4 @@
-import fs from 'fs-extra';
+import fs from 'fs';
 import path from 'path';
 import { BannerPlugin, Configuration, Compiler } from 'webpack';
 import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer';
@@ -46,21 +46,18 @@ Contact    ${packageInfo.support}
           callback();
         });
 
-        compiler.hooks.afterEmit.tapAsync('WebpackAfterBuild', (_, callback) => {
+        compiler.hooks.afterEmit.tapAsync('WebpackAfterBuild', async (_, callback) => {
+
           fs.copyFileSync(
             path.resolve(__dirname, '../src/@types/index.d.ts'),
             path.resolve(__dirname, '../dist/index.d.ts'),
           );
 
-          fs.copySync(
-            path.resolve(__dirname, '../src/countries'),
-            path.resolve(__dirname, '../dist/countries'),
-          );
-
-          fs.copySync(
+          fs.copyFileSync(
             path.resolve(__dirname, '../src/@types/schema.d.ts'),
             path.resolve(__dirname, '../dist/schema.d.ts'),
           );
+
           callback();
         });
 
