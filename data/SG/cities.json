@@ -1,0 +1,26 @@
+[
+  {
+    "id": "966a777c-6fce-4294-ae3f-c8c1e958ccf0",
+    "en": "Singapore",
+    "ru": "Сингапур",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "state": "331eb68b-9f34-48ca-bf99-baa5f6a40ba9",
+    "stateCode": "01",
+    "latitude": "1.28967000",
+    "longitude": "103.85007000",
+    "timezone": "Asia/Singapore"
+  },
+  {
+    "id": "7fec9f14-4e3d-4a0d-857c-edbb8bc6d31a",
+    "en": "Woodlands",
+    "ru": "Вудлендс",
+    "country": "bbe9b652-8325-4d7e-a379-ae22d51e045f",
+    "countryCode": "SG",
+    "state": "4472c29a-857d-40d5-88f9-afc502cd0eb3",
+    "stateCode": "03",
+    "latitude": "1.43801000",
+    "longitude": "103.78877000",
+    "timezone": "Asia/Singapore"
+  }
+]

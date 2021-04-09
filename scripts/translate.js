@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable no-param-reassign */
 /* eslint-disable import/no-extraneous-dependencies */
 const fs = require('fs');

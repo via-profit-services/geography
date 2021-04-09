@@ -1,50 +1,12 @@
 import { OutputFilter, ListResponse } from '@via-profit-services/core';
-import { City, State, Country, GeographyServiceProps } from '@via-profit-services/geography';
+import type {
+  City, State, Country, GeographyServiceProps, CountriesTableRecord, CountriesTableRecordResult,
+  StatesTableRecord, StatesTableRecordResult, CitiesTableRecord, CitiesTableRecordResult,
+} from '@via-profit-services/geography';
 import {
   convertOrderByToKnex, convertWhereToKnex,
   convertSearchToKnex, extractTotalCountPropOfNode,
 } from '@via-profit-services/knex';
-
-
-type CitiesTableModel = {
-  readonly id: string;
-  readonly ru: string;
-  readonly en: string;
-  readonly country: string;
-  readonly countryCode: string;
-  readonly state: string;
-  readonly stateCode: string;
-  readonly latitude: string;
-  readonly longitude: string;
-  readonly timezone: string;
-  readonly totalCount: number;
-}
-
-type CountriesTableModel = {
-  readonly id: string;
-  readonly ru: string;
-  readonly en: string;
-  readonly iso3: string;
-  readonly iso2: string;
-  readonly phoneCode: string;
-  readonly currency: string;
-  readonly capital: string;
-  readonly totalCount: number;
-}
-
-type StatesTableModel = {
-  readonly id: string;
-  readonly ru: string;
-  readonly en: string;
-  readonly country: string;
-  readonly stateCode: string;
-  readonly countryCode: string;
-  readonly totalCount: number;
-}
-
-type CitiesTableModelResult = CitiesTableModel;
-type CountriesTableModelResult = CountriesTableModel;
-type StatesTableModelResult = StatesTableModel;
 
 
 class GeographyService {
@@ -67,7 +29,7 @@ class GeographyService {
         knex.raw('*'),
         knex.raw('count(*) over() as "totalCount"'),
       ])
-      .from<CitiesTableModel, CitiesTableModelResult[]>('geographyCities')
+      .from<CitiesTableRecord, CitiesTableRecordResult[]>('geographyCities')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where))
@@ -122,7 +84,7 @@ class GeographyService {
         knex.raw('*'),
         knex.raw('count(*) over() as "totalCount"'),
       ])
-      .from<StatesTableModel, StatesTableModelResult[]>('geographyStates')
+      .from<StatesTableRecord, StatesTableRecordResult[]>('geographyStates')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where))
@@ -175,7 +137,7 @@ class GeographyService {
         knex.raw('*'),
         knex.raw('count(*) over() as "totalCount"'),
       ])
-      .from<CountriesTableModel, CountriesTableModelResult[]>('geographyCountries')
+      .from<CountriesTableRecord, CountriesTableRecordResult[]>('geographyCountries')
       .limit(limit || 1)
       .offset(offset || 0)
       .where((builder) => convertWhereToKnex(builder, where))

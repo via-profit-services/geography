@@ -3,19 +3,10 @@ module.exports =
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 10:
+/***/ 796:
 /***/ (function(__unused_webpack_module, exports) {
 
 
-/**
- * @via-profit-services/geography
- *
- * This migration file was created by the @via-profit-services/geography package
- * This migration will create 3 tables:
- *     `geographyCities`
- *     `geographyStates`
- *     `geographyCountries`
- */
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -29,7 +20,6 @@ Object.defineProperty(exports, "__esModule", ({ value: true }));
 function up(knex) {
     return __awaiter(this, void 0, void 0, function* () {
         return knex.raw(`
-
     drop table if exists "geographyCities" cascade;
     drop table if exists "geographyStates" cascade;
     drop table if exists "geographyCountries" cascade;
@@ -121,6 +111,6 @@ exports.down = down;
 /******/ 	// module exports must be returned from runtime so entry inlining is disabled
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(10);
+/******/ 	return __webpack_require__(796);
 /******/ })()
 ;

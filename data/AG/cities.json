@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4527a357-5a6b-4c66-a4df-e470c5c1615a",
+    "en": "Codrington",
+    "ru": "Кодрингтон",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "022a5ad2-0fe2-4fef-a4d7-6ed9af087689",
+    "stateCode": "10",
+    "latitude": "17.63333000",
+    "longitude": "-61.83333000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "4d584b8f-9f13-4803-9be0-224bc97c0fa6",
+    "en": "Piggotts",
+    "ru": "Пигготтс",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "4b203c63-e09e-4931-b166-0865ba3fc21b",
+    "stateCode": "03",
+    "latitude": "17.11667000",
+    "longitude": "-61.80000000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "bb08ec32-9131-4412-98ed-a1052f3b889b",
+    "en": "Potters Village",
+    "ru": "Potters Village",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "79aa8169-0a88-4c9b-a35e-de94e381c676",
+    "stateCode": "04",
+    "latitude": "17.11337000",
+    "longitude": "-61.81962000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "48197814-dec0-4673-a97c-3b7330d281e3",
+    "en": "Saint John’s",
+    "ru": "Сент-Джонс",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "79aa8169-0a88-4c9b-a35e-de94e381c676",
+    "stateCode": "04",
+    "latitude": "17.12096000",
+    "longitude": "-61.84329000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "4e3714bd-029d-4d59-b9ff-6d3f22bf7c42",
+    "en": "Bolands",
+    "ru": "Боландс",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "877de134-dfe2-49a3-b0f7-8b0a63bff0b2",
+    "stateCode": "05",
+    "latitude": "17.06565000",
+    "longitude": "-61.87466000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "aba88a8c-6e53-4710-abad-787fca9378e5",
+    "en": "Falmouth",
+    "ru": "Фалмут",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "96ce4b83-d4ce-44e8-a92c-04449700cdc3",
+    "stateCode": "06",
+    "latitude": "17.02741000",
+    "longitude": "-61.78136000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "346d764d-f0aa-4efb-a3da-4799a811d940",
+    "en": "Liberta",
+    "ru": "Либерта",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "96ce4b83-d4ce-44e8-a92c-04449700cdc3",
+    "stateCode": "06",
+    "latitude": "17.04141000",
+    "longitude": "-61.79052000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "7717da00-6506-4d3c-a8fd-e1d180b06445",
+    "en": "All Saints",
+    "ru": "всех святых",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "6d35d2f8-fea0-4690-9ee4-7772f01d9e11",
+    "stateCode": "07",
+    "latitude": "17.06671000",
+    "longitude": "-61.79303000",
+    "timezone": "America/Antigua"
+  },
+  {
+    "id": "75d02d4f-2143-46e1-b609-53f5f16ea71b",
+    "en": "Parham",
+    "ru": "Пархем",
+    "country": "0eb6b471-5123-428b-b837-ec3a1969a136",
+    "countryCode": "AG",
+    "state": "6d35d2f8-fea0-4690-9ee4-7772f01d9e11",
+    "stateCode": "07",
+    "latitude": "17.09682000",
+    "longitude": "-61.77046000",
+    "timezone": "America/Antigua"
+  }
+]
