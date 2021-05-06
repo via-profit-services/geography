@@ -24,7 +24,12 @@ const server = http.createServer(app);
     },
   });
 
-  const geographyMiddleware = geography.factory();
+  const geographyMiddleware = geography.factory({
+    // geocoder: 'Yandex',
+    // yandexGeocoderAPIKey: '2f157179-c04e-45be-9ca9-9ec9d0abd00b',
+    geocoder: 'DaData',
+    daDataAPIKey: '81c55d81e9f6d090778cc7d8d10721add4cd9f73',
+  });
 
   const schema = makeExecutableSchema({
     typeDefs: [

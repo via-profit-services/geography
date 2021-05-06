@@ -1,7 +1,8 @@
-import { OutputFilter, ListResponse } from '@via-profit-services/core';
+import { OutputFilter, ListResponse, BadRequestError } from '@via-profit-services/core';
 import type {
   City, State, Country, GeographyServiceProps, CountriesTableRecord, CountriesTableRecordResult,
   StatesTableRecord, StatesTableRecordResult, CitiesTableRecord, CitiesTableRecordResult,
+  AddressLookupQueryFields, GeographyServiceInterface, AddressLookupQueryResolve,
 } from '@via-profit-services/geography';
 import {
   convertOrderByToKnex, convertWhereToKnex,
@@ -9,9 +10,8 @@ import {
 } from '@via-profit-services/knex';
 
 
-class GeographyService {
+class GeographyService implements GeographyServiceInterface {
   public props: GeographyServiceProps;
-
   public constructor(props: GeographyServiceProps) {
     this.props = props;
   }
@@ -176,6 +176,20 @@ class GeographyService {
     const nodes = await this.getCountriesByIds([id]);
 
     return nodes.length ? nodes[0] : false;
+  }
+
+  public async addressLookup(
+    fields: Partial<AddressLookupQueryFields>,
+  ): Promise<AddressLookupQueryResolve[]> {
+    const { geocoder } = this.props;
+
+    if (geocoder === null) {
+      throw new BadRequestError(
+        'You must provide a Geocoder provider configuration',
+      );
+    }
+
+    return (await geocoder.addressLookup(fields));
   }
 }
 

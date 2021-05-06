@@ -1,16 +1,6 @@
-import type { IObjectTypeResolver, IFieldResolver } from '@graphql-tools/utils';
-import type { Context } from '@via-profit-services/core';
-import type { Country } from '@via-profit-services/geography';
+import type { CountryResolver } from '@via-profit-services/geography';
 
-interface Parent {
-  id: string;
-}
-
-interface Source {
-  id: string;
-}
-
-const CoutryResolver = new Proxy<IObjectTypeResolver<Source, Context>>({
+const countryResolver = new Proxy<CountryResolver>({
   id: () => ({}),
   en: () => ({}),
   ru: () => ({}),
@@ -20,8 +10,8 @@ const CoutryResolver = new Proxy<IObjectTypeResolver<Source, Context>>({
   currency: () => ({}),
   capital: () => ({}),
 }, {
-  get: (_target, prop: keyof Country) => {
-    const resolver: IFieldResolver<Parent, Context> = async (parent, _args, context) => {
+  get: (_target, prop: keyof CountryResolver) => {
+    const resolver: CountryResolver[keyof CountryResolver] = async (parent, _args, context) => {
       const { id } = parent;
       const { dataloader } = context;
       const country = await dataloader.geography.countries.load(id);
@@ -33,4 +23,4 @@ const CoutryResolver = new Proxy<IObjectTypeResolver<Source, Context>>({
   },
 });
 
-export default CoutryResolver;
+export default countryResolver;
