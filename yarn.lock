@@ -340,7 +340,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/utils@npm:^7.1.2, @graphql-tools/utils@npm:^7.1.4":
+"@graphql-tools/utils@npm:^7.1.2":
   version: 7.7.1
   resolution: "@graphql-tools/utils@npm:7.7.1"
   dependencies:
@@ -1248,7 +1248,6 @@ __metadata:
   resolution: "@via-profit-services/geography@workspace:."
   dependencies:
     "@graphql-tools/schema": ^7.1.2
-    "@graphql-tools/utils": ^7.1.4
     "@jagi/jest-transform-graphql": ^1.0.2
     "@types/express": ^4.17.9
     "@types/fs-extra": ^9.0.4
