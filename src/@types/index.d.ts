@@ -421,14 +421,14 @@ declare module '@via-profit-services/geography' {
 }
 
 declare module '@via-profit-services/core' {
-  import DataLoader from 'dataloader';
+  import DataLoader from '@via-profit/dataloader';
   import { Country, State, City, GeographyService } from '@via-profit-services/geography';
 
   interface DataLoaderCollection {
     geography: {
-      countries: DataLoader<string, Node<Country>>;
-      states: DataLoader<string,  Node<State>>;
-      cities: DataLoader<string,  Node<City>>;
+      countries: DataLoader<Country>;
+      states: DataLoader<State>;
+      cities: DataLoader<City>;
     }
   }
 

@@ -4,7 +4,7 @@ import type {
   City, State, Country, YandexLookupProviderConfig, NominatimLookupProviderConfig,
   DaDataLookupProviderConfig, geocoder,
 } from '@via-profit-services/geography';
-import DataLoader from 'dataloader';
+import DataLoader from '@via-profit/dataloader';
 
 import GeographyService from './services/GeographyService';
 import NominatimProvider from './services/NominatimProvider';
@@ -58,15 +58,27 @@ const geographyFactory: GeographyMiddlewareFactory = (config) => {
     context.dataloader.geography = {
       // Cities dataloader
       cities: new DataLoader((ids: string[]) => context.services.geography.getCitiesByIds(ids)
-        .then((nodes) => collateForDataloader(ids, nodes as Node<City>[]))),
+        .then((nodes) => collateForDataloader(ids, nodes as Node<City>[])), {
+          redis: context.redis,
+          defaultExpiration: '1h',
+          cacheName: 'geography.cities',
+        }),
 
       // States dataloader
       states: new DataLoader((ids: string[]) => context.services.geography.getSatatesByIds(ids)
-        .then((nodes) => collateForDataloader(ids, nodes as Node<State>[]))),
+        .then((nodes) => collateForDataloader(ids, nodes as Node<State>[])), {
+          redis: context.redis,
+          defaultExpiration: '1h',
+          cacheName: 'geography.states',
+        }),
 
       // Countries dataloader
       countries: new DataLoader((ids: string[]) => context.services.geography.getCountriesByIds(ids)
-        .then((nodes) => collateForDataloader(ids, nodes as Node<Country>[]))),
+        .then((nodes) => collateForDataloader(ids, nodes as Node<Country>[])), {
+          redis: context.redis,
+          defaultExpiration: '1h',
+          cacheName: 'geography.countries',
+        }),
     };
 
     return {

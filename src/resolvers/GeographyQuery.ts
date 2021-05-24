@@ -4,12 +4,13 @@ import { buildQueryFilter, buildCursorConnection, ServerError } from '@via-profi
 
 const GeographyQuery: Resolvers['GeographyQuery'] = {
   cities: async (_parent, args, context) => {
-    const { services } = context;
+    const { services, dataloader } = context;
     const filter = buildQueryFilter(args);
 
     try {
       const citiesConnection = await services.geography.getCities(filter);
       const connection = buildCursorConnection(citiesConnection, 'cities');
+      await dataloader.geography.cities.primeMany(citiesConnection.nodes);
 
       return connection;
 
@@ -18,12 +19,13 @@ const GeographyQuery: Resolvers['GeographyQuery'] = {
     }
   },
   states: async (_parent, args, context) => {
-    const { services } = context;
+    const { services, dataloader } = context;
     const filter = buildQueryFilter(args);
 
     try {
-      const citiesConnection = await services.geography.getStates(filter);
-      const connection = buildCursorConnection(citiesConnection, 'states');
+      const statesConnection = await services.geography.getStates(filter);
+      const connection = buildCursorConnection(statesConnection, 'states');
+      await dataloader.geography.states.primeMany(statesConnection.nodes);
 
       return connection;
 
@@ -32,12 +34,13 @@ const GeographyQuery: Resolvers['GeographyQuery'] = {
     }
   },
   countries: async (_parent, args, context) => {
-    const { services } = context;
+    const { services, dataloader } = context;
     const filter = buildQueryFilter(args);
 
     try {
-      const citiesConnection = await services.geography.getCountries(filter);
-      const connection = buildCursorConnection(citiesConnection, 'countries');
+      const countriesConnection = await services.geography.getCountries(filter);
+      const connection = buildCursorConnection(countriesConnection, 'countries');
+      await dataloader.geography.countries.primeMany(countriesConnection.nodes);
 
       return connection;
 
