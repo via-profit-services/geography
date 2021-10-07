@@ -2,7 +2,7 @@
   {
     "id": "31621faa-d7de-4f7e-bd1a-060c45b781ad",
     "en": "Artigas Department",
-    "ru": "районный отдел Артигас",
+    "ru": "Районный отдел Артигас",
     "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
     "countryCode": "UY",
     "stateCode": "AR"
@@ -10,7 +10,7 @@
   {
     "id": "dde77e0f-013e-4ddb-bea1-e978b6de3868",
     "en": "Canelones Department",
-    "ru": "областной отдел канелонов",
+    "ru": "Областной отдел канелонов",
     "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
     "countryCode": "UY",
     "stateCode": "CA"
@@ -106,7 +106,7 @@
   {
     "id": "3f43f058-d267-4f05-9a2e-c1251b6feef2",
     "en": "Rocha Department",
-    "ru": "отдел Роча области",
+    "ru": "Отдел Роча области",
     "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
     "countryCode": "UY",
     "stateCode": "RO"
@@ -114,7 +114,7 @@
   {
     "id": "9add194a-948d-4464-8e1e-dd51e5f11ebc",
     "en": "Salto Department",
-    "ru": "сальто департамент",
+    "ru": "Сальто департамент",
     "country": "98769b61-20a8-4330-b0f3-a25313b64ac7",
     "countryCode": "UY",
     "stateCode": "SA"

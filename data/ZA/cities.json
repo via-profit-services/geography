@@ -158,7 +158,7 @@
   {
     "id": "73541e40-098b-4123-9c25-f6c09fd71f47",
     "en": "East London",
-    "ru": "восточный лондон",
+    "ru": "Восточный лондон",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "f2202355-334d-48a9-a418-fdbb4d7e471b",
@@ -266,7 +266,7 @@
   {
     "id": "59b6dd94-2f1e-4e27-ac52-ecdc6c203ca9",
     "en": "Lady Frere",
-    "ru": "леди фрере",
+    "ru": "Леди фрере",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "f2202355-334d-48a9-a418-fdbb4d7e471b",
@@ -314,7 +314,7 @@
   {
     "id": "f7ee9145-862e-4cc0-b6c6-dd44fff01098",
     "en": "Nelson Mandela Bay Metropolitan Municipality",
-    "ru": "нельсон мандела бэй столичный муниципалитет",
+    "ru": "Нельсон мандела бэй столичный муниципалитет",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "f2202355-334d-48a9-a418-fdbb4d7e471b",
@@ -662,7 +662,7 @@
   {
     "id": "b3f170f3-b881-422f-afe4-ea763faac0f1",
     "en": "Ladybrand",
-    "ru": "божья коровка",
+    "ru": "Божья коровка",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "b3cbc1f4-de30-4e2e-a1e3-d929d4ea16f2",
@@ -818,7 +818,7 @@
   {
     "id": "d994a409-d3cb-4530-8c07-d60dde8bdfe3",
     "en": "Ventersburg",
-    "ru": "венгер",
+    "ru": "Венгер",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "b3cbc1f4-de30-4e2e-a1e3-d929d4ea16f2",
@@ -1490,7 +1490,7 @@
   {
     "id": "0abab487-2aa8-4bc7-a1b0-aed3309ddc11",
     "en": "eMkhomazi",
-    "ru": "еМхомази",
+    "ru": "ЕМхомази",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "3b859ace-e274-4c45-88fa-2502a92b2722",
@@ -2486,7 +2486,7 @@
   {
     "id": "73ab50ff-d632-40d2-af11-c7e649cf3e3b",
     "en": "Volksrust",
-    "ru": "фольксруст",
+    "ru": "Фольксруст",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "45248e82-b886-4b4d-8747-fac9d6928b26",
@@ -2546,7 +2546,7 @@
   {
     "id": "b32c4e8f-6857-4e8a-9d05-9de8b2ed960e",
     "en": "Brits",
-    "ru": "британцев",
+    "ru": "Британцев",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "e91802d9-a5ba-4733-a69d-b159f6f1f7dd",
@@ -2558,7 +2558,7 @@
   {
     "id": "4221fa49-2ede-497e-a42e-bf9f6ba20ffd",
     "en": "Christiana",
-    "ru": "кристиана",
+    "ru": "Кристиана",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "e91802d9-a5ba-4733-a69d-b159f6f1f7dd",
@@ -2678,7 +2678,7 @@
   {
     "id": "bebe9b76-d474-43f3-affc-ce1be08c666c",
     "en": "Maile",
-    "ru": "мэйл",
+    "ru": "Мэйл",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "e91802d9-a5ba-4733-a69d-b159f6f1f7dd",
@@ -2966,7 +2966,7 @@
   {
     "id": "39fb8f3b-0a43-4730-90be-8d4cb946ea42",
     "en": "Kuruman",
-    "ru": "куруман",
+    "ru": "Куруман",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "e6cb1375-6b6c-420d-9c57-783e2da4efb9",
@@ -3098,7 +3098,7 @@
   {
     "id": "aca6b49f-4895-42f7-90ba-4838e0b551dd",
     "en": "Springbok",
-    "ru": "спрингбок",
+    "ru": "Спрингбок",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "e6cb1375-6b6c-420d-9c57-783e2da4efb9",
@@ -3578,7 +3578,7 @@
   {
     "id": "5df72390-23c6-4e54-a927-e141063d3774",
     "en": "Prince Albert",
-    "ru": "принц альберт",
+    "ru": "Принц альберт",
     "country": "ccf61e85-a898-456f-9122-9e7abf7b3f12",
     "countryCode": "ZA",
     "state": "1b30e3e0-a5a7-46d1-86b2-af547b73f397",

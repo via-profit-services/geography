@@ -2,7 +2,7 @@
   {
     "id": "d993e92a-64ea-4d0d-9575-c1e4c15792d3",
     "en": "Aichi Prefecture",
-    "ru": "префектура Айти",
+    "ru": "Префектура Айти",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "23"
@@ -10,7 +10,7 @@
   {
     "id": "416e1fb4-9fb5-4ad8-808d-f3bafdb57aa5",
     "en": "Akita Prefecture",
-    "ru": "префектура Акита",
+    "ru": "Префектура Акита",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "05"
@@ -42,7 +42,7 @@
   {
     "id": "951a1a5b-34b1-474f-8273-886f8f44763a",
     "en": "Chiba Prefecture",
-    "ru": "префектура Тиба",
+    "ru": "Префектура Тиба",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "12"
@@ -66,7 +66,7 @@
   {
     "id": "d7b92653-960b-4746-9cd4-4c5dfaf84806",
     "en": "Fukuoka Prefecture",
-    "ru": "префектура Фукуока",
+    "ru": "Префектура Фукуока",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "40"
@@ -82,7 +82,7 @@
   {
     "id": "a71e6f86-5c21-4825-a5f1-9e48427fd0ac",
     "en": "Gifu Prefecture",
-    "ru": "префектура Гифу",
+    "ru": "Префектура Гифу",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "21"
@@ -194,7 +194,7 @@
   {
     "id": "efeea0b6-e461-4e93-9179-62d7bda28461",
     "en": "Miyagi Prefecture",
-    "ru": "префектура Мияги",
+    "ru": "Префектура Мияги",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "04"
@@ -210,7 +210,7 @@
   {
     "id": "a2a22938-662c-44b0-863c-53c5d03bd4ff",
     "en": "Nagano Prefecture",
-    "ru": "префектура Нагано",
+    "ru": "Префектура Нагано",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "20"
@@ -218,7 +218,7 @@
   {
     "id": "46a9189a-83ea-4aac-913a-29bdf1773a8f",
     "en": "Nagasaki Prefecture",
-    "ru": "префектура Нагасаки",
+    "ru": "Префектура Нагасаки",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "42"
@@ -226,7 +226,7 @@
   {
     "id": "7a35635f-fc61-4c6e-bdd0-1ee49fbb88ef",
     "en": "Nara Prefecture",
-    "ru": "префектура Нара",
+    "ru": "Префектура Нара",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "29"
@@ -234,7 +234,7 @@
   {
     "id": "e82e7626-e300-4450-a683-897408ba1a78",
     "en": "Niigata Prefecture",
-    "ru": "префектура Ниигата",
+    "ru": "Префектура Ниигата",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "15"
@@ -250,7 +250,7 @@
   {
     "id": "45bbac8b-dc7b-4c3f-b754-fecf15a55a8a",
     "en": "Okinawa Prefecture",
-    "ru": "префектура Окинава",
+    "ru": "Префектура Окинава",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "47"
@@ -266,7 +266,7 @@
   {
     "id": "e6df18c9-22bb-46f8-9143-24744b57c90a",
     "en": "Saitama Prefecture",
-    "ru": "префектура Сайтама",
+    "ru": "Префектура Сайтама",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "11"
@@ -274,7 +274,7 @@
   {
     "id": "ff672297-1b5d-4488-9e06-99644a2ff01c",
     "en": "Shiga Prefecture",
-    "ru": "префектура Сига",
+    "ru": "Префектура Сига",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "25"
@@ -282,7 +282,7 @@
   {
     "id": "6750554f-b899-4506-a9b3-c20faa3c81cc",
     "en": "Shimane Prefecture",
-    "ru": "префектура Симанэ",
+    "ru": "Префектура Симанэ",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "32"
@@ -362,7 +362,7 @@
   {
     "id": "6be9a410-b18e-4ef5-a99b-57fed982acd4",
     "en": "Yamanashi Prefecture",
-    "ru": "префектура Яманаси",
+    "ru": "Префектура Яманаси",
     "country": "3d9aa992-202b-4a2a-b59d-18ae792770aa",
     "countryCode": "JP",
     "stateCode": "19"

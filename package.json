@@ -20,7 +20,7 @@
         "postinstall": "node ./scripts/postinstall.js",
         "translate": "node ./scripts/translate.js",
         "dist": "yarn lint && yarn build:dist && yarn build:migrations",
-        "build:dev": "cross-env NODE_ENV=development webpack --config ./webpack/webpack-config-dev.ts",
+        "build:dev": "cross-env NODE_ENV=development webpack --config ./webpack/webpack-config-dev.ts --color --progress",
         "build:dist": "webpack --config ./webpack/webpack-config-prod.ts",
         "build:migrations": "webpack --config ./webpack/webpack-config-migrations.ts",
         "start": "yarn build:dev --watch",
@@ -67,7 +67,7 @@
         "@typescript-eslint/parser": "^4.6.1",
         "@via-profit-services/core": "^1.0.4",
         "@via-profit-services/eslint-config": "^0.1.11",
-        "@via-profit-services/knex": "^1.1.0",
+        "@via-profit-services/knex": "^1.1.10",
         "@via-profit-services/redis": "^1.0.3",
         "@via-profit/dataloader": "^1.0.0",
         "@zerollup/ts-transform-paths": "^1.7.11",
@@ -131,8 +131,8 @@
     "peerDependencies": {
         "@via-profit-services/core": "^1.0.0",
         "@via-profit-services/knex": "^1.1.0",
-        "@via-profit/dataloader": "^1.0.0",
         "@via-profit-services/redis": "^1.0.3",
+        "@via-profit/dataloader": "^1.0.0",
         "graphql": "*"
     }
 }

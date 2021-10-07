@@ -66,7 +66,7 @@
   {
     "id": "5c2c117e-fd48-49bd-bb21-489421316e12",
     "en": "Dhamar Governorate",
-    "ru": "провинция Дхамар",
+    "ru": "Провинция Дхамар",
     "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
     "countryCode": "YE",
     "stateCode": "DH"
@@ -74,7 +74,7 @@
   {
     "id": "9a7c2a4c-0ad8-42eb-8673-653c2e3b36f3",
     "en": "Hadhramaut Governorate",
-    "ru": "провинция Хадрамаут",
+    "ru": "Провинция Хадрамаут",
     "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
     "countryCode": "YE",
     "stateCode": "HD"
@@ -146,7 +146,7 @@
   {
     "id": "7f974d3e-ee2d-44a3-bbdf-732ac2f8f5fb",
     "en": "Shabwah Governorate",
-    "ru": "губернаторство Шабва",
+    "ru": "Губернаторство Шабва",
     "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
     "countryCode": "YE",
     "stateCode": "SH"
@@ -154,7 +154,7 @@
   {
     "id": "aceb7240-3108-4084-a2da-08a9a036eb69",
     "en": "Socotra Governorate",
-    "ru": "губерния Сокотра",
+    "ru": "Губерния Сокотра",
     "country": "d328479e-fea1-46c7-bd04-de5e3b7b597a",
     "countryCode": "YE",
     "stateCode": "SU"

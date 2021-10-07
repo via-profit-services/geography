@@ -50,7 +50,7 @@
   {
     "id": "ead667f0-7d54-4198-9fe7-3d46eacd025d",
     "en": "Banks",
-    "ru": "городские банки",
+    "ru": "Городские банки",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "9b13b1d2-0d7b-47c8-a4da-6d8e18b2512f",
@@ -254,7 +254,7 @@
   {
     "id": "a63143e3-1a01-4b6b-bda9-80a28109c063",
     "en": "Cook",
-    "ru": "городской повар",
+    "ru": "Городской повар",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "9b13b1d2-0d7b-47c8-a4da-6d8e18b2512f",
@@ -902,7 +902,7 @@
   {
     "id": "08070f5c-9165-40fd-a1e9-c95bfc17324d",
     "en": "Page",
-    "ru": "страница города",
+    "ru": "Страница города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "9b13b1d2-0d7b-47c8-a4da-6d8e18b2512f",
@@ -1634,7 +1634,7 @@
   {
     "id": "2fcee165-2855-4729-858f-2a89ad9394b9",
     "en": "Austral",
-    "ru": "австралийский",
+    "ru": "Австралийский",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -1814,7 +1814,7 @@
   {
     "id": "953259f1-7e80-4b0e-9e0d-695341a8927a",
     "en": "Bar Beach",
-    "ru": "городской бар пляж",
+    "ru": "Городской бар пляж",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -2066,7 +2066,7 @@
   {
     "id": "81889fc3-af2e-4065-9a6e-7dfd05d4980c",
     "en": "Bay View",
-    "ru": "вид на город",
+    "ru": "Вид на город",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -2174,7 +2174,7 @@
   {
     "id": "8317245f-aa97-4256-b286-6200dd3333e8",
     "en": "Bellbird",
-    "ru": "колокольчик",
+    "ru": "Колокольчик",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -2594,7 +2594,7 @@
   {
     "id": "6aff95e0-454a-42b1-8eda-7ebdb9b1e07a",
     "en": "Blacksmiths",
-    "ru": "кузнецов",
+    "ru": "Кузнецов",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -3002,7 +3002,7 @@
   {
     "id": "e844705a-d36d-41b0-a44e-27744a292481",
     "en": "Botany",
-    "ru": "городская ботаника",
+    "ru": "Городская ботаника",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -3050,7 +3050,7 @@
   {
     "id": "c8fab4dd-4846-4e2d-a9f6-73895b1f618a",
     "en": "Bow Bowing",
-    "ru": "лук кланяясь",
+    "ru": "Лук кланяясь",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -3818,7 +3818,7 @@
   {
     "id": "dfe53cc1-48b5-450e-ae9d-8d76f1d4b2bb",
     "en": "Canton Beach",
-    "ru": "кантон бич",
+    "ru": "Кантон бич",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -3938,7 +3938,7 @@
   {
     "id": "47720283-04f8-45a5-9940-6c9219fb7f4b",
     "en": "Carrathool",
-    "ru": "городская школа",
+    "ru": "Городская школа",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -3962,7 +3962,7 @@
   {
     "id": "4b00502e-9389-4ae2-83d3-a692c4f95bab",
     "en": "Carss Park",
-    "ru": "городской парк автомобилей",
+    "ru": "Городской парк автомобилей",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -4130,7 +4130,7 @@
   {
     "id": "6274cbdd-b86f-465d-adbb-4e8c1fe60c58",
     "en": "Centennial Park",
-    "ru": "городской столетний парк",
+    "ru": "Городской столетний парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -4334,7 +4334,7 @@
   {
     "id": "489b42c2-65a4-4632-9039-6e102e90f939",
     "en": "Claremont Meadows",
-    "ru": "клермонт луга",
+    "ru": "Клермонт луга",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -4346,7 +4346,7 @@
   {
     "id": "13d05d5a-b608-4fef-b2ab-023042e98091",
     "en": "Clarence Town",
-    "ru": "кларенс таун",
+    "ru": "Кларенс таун",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -4802,7 +4802,7 @@
   {
     "id": "49ef58f5-ab99-4496-99aa-0aebb1023bee",
     "en": "Corlette",
-    "ru": "корлет",
+    "ru": "Корлет",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -4898,7 +4898,7 @@
   {
     "id": "8113d729-8c12-4fd8-8b1c-f6ba2b681541",
     "en": "Crescent Head",
-    "ru": "полумесяц глава",
+    "ru": "Полумесяц глава",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -5174,7 +5174,7 @@
   {
     "id": "4e43650e-26fa-438e-b248-47cff033b22b",
     "en": "Dean Park",
-    "ru": "декан парк",
+    "ru": "Декан парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -5186,7 +5186,7 @@
   {
     "id": "da94b23f-78bb-4245-9a1e-07c9fdd4c4d0",
     "en": "Dee Why",
-    "ru": "ди почему",
+    "ru": "Ди почему",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -5438,7 +5438,7 @@
   {
     "id": "f407c9e1-2587-4e12-afa8-d83c7e4ef1a3",
     "en": "Dural",
-    "ru": "дюраль",
+    "ru": "Дюраль",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -5450,7 +5450,7 @@
   {
     "id": "0962ee15-a1bb-42ed-85f4-36d1df0652ad",
     "en": "Eagle Vale",
-    "ru": "орлиная долина",
+    "ru": "Орлиная долина",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -6122,7 +6122,7 @@
   {
     "id": "c36a9587-7b60-4a39-921e-9c45701065c0",
     "en": "Fairy Meadow",
-    "ru": "фея луг",
+    "ru": "Фея луг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -6194,7 +6194,7 @@
   {
     "id": "e0a61fd9-d127-429a-82ea-8aef049ff79a",
     "en": "Figtree",
-    "ru": "фигтри",
+    "ru": "Фигтри",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -6302,7 +6302,7 @@
   {
     "id": "5c5536e2-d15e-4c5e-9fba-49633762b4d2",
     "en": "Forest Lodge",
-    "ru": "лесной домик",
+    "ru": "Лесной домик",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -6338,7 +6338,7 @@
   {
     "id": "f7c64665-14ee-4462-92f2-ad3ca8a7ae21",
     "en": "Forster",
-    "ru": "форстер",
+    "ru": "Форстер",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -6374,7 +6374,7 @@
   {
     "id": "bf244ff5-710f-4bb6-afe3-9efb400a59f5",
     "en": "Frenchs Forest",
-    "ru": "французы лес",
+    "ru": "Французы лес",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -6410,7 +6410,7 @@
   {
     "id": "d3ea7d79-c1af-49d6-a7de-5be25910fe6a",
     "en": "Garden Suburb",
-    "ru": "городской сад, пригород",
+    "ru": "Городской сад, пригород",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -7310,7 +7310,7 @@
   {
     "id": "f14e300f-a929-4dc4-8111-14fd8a31cca5",
     "en": "Hay",
-    "ru": "сено",
+    "ru": "Сено",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -7814,7 +7814,7 @@
   {
     "id": "a6faf44d-06cf-4a1a-b55c-57b96d159849",
     "en": "Jerilderie",
-    "ru": "джерильдери",
+    "ru": "Джерильдери",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -7850,7 +7850,7 @@
   {
     "id": "855dc95e-0653-4f45-9c7b-d085bed8c425",
     "en": "Jewells",
-    "ru": "городские украшения",
+    "ru": "Городские украшения",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8054,7 +8054,7 @@
   {
     "id": "3783f05c-29d9-4159-8f11-390fde420e7b",
     "en": "Kearns",
-    "ru": "кернс",
+    "ru": "Кернс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8162,7 +8162,7 @@
   {
     "id": "12de5a56-4be0-42a7-a493-14ed02a77dc8",
     "en": "Kenthurst",
-    "ru": "кентурст",
+    "ru": "Кентурст",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8282,7 +8282,7 @@
   {
     "id": "29cb9705-b15c-4755-a863-17f8b6b87aac",
     "en": "Kings Park",
-    "ru": "королей парк",
+    "ru": "Королей парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8378,7 +8378,7 @@
   {
     "id": "331ef14d-cc51-495f-9522-56b3ae1ea33a",
     "en": "Kogarah Bay",
-    "ru": "бухта Когара",
+    "ru": "Бухта Когара",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8522,7 +8522,7 @@
   {
     "id": "60d4d3d3-92c7-410f-91b1-739bcd39d7b1",
     "en": "Kurri Kurri",
-    "ru": "курри курри",
+    "ru": "Курри курри",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8570,7 +8570,7 @@
   {
     "id": "fd6dbc2b-0ceb-466e-bf6a-8aba84fd5b7f",
     "en": "Lake Albert",
-    "ru": "озеро Альберт",
+    "ru": "Озеро Альберт",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8594,7 +8594,7 @@
   {
     "id": "7ce4fbc8-52ac-4d65-83f7-6053d99d3e51",
     "en": "Lake Cathie",
-    "ru": "озеро кэти",
+    "ru": "Озеро кэти",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8642,7 +8642,7 @@
   {
     "id": "167e04fb-51e8-428c-91f6-720e356676af",
     "en": "Lake Macquarie Shire",
-    "ru": "городское озеро Маккуори Шир",
+    "ru": "Городское озеро Маккуори Шир",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -8966,7 +8966,7 @@
   {
     "id": "c501fc88-f0d7-4242-abb1-d7ad0309ffe9",
     "en": "Lightning Ridge",
-    "ru": "молния хребет",
+    "ru": "Молния хребет",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -9446,7 +9446,7 @@
   {
     "id": "050a207a-8e1c-4be3-930d-0868666bdffa",
     "en": "Mannering Park",
-    "ru": "городской парк развлечений",
+    "ru": "Городской парк развлечений",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -9518,7 +9518,7 @@
   {
     "id": "f983ab70-1413-4fdf-9bb2-fd0ac47962c3",
     "en": "Marrickville",
-    "ru": "марриквилл",
+    "ru": "Марриквилл",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -9578,7 +9578,7 @@
   {
     "id": "0f5640f2-3386-4bd9-aaf1-4c7464a0ed14",
     "en": "Mascot",
-    "ru": "городской талисман",
+    "ru": "Городской талисман",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -9782,7 +9782,7 @@
   {
     "id": "bcf71ccc-5086-4ee8-9247-8c7226320b3e",
     "en": "Merrylands West",
-    "ru": "мерриленд запад",
+    "ru": "Мерриленд запад",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -10346,7 +10346,7 @@
   {
     "id": "19279b9e-17c1-4e58-929e-9cfdb2b93295",
     "en": "Mount Saint Thomas",
-    "ru": "гора Сент-Томас",
+    "ru": "Гора Сент-Томас",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -10694,7 +10694,7 @@
   {
     "id": "77812a30-b8c0-448d-9a18-fd14b0c67627",
     "en": "Neutral Bay",
-    "ru": "нейтральная бухта",
+    "ru": "Нейтральная бухта",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11150,7 +11150,7 @@
   {
     "id": "c3d67890-6c6b-48cf-8541-ea2bb9a76394",
     "en": "Northbridge",
-    "ru": "северный мост",
+    "ru": "Северный мост",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11534,7 +11534,7 @@
   {
     "id": "7937fc31-5e12-4df0-9d6d-902bfc4a4b22",
     "en": "Parkes",
-    "ru": "городские парки",
+    "ru": "Городские парки",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11546,7 +11546,7 @@
   {
     "id": "a29329c8-411a-4c3b-93f7-ee4857eaa8d5",
     "en": "Parklea",
-    "ru": "паркля",
+    "ru": "Паркля",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11702,7 +11702,7 @@
   {
     "id": "4c525149-b3c0-4bf0-9e4b-c4dd84c22a36",
     "en": "Picnic Point",
-    "ru": "пикник поинт",
+    "ru": "Пикник поинт",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11798,7 +11798,7 @@
   {
     "id": "ed9960e1-a94a-4517-b8f4-21b2ef77803d",
     "en": "Port Hacking",
-    "ru": "городской порт взлома",
+    "ru": "Городской порт взлома",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11822,7 +11822,7 @@
   {
     "id": "3eb2c950-e0d0-44b1-aa30-df0c7f86018c",
     "en": "Port Macquarie",
-    "ru": "порт маккуори",
+    "ru": "Порт маккуори",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -11942,7 +11942,7 @@
   {
     "id": "f456454b-639d-43b7-8e6f-8551a1ee6745",
     "en": "Prospect",
-    "ru": "проспект города",
+    "ru": "Проспект города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -12086,7 +12086,7 @@
   {
     "id": "4cb75c2a-abd7-4684-8316-1ad547d5d78a",
     "en": "Raby",
-    "ru": "раби",
+    "ru": "Раби",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -12098,7 +12098,7 @@
   {
     "id": "6e81e6bb-80d5-4236-ac3a-17767fb6966b",
     "en": "Raglan",
-    "ru": "реглан",
+    "ru": "Реглан",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -12194,7 +12194,7 @@
   {
     "id": "60a28a7b-c3fa-4ef2-a1e6-0880318cab4a",
     "en": "Razorback",
-    "ru": "бритвы",
+    "ru": "Бритвы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -12218,7 +12218,7 @@
   {
     "id": "0580d33c-bc98-42de-b8f8-7ab7f6b0d830",
     "en": "Redhead",
-    "ru": "рыжий",
+    "ru": "Рыжий",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -12674,7 +12674,7 @@
   {
     "id": "6b3f3e30-6ece-45c0-9081-559b1a2641a1",
     "en": "Sandy Beach",
-    "ru": "песчаный пляж",
+    "ru": "Песчаный пляж",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -13346,7 +13346,7 @@
   {
     "id": "64abbb5c-cc76-4e72-af04-1ee63604dc58",
     "en": "St. Georges Basin",
-    "ru": "бассейн Святого Георгия",
+    "ru": "Бассейн Святого Георгия",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -13634,7 +13634,7 @@
   {
     "id": "dfe8eb90-1337-4f8b-987f-06693f4fd39a",
     "en": "Table Top",
-    "ru": "столешница города",
+    "ru": "Столешница города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -14030,7 +14030,7 @@
   {
     "id": "c2e36f42-c8f5-4657-986b-971e0ca571eb",
     "en": "The Ponds",
-    "ru": "пруды",
+    "ru": "Пруды",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -14402,7 +14402,7 @@
   {
     "id": "7943a3d2-e5c6-4fa5-8c2f-34b9e89682f9",
     "en": "Turvey Park",
-    "ru": "городской парк турвей",
+    "ru": "Городской парк турвей",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -14558,7 +14558,7 @@
   {
     "id": "40b5ef74-6e7a-4b53-9278-9b1ef7de51c4",
     "en": "Valentine",
-    "ru": "валентина",
+    "ru": "Валентина",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -14582,7 +14582,7 @@
   {
     "id": "3879e683-9f76-4844-be36-16f576c71e48",
     "en": "Valley Heights",
-    "ru": "долины высот",
+    "ru": "Долины высот",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -16142,7 +16142,7 @@
   {
     "id": "8ee9f79e-a3b2-4061-a4b8-638dbe4e748c",
     "en": "Young",
-    "ru": "молодой",
+    "ru": "Молодой",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "25eb62aa-4b51-4146-9142-3ff07f1d17fb",
@@ -16358,7 +16358,7 @@
   {
     "id": "ba2f8708-bef8-45f9-a2e4-ffc1421dc251",
     "en": "Cossack",
-    "ru": "городской казак",
+    "ru": "Городской казак",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -16502,7 +16502,7 @@
   {
     "id": "5d949011-09f5-4373-9267-5e861e7b7e5c",
     "en": "Gray",
-    "ru": "серый",
+    "ru": "Серый",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -16634,7 +16634,7 @@
   {
     "id": "778a4c32-d22b-4915-9fed-0e8f7313588c",
     "en": "Katherine",
-    "ru": "кэтрин",
+    "ru": "Кэтрин",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -16646,7 +16646,7 @@
   {
     "id": "b4ccb042-d439-4742-89c9-1c5940871cd9",
     "en": "Katherine East",
-    "ru": "кэтрин восток",
+    "ru": "Кэтрин восток",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -16658,7 +16658,7 @@
   {
     "id": "ac34e6b4-814c-4250-8239-6e163bba871b",
     "en": "Katherine South",
-    "ru": "кэтрин юг",
+    "ru": "Кэтрин юг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -16742,7 +16742,7 @@
   {
     "id": "0ce3142c-d83c-4b38-ba38-d4ae2c3a3fad",
     "en": "MacDonnell",
-    "ru": "макдоннелл",
+    "ru": "Макдоннелл",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -16886,7 +16886,7 @@
   {
     "id": "c63604c9-fd81-4190-8e28-37a640e31dae",
     "en": "Nightcliff",
-    "ru": "ночной скалы",
+    "ru": "Ночной скалы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -17006,7 +17006,7 @@
   {
     "id": "7ee5b2ae-8958-4fdc-a29e-d3852d6d2921",
     "en": "The Gap",
-    "ru": "разрыв",
+    "ru": "Разрыв",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -17078,7 +17078,7 @@
   {
     "id": "7b397b39-8da0-4cd8-90b2-9d524323faf8",
     "en": "Wagait",
-    "ru": "вагайт",
+    "ru": "Вагайт",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -17090,7 +17090,7 @@
   {
     "id": "140a1e98-cc24-4c7c-9b99-fdb3f602f9a4",
     "en": "Wagaman",
-    "ru": "вагаман",
+    "ru": "Вагаман",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "fa16f6ce-910f-4ca6-8260-c05cb2349739",
@@ -17570,7 +17570,7 @@
   {
     "id": "093935f5-3bff-4452-b340-23c03f229434",
     "en": "Ayr",
-    "ru": "эр",
+    "ru": "Эр",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -17618,7 +17618,7 @@
   {
     "id": "c4dc9cf0-3174-464d-82c2-e679581f9fc5",
     "en": "Bald Hills",
-    "ru": "лысые холмы",
+    "ru": "Лысые холмы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -17666,7 +17666,7 @@
   {
     "id": "d1985bb1-9ff3-4c99-9e7c-478a7af04085",
     "en": "Banana",
-    "ru": "банан",
+    "ru": "Банан",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -18194,7 +18194,7 @@
   {
     "id": "20097a57-537f-48f9-b381-040b46256688",
     "en": "Booie",
-    "ru": "буй",
+    "ru": "Буй",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -18986,7 +18986,7 @@
   {
     "id": "6da6a636-a649-4524-b52d-20c8419c1301",
     "en": "Camp Mountain",
-    "ru": "лагерь гора",
+    "ru": "Лагерь гора",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -19046,7 +19046,7 @@
   {
     "id": "76c17d67-8630-4693-ab08-cf72154b4d28",
     "en": "Capella",
-    "ru": "капелла",
+    "ru": "Капелла",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -19082,7 +19082,7 @@
   {
     "id": "35cec708-a6f0-4fc4-ad0d-c65f70ca8ba0",
     "en": "Cardwell",
-    "ru": "кардвелл",
+    "ru": "Кардвелл",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -19166,7 +19166,7 @@
   {
     "id": "ba4ae1e2-0849-474b-9c8d-7914a7fec917",
     "en": "Cassowary Coast",
-    "ru": "казуары побережье",
+    "ru": "Казуары побережье",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -19178,7 +19178,7 @@
   {
     "id": "218e077e-ddb6-4bb5-8dbf-1f0414fef311",
     "en": "Cedar Grove",
-    "ru": "кедровая роща",
+    "ru": "Кедровая роща",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -19370,7 +19370,7 @@
   {
     "id": "ad56c359-f3fc-4cf8-8ce7-6e04d36eff29",
     "en": "Chinchilla",
-    "ru": "шиншилла",
+    "ru": "Шиншилла",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -19646,7 +19646,7 @@
   {
     "id": "ba1b043b-fa50-4e42-a464-8349280a5c7a",
     "en": "Coomera",
-    "ru": "кумера",
+    "ru": "Кумера",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -20030,7 +20030,7 @@
   {
     "id": "8eea6ce0-8729-4019-97b4-3d7fcc43c352",
     "en": "D’Aguilar",
-    "ru": "д'Агуилар",
+    "ru": "Д'Агуилар",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -20666,7 +20666,7 @@
   {
     "id": "24e953c6-d44f-46ff-a0a6-c7de4d88933c",
     "en": "Fig Tree Pocket",
-    "ru": "фиговое дерево карман",
+    "ru": "Фиговое дерево карман",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -21170,7 +21170,7 @@
   {
     "id": "c26eea61-c315-4357-a56b-32eafa25378c",
     "en": "Griffin",
-    "ru": "гриффин",
+    "ru": "Гриффин",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -21386,7 +21386,7 @@
   {
     "id": "db9a1f0e-bcf4-4b7f-9033-3958751d9071",
     "en": "Heritage Park",
-    "ru": "городской парк наследия",
+    "ru": "Городской парк наследия",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -21398,7 +21398,7 @@
   {
     "id": "af69cadd-1b3b-4709-a9ef-1bd948d6fc1f",
     "en": "Hermit Park",
-    "ru": "отшельник",
+    "ru": "Отшельник",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -22358,7 +22358,7 @@
   {
     "id": "2b87c16c-fff8-4ab6-b7c5-935a94989034",
     "en": "Lake Macdonald",
-    "ru": "озеро макдональд",
+    "ru": "Озеро макдональд",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -22430,7 +22430,7 @@
   {
     "id": "d1fa453e-0fe0-4759-97d4-115c00d6b1f5",
     "en": "Lockhart River",
-    "ru": "река локхарт",
+    "ru": "Река локхарт",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -22862,7 +22862,7 @@
   {
     "id": "0e13d6da-9e8b-4625-a4ff-bba39a2d08e7",
     "en": "Maroochy River",
-    "ru": "река Маручи",
+    "ru": "Река Маручи",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -22934,7 +22934,7 @@
   {
     "id": "23f0bbbc-d2d6-4b87-a37f-f6dcb23bad2f",
     "en": "McKinlay",
-    "ru": "маккинлей",
+    "ru": "Маккинлей",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -23258,7 +23258,7 @@
   {
     "id": "36f6ab72-0573-4d80-85b8-34b8152e7d8a",
     "en": "Monkland",
-    "ru": "монкланд",
+    "ru": "Монкланд",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -23510,7 +23510,7 @@
   {
     "id": "96f633a3-c8bb-408a-b96c-de92eabf476f",
     "en": "Mount Low",
-    "ru": "гора низкая",
+    "ru": "Гора низкая",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -23858,7 +23858,7 @@
   {
     "id": "f6115e76-b29c-434b-9e35-8dff9f74e5b9",
     "en": "Nerang",
-    "ru": "неранг",
+    "ru": "Неранг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24098,7 +24098,7 @@
   {
     "id": "585964f9-fbe5-4a6f-b6c9-d7d57f33b182",
     "en": "North Mackay",
-    "ru": "северный макей",
+    "ru": "Северный макей",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24218,7 +24218,7 @@
   {
     "id": "97d740ce-c3bf-4ecd-9c9d-15a241d5c1bb",
     "en": "One Mile",
-    "ru": "одна миля",
+    "ru": "Одна миля",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24374,7 +24374,7 @@
   {
     "id": "69911360-b651-44b8-af43-0ffd5c870182",
     "en": "Palm Island",
-    "ru": "пальмовый остров",
+    "ru": "Пальмовый остров",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24410,7 +24410,7 @@
   {
     "id": "1e41fe18-2bd3-4589-becb-650b2b362de3",
     "en": "Park Avenue",
-    "ru": "городской парк проспект",
+    "ru": "Городской парк проспект",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24422,7 +24422,7 @@
   {
     "id": "770c3977-dc87-4ea4-aee2-958370d6544a",
     "en": "Park Ridge",
-    "ru": "городской парк хребет",
+    "ru": "Городской парк хребет",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24482,7 +24482,7 @@
   {
     "id": "50c22bd6-f236-41df-99a7-f331d9a222b7",
     "en": "Parkwood",
-    "ru": "парквуд",
+    "ru": "Парквуд",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24662,7 +24662,7 @@
   {
     "id": "300d107c-86ed-4df5-a776-282e9f95179c",
     "en": "Pioneer",
-    "ru": "пионер",
+    "ru": "Пионер",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24686,7 +24686,7 @@
   {
     "id": "e7cef143-0a1c-41f0-a3c3-cc5a6a700323",
     "en": "Plainland",
-    "ru": "равнина",
+    "ru": "Равнина",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -24806,7 +24806,7 @@
   {
     "id": "ae8a07fa-ae50-401c-afd0-4dab26d6a185",
     "en": "Railway Estate",
-    "ru": "городской железнодорожный комплекс",
+    "ru": "Городской железнодорожный комплекс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25130,7 +25130,7 @@
   {
     "id": "4e0a20be-c293-416f-9446-073755e51070",
     "en": "Roma",
-    "ru": "рома",
+    "ru": "Рома",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25166,7 +25166,7 @@
   {
     "id": "18c54869-9d35-446c-9d4b-e5b3901e6b00",
     "en": "Rosewood",
-    "ru": "палисандр",
+    "ru": "Палисандр",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25346,7 +25346,7 @@
   {
     "id": "c431b133-c2da-4535-a3de-de833f7d074c",
     "en": "Scenic Rim",
-    "ru": "живописный обод",
+    "ru": "Живописный обод",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25382,7 +25382,7 @@
   {
     "id": "0b52effc-7f75-47b3-a625-89707795f873",
     "en": "Shailer Park",
-    "ru": "шайлер парк",
+    "ru": "Шайлер парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25430,7 +25430,7 @@
   {
     "id": "c5bac799-7383-4908-afad-e33382d71cc6",
     "en": "Silkstone",
-    "ru": "шелк",
+    "ru": "Шелк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25490,7 +25490,7 @@
   {
     "id": "f2dfcf66-3b2b-45b4-8ef1-50be29d5efd7",
     "en": "Soldiers Hill",
-    "ru": "солдатская горка",
+    "ru": "Солдатская горка",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25562,7 +25562,7 @@
   {
     "id": "f185d5fa-108d-4c0b-9f74-a8e02bb53f62",
     "en": "South Mackay",
-    "ru": "южный макей",
+    "ru": "Южный макей",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25838,7 +25838,7 @@
   {
     "id": "0aa4e01b-b6e5-4ea5-8d5f-5104b9ddcafb",
     "en": "Sunset",
-    "ru": "городской закат",
+    "ru": "Городской закат",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -25898,7 +25898,7 @@
   {
     "id": "f11fba7b-1403-4438-934b-d354e82b6f6e",
     "en": "Taigum",
-    "ru": "тайгум",
+    "ru": "Тайгум",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -26102,7 +26102,7 @@
   {
     "id": "89c536d2-6907-4e67-a1c8-97b8c1848eba",
     "en": "The Gap",
-    "ru": "разрыв",
+    "ru": "Разрыв",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -26126,7 +26126,7 @@
   {
     "id": "89b00298-e9a0-4e0c-b185-8bf282867204",
     "en": "The Range",
-    "ru": "хребет",
+    "ru": "Хребет",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -26162,7 +26162,7 @@
   {
     "id": "13cff2b5-5ff1-4e22-b278-9d1da147f41b",
     "en": "Thursday Island",
-    "ru": "четверг остров",
+    "ru": "Четверг остров",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -26606,7 +26606,7 @@
   {
     "id": "85087904-81ad-48f5-bbf2-198af17727c1",
     "en": "Walloon",
-    "ru": "валлон",
+    "ru": "Валлон",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -26618,7 +26618,7 @@
   {
     "id": "9885141b-cfbe-4a4d-8275-e2f925d0ae5e",
     "en": "Wamuran",
-    "ru": "вамуран",
+    "ru": "Вамуран",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "519c85ed-d058-4716-bd7e-3a8aa5a32973",
@@ -28166,7 +28166,7 @@
   {
     "id": "90a036da-adbd-4905-84c9-87eeaa450c03",
     "en": "Christie Downs",
-    "ru": "кристи даунс",
+    "ru": "Кристи даунс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -28214,7 +28214,7 @@
   {
     "id": "98eec8f4-8ef9-4650-b76b-c950f7bd7cbe",
     "en": "Clare",
-    "ru": "клэр",
+    "ru": "Клэр",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -28226,7 +28226,7 @@
   {
     "id": "b76aacfb-42e5-40d6-bbb3-524bd8ba4264",
     "en": "Clare and Gilbert Valleys",
-    "ru": "долины Клэр и Гилберт",
+    "ru": "Долины Клэр и Гилберт",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -28250,7 +28250,7 @@
   {
     "id": "b953fc0e-6806-45a3-ab59-500d442aafc0",
     "en": "Clarence Park",
-    "ru": "кларенс парк",
+    "ru": "Кларенс парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -28310,7 +28310,7 @@
   {
     "id": "1c3443ae-b2c0-4c24-9658-2a3776a1670c",
     "en": "Colonel Light Gardens",
-    "ru": "полковник Лайт Гарденс",
+    "ru": "Полковник Лайт Гарденс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -28346,7 +28346,7 @@
   {
     "id": "afef51cc-f307-46eb-aa65-50d86d712862",
     "en": "Coromandel Valley",
-    "ru": "долина Коромандел",
+    "ru": "Долина Коромандел",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -29498,7 +29498,7 @@
   {
     "id": "0e789161-dae6-4a18-ae9c-212e89a92b2f",
     "en": "Hindmarsh Island",
-    "ru": "остров Хиндмарш",
+    "ru": "Остров Хиндмарш",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -30122,7 +30122,7 @@
   {
     "id": "f35d480a-90b6-4227-a5a1-e6607a55d079",
     "en": "Marino",
-    "ru": "марино",
+    "ru": "Марино",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -30182,7 +30182,7 @@
   {
     "id": "46e89cea-db81-4885-a6cd-bf8fb51bcc20",
     "en": "Maylands",
-    "ru": "майлендс",
+    "ru": "Майлендс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -30230,7 +30230,7 @@
   {
     "id": "638f83c7-1896-4f96-9e1a-33ca9d061e67",
     "en": "Meadows",
-    "ru": "луга",
+    "ru": "Луга",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -30494,7 +30494,7 @@
   {
     "id": "89c4e7c7-5704-4cd0-9862-3b70927306c0",
     "en": "Mount Compass",
-    "ru": "гора компас",
+    "ru": "Гора компас",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -30518,7 +30518,7 @@
   {
     "id": "19e14590-02b4-44e6-8ba1-ad8d5f9c95ca",
     "en": "Mount Remarkable",
-    "ru": "гора замечательный",
+    "ru": "Гора замечательный",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -30746,7 +30746,7 @@
   {
     "id": "8d4eadd1-65b3-454a-b5c4-43c202182cf2",
     "en": "Northern Areas",
-    "ru": "северные районы",
+    "ru": "Северные районы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -31022,7 +31022,7 @@
   {
     "id": "7f19ebb9-22fc-4396-89a5-018949c84708",
     "en": "Paradise",
-    "ru": "рай",
+    "ru": "Рай",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -31070,7 +31070,7 @@
   {
     "id": "b2bd2f5d-6419-42fc-a26a-6e399418b2d2",
     "en": "Park Holme",
-    "ru": "городской парк холм",
+    "ru": "Городской парк холм",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -31394,7 +31394,7 @@
   {
     "id": "a9a33d32-a554-4e70-a5cc-5f0b2ee21c49",
     "en": "Prospect",
-    "ru": "проспект города",
+    "ru": "Проспект города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -31478,7 +31478,7 @@
   {
     "id": "f62a8f77-816e-4b89-bc14-910ac0104bb6",
     "en": "Renown Park",
-    "ru": "городской парк славы",
+    "ru": "Городской парк славы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -31574,7 +31574,7 @@
   {
     "id": "104049de-564c-4e56-bbb9-c34d71afa07d",
     "en": "Robe",
-    "ru": "халат",
+    "ru": "Халат",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -31886,7 +31886,7 @@
   {
     "id": "59e21b62-be73-4ea0-a2f1-6ef462dba717",
     "en": "Semaphore",
-    "ru": "семафор город",
+    "ru": "Семафор город",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -32210,7 +32210,7 @@
   {
     "id": "6f35dfca-e663-40db-8205-a178e1905c59",
     "en": "Tea Tree Gully",
-    "ru": "чайного дерева овраг",
+    "ru": "Чайного дерева овраг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -32414,7 +32414,7 @@
   {
     "id": "ca5d1c46-a475-4717-850c-e669565b2c7b",
     "en": "Valley View",
-    "ru": "вид на долину города",
+    "ru": "Вид на долину города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -32882,7 +32882,7 @@
   {
     "id": "c63e5d22-b9b6-46b2-ba9f-1e070d0234cc",
     "en": "Yorke Peninsula",
-    "ru": "полуостров Йорк",
+    "ru": "Полуостров Йорк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "f65696c5-9736-45c2-9bf9-8358fa61a857",
@@ -33086,7 +33086,7 @@
   {
     "id": "1c422c38-00a9-4d57-8648-0953bc7d3dc7",
     "en": "Central Coast",
-    "ru": "центральное побережье города",
+    "ru": "Центральное побережье города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33146,7 +33146,7 @@
   {
     "id": "c18425b6-48b1-4af7-94a6-4f138697511c",
     "en": "Clarence",
-    "ru": "кларенс",
+    "ru": "Кларенс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33170,7 +33170,7 @@
   {
     "id": "14e7c801-3255-413c-996a-303e5cd5e2f3",
     "en": "Cressy",
-    "ru": "крессы",
+    "ru": "Крессы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33446,7 +33446,7 @@
   {
     "id": "1a55000f-f318-4cab-a4a2-8522d86b3ac2",
     "en": "Herdsmans Cove",
-    "ru": "пастухов бухта",
+    "ru": "Пастухов бухта",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33542,7 +33542,7 @@
   {
     "id": "4cd41667-8cff-4cd9-bdab-e5153320db32",
     "en": "Kentish",
-    "ru": "кентиш",
+    "ru": "Кентиш",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33578,7 +33578,7 @@
   {
     "id": "c6b54ef5-8923-4add-86f4-dba03464610e",
     "en": "Kings Meadows",
-    "ru": "королей лугов",
+    "ru": "Королей лугов",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33974,7 +33974,7 @@
   {
     "id": "cfb000f4-e675-4482-bad1-eec8060e1c0f",
     "en": "Park Grove",
-    "ru": "городской парк роща",
+    "ru": "Городской парк роща",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -33986,7 +33986,7 @@
   {
     "id": "3fe4cf72-76b6-4d78-aaee-fcf7ca17e794",
     "en": "Penguin",
-    "ru": "пингвин",
+    "ru": "Пингвин",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -34490,7 +34490,7 @@
   {
     "id": "08f3cdb6-0fba-465d-bfcd-de809e73f863",
     "en": "West Coast",
-    "ru": "западное побережье",
+    "ru": "Западное побережье",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -34526,7 +34526,7 @@
   {
     "id": "dfb9bb62-8aa4-4496-bca8-93e58e5fd18d",
     "en": "West Moonah",
-    "ru": "западная луна",
+    "ru": "Западная луна",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "8b0cca56-7422-4800-aa54-565ff6989e3c",
@@ -34718,7 +34718,7 @@
   {
     "id": "75e013be-c0cf-48a3-90db-bddaf051a540",
     "en": "Alpine",
-    "ru": "альпийский",
+    "ru": "Альпийский",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -34778,7 +34778,7 @@
   {
     "id": "bb308e11-3d79-4941-9c2f-148189bb1722",
     "en": "Apollo Bay",
-    "ru": "бухта аполлона",
+    "ru": "Бухта аполлона",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -35402,7 +35402,7 @@
   {
     "id": "02f95cbd-542d-4265-a7a8-7cbc4d194c6f",
     "en": "Bentleigh",
-    "ru": "бентли",
+    "ru": "Бентли",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -35534,7 +35534,7 @@
   {
     "id": "c0a14f83-3edc-462f-992d-d599b4108f84",
     "en": "Blind Bight",
-    "ru": "слепой бухты",
+    "ru": "Слепой бухты",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -36002,7 +36002,7 @@
   {
     "id": "0db4acce-dcbc-4c80-8cb2-6205a4675d15",
     "en": "Canadian",
-    "ru": "канадский",
+    "ru": "Канадский",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -36026,7 +36026,7 @@
   {
     "id": "4ca26654-0c86-472b-a6f7-2e13de059a88",
     "en": "Cape Woolamai",
-    "ru": "мыс Woolamai",
+    "ru": "Мыс Woolamai",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -36482,7 +36482,7 @@
   {
     "id": "9a2ba2f0-65b8-4cf9-ad2d-599421367cd5",
     "en": "Cockatoo",
-    "ru": "какаду",
+    "ru": "Какаду",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -36842,7 +36842,7 @@
   {
     "id": "5efbbb0c-6364-4472-a640-e6796a9999a3",
     "en": "Deer Park",
-    "ru": "олень парк",
+    "ru": "Олень парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -36998,7 +36998,7 @@
   {
     "id": "cdf24c19-62fe-48f4-a61b-981fb8bfad58",
     "en": "Doncaster",
-    "ru": "донкастер",
+    "ru": "Донкастер",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -37106,7 +37106,7 @@
   {
     "id": "098a6d03-9fc0-4b1f-b83b-9f9f356076ea",
     "en": "Eaglehawk",
-    "ru": "иглхок",
+    "ru": "Иглхок",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -37202,7 +37202,7 @@
   {
     "id": "670cbd47-42e9-4c7e-9965-e3291bb52772",
     "en": "Eden Park",
-    "ru": "райский парк",
+    "ru": "Райский парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -37382,7 +37382,7 @@
   {
     "id": "b0b35f37-2932-48c8-a0ee-b4e34691b413",
     "en": "Euroa",
-    "ru": "евроа",
+    "ru": "Евроа",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -38258,7 +38258,7 @@
   {
     "id": "4e1eeaba-f09b-456c-b4fe-b37a8b064c26",
     "en": "Hillside",
-    "ru": "на склоне холма",
+    "ru": "На склоне холма",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -38378,7 +38378,7 @@
   {
     "id": "4dd91fbb-78ff-417b-8717-521e726198b6",
     "en": "Huntly",
-    "ru": "охоты",
+    "ru": "Охоты",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -38402,7 +38402,7 @@
   {
     "id": "3c79ab51-570b-492e-846d-0ff8d7a63774",
     "en": "Indented Head",
-    "ru": "с отступом",
+    "ru": "С отступом",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -38510,7 +38510,7 @@
   {
     "id": "6e5b9ea3-184a-48bb-b258-f45b73d9ef1d",
     "en": "Jacana",
-    "ru": "якана",
+    "ru": "Якана",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -38846,7 +38846,7 @@
   {
     "id": "7a7de6cf-1a02-4691-961e-a0baccb57e7c",
     "en": "Kings Park",
-    "ru": "королей парк",
+    "ru": "Королей парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -39002,7 +39002,7 @@
   {
     "id": "997133af-2930-4543-b6e0-817b20be3ddc",
     "en": "Lake Wendouree",
-    "ru": "озеро Вендури",
+    "ru": "Озеро Вендури",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -39014,7 +39014,7 @@
   {
     "id": "7c614ee3-175c-4b33-9336-2a70b6f9c1e6",
     "en": "Lakes Entrance",
-    "ru": "озер подъезд",
+    "ru": "Озер подъезд",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -39434,7 +39434,7 @@
   {
     "id": "ef02ecaa-e934-4b44-b032-9793b4462da9",
     "en": "Manifold Heights",
-    "ru": "коллектор высот",
+    "ru": "Коллектор высот",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -39782,7 +39782,7 @@
   {
     "id": "eed7aba6-bb5b-4bf0-a155-7a78a2de1330",
     "en": "Moe",
-    "ru": "мо",
+    "ru": "Мо",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40010,7 +40010,7 @@
   {
     "id": "21caeb41-07fb-40a6-8947-89c7c858e847",
     "en": "Mornington Peninsula",
-    "ru": "полуостров морнингтон",
+    "ru": "Полуостров морнингтон",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40046,7 +40046,7 @@
   {
     "id": "7be9bc96-558d-4ffb-9ec0-3da9b2c2a25b",
     "en": "Mount Alexander",
-    "ru": "гора Александр",
+    "ru": "Гора Александр",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40094,7 +40094,7 @@
   {
     "id": "fa3f1adf-5d9c-4e90-9359-49aca882eae2",
     "en": "Mount Duneed",
-    "ru": "гора дюн",
+    "ru": "Гора дюн",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40130,7 +40130,7 @@
   {
     "id": "1ceffb36-e6c3-4aac-a40a-f97f7dad6006",
     "en": "Mount Helen",
-    "ru": "гора елена",
+    "ru": "Гора елена",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40154,7 +40154,7 @@
   {
     "id": "5c9a0e6d-d647-4bfa-9257-aeb029a687f9",
     "en": "Mount Martha",
-    "ru": "гора марта",
+    "ru": "Гора марта",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40574,7 +40574,7 @@
   {
     "id": "06c3aeed-f2ac-47e6-a5df-3f3298acecbc",
     "en": "Northern Grampians",
-    "ru": "северных грампийцев",
+    "ru": "Северных грампийцев",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40634,7 +40634,7 @@
   {
     "id": "1526af13-556c-4f9a-af33-5cba434ee1a1",
     "en": "Oak Park",
-    "ru": "дуб парк",
+    "ru": "Дуб парк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40694,7 +40694,7 @@
   {
     "id": "e0b16749-6bd2-492c-9895-a30ce2856105",
     "en": "Officer",
-    "ru": "городской чиновник",
+    "ru": "Городской чиновник",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40790,7 +40790,7 @@
   {
     "id": "5dbd6393-e13c-4728-9046-b2492aad03c9",
     "en": "Park Orchards",
-    "ru": "городской парк фруктовых садов",
+    "ru": "Городской парк фруктовых садов",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40802,7 +40802,7 @@
   {
     "id": "60f4dc73-daed-4a4a-b498-ad4b4b2141df",
     "en": "Parkdale",
-    "ru": "паркдейл",
+    "ru": "Паркдейл",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40814,7 +40814,7 @@
   {
     "id": "36dd28eb-e094-4dae-a536-b769a1023fdf",
     "en": "Parkville",
-    "ru": "парквилл",
+    "ru": "Парквилл",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -40898,7 +40898,7 @@
   {
     "id": "837c66e9-9433-48bb-a11a-58b77525642d",
     "en": "Plenty",
-    "ru": "множество",
+    "ru": "Множество",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -41066,7 +41066,7 @@
   {
     "id": "eec75e3c-4c10-4fbc-b184-765af0cce50f",
     "en": "Quarry Hill",
-    "ru": "карьерный холм",
+    "ru": "Карьерный холм",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -41282,7 +41282,7 @@
   {
     "id": "b67b24f9-10e9-411b-9591-c90e75e7dce2",
     "en": "Rosebud",
-    "ru": "бутон розы",
+    "ru": "Бутон розы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -41474,7 +41474,7 @@
   {
     "id": "7fc04baa-57b5-4a2f-a373-85a9d9d95500",
     "en": "Sale",
-    "ru": "продажа города",
+    "ru": "Продажа города",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -41678,7 +41678,7 @@
   {
     "id": "73112bb7-a9e3-44fc-8842-661be6e67ecd",
     "en": "Skye",
-    "ru": "скай",
+    "ru": "Скай",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -41714,7 +41714,7 @@
   {
     "id": "6a72481e-c204-4190-8c2d-21918d56d5c1",
     "en": "Soldiers Hill",
-    "ru": "солдатская горка",
+    "ru": "Солдатская горка",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -41834,7 +41834,7 @@
   {
     "id": "e7feac16-3190-4470-bf2e-0d67ca22b9ff",
     "en": "Southern Grampians",
-    "ru": "южных грампийцев",
+    "ru": "Южных грампийцев",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -42230,7 +42230,7 @@
   {
     "id": "84f141b5-dde0-44be-8c4d-b7ba4f6ccfe4",
     "en": "Terang",
-    "ru": "теранг",
+    "ru": "Теранг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -42254,7 +42254,7 @@
   {
     "id": "2681eb03-9192-4de9-841f-4dd8a0f3f707",
     "en": "The Patch",
-    "ru": "патч",
+    "ru": "Патч",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -43274,7 +43274,7 @@
   {
     "id": "9b95981c-eb4a-4169-8b1c-a452b0ebc01c",
     "en": "Yea",
-    "ru": "да",
+    "ru": "Да",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "45b33838-dc1a-438e-a760-a95dbf4f5931",
@@ -43286,7 +43286,7 @@
   {
     "id": "5dfbe10a-1846-459b-a27d-4fb478f44b51",
     "en": "Abbey",
-    "ru": "городское аббатство",
+    "ru": "Городское аббатство",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -43502,7 +43502,7 @@
   {
     "id": "7f3f4d5d-4029-4a9b-ad9c-02213fc65966",
     "en": "Australind",
-    "ru": "австралинд",
+    "ru": "Австралинд",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -43646,7 +43646,7 @@
   {
     "id": "5f485a04-3a4b-4f9f-9864-bf4aff740c3b",
     "en": "Bayonet Head",
-    "ru": "штыковой головы",
+    "ru": "Штыковой головы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -44294,7 +44294,7 @@
   {
     "id": "8f12fe4c-8b82-42ab-8231-74b8d50dc039",
     "en": "Canning",
-    "ru": "консервирования",
+    "ru": "Консервирования",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -44462,7 +44462,7 @@
   {
     "id": "0f673fba-510a-4ee5-bc67-ccf668a47525",
     "en": "Champion Lakes",
-    "ru": "чемпионов озер",
+    "ru": "Чемпионов озер",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -44522,7 +44522,7 @@
   {
     "id": "f9abfa92-5109-4d4a-b7f7-13ea2dbd5333",
     "en": "City Beach",
-    "ru": "городской пляж",
+    "ru": "Городской пляж",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -44546,7 +44546,7 @@
   {
     "id": "70df58ad-e7e6-4024-951a-745239fc2729",
     "en": "City of Perth",
-    "ru": "город Перт",
+    "ru": "Город Перт",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -44606,7 +44606,7 @@
   {
     "id": "49bc1f7e-3e53-4379-b6e8-a71a5b899eb2",
     "en": "College Grove",
-    "ru": "городской колледж роща",
+    "ru": "Городской колледж роща",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -44822,7 +44822,7 @@
   {
     "id": "9d5696e5-0e0e-47c3-af95-1b016f505e96",
     "en": "Cue",
-    "ru": "кий",
+    "ru": "Кий",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -45686,7 +45686,7 @@
   {
     "id": "66fe81b1-0bff-4cd5-a555-9c61724f75b5",
     "en": "Gooseberry Hill",
-    "ru": "крыжовник холм",
+    "ru": "Крыжовник холм",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -45782,7 +45782,7 @@
   {
     "id": "90013ddf-111c-47c2-ad59-2c90a5834b76",
     "en": "Halls Creek",
-    "ru": "мэрии Крик",
+    "ru": "Мэрии Крик",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -45998,7 +45998,7 @@
   {
     "id": "83c3116f-5890-4405-8391-8ac15dff8927",
     "en": "Hocking",
-    "ru": "хокинг",
+    "ru": "Хокинг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46166,7 +46166,7 @@
   {
     "id": "4c591f60-364e-4dfc-b09a-2f1969612734",
     "en": "Jurien Bay",
-    "ru": "бухта жюриен",
+    "ru": "Бухта жюриен",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46322,7 +46322,7 @@
   {
     "id": "ace78b88-d777-4d7a-b0ad-913cb5ea31df",
     "en": "Katanning",
-    "ru": "катаннинг",
+    "ru": "Катаннинг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46622,7 +46622,7 @@
   {
     "id": "3d5019e0-d844-42c2-bc56-dcd1ac197bb6",
     "en": "Leeming",
-    "ru": "лиминг",
+    "ru": "Лиминг",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46694,7 +46694,7 @@
   {
     "id": "493728d4-47da-461d-9428-0a22c930c23b",
     "en": "Lockridge",
-    "ru": "локридж",
+    "ru": "Локридж",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46766,7 +46766,7 @@
   {
     "id": "cb86fed5-b319-444c-9788-a309bdfd0993",
     "en": "Madeley",
-    "ru": "мадли",
+    "ru": "Мадли",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46898,7 +46898,7 @@
   {
     "id": "57696da1-0645-4c53-9fce-486aa8401f70",
     "en": "Martin",
-    "ru": "мартин",
+    "ru": "Мартин",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -46910,7 +46910,7 @@
   {
     "id": "63610788-2da1-4c74-a492-aba85172ec65",
     "en": "Maylands",
-    "ru": "майлендс",
+    "ru": "Майлендс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -47210,7 +47210,7 @@
   {
     "id": "208ba080-cedf-4489-aacd-2379fdb9b33b",
     "en": "Mount Hawthorn",
-    "ru": "гора боярышник",
+    "ru": "Гора боярышник",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -47222,7 +47222,7 @@
   {
     "id": "df05907e-baaf-4fb1-b831-674701f1d87f",
     "en": "Mount Helena",
-    "ru": "гора елена",
+    "ru": "Гора елена",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -47282,7 +47282,7 @@
   {
     "id": "27670f7f-b432-4f33-b498-82089a4e1287",
     "en": "Mount Nasura",
-    "ru": "гора Насура",
+    "ru": "Гора Насура",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -47630,7 +47630,7 @@
   {
     "id": "1e5b4f08-dd8c-4882-ba3f-e6d59a39435c",
     "en": "Northbridge",
-    "ru": "северный мост",
+    "ru": "Северный мост",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -47786,7 +47786,7 @@
   {
     "id": "a0f70946-128b-4911-849b-92070c8e5b18",
     "en": "Parkerville",
-    "ru": "паркервиль",
+    "ru": "Паркервиль",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -47798,7 +47798,7 @@
   {
     "id": "65001457-a247-44f1-8a9a-926872b6776b",
     "en": "Parkwood",
-    "ru": "парквуд",
+    "ru": "Парквуд",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -48518,7 +48518,7 @@
   {
     "id": "deabcd4a-4c7b-4373-9508-d053141f5951",
     "en": "South Yunderup",
-    "ru": "южный",
+    "ru": "Южный",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -48686,7 +48686,7 @@
   {
     "id": "14bc2534-7d51-489d-bd8c-014a8dc29920",
     "en": "Swan",
-    "ru": "лебедь",
+    "ru": "Лебедь",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -48698,7 +48698,7 @@
   {
     "id": "a298e8da-5932-4517-a9b1-b765583df249",
     "en": "Swan View",
-    "ru": "лебедь вид",
+    "ru": "Лебедь вид",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -48806,7 +48806,7 @@
   {
     "id": "b7ee2b9c-fd61-4443-b8c7-f9a8389839ae",
     "en": "Tom Price",
-    "ru": "том прайс",
+    "ru": "Том прайс",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -48866,7 +48866,7 @@
   {
     "id": "e46e13a9-2586-473b-8f26-8bf565b86fea",
     "en": "Two Rocks",
-    "ru": "две скалы",
+    "ru": "Две скалы",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -48986,7 +48986,7 @@
   {
     "id": "012bee61-6d1f-4d00-8f6c-a2c094aee968",
     "en": "Wagin",
-    "ru": "вагин",
+    "ru": "Вагин",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -49010,7 +49010,7 @@
   {
     "id": "4e63bf50-148f-4778-90cd-675a958672eb",
     "en": "Wandering",
-    "ru": "бродит",
+    "ru": "Бродит",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",
@@ -49610,7 +49610,7 @@
   {
     "id": "1774c3ba-ee49-406c-a3e1-fef45c208a64",
     "en": "York",
-    "ru": "йорк",
+    "ru": "Йорк",
     "country": "5f0854d1-e86a-4aa4-9c6d-068ba1d3c943",
     "countryCode": "AU",
     "state": "62f2a804-76f0-4158-a9cc-3b512a4fc699",

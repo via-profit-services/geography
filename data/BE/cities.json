@@ -134,7 +134,7 @@
   {
     "id": "43ef7724-16d1-4ac3-81b9-5ef7e34a13a2",
     "en": "As",
-    "ru": "как",
+    "ru": "Как",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -410,7 +410,7 @@
   {
     "id": "2b69c331-8225-412c-9efa-31aec9b6e465",
     "en": "Boom",
-    "ru": "городской бум",
+    "ru": "Городской бум",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -770,7 +770,7 @@
   {
     "id": "e5d15e88-767e-42ca-98fb-9fc2eceb1f2d",
     "en": "Duffel",
-    "ru": "городской даффель",
+    "ru": "Городской даффель",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -794,7 +794,7 @@
   {
     "id": "3163d91a-f33c-48d0-9bcb-723eb07c9079",
     "en": "Eeklo",
-    "ru": "экло",
+    "ru": "Экло",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -890,7 +890,7 @@
   {
     "id": "4001d7ef-0ba8-47cc-af3d-910ec393ea45",
     "en": "Gent",
-    "ru": "гент",
+    "ru": "Гент",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -1454,7 +1454,7 @@
   {
     "id": "18596b83-c82f-4ce1-aa4b-216ddc93ac0e",
     "en": "Kapellen",
-    "ru": "капеллен",
+    "ru": "Капеллен",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -1826,7 +1826,7 @@
   {
     "id": "57eea54d-0ab9-474b-9318-135c1ece8b8d",
     "en": "Lier",
-    "ru": "лир",
+    "ru": "Лир",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -2150,7 +2150,7 @@
   {
     "id": "4e64d5ca-78e1-467a-9078-61f7049144b7",
     "en": "Moorslede",
-    "ru": "мурследе",
+    "ru": "Мурследе",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -2582,7 +2582,7 @@
   {
     "id": "63344659-9b6e-4147-845c-a27a677c4ddc",
     "en": "Puurs",
-    "ru": "пуурс",
+    "ru": "Пуурс",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "033a8a9f-faed-41a9-b24a-d6399f6bf5ce",
@@ -4310,7 +4310,7 @@
   {
     "id": "262ba849-c5ba-4691-ac02-d7722df6dc3b",
     "en": "Chiny",
-    "ru": "кита",
+    "ru": "Кита",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -4334,7 +4334,7 @@
   {
     "id": "8ded471d-0fcd-4a92-b099-91d1b994dc8f",
     "en": "Clavier",
-    "ru": "клавир",
+    "ru": "Клавир",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -4382,7 +4382,7 @@
   {
     "id": "b2d0ece2-0c3d-4c0e-bb05-f24cf45522bb",
     "en": "Court-Saint-Étienne",
-    "ru": "городской суд-Сент-Этьен",
+    "ru": "Городской суд-Сент-Этьен",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -4466,7 +4466,7 @@
   {
     "id": "5581fe52-e10f-4018-86aa-656371731689",
     "en": "Doische",
-    "ru": "доище",
+    "ru": "Доище",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -4946,7 +4946,7 @@
   {
     "id": "21295299-f1cb-45bf-83b5-8733f3846a6b",
     "en": "Hannut",
-    "ru": "арахис",
+    "ru": "Арахис",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -5090,7 +5090,7 @@
   {
     "id": "7bc68446-e92b-4ec3-ac78-1657dcdc1004",
     "en": "Incourt",
-    "ru": "инкурт",
+    "ru": "Инкурт",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -5102,7 +5102,7 @@
   {
     "id": "da8706bf-21cb-4949-b282-fb6efdd8d3cf",
     "en": "Ittre",
-    "ru": "иттр",
+    "ru": "Иттр",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -5234,7 +5234,7 @@
   {
     "id": "650a454e-9204-4e58-a08f-7c7d161754f5",
     "en": "Lens",
-    "ru": "объектив",
+    "ru": "Объектив",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -5474,7 +5474,7 @@
   {
     "id": "b39fd7cc-f2c8-439e-add4-a04638143ddf",
     "en": "Modave",
-    "ru": "модаве",
+    "ru": "Модаве",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -5582,7 +5582,7 @@
   {
     "id": "9b4201ef-1faa-4e86-ace7-d1e33eca6c98",
     "en": "Nandrin",
-    "ru": "нандрин",
+    "ru": "Нандрин",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -5642,7 +5642,7 @@
   {
     "id": "b73fb73e-029f-4fea-8260-3794a9fb00ee",
     "en": "Ohey",
-    "ru": "охей",
+    "ru": "Охей",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -6038,7 +6038,7 @@
   {
     "id": "58824bfb-315f-44da-adea-103f775be6d1",
     "en": "Rumes",
-    "ru": "румес",
+    "ru": "Румес",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -6146,7 +6146,7 @@
   {
     "id": "3f34b846-a9a8-4dd3-99bb-ffef3d4a5c17",
     "en": "Silly",
-    "ru": "глупый",
+    "ru": "Глупый",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -6170,7 +6170,7 @@
   {
     "id": "9b58ef8b-7892-44d1-b1ad-ef5b0eae1a2c",
     "en": "Sombreffe",
-    "ru": "сомбреффе",
+    "ru": "Сомбреффе",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",
@@ -6206,7 +6206,7 @@
   {
     "id": "910378d0-9aae-4e69-bf5b-15e47c269230",
     "en": "Spa",
-    "ru": "городской спа",
+    "ru": "Городской спа",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "state": "0e46d3fd-2d14-4944-ba0f-1b1126026dc5",

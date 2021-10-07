@@ -518,7 +518,7 @@
   {
     "id": "d6a51fa1-4518-4e98-9aa5-1117bba5c63c",
     "en": "Krupka",
-    "ru": "крупка",
+    "ru": "Крупка",
     "country": "9217db6b-b5d3-45ae-8997-3991015388b2",
     "countryCode": "CZ",
     "state": "880bcdf2-01cf-4ef7-ac27-a22e1fbd12b2",
@@ -3230,7 +3230,7 @@
   {
     "id": "f0bd1ce6-bf4e-4107-8ab7-9b8ce5812943",
     "en": "Vestec",
-    "ru": "вестец",
+    "ru": "Вестец",
     "country": "9217db6b-b5d3-45ae-8997-3991015388b2",
     "countryCode": "CZ",
     "state": "63fdffe5-fd68-46d5-a749-e4bd0368d476",
@@ -4262,7 +4262,7 @@
   {
     "id": "8744d286-35f2-42e1-8084-135914efaa73",
     "en": "Vamberk",
-    "ru": "вамберк",
+    "ru": "Вамберк",
     "country": "9217db6b-b5d3-45ae-8997-3991015388b2",
     "countryCode": "CZ",
     "state": "c545760e-d261-4f0f-848e-895e10f09a6a",
@@ -12902,7 +12902,7 @@
   {
     "id": "9eaaefa2-f3b3-45bd-8bfe-6a6466bab785",
     "en": "Ivanovice na Hané",
-    "ru": "ивановице на хане",
+    "ru": "Ивановице на хане",
     "country": "9217db6b-b5d3-45ae-8997-3991015388b2",
     "countryCode": "CZ",
     "state": "ba0482dd-f59f-4c68-9d5d-2e94cbd690bf",

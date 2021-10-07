@@ -10,7 +10,7 @@
   {
     "id": "96a5477c-b626-4f4b-9995-008293a85848",
     "en": "Atakora Department",
-    "ru": "областное отделение Атакора",
+    "ru": "Областное отделение Атакора",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "AK"
@@ -18,7 +18,7 @@
   {
     "id": "2e15ef50-9291-43b7-ad89-e241488d5cf4",
     "en": "Atlantique Department",
-    "ru": "областной атлантический отдел",
+    "ru": "Областной атлантический отдел",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "AQ"
@@ -34,7 +34,7 @@
   {
     "id": "b380996b-3483-4f2e-8f22-49aa28085ecd",
     "en": "Collines Department",
-    "ru": "областной отдел коллине",
+    "ru": "Областной отдел коллине",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "CO"
@@ -42,7 +42,7 @@
   {
     "id": "86958e2c-e0bc-4a70-9c11-d4a1e8f4cc69",
     "en": "Donga Department",
-    "ru": "донга департамент",
+    "ru": "Донга департамент",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "DO"
@@ -50,7 +50,7 @@
   {
     "id": "c360cddb-1a5d-4fee-b935-9b549343f30d",
     "en": "Kouffo Department",
-    "ru": "районный отдел куффо",
+    "ru": "Районный отдел куффо",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "KO"
@@ -66,7 +66,7 @@
   {
     "id": "912857c5-60e9-4b74-b9e6-dd80dd33aa37",
     "en": "Mono Department",
-    "ru": "областной моно департамент",
+    "ru": "Областной моно департамент",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "MO"
@@ -90,7 +90,7 @@
   {
     "id": "fb308b94-0939-4ce9-b0b7-824cec6853fd",
     "en": "Zou Department",
-    "ru": "областной департамент зоу",
+    "ru": "Областной департамент зоу",
     "country": "9f10b2ba-b745-4e1a-8ba0-51dbeccb992b",
     "countryCode": "BJ",
     "stateCode": "ZO"

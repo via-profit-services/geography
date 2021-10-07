@@ -818,7 +818,7 @@
   {
     "id": "c5115e82-c407-4cff-97f1-8c405df2dd73",
     "en": "Marz",
-    "ru": "марз",
+    "ru": "Марз",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "2e492602-401a-4614-bdd8-ba9aa0a9b920",
@@ -1034,7 +1034,7 @@
   {
     "id": "0bbde7f3-acff-4704-b2ec-d3f5198ea780",
     "en": "Neutal",
-    "ru": "нейтрал",
+    "ru": "Нейтрал",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "2e492602-401a-4614-bdd8-ba9aa0a9b920",
@@ -1382,7 +1382,7 @@
   {
     "id": "e16d1983-e431-4198-acff-637c33ee289d",
     "en": "Raiding",
-    "ru": "рейдерство города",
+    "ru": "Рейдерство города",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "2e492602-401a-4614-bdd8-ba9aa0a9b920",
@@ -1634,7 +1634,7 @@
   {
     "id": "e8cf7820-9362-4334-a0cc-0b34f98969be",
     "en": "Sigless",
-    "ru": "сиглес",
+    "ru": "Сиглес",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "2e492602-401a-4614-bdd8-ba9aa0a9b920",
@@ -3314,7 +3314,7 @@
   {
     "id": "a9daf90e-0074-4068-aea7-09cbec772ada",
     "en": "Rain",
-    "ru": "городской дождь",
+    "ru": "Городской дождь",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "5a411bba-1b59-4957-8870-e4b6fa2c6c4a",
@@ -3650,7 +3650,7 @@
   {
     "id": "106ea360-4381-4722-bd22-bbd937414402",
     "en": "Stall",
-    "ru": "киоск города",
+    "ru": "Киоск города",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "5a411bba-1b59-4957-8870-e4b6fa2c6c4a",
@@ -5186,7 +5186,7 @@
   {
     "id": "a32492b7-70c2-4cdd-95f3-69f6a97499be",
     "en": "Gaming",
-    "ru": "игр",
+    "ru": "Игр",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "8aa6a875-8c8d-4fd4-803c-cd6d2272539b",
@@ -6398,7 +6398,7 @@
   {
     "id": "3bc16be5-746b-446b-a2b0-d96465c09db2",
     "en": "Japons",
-    "ru": "японцы",
+    "ru": "Японцы",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "8aa6a875-8c8d-4fd4-803c-cd6d2272539b",
@@ -9530,7 +9530,7 @@
   {
     "id": "1064c7e2-ccef-4ca8-8ebe-1c0f354d43f4",
     "en": "Spitz",
-    "ru": "шпиц",
+    "ru": "Шпиц",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "8aa6a875-8c8d-4fd4-803c-cd6d2272539b",
@@ -10910,7 +10910,7 @@
   {
     "id": "a0d6a195-2547-4647-9cbc-87682820616e",
     "en": "Anger",
-    "ru": "гнев",
+    "ru": "Гнев",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "5fabb082-0e38-4aba-ac9f-6596c04dd498",
@@ -11594,7 +11594,7 @@
   {
     "id": "68135381-4daf-4975-9daa-54e2c0d6cf1a",
     "en": "Lend",
-    "ru": "ленд",
+    "ru": "Ленд",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "5fabb082-0e38-4aba-ac9f-6596c04dd498",
@@ -12794,7 +12794,7 @@
   {
     "id": "74334fd9-35c8-4b4e-9ca1-6b964703fb6f",
     "en": "Anger",
-    "ru": "гнев",
+    "ru": "Гнев",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -13634,7 +13634,7 @@
   {
     "id": "f497ee59-0ca0-4b1b-9128-839e32b6f329",
     "en": "Frannach",
-    "ru": "франнах",
+    "ru": "Франнах",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -14246,7 +14246,7 @@
   {
     "id": "d7f8015c-b166-425f-a79c-71e55099efec",
     "en": "Hall bei Admont",
-    "ru": "мэрия Бей Адмонт",
+    "ru": "Мэрия Бей Адмонт",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -14738,7 +14738,7 @@
   {
     "id": "c6da4a49-1b48-432b-8abc-0360c2adfc58",
     "en": "Kapellen",
-    "ru": "капеллен",
+    "ru": "Капеллен",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -15242,7 +15242,7 @@
   {
     "id": "be2e3571-fd58-405d-856f-33eb1b65c730",
     "en": "Lend",
-    "ru": "ленд",
+    "ru": "Ленд",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -15782,7 +15782,7 @@
   {
     "id": "f93d1579-b146-4832-bcd8-0fd8496e7c7f",
     "en": "Nitscha",
-    "ru": "нича",
+    "ru": "Нича",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -15974,7 +15974,7 @@
   {
     "id": "6fe4318c-a37b-4dda-afb2-434da0ba4a5f",
     "en": "Pack",
-    "ru": "городской пакет",
+    "ru": "Городской пакет",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -16022,7 +16022,7 @@
   {
     "id": "eebd9ae3-2b60-4b92-aa9b-7f78aaff9f18",
     "en": "Passail",
-    "ru": "пассаил",
+    "ru": "Пассаил",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -17414,7 +17414,7 @@
   {
     "id": "a53ca1aa-f359-4f9a-aeb3-1bfd18438b8a",
     "en": "Scheifling",
-    "ru": "шейфлинг",
+    "ru": "Шейфлинг",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "811d3f4f-9060-4b6d-9376-7ec7c90340e2",
@@ -18926,7 +18926,7 @@
   {
     "id": "06ce6d55-d3ef-49cb-b444-7558b2f46b98",
     "en": "Debant",
-    "ru": "городской дебант",
+    "ru": "Городской дебант",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -19202,7 +19202,7 @@
   {
     "id": "f57bef38-7cc1-467b-b740-0c0ad0cc72e0",
     "en": "Fritzens",
-    "ru": "фриценс",
+    "ru": "Фриценс",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -19298,7 +19298,7 @@
   {
     "id": "7b467da2-1fc4-4ade-af9d-8cbd6e5cf1b7",
     "en": "Going",
-    "ru": "собирается",
+    "ru": "Собирается",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -19574,7 +19574,7 @@
   {
     "id": "8b56e515-9735-4e39-b70b-bd5b4e30f697",
     "en": "Igls",
-    "ru": "иглс",
+    "ru": "Иглс",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -20186,7 +20186,7 @@
   {
     "id": "d88c3ab4-5d6c-4c6d-bb6d-e8c5f36e4c6e",
     "en": "Medraz",
-    "ru": "медраз",
+    "ru": "Медраз",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -20270,7 +20270,7 @@
   {
     "id": "ae520b5f-35f2-4b17-ac25-13b0deb44e80",
     "en": "Mutters",
-    "ru": "бормочет",
+    "ru": "Бормочет",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -20306,7 +20306,7 @@
   {
     "id": "101f39d4-85bd-4a9b-8a8f-b66e45571cc2",
     "en": "Natters",
-    "ru": "наттерс",
+    "ru": "Наттерс",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -20606,7 +20606,7 @@
   {
     "id": "0887e48f-0097-4777-85c4-c889eb64cc00",
     "en": "Pians",
-    "ru": "городские пианы",
+    "ru": "Городские пианы",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -20942,7 +20942,7 @@
   {
     "id": "95aef848-9153-422b-9ef9-aaf9d99fc29a",
     "en": "Rum",
-    "ru": "ром",
+    "ru": "Ром",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -21158,7 +21158,7 @@
   {
     "id": "e9f35fea-ac15-4876-8196-935b653f0d28",
     "en": "See",
-    "ru": "см",
+    "ru": "См",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -21890,7 +21890,7 @@
   {
     "id": "2a7dcb37-ba45-4232-a591-b28fdc314d66",
     "en": "Zams",
-    "ru": "замс",
+    "ru": "Замс",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "52212253-5f9f-4ef6-8e70-93b526436ea1",
@@ -24686,7 +24686,7 @@
   {
     "id": "dfafa926-168a-46b7-8e8c-21c4bc63a27d",
     "en": "Pram",
-    "ru": "коляска",
+    "ru": "Коляска",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "deebfcd5-01ba-44a4-b5b1-9f76b3935f4e",
@@ -24710,7 +24710,7 @@
   {
     "id": "70e0f647-b655-40eb-bc68-6214d96ad2d5",
     "en": "Pramet",
-    "ru": "прамет",
+    "ru": "Прамет",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "deebfcd5-01ba-44a4-b5b1-9f76b3935f4e",
@@ -24770,7 +24770,7 @@
   {
     "id": "e03f16bf-dbea-4f88-9a3d-ff49f2b95c34",
     "en": "Pucking",
-    "ru": "шайба",
+    "ru": "Шайба",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "deebfcd5-01ba-44a4-b5b1-9f76b3935f4e",
@@ -26354,7 +26354,7 @@
   {
     "id": "5e0facf3-2ba6-437e-bb99-04ee3a3c2258",
     "en": "Hernals",
-    "ru": "герналов",
+    "ru": "Герналов",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "49393e5e-8698-4d32-a36f-35639ce6d8ca",
@@ -26414,7 +26414,7 @@
   {
     "id": "e4ac400e-59e7-4e12-8297-e070fd3a379d",
     "en": "Simmering",
-    "ru": "симмеринг",
+    "ru": "Симмеринг",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "49393e5e-8698-4d32-a36f-35639ce6d8ca",
@@ -26594,7 +26594,7 @@
   {
     "id": "c470c946-ed22-40b4-9724-69dd1f88a3db",
     "en": "Blons",
-    "ru": "блондинок",
+    "ru": "Блондинок",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "fa5b100e-3213-4ca6-93ab-49d8b2ee713d",
@@ -26630,7 +26630,7 @@
   {
     "id": "4f9f9593-2300-427c-9cf2-74aa2eed39fd",
     "en": "Brand",
-    "ru": "бренд города",
+    "ru": "Бренд города",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "fa5b100e-3213-4ca6-93ab-49d8b2ee713d",
@@ -26858,7 +26858,7 @@
   {
     "id": "9518bb77-bc5e-4f39-83ea-7d75bc29beca",
     "en": "Hard",
-    "ru": "хард",
+    "ru": "Хард",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "fa5b100e-3213-4ca6-93ab-49d8b2ee713d",
@@ -27374,7 +27374,7 @@
   {
     "id": "d738adb4-bce3-44e3-9b24-566360fb6ac3",
     "en": "Satteins",
-    "ru": "саттеинов",
+    "ru": "Саттеинов",
     "country": "549d4e58-7238-407b-9c5b-81c5683251f4",
     "countryCode": "AT",
     "state": "fa5b100e-3213-4ca6-93ab-49d8b2ee713d",

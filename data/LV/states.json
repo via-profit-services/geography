@@ -106,7 +106,7 @@
   {
     "id": "a00ad599-83c5-4394-8dc0-d38c2fe28a90",
     "en": "Babīte Municipality",
-    "ru": "волость Бабитский край",
+    "ru": "Волость Бабитский край",
     "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
     "countryCode": "LV",
     "stateCode": "012"
@@ -354,7 +354,7 @@
   {
     "id": "dfd93ae3-ce15-441f-b101-0f819d93e750",
     "en": "Jēkabpils Municipality",
-    "ru": "край Екабпилсский край",
+    "ru": "Край Екабпилсский край",
     "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
     "countryCode": "LV",
     "stateCode": "042"
@@ -426,7 +426,7 @@
   {
     "id": "703e7c70-f172-4bfb-ba5f-b7b8b46ccf2f",
     "en": "Krustpils Municipality",
-    "ru": "край Крустпилсский край",
+    "ru": "Край Крустпилсский край",
     "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
     "countryCode": "LV",
     "stateCode": "049"
@@ -826,7 +826,7 @@
   {
     "id": "9713ac76-1065-4333-b6ca-49026e64de62",
     "en": "Tērvete Municipality",
-    "ru": "край Терветский край",
+    "ru": "Край Терветский край",
     "country": "4b38ff7d-ec3e-4559-8761-b0a6d70131bd",
     "countryCode": "LV",
     "stateCode": "098"

@@ -18,7 +18,7 @@
   {
     "id": "0fe0fe7c-952c-41ae-9f53-b2e58ce18210",
     "en": "Bizerte Governorate",
-    "ru": "губерния Бизерта",
+    "ru": "Губерния Бизерта",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "23"
@@ -26,7 +26,7 @@
   {
     "id": "b4258bf5-5fb7-4dfe-b7d6-3c624607ce5c",
     "en": "Gabès Governorate",
-    "ru": "губернаторство Габес",
+    "ru": "Губернаторство Габес",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "81"
@@ -34,7 +34,7 @@
   {
     "id": "9ab7d638-82a0-47fa-a393-489f4872aefb",
     "en": "Gafsa Governorate",
-    "ru": "губернаторство Гафса",
+    "ru": "Губернаторство Гафса",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "71"
@@ -42,7 +42,7 @@
   {
     "id": "7a74693f-e303-4444-983f-fb6ab19e3152",
     "en": "Jendouba Governorate",
-    "ru": "провинция Джендуба",
+    "ru": "Провинция Джендуба",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "32"
@@ -50,7 +50,7 @@
   {
     "id": "58f29857-bfe5-4805-ab3b-75834b260818",
     "en": "Kairouan Governorate",
-    "ru": "провинция Кайруан",
+    "ru": "Провинция Кайруан",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "41"
@@ -98,7 +98,7 @@
   {
     "id": "8444e3c4-15bd-4e2f-818a-a2cb6289c5cc",
     "en": "Manouba Governorate",
-    "ru": "губернаторство Мануба",
+    "ru": "Губернаторство Мануба",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "14"
@@ -106,7 +106,7 @@
   {
     "id": "0f9fca39-7ffe-41f6-a877-085112afe833",
     "en": "Medenine Governorate",
-    "ru": "провинция Меденин области",
+    "ru": "Провинция Меденин области",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "82"
@@ -114,7 +114,7 @@
   {
     "id": "f625aabc-9743-4d5d-9681-f5ec354538e5",
     "en": "Monastir Governorate",
-    "ru": "губерния Монастирская область",
+    "ru": "Губерния Монастирская область",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "52"
@@ -146,7 +146,7 @@
   {
     "id": "7019028b-5ff9-4315-baa4-68359cffd736",
     "en": "Sousse Governorate",
-    "ru": "губернская область Сусс",
+    "ru": "Губернская область Сусс",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "51"
@@ -154,7 +154,7 @@
   {
     "id": "2b68b057-5ab3-4a1d-95b4-987d69eb0271",
     "en": "Tataouine Governorate",
-    "ru": "провинция Татауин",
+    "ru": "Провинция Татауин",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "83"
@@ -170,7 +170,7 @@
   {
     "id": "9540171e-74f4-4b7f-a4b9-ca6e8032c376",
     "en": "Tunis Governorate",
-    "ru": "провинция Тунис",
+    "ru": "Провинция Тунис",
     "country": "f5eb5122-eb80-4627-911b-11aa1c9d19d2",
     "countryCode": "TN",
     "stateCode": "11"

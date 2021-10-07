@@ -13,6 +13,7 @@ type GeographyQuery {
     orderBy: [CitiesListOrderBy!]
     filter: CitiesListFilter
     search: [CitiesSearch!]
+    priorCountry: String
   ): CitiesListConnection!
 
   """

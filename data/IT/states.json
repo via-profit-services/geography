@@ -154,7 +154,7 @@
   {
     "id": "a3b45981-1e54-4345-89c8-db441e8cbf85",
     "en": "Metropolitan City of Bari",
-    "ru": "митрополит город бари",
+    "ru": "Митрополит город бари",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "BA"
@@ -162,7 +162,7 @@
   {
     "id": "02a1ba5a-7c42-475b-8b71-5a8d570df68a",
     "en": "Metropolitan City of Bologna",
-    "ru": "митрополит город болонья",
+    "ru": "Митрополит город болонья",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "BO"
@@ -170,7 +170,7 @@
   {
     "id": "3abecda9-3aa4-4404-8797-3790df4eaa57",
     "en": "Metropolitan City of Cagliari",
-    "ru": "столичный город кальяри",
+    "ru": "Столичный город кальяри",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "CA"
@@ -178,7 +178,7 @@
   {
     "id": "70d11dbd-1c88-4397-ac4b-343158da18a4",
     "en": "Metropolitan City of Catania",
-    "ru": "столичный город катания",
+    "ru": "Столичный город катания",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "CT"
@@ -186,7 +186,7 @@
   {
     "id": "eab50fa1-4e20-4cc9-a028-9fb298392d89",
     "en": "Metropolitan City of Florence",
-    "ru": "митрополит город флоренция",
+    "ru": "Митрополит город флоренция",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "FI"
@@ -194,7 +194,7 @@
   {
     "id": "1dbd4dad-475d-49b5-9418-92de0c3cdfaa",
     "en": "Metropolitan City of Genoa",
-    "ru": "столичный город генуя",
+    "ru": "Столичный город генуя",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "GE"
@@ -210,7 +210,7 @@
   {
     "id": "9cc15158-04e5-4cd8-86cf-7e786c9bca32",
     "en": "Metropolitan City of Milan",
-    "ru": "столичный город милан",
+    "ru": "Столичный город милан",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "MI"
@@ -218,7 +218,7 @@
   {
     "id": "bf2dfa04-3875-44ed-bd53-c29b2c974f22",
     "en": "Metropolitan City of Naples",
-    "ru": "столичный город неаполь",
+    "ru": "Столичный город неаполь",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "NA"
@@ -226,7 +226,7 @@
   {
     "id": "0b5c5b0d-7e3b-41f2-b87c-b4587e5299f0",
     "en": "Metropolitan City of Palermo",
-    "ru": "столичный город палермо",
+    "ru": "Столичный город палермо",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "PA"
@@ -234,7 +234,7 @@
   {
     "id": "664c2c36-563c-4074-9b3b-11629bbb0d0e",
     "en": "Metropolitan City of Reggio Calabria",
-    "ru": "столичный город реджо калабрия",
+    "ru": "Столичный город реджо калабрия",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "RC"
@@ -242,7 +242,7 @@
   {
     "id": "6e0cb9db-6bb3-4536-836b-7358fb72cb60",
     "en": "Metropolitan City of Rome",
-    "ru": "митрополит город рим",
+    "ru": "Митрополит город рим",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "RM"
@@ -250,7 +250,7 @@
   {
     "id": "96238278-be45-4824-8670-40f6799da67d",
     "en": "Metropolitan City of Turin",
-    "ru": "митрополит город турин",
+    "ru": "Митрополит город турин",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "TO"
@@ -258,7 +258,7 @@
   {
     "id": "657bfc88-283c-4364-adbc-38d765cdddf6",
     "en": "Metropolitan City of Venice",
-    "ru": "столичный город Венеция",
+    "ru": "Столичный город Венеция",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "VE"
@@ -714,7 +714,7 @@
   {
     "id": "0892b54a-7048-4ef4-9257-fced2e13ac91",
     "en": "Province of Perugia",
-    "ru": "провинция Перуджа",
+    "ru": "Провинция Перуджа",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "stateCode": "PG"

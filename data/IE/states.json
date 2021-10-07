@@ -26,7 +26,7 @@
   {
     "id": "08238f16-0845-4b9b-9564-07de5771fe4a",
     "en": "County Clare",
-    "ru": "графство клэр",
+    "ru": "Графство клэр",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "CE"
@@ -34,7 +34,7 @@
   {
     "id": "db307b09-86cf-4f1f-b602-4292f3a33daa",
     "en": "County Cork",
-    "ru": "графство Корк",
+    "ru": "Графство Корк",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "CO"
@@ -42,7 +42,7 @@
   {
     "id": "baa4950d-1580-43ad-918c-b68a24ef8202",
     "en": "County Donegal",
-    "ru": "графство донегал",
+    "ru": "Графство донегал",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "DL"
@@ -66,7 +66,7 @@
   {
     "id": "f4224ae4-d2c8-4b65-bbd6-e6757a6e0aff",
     "en": "County Kerry",
-    "ru": "графство керри",
+    "ru": "Графство керри",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "KY"
@@ -82,7 +82,7 @@
   {
     "id": "4f92b9a4-50cb-4453-bce6-68cdb71a1e07",
     "en": "County Kilkenny",
-    "ru": "округ Килкенни",
+    "ru": "Округ Килкенни",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "KK"
@@ -90,7 +90,7 @@
   {
     "id": "fd93c02d-87dd-4d6f-9acd-bc9b14ed0f35",
     "en": "County Laois",
-    "ru": "уезд лаос",
+    "ru": "Уезд лаос",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "LS"
@@ -98,7 +98,7 @@
   {
     "id": "98dc926c-3c2b-44d5-9cd1-7b0b4bd68219",
     "en": "County Limerick",
-    "ru": "графство лимерик",
+    "ru": "Графство лимерик",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "LK"
@@ -122,7 +122,7 @@
   {
     "id": "8f92067b-4551-4704-aa92-7a2db12b3000",
     "en": "County Mayo",
-    "ru": "округ Майо",
+    "ru": "Округ Майо",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "MO"
@@ -130,7 +130,7 @@
   {
     "id": "caf6a182-a4ef-4d4a-ac41-3a71b565d009",
     "en": "County Meath",
-    "ru": "округ Мит",
+    "ru": "Округ Мит",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "MH"
@@ -154,7 +154,7 @@
   {
     "id": "be2d2005-4eae-49fa-8dfe-5aa3f432b02e",
     "en": "County Roscommon",
-    "ru": "уезд Роскоммон",
+    "ru": "Уезд Роскоммон",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "RN"
@@ -170,7 +170,7 @@
   {
     "id": "1dce0c1a-8ead-41af-b742-e8ec1207c3e8",
     "en": "County Tipperary",
-    "ru": "округ Типперари",
+    "ru": "Округ Типперари",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "TA"
@@ -210,7 +210,7 @@
   {
     "id": "de1cf4be-8c22-436c-8009-76f56ec04bfd",
     "en": "Leinster",
-    "ru": "ленстер",
+    "ru": "Ленстер",
     "country": "38c0c356-6769-4c0f-8ebd-6fdaf8397e3e",
     "countryCode": "IE",
     "stateCode": "L"

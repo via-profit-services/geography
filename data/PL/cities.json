@@ -818,7 +818,7 @@
   {
     "id": "301e06b1-0270-41c3-8f8a-78f0c8a38ad7",
     "en": "Powiat buski",
-    "ru": "повята буски",
+    "ru": "Повята буски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -842,7 +842,7 @@
   {
     "id": "8d573bf9-5010-4fcf-8441-25f8becbe33e",
     "en": "Powiat kazimierski",
-    "ru": "повят казимерски",
+    "ru": "Повят казимерски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -854,7 +854,7 @@
   {
     "id": "d4a31961-e319-45e2-b298-32f9c4a1b815",
     "en": "Powiat kielecki",
-    "ru": "повята келецки",
+    "ru": "Повята келецки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -866,7 +866,7 @@
   {
     "id": "40eb0ab5-3b99-488e-bc3c-094f7d347f8e",
     "en": "Powiat konecki",
-    "ru": "повята конецки",
+    "ru": "Повята конецки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -878,7 +878,7 @@
   {
     "id": "e467066c-0d18-4000-8d8e-cd66bc2b4ab6",
     "en": "Powiat opatowski",
-    "ru": "повят опатовский",
+    "ru": "Повят опатовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -890,7 +890,7 @@
   {
     "id": "733037f1-979e-4c57-a21d-c872d776b67a",
     "en": "Powiat ostrowiecki",
-    "ru": "повят островецкий",
+    "ru": "Повят островецкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -914,7 +914,7 @@
   {
     "id": "769168f6-a7c1-4045-b59a-da4de0bca473",
     "en": "Powiat sandomierski",
-    "ru": "повят сандомерский",
+    "ru": "Повят сандомерский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -926,7 +926,7 @@
   {
     "id": "d5be0ab4-b041-475c-8689-384d1c867cc3",
     "en": "Powiat skarżyski",
-    "ru": "повята скаржийски",
+    "ru": "Повята скаржийски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -938,7 +938,7 @@
   {
     "id": "bb3ac348-3ed0-4a4a-b475-f907520ae489",
     "en": "Powiat starachowicki",
-    "ru": "повят стараховицкий",
+    "ru": "Повят стараховицкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "40e5a47c-a4c5-41f8-8d13-a99c36d85e22",
@@ -2678,7 +2678,7 @@
   {
     "id": "f8747789-8d5b-4d34-81a5-3dd14d599025",
     "en": "powiat Łódzki Wschodni",
-    "ru": "повят Лодзь Всходни",
+    "ru": "Повят Лодзь Всходни",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -2738,7 +2738,7 @@
   {
     "id": "b7a19cc4-876f-4159-bd66-0f69c1cf4d5b",
     "en": "Powiat bełchatowski",
-    "ru": "повята белхатовский",
+    "ru": "Повята белхатовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -2762,7 +2762,7 @@
   {
     "id": "e19b05c8-bcc1-47fc-bf48-15fa74907a6f",
     "en": "Powiat kutnowski",
-    "ru": "повят кутновский",
+    "ru": "Повят кутновский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -2810,7 +2810,7 @@
   {
     "id": "a52a116f-4189-4767-b524-d8deb45b3d23",
     "en": "Powiat piotrkowski",
-    "ru": "повята пиотрковский",
+    "ru": "Повята пиотрковский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -2858,7 +2858,7 @@
   {
     "id": "264ea9c3-7253-4386-9c72-3c9c4f9f675e",
     "en": "Powiat sieradzki",
-    "ru": "повят серадзки",
+    "ru": "Повят серадзки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -2882,7 +2882,7 @@
   {
     "id": "f6517b51-d194-491e-9d8c-64d706ce9e49",
     "en": "Powiat tomaszowski",
-    "ru": "повята томашовский",
+    "ru": "Повята томашовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -2930,7 +2930,7 @@
   {
     "id": "dfa57c69-00f9-4847-940c-114da1b3cb5a",
     "en": "Powiat zgierski",
-    "ru": "повята згиерски",
+    "ru": "Повята згиерски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -3350,7 +3350,7 @@
   {
     "id": "3339a708-1d5d-4f60-82c6-5f60243658a5",
     "en": "Warta",
-    "ru": "варта",
+    "ru": "Варта",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "1e8b22e5-81c7-42fe-a8ca-254b5c8b84e2",
@@ -5534,7 +5534,7 @@
   {
     "id": "5aa51562-d671-4a49-a23b-6c1a745752a0",
     "en": "Powiat chodzieski",
-    "ru": "повята ходзески",
+    "ru": "Повята ходзески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5570,7 +5570,7 @@
   {
     "id": "6ea40230-b125-4dc9-b06b-bedca5f87e84",
     "en": "Powiat gostyński",
-    "ru": "повят гостински",
+    "ru": "Повят гостински",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5582,7 +5582,7 @@
   {
     "id": "01b83ed3-f4da-4244-8738-0def6787e8ee",
     "en": "Powiat grodziski",
-    "ru": "повята гродзиски",
+    "ru": "Повята гродзиски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5606,7 +5606,7 @@
   {
     "id": "894b6664-23b0-4291-bcc4-4cce5bdc955d",
     "en": "Powiat kaliski",
-    "ru": "повята калиски",
+    "ru": "Повята калиски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5642,7 +5642,7 @@
   {
     "id": "f859a460-29a1-48f5-8d01-ec22e2ba22ae",
     "en": "Powiat kolski",
-    "ru": "повята колски",
+    "ru": "Повята колски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5666,7 +5666,7 @@
   {
     "id": "2c2e44a6-9c0c-4e71-9b97-424516006c30",
     "en": "Powiat krotoszyński",
-    "ru": "повята кротошинский",
+    "ru": "Повята кротошинский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5714,7 +5714,7 @@
   {
     "id": "c54b93bf-f176-4017-81c9-e8536a8faab4",
     "en": "Powiat obornicki",
-    "ru": "повята оборницки",
+    "ru": "Повята оборницки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5726,7 +5726,7 @@
   {
     "id": "a2b2983a-783b-46fd-915f-6d6230641bc7",
     "en": "Powiat ostrowski",
-    "ru": "повят островский",
+    "ru": "Повят островский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5750,7 +5750,7 @@
   {
     "id": "82110c68-07bb-4027-ba76-48110fff216f",
     "en": "Powiat pilski",
-    "ru": "повята пилски",
+    "ru": "Повята пилски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5774,7 +5774,7 @@
   {
     "id": "685c7e9f-f6b6-4bd2-9e4f-98116e02a189",
     "en": "Powiat poznański",
-    "ru": "повят познанский",
+    "ru": "Повят познанский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5810,7 +5810,7 @@
   {
     "id": "4fe966bd-90eb-4195-82de-1faac6d534bf",
     "en": "Powiat szamotulski",
-    "ru": "повят шамотульский",
+    "ru": "Повят шамотульский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -5822,7 +5822,7 @@
   {
     "id": "c9568eb0-4f1a-4ccf-8343-477d80869dff",
     "en": "Powiat turecki",
-    "ru": "повята турецки",
+    "ru": "Повята турецки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b44d69e0-7c05-4776-a102-7d3a5bae986d",
@@ -7850,7 +7850,7 @@
   {
     "id": "3f4bc98b-4c29-4502-a956-9997451d2589",
     "en": "Powiat aleksandrowski",
-    "ru": "повят александровский",
+    "ru": "Повят александровский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -7886,7 +7886,7 @@
   {
     "id": "f9478fdc-b11a-484f-b493-6c1ea70f148d",
     "en": "Powiat brodnicki",
-    "ru": "повята бродницки",
+    "ru": "Повята бродницки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -7898,7 +7898,7 @@
   {
     "id": "bece74ac-cd80-4e3b-8476-0a5dd5a2a7af",
     "en": "Powiat bydgoski",
-    "ru": "повята быдгоски",
+    "ru": "Повята быдгоски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -7922,7 +7922,7 @@
   {
     "id": "7655ff3c-8495-4b25-81d3-f6ddc18eafbd",
     "en": "Powiat golubsko-dobrzyński",
-    "ru": "повята голубско-добжиньский",
+    "ru": "Повята голубско-добжиньский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -7934,7 +7934,7 @@
   {
     "id": "9931136b-6dfe-45a0-a33f-3d127f734d9b",
     "en": "Powiat grudziądzki",
-    "ru": "повята грудьдзки",
+    "ru": "Повята грудьдзки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -7958,7 +7958,7 @@
   {
     "id": "2719538b-9b20-44d4-b339-ae3138ced888",
     "en": "Powiat lipnowski",
-    "ru": "повята липновски",
+    "ru": "Повята липновски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -7982,7 +7982,7 @@
   {
     "id": "f5d6a86a-4244-4768-afe5-0c716b92baf9",
     "en": "Powiat nakielski",
-    "ru": "повят накиельский",
+    "ru": "Повят накиельский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -8042,7 +8042,7 @@
   {
     "id": "b17c24ab-0d70-4522-bb1b-8cad54747e6e",
     "en": "Powiat tucholski",
-    "ru": "повята тухольски",
+    "ru": "Повята тухольски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "7cb05471-464f-4a0c-abab-abb1a2356416",
@@ -11210,7 +11210,7 @@
   {
     "id": "c2da7115-f9c3-4601-8fdc-3b2bf617bd78",
     "en": "Powiat brzeski",
-    "ru": "повят бжески",
+    "ru": "Повят бжески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11222,7 +11222,7 @@
   {
     "id": "2bd83afe-fb04-4e9f-84ec-2e65ad062614",
     "en": "Powiat chrzanowski",
-    "ru": "повята хшановский",
+    "ru": "Повята хшановский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11246,7 +11246,7 @@
   {
     "id": "9126866c-07ca-4c89-85ff-bdf76c4e90ad",
     "en": "Powiat gorlicki",
-    "ru": "повят горлицкий",
+    "ru": "Повят горлицкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11258,7 +11258,7 @@
   {
     "id": "99a68a9e-ee5b-4699-a7e8-67bd4438e8de",
     "en": "Powiat krakowski",
-    "ru": "повят краковский",
+    "ru": "Повят краковский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11342,7 +11342,7 @@
   {
     "id": "b9764772-4537-42fd-8518-5e5e46a6a654",
     "en": "Powiat olkuski",
-    "ru": "повята олькуски",
+    "ru": "Повята олькуски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11366,7 +11366,7 @@
   {
     "id": "ed3989d6-264d-432f-aa4a-5483ce681a23",
     "en": "Powiat suski",
-    "ru": "повята суски",
+    "ru": "Повята суски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11402,7 +11402,7 @@
   {
     "id": "d4fd485b-d953-464f-a918-f901aaeb9200",
     "en": "Powiat wadowicki",
-    "ru": "повята вадовицкий",
+    "ru": "Повята вадовицкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -11690,7 +11690,7 @@
   {
     "id": "053fecf9-7389-4818-a1d3-cd03d3374b7b",
     "en": "Rusocice",
-    "ru": "русоце",
+    "ru": "Русоце",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "5c8c5d00-edec-4aa1-a8ec-5dfb2ae7d8d6",
@@ -14762,7 +14762,7 @@
   {
     "id": "c1d221f8-abd7-408c-90ab-97dd7b7f0da1",
     "en": "Powiat jaworski",
-    "ru": "повята яворски",
+    "ru": "Повята яворски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "719701a8-602c-4bc0-ba70-bd9bbc159476",
@@ -14798,7 +14798,7 @@
   {
     "id": "a71681af-4cc7-4790-9550-e16e998bdf84",
     "en": "Powiat kłodzki",
-    "ru": "повята клодски",
+    "ru": "Повята клодски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "719701a8-602c-4bc0-ba70-bd9bbc159476",
@@ -14810,7 +14810,7 @@
   {
     "id": "1b8a375e-9df3-4338-9d1e-57eb99388817",
     "en": "Powiat legnicki",
-    "ru": "повята легницки",
+    "ru": "Повята легницки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "719701a8-602c-4bc0-ba70-bd9bbc159476",
@@ -14834,7 +14834,7 @@
   {
     "id": "cef6fb3f-c678-483c-a93a-30abf1418605",
     "en": "Powiat lubiński",
-    "ru": "повят любинский",
+    "ru": "Повят любинский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "719701a8-602c-4bc0-ba70-bd9bbc159476",
@@ -14918,7 +14918,7 @@
   {
     "id": "90ab3154-480e-4add-a066-0a990e0a1d1f",
     "en": "Powiat trzebnicki",
-    "ru": "повята тршебницки",
+    "ru": "Повята тршебницки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "719701a8-602c-4bc0-ba70-bd9bbc159476",
@@ -14990,7 +14990,7 @@
   {
     "id": "eb670b8e-61ea-4093-93cb-ea0b5c01849f",
     "en": "Powiat zgorzelecki",
-    "ru": "повят згожелецкий",
+    "ru": "Повят згожелецкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "719701a8-602c-4bc0-ba70-bd9bbc159476",
@@ -16730,7 +16730,7 @@
   {
     "id": "9f78c45e-790e-4be3-b4dd-a49b6e404dad",
     "en": "Kock",
-    "ru": "коц",
+    "ru": "Коц",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17354,7 +17354,7 @@
   {
     "id": "6bb9b884-07ce-4cc2-875a-5fce7492a499",
     "en": "Powiat bialski",
-    "ru": "повята бяльский",
+    "ru": "Повята бяльский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17390,7 +17390,7 @@
   {
     "id": "6518b282-4150-4dce-bf2e-d1a76c3b5342",
     "en": "Powiat hrubieszowski",
-    "ru": "повят хрубешовский",
+    "ru": "Повят хрубешовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17402,7 +17402,7 @@
   {
     "id": "c9ec2df1-9cc7-4608-ac35-b7911ee4bff5",
     "en": "Powiat janowski",
-    "ru": "повята яновский",
+    "ru": "Повята яновский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17414,7 +17414,7 @@
   {
     "id": "bce53c85-955f-4e0d-a6c2-346f957ff4ae",
     "en": "Powiat kraśnicki",
-    "ru": "повят краницки",
+    "ru": "Повят краницки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17426,7 +17426,7 @@
   {
     "id": "c2ba8620-3bf4-47fa-ab77-dbc0b6fdf9ca",
     "en": "Powiat krasnostawski",
-    "ru": "повята красноставский",
+    "ru": "Повята красноставский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17438,7 +17438,7 @@
   {
     "id": "8c0dc07a-6d2c-4219-bfe1-cb384ad1c9f8",
     "en": "Powiat lubartowski",
-    "ru": "повята любартовский",
+    "ru": "Повята любартовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17450,7 +17450,7 @@
   {
     "id": "8edc62bc-ed7c-487f-a9a9-9eb86f3fe5b0",
     "en": "Powiat lubelski",
-    "ru": "повята любельски",
+    "ru": "Повята любельски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17462,7 +17462,7 @@
   {
     "id": "283c4c92-f577-45d5-bd9f-984d1927a486",
     "en": "Powiat opolski",
-    "ru": "повята опольски",
+    "ru": "Повята опольски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17510,7 +17510,7 @@
   {
     "id": "b2945175-4069-4285-b437-9c3023c1d196",
     "en": "Powiat rycki",
-    "ru": "повята рыцки",
+    "ru": "Повята рыцки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17522,7 +17522,7 @@
   {
     "id": "1b7a274d-37ea-448b-b1e0-ccc79104dc7d",
     "en": "Powiat tomaszowski",
-    "ru": "повята томашовский",
+    "ru": "Повята томашовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -17546,7 +17546,7 @@
   {
     "id": "718610c4-6bd6-4d63-9dc1-c18575c34235",
     "en": "Powiat zamojski",
-    "ru": "повят замойский",
+    "ru": "Повят замойский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "3b4f9168-a960-4322-9436-49bee336e8fd",
@@ -19082,7 +19082,7 @@
   {
     "id": "7bb6d9c9-6f78-4948-9758-1d08767154eb",
     "en": "Powiat nowosolski",
-    "ru": "повят новосольский",
+    "ru": "Повят новосольский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "0c1dbd3e-7651-4466-89a2-06c633ab239b",
@@ -19130,7 +19130,7 @@
   {
     "id": "4bf03702-2869-4548-925d-8a9bbc58b286",
     "en": "Powiat wschowski",
-    "ru": "повят всчовски",
+    "ru": "Повят всчовски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "0c1dbd3e-7651-4466-89a2-06c633ab239b",
@@ -22058,7 +22058,7 @@
   {
     "id": "dce55b44-cc7e-43a2-b094-a4f0654aade2",
     "en": "Powiat grodziski",
-    "ru": "повята гродзиски",
+    "ru": "Повята гродзиски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22070,7 +22070,7 @@
   {
     "id": "edc3a605-310d-4bc3-8d1d-fc18bb82b6df",
     "en": "Powiat kozienicki",
-    "ru": "повят козеницкий",
+    "ru": "Повят козеницкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22082,7 +22082,7 @@
   {
     "id": "77e57990-17a6-4afb-a568-43ca46de22e0",
     "en": "Powiat legionowski",
-    "ru": "повята легионовски",
+    "ru": "Повята легионовски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22094,7 +22094,7 @@
   {
     "id": "734b441f-c1c7-44cd-8846-4c71e39d0aa4",
     "en": "Powiat lipski",
-    "ru": "повят липский",
+    "ru": "Повят липский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22166,7 +22166,7 @@
   {
     "id": "9b73cbf4-c4ce-4554-bbb2-4d77d7cb2e67",
     "en": "Powiat ostrowski",
-    "ru": "повят островский",
+    "ru": "Повят островский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22178,7 +22178,7 @@
   {
     "id": "0c510d18-0068-4fef-8123-5723ebd1eb74",
     "en": "Powiat otwocki",
-    "ru": "повят отвоцкий",
+    "ru": "Повят отвоцкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22202,7 +22202,7 @@
   {
     "id": "5ec3b69b-b4c9-410f-82dc-95e7ab3dc590",
     "en": "Powiat płocki",
-    "ru": "повят плоцкий",
+    "ru": "Повят плоцкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22226,7 +22226,7 @@
   {
     "id": "d862dbfc-fab3-4b51-a8d7-8e600f609b11",
     "en": "Powiat pruszkowski",
-    "ru": "повят прушковский",
+    "ru": "Повят прушковский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22238,7 +22238,7 @@
   {
     "id": "838e285f-e51d-4ee4-bd19-28db7b75c0ca",
     "en": "Powiat przasnyski",
-    "ru": "повят пржасныски",
+    "ru": "Повят пржасныски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22250,7 +22250,7 @@
   {
     "id": "e85351b8-7283-43a6-9171-dc6bc188e791",
     "en": "Powiat przysuski",
-    "ru": "повят пржисуски",
+    "ru": "Повят пржисуски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22274,7 +22274,7 @@
   {
     "id": "57a7ff0e-f567-4d33-95c8-a78fd14ea540",
     "en": "Powiat radomski",
-    "ru": "повята райдомский",
+    "ru": "Повята райдомский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22298,7 +22298,7 @@
   {
     "id": "0e394719-8810-4aef-8d67-cfbb6784bdbd",
     "en": "Powiat sierpecki",
-    "ru": "повята серпецки",
+    "ru": "Повята серпецки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -22790,7 +22790,7 @@
   {
     "id": "c36480c1-093b-4c6a-bd21-fd1f4a2f9b5b",
     "en": "Sabnie",
-    "ru": "сабни",
+    "ru": "Сабни",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "b6d133a6-836b-44b2-bef8-df051859d650",
@@ -24446,7 +24446,7 @@
   {
     "id": "4bcf1e2d-8342-4ab1-a92c-86db9fb57d6d",
     "en": "Kup",
-    "ru": "куп",
+    "ru": "Куп",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "143e5d71-00ea-4db3-a797-9fccfaa502cc",
@@ -24710,7 +24710,7 @@
   {
     "id": "46e13c2c-87ed-4d82-b6f2-6db74f7d8941",
     "en": "Powiat brzeski",
-    "ru": "повят бжески",
+    "ru": "Повят бжески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "143e5d71-00ea-4db3-a797-9fccfaa502cc",
@@ -24782,7 +24782,7 @@
   {
     "id": "95027f2c-2f87-4fdc-8750-591bfa6d3a35",
     "en": "Powiat nyski",
-    "ru": "повята ниски",
+    "ru": "Повята ниски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "143e5d71-00ea-4db3-a797-9fccfaa502cc",
@@ -24794,7 +24794,7 @@
   {
     "id": "74c230d8-8fd5-40e5-89d9-49853f880e5b",
     "en": "Powiat oleski",
-    "ru": "повята олески",
+    "ru": "Повята олески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "143e5d71-00ea-4db3-a797-9fccfaa502cc",
@@ -24806,7 +24806,7 @@
   {
     "id": "00194936-032e-49af-bbf6-4cb1468c85a1",
     "en": "Powiat opolski",
-    "ru": "повята опольски",
+    "ru": "Повята опольски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "143e5d71-00ea-4db3-a797-9fccfaa502cc",
@@ -24818,7 +24818,7 @@
   {
     "id": "64b78d4e-4699-4f09-bb7b-b45e7008e80e",
     "en": "Powiat prudnicki",
-    "ru": "повят прудницкий",
+    "ru": "Повят прудницкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "143e5d71-00ea-4db3-a797-9fccfaa502cc",
@@ -27158,7 +27158,7 @@
   {
     "id": "cb9f1dc1-459f-447b-86e2-c1d1a5dec378",
     "en": "Powiat brzozowski",
-    "ru": "повят бжозовский",
+    "ru": "Повят бжозовский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27182,7 +27182,7 @@
   {
     "id": "6abaf05f-8544-4030-a9d5-9565bead706b",
     "en": "Powiat jarosławski",
-    "ru": "повят ярославский",
+    "ru": "Повят ярославский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27194,7 +27194,7 @@
   {
     "id": "85a31763-eb39-48bb-bfcf-9ec8687867fc",
     "en": "Powiat jasielski",
-    "ru": "повят ясельский",
+    "ru": "Повят ясельский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27242,7 +27242,7 @@
   {
     "id": "fc1abd2e-9311-48a8-890b-314e27e642cb",
     "en": "Powiat leski",
-    "ru": "повята лески",
+    "ru": "Повята лески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27254,7 +27254,7 @@
   {
     "id": "743d23a6-4915-4ac8-bf0f-4ad75ef0420d",
     "en": "Powiat lubaczowski",
-    "ru": "повята любачовски",
+    "ru": "Повята любачовски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27266,7 +27266,7 @@
   {
     "id": "6fd9f76e-dd56-4864-b320-74b8886ad883",
     "en": "Powiat mielecki",
-    "ru": "повята миелецкий",
+    "ru": "Повята миелецкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27290,7 +27290,7 @@
   {
     "id": "099d2094-a1ba-433a-af65-cee1c4f69d13",
     "en": "Powiat przemyski",
-    "ru": "повята пршемыски",
+    "ru": "Повята пршемыски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27302,7 +27302,7 @@
   {
     "id": "fdf70a79-8e66-4ec9-86b0-e3edc0a6d9f2",
     "en": "Powiat przeworski",
-    "ru": "повят пржеворский",
+    "ru": "Повят пржеворский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27314,7 +27314,7 @@
   {
     "id": "411abf06-a569-4b38-860c-edc88a1733bd",
     "en": "Powiat ropczycko-sędziszowski",
-    "ru": "повята ропчицко-сендзишовски",
+    "ru": "Повята ропчицко-сендзишовски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27338,7 +27338,7 @@
   {
     "id": "0a4e338f-3302-4002-9324-3db779daa8ff",
     "en": "Powiat sanocki",
-    "ru": "повята саноцки",
+    "ru": "Повята саноцки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27374,7 +27374,7 @@
   {
     "id": "37f609f2-c3f1-4cd4-98d4-777a60cfa328",
     "en": "Powiat tarnobrzeski",
-    "ru": "повята тарнобжески",
+    "ru": "Повята тарнобжески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -27806,7 +27806,7 @@
   {
     "id": "08e0b074-31ee-4dce-ba96-1af39b2b0316",
     "en": "Sonina",
-    "ru": "сонина",
+    "ru": "Сонина",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "a97b7c54-e6a6-40ca-87db-77b2bc187451",
@@ -28694,7 +28694,7 @@
   {
     "id": "3dfdf015-e290-446e-a846-ad5d529ef74b",
     "en": "Krasnopol",
-    "ru": "краснополь",
+    "ru": "Краснополь",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -28898,7 +28898,7 @@
   {
     "id": "b667ebf1-3d62-481a-9341-8de41c6f703a",
     "en": "Powiat grajewski",
-    "ru": "повят граевский",
+    "ru": "Повят граевский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -28910,7 +28910,7 @@
   {
     "id": "a803f2fc-ee36-4b52-841e-b4276857fa71",
     "en": "Powiat hajnowski",
-    "ru": "повята хайновски",
+    "ru": "Повята хайновски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -28934,7 +28934,7 @@
   {
     "id": "29e8d399-ffe3-4ff0-88c4-ee87100256d4",
     "en": "Powiat moniecki",
-    "ru": "повята монецки",
+    "ru": "Повята монецки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -28958,7 +28958,7 @@
   {
     "id": "6cee00a2-b036-484d-8ecf-55dce6dc4372",
     "en": "Powiat siemiatycki",
-    "ru": "повят семятицкий",
+    "ru": "Повят семятицкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -28982,7 +28982,7 @@
   {
     "id": "00a7148e-5c1d-4247-9e1d-299cee3fb10a",
     "en": "Powiat suwalski",
-    "ru": "повят сувальский",
+    "ru": "Повят сувальский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -29006,7 +29006,7 @@
   {
     "id": "2d8c48cd-a1cf-4d65-8c30-d59838d26f12",
     "en": "Powiat zambrowski",
-    "ru": "повят замбровский",
+    "ru": "Повят замбровский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "8b6a749d-0504-4a88-a204-33fef1c81c4b",
@@ -30350,7 +30350,7 @@
   {
     "id": "14c3066d-0a03-4067-8885-62100aeb73a5",
     "en": "Powiat chojnicki",
-    "ru": "повят хойницки",
+    "ru": "Повят хойницки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30374,7 +30374,7 @@
   {
     "id": "03fca158-dd4d-4cd0-84a5-a2ea4a4673e7",
     "en": "Powiat gdański",
-    "ru": "повят гданьский",
+    "ru": "Повят гданьский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30386,7 +30386,7 @@
   {
     "id": "20d5b076-1895-47f2-826e-10f789982b33",
     "en": "Powiat kartuski",
-    "ru": "повята картуски",
+    "ru": "Повята картуски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30398,7 +30398,7 @@
   {
     "id": "fa31d0c9-00b6-4adb-bdaf-09723a91fe36",
     "en": "Powiat kościerski",
-    "ru": "повята косцерский",
+    "ru": "Повята косцерский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30434,7 +30434,7 @@
   {
     "id": "b30dc3aa-26a6-4d13-ad67-212bc7e92285",
     "en": "Powiat malborski",
-    "ru": "повята мальборски",
+    "ru": "Повята мальборски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30458,7 +30458,7 @@
   {
     "id": "a4921a03-1ae8-4367-ad0d-50cd28ab4528",
     "en": "Powiat pucki",
-    "ru": "повята пуцки",
+    "ru": "Повята пуцки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30482,7 +30482,7 @@
   {
     "id": "e868918e-b9a6-4f9f-a04a-632c845e0ae4",
     "en": "Powiat starogardzki",
-    "ru": "повята старогардзки",
+    "ru": "Повята старогардзки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30494,7 +30494,7 @@
   {
     "id": "b33e7d8a-afd6-4226-8d87-e60679988e8d",
     "en": "Powiat sztumski",
-    "ru": "повят штумский",
+    "ru": "Повят штумский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30518,7 +30518,7 @@
   {
     "id": "781bbe34-1468-4254-bb05-210be8b0387a",
     "en": "Powiat wejherowski",
-    "ru": "повят вейхеровский",
+    "ru": "Повят вейхеровский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30602,7 +30602,7 @@
   {
     "id": "892baa89-e682-4832-ab2d-f8f44f405a16",
     "en": "Puck",
-    "ru": "шайба",
+    "ru": "Шайба",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -30950,7 +30950,7 @@
   {
     "id": "0d54139c-8c40-4a05-a6fb-c809c8adcd00",
     "en": "Szlachta",
-    "ru": "шляхта",
+    "ru": "Шляхта",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "dd1304ee-4113-4398-9234-09b873177791",
@@ -33638,7 +33638,7 @@
   {
     "id": "b859355b-7d7c-431d-9328-52bb5ecee48d",
     "en": "Powiat kłobucki",
-    "ru": "повята клобуцки",
+    "ru": "Повята клобуцки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "496327d1-ff5d-45d4-8cff-f975386b48d0",
@@ -33650,7 +33650,7 @@
   {
     "id": "433ca5db-1a0d-4b72-b7e1-60e59b81d14a",
     "en": "Powiat lubliniecki",
-    "ru": "повята люблинецкий",
+    "ru": "Повята люблинецкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "496327d1-ff5d-45d4-8cff-f975386b48d0",
@@ -33698,7 +33698,7 @@
   {
     "id": "ed3581eb-084b-4ef9-83ae-7478e91e42bc",
     "en": "Powiat raciborski",
-    "ru": "повята расиборски",
+    "ru": "Повята расиборски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "496327d1-ff5d-45d4-8cff-f975386b48d0",
@@ -33710,7 +33710,7 @@
   {
     "id": "43230f4f-f127-4157-be01-58efdc539ba9",
     "en": "Powiat rybnicki",
-    "ru": "повята рыбницкий",
+    "ru": "Повята рыбницкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "496327d1-ff5d-45d4-8cff-f975386b48d0",
@@ -35642,7 +35642,7 @@
   {
     "id": "7a379a2b-3d68-4f91-a69f-2117249338e9",
     "en": "Powiat bartoszycki",
-    "ru": "повята бартошицкий",
+    "ru": "Повята бартошицкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -35654,7 +35654,7 @@
   {
     "id": "6d99e82f-90be-4627-92d2-a9feef6bd33f",
     "en": "Powiat braniewski",
-    "ru": "повята браньевски",
+    "ru": "Повята браньевски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -35678,7 +35678,7 @@
   {
     "id": "68f57bdf-3fe8-424f-902c-76ef37713fa1",
     "en": "Powiat ełcki",
-    "ru": "повята элки",
+    "ru": "Повята элки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -35714,7 +35714,7 @@
   {
     "id": "d7831025-1dd3-4ac7-9ce9-353a723828b0",
     "en": "Powiat gołdapski",
-    "ru": "повята голдапски",
+    "ru": "Повята голдапски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -35750,7 +35750,7 @@
   {
     "id": "9dd09186-6ab8-496b-b57c-967c61c8ec3b",
     "en": "Powiat lidzbarski",
-    "ru": "повята лидзбарски",
+    "ru": "Повята лидзбарски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -35798,7 +35798,7 @@
   {
     "id": "0c5ac102-d8fe-48bc-954b-b81345281715",
     "en": "Powiat olecki",
-    "ru": "повята олецки",
+    "ru": "Повята олецки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -35834,7 +35834,7 @@
   {
     "id": "8d7610b1-b077-4484-9e9f-20d05aa88bd6",
     "en": "Powiat piski",
-    "ru": "повята писки",
+    "ru": "Повята писки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "cd947f06-4a07-4b63-bd40-28f478a4faf6",
@@ -36170,7 +36170,7 @@
   {
     "id": "faa78a11-b3fc-4e85-bdd2-6a5aa93d1a92",
     "en": "Banie",
-    "ru": "бани",
+    "ru": "Бани",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -36938,7 +36938,7 @@
   {
     "id": "9e489b67-fb02-454e-bb96-d59dc13fc043",
     "en": "Police",
-    "ru": "городская полиция",
+    "ru": "Городская полиция",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -36998,7 +36998,7 @@
   {
     "id": "7f61140a-2fc4-4a63-99c8-5752e3aed28f",
     "en": "Powiat drawski",
-    "ru": "повята ничья",
+    "ru": "Повята ничья",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37010,7 +37010,7 @@
   {
     "id": "b7dd1337-2491-4930-a427-80b37f329522",
     "en": "Powiat goleniowski",
-    "ru": "повята голенёвски",
+    "ru": "Повята голенёвски",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37034,7 +37034,7 @@
   {
     "id": "c5a796db-bfa8-4534-97ed-cbc6bd330494",
     "en": "Powiat gryficki",
-    "ru": "повята грифицкий",
+    "ru": "Повята грифицкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37058,7 +37058,7 @@
   {
     "id": "85f16e52-d3b6-4fff-8290-e84fb19fe648",
     "en": "Powiat kołobrzeski",
-    "ru": "повята колобжески",
+    "ru": "Повята колобжески",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37070,7 +37070,7 @@
   {
     "id": "1e4b3f75-7363-441c-b9fd-d3f6281e3c49",
     "en": "Powiat koszaliński",
-    "ru": "повят косалинский",
+    "ru": "Повят косалинский",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37094,7 +37094,7 @@
   {
     "id": "e5bd8dca-073e-4544-9a9e-9678f5d4b374",
     "en": "Powiat policki",
-    "ru": "повята полицки",
+    "ru": "Повята полицки",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37142,7 +37142,7 @@
   {
     "id": "d4541c28-a460-4911-89d9-6022e4f6df14",
     "en": "Powiat szczecinecki",
-    "ru": "повят щецинецкий",
+    "ru": "Повят щецинецкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",
@@ -37154,7 +37154,7 @@
   {
     "id": "51f49f4c-712c-495b-8786-9946305d67a7",
     "en": "Powiat wałecki",
-    "ru": "повят волецкий",
+    "ru": "Повят волецкий",
     "country": "d5db1000-8441-4b1e-ae6c-7693d41af377",
     "countryCode": "PL",
     "state": "4fedabeb-df60-4b81-9778-b0adcc6f715b",

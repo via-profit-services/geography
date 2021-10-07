@@ -62,7 +62,7 @@
   {
     "id": "79051829-407a-49da-ba52-0235d311d389",
     "en": "North Shore",
-    "ru": "северный берег",
+    "ru": "Северный берег",
     "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
     "countryCode": "NZ",
     "state": "7a3701fc-5ee1-4f05-a84f-b0a3bc6065af",
@@ -170,7 +170,7 @@
   {
     "id": "e2bc1d7f-0bc1-4069-a380-379dd66bc68c",
     "en": "Tamaki",
-    "ru": "тамаки",
+    "ru": "Тамаки",
     "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
     "countryCode": "NZ",
     "state": "7a3701fc-5ee1-4f05-a84f-b0a3bc6065af",
@@ -890,7 +890,7 @@
   {
     "id": "caf5b568-2fbf-4501-b142-f3501f7ad70f",
     "en": "Far North District",
-    "ru": "крайний северный округ",
+    "ru": "Крайний северный округ",
     "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
     "countryCode": "NZ",
     "state": "78cb76b1-d103-466e-8a47-24cd971a15c2",
@@ -902,7 +902,7 @@
   {
     "id": "c4ec95a7-db6f-4942-b8bc-34e23c5d9029",
     "en": "Kaipara District",
-    "ru": "каипарский район",
+    "ru": "Каипарский район",
     "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
     "countryCode": "NZ",
     "state": "78cb76b1-d103-466e-8a47-24cd971a15c2",
@@ -1190,7 +1190,7 @@
   {
     "id": "b9070d81-3a1a-4fbb-9c03-5943d6542de0",
     "en": "Bluff",
-    "ru": "блеф",
+    "ru": "Блеф",
     "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
     "countryCode": "NZ",
     "state": "9005bd78-47b1-4d59-b333-d275d0236e69",
@@ -1538,7 +1538,7 @@
   {
     "id": "5e6d2b41-f054-43f1-bfde-4c55b87b569c",
     "en": "Raglan",
-    "ru": "реглан",
+    "ru": "Реглан",
     "country": "3c689951-02f9-4810-8234-f9e564aa1cd3",
     "countryCode": "NZ",
     "state": "ca2a9459-6729-40a7-9995-0b184cfad5e7",

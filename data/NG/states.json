@@ -114,7 +114,7 @@
   {
     "id": "158cfe6d-01fc-491c-8642-57454b43a109",
     "en": "Federal Capital Territory",
-    "ru": "федеральная столичная область",
+    "ru": "Федеральная столичная область",
     "country": "eb4c396b-4f51-45a8-bd3a-662bd026f951",
     "countryCode": "NG",
     "stateCode": "FC"
@@ -210,7 +210,7 @@
   {
     "id": "ce77b7ec-bd20-49eb-8d58-84dcb9292aad",
     "en": "Niger State",
-    "ru": "нигер штат",
+    "ru": "Нигер штат",
     "country": "eb4c396b-4f51-45a8-bd3a-662bd026f951",
     "countryCode": "NG",
     "stateCode": "NI"
@@ -250,7 +250,7 @@
   {
     "id": "9f5a2cbb-9153-45d0-b42e-cf3959fa8243",
     "en": "Plateau State",
-    "ru": "плато штат",
+    "ru": "Плато штат",
     "country": "eb4c396b-4f51-45a8-bd3a-662bd026f951",
     "countryCode": "NG",
     "stateCode": "PL"

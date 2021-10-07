@@ -2,7 +2,7 @@
   {
     "id": "e0a3e030-ea41-4285-bc32-5506079d4e6c",
     "en": "Beni Department",
-    "ru": "район Бени департамент",
+    "ru": "Район Бени департамент",
     "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
     "countryCode": "BO",
     "stateCode": "B"
@@ -10,7 +10,7 @@
   {
     "id": "183d847d-d362-437c-b10f-a5d4bb4adc59",
     "en": "Chuquisaca Department",
-    "ru": "областной департамент Чукисака",
+    "ru": "Областной департамент Чукисака",
     "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
     "countryCode": "BO",
     "stateCode": "H"
@@ -50,7 +50,7 @@
   {
     "id": "c4e054ab-45fc-46f3-a545-9022d3b5b5cd",
     "en": "Potosí Department",
-    "ru": "районный департамент Потоси",
+    "ru": "Районный департамент Потоси",
     "country": "e4d9c76f-a8a2-4248-bfa6-2c0522bddaf6",
     "countryCode": "BO",
     "stateCode": "P"

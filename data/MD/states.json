@@ -2,7 +2,7 @@
   {
     "id": "1696bdc3-7fd6-4675-b26b-db4702973781",
     "en": "Anenii Noi District",
-    "ru": "район Анений Ной Район",
+    "ru": "Район Анений Ной Район",
     "country": "593b169f-134f-403a-adf9-e5ed7cc1018c",
     "countryCode": "MD",
     "stateCode": "AN"
@@ -58,7 +58,7 @@
   {
     "id": "a052e1b8-0508-47c0-945a-9d49ee7eec57",
     "en": "Călărași District",
-    "ru": "край Кэлэрацкий район",
+    "ru": "Край Кэлэрацкий район",
     "country": "593b169f-134f-403a-adf9-e5ed7cc1018c",
     "countryCode": "MD",
     "stateCode": "CL"
@@ -74,7 +74,7 @@
   {
     "id": "ce88a2d4-534e-4d70-a596-3fd02e0057c1",
     "en": "Chișinău Municipality",
-    "ru": "муниципия Кишинэу",
+    "ru": "Муниципия Кишинэу",
     "country": "593b169f-134f-403a-adf9-e5ed7cc1018c",
     "countryCode": "MD",
     "stateCode": "CU"
@@ -162,7 +162,7 @@
   {
     "id": "25f38880-84e9-4b3d-835b-efa8835541a5",
     "en": "Gagauzia",
-    "ru": "гагаузия",
+    "ru": "Гагаузия",
     "country": "593b169f-134f-403a-adf9-e5ed7cc1018c",
     "countryCode": "MD",
     "stateCode": "GA"
@@ -250,7 +250,7 @@
   {
     "id": "a41a6958-c8a0-4c6f-8c5e-1a28f30edded",
     "en": "Strășeni District",
-    "ru": "край Страшенский район",
+    "ru": "Край Страшенский район",
     "country": "593b169f-134f-403a-adf9-e5ed7cc1018c",
     "countryCode": "MD",
     "stateCode": "ST"

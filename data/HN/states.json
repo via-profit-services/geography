@@ -10,7 +10,7 @@
   {
     "id": "62ed64db-b0be-4f7d-b7bd-3fba43199b01",
     "en": "Bay Islands Department",
-    "ru": "бухты островов департамент",
+    "ru": "Бухты островов департамент",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "IB"
@@ -18,7 +18,7 @@
   {
     "id": "92290a64-21c0-4e90-a1ea-a2adf9d365c9",
     "en": "Choluteca Department",
-    "ru": "областной отдел Choluteca",
+    "ru": "Областной отдел Choluteca",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "CH"
@@ -42,7 +42,7 @@
   {
     "id": "90291bf0-2491-4100-8b69-0b095cab3c82",
     "en": "Copán Department",
-    "ru": "региональный отдел Копан",
+    "ru": "Региональный отдел Копан",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "CP"
@@ -50,7 +50,7 @@
   {
     "id": "d62dfbbf-b660-4a13-b6dd-60eecf6006f3",
     "en": "Cortés Department",
-    "ru": "областной департамент Кортес",
+    "ru": "Областной департамент Кортес",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "CR"
@@ -82,7 +82,7 @@
   {
     "id": "68b68ef7-5bf0-495f-afe3-bb5024aa2cb2",
     "en": "Intibucá Department",
-    "ru": "областной отдел Intibucá",
+    "ru": "Областной отдел Intibucá",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "IN"
@@ -106,7 +106,7 @@
   {
     "id": "1054d46c-e994-4623-8236-1de7378435ed",
     "en": "Ocotepeque Department",
-    "ru": "областное отделение Окотепеке",
+    "ru": "Областное отделение Окотепеке",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "OC"
@@ -138,7 +138,7 @@
   {
     "id": "006f17dd-15b5-4970-af32-a28c776e4bfc",
     "en": "Yoro Department",
-    "ru": "район йоро департамент",
+    "ru": "Район йоро департамент",
     "country": "9b1b3c7f-bebb-4fa1-85a0-7078708f9444",
     "countryCode": "HN",
     "stateCode": "YO"

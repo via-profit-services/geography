@@ -2,7 +2,7 @@
   {
     "id": "19938b6c-fefd-49d6-8876-f3fae76e7bca",
     "en": "Al-Hasakah Governorate",
-    "ru": "мухафаза Аль-Хасака",
+    "ru": "Мухафаза Аль-Хасака",
     "country": "0370d946-dce1-49c5-8a57-30fd4ca82e0a",
     "countryCode": "SY",
     "stateCode": "HA"
@@ -66,7 +66,7 @@
   {
     "id": "b1d22a54-8063-4c24-a4cd-beaa9ca97a1f",
     "en": "Homs Governorate",
-    "ru": "губернаторство Хомс",
+    "ru": "Губернаторство Хомс",
     "country": "0370d946-dce1-49c5-8a57-30fd4ca82e0a",
     "countryCode": "SY",
     "stateCode": "HI"
@@ -90,7 +90,7 @@
   {
     "id": "72f78278-7830-418f-b8aa-7f9da1e64556",
     "en": "Quneitra Governorate",
-    "ru": "губернаторство Кунейтра",
+    "ru": "Губернаторство Кунейтра",
     "country": "0370d946-dce1-49c5-8a57-30fd4ca82e0a",
     "countryCode": "SY",
     "stateCode": "QU"

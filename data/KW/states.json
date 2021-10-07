@@ -2,7 +2,7 @@
   {
     "id": "bb247983-2480-4808-90b3-f56e92ec7476",
     "en": "Al Ahmadi Governorate",
-    "ru": "провинция Аль Ахмади",
+    "ru": "Провинция Аль Ахмади",
     "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
     "countryCode": "KW",
     "stateCode": "AH"
@@ -18,7 +18,7 @@
   {
     "id": "cf9dcf35-121b-4f52-8e15-71ea5cc19110",
     "en": "Al Jahra Governorate",
-    "ru": "мухафаза Аль-Джахра",
+    "ru": "Мухафаза Аль-Джахра",
     "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
     "countryCode": "KW",
     "stateCode": "JA"
@@ -26,7 +26,7 @@
   {
     "id": "6e276610-fe05-451a-aabc-0f9cc29dda7d",
     "en": "Capital Governorate",
-    "ru": "столичная губерния",
+    "ru": "Столичная губерния",
     "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
     "countryCode": "KW",
     "stateCode": "KU"
@@ -34,7 +34,7 @@
   {
     "id": "2c3d94eb-527d-4733-a0e3-4baba3174d34",
     "en": "Hawalli Governorate",
-    "ru": "губернаторство Хавалли",
+    "ru": "Губернаторство Хавалли",
     "country": "6cf57a8f-b223-4c8f-8151-aa75326b1de1",
     "countryCode": "KW",
     "stateCode": "HA"

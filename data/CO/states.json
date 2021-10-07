@@ -10,7 +10,7 @@
   {
     "id": "10acddff-d791-4d09-bc2a-ae5015e1df3e",
     "en": "Antioquia Department",
-    "ru": "отдел Антиокия области",
+    "ru": "Отдел Антиокия области",
     "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
     "countryCode": "CO",
     "stateCode": "ANT"
@@ -130,7 +130,7 @@
   {
     "id": "5dd8062d-1553-4ad8-b4e5-aaef02864bc2",
     "en": "Guaviare Department",
-    "ru": "областной департамент Гуавиаре",
+    "ru": "Областной департамент Гуавиаре",
     "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
     "countryCode": "CO",
     "stateCode": "GUV"
@@ -146,7 +146,7 @@
   {
     "id": "ebcdb47c-4085-4b9f-900d-f82bcbaf885b",
     "en": "Magdalena Department",
-    "ru": "район Магдалена отдел",
+    "ru": "Район Магдалена отдел",
     "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
     "countryCode": "CO",
     "stateCode": "MAG"
@@ -178,7 +178,7 @@
   {
     "id": "7d65eb2a-24b2-454a-a9ab-143249421e9c",
     "en": "Putumayo Department",
-    "ru": "район Путумайо департамент",
+    "ru": "Район Путумайо департамент",
     "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
     "countryCode": "CO",
     "stateCode": "PUT"
@@ -234,7 +234,7 @@
   {
     "id": "127020d2-93ee-464f-bd37-7e064aacaca2",
     "en": "Vaupés Department",
-    "ru": "областной департамент Ваупес",
+    "ru": "Областной департамент Ваупес",
     "country": "12577096-6b61-43c0-a3b6-071f4f53f197",
     "countryCode": "CO",
     "stateCode": "VAU"

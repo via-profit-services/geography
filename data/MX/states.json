@@ -42,7 +42,7 @@
   {
     "id": "3db3e90f-0a2e-4899-9e24-746191fb0edd",
     "en": "Chihuahua",
-    "ru": "чихуахуа",
+    "ru": "Чихуахуа",
     "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
     "countryCode": "MX",
     "stateCode": "CHH"
@@ -130,7 +130,7 @@
   {
     "id": "ab484f27-7c59-4af0-aaab-55b803694f29",
     "en": "Nayarit",
-    "ru": "найарит",
+    "ru": "Найарит",
     "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
     "countryCode": "MX",
     "stateCode": "NAY"
@@ -194,7 +194,7 @@
   {
     "id": "a337f5ec-4221-40df-919d-e6d8979e5d94",
     "en": "Sonora",
-    "ru": "сонора",
+    "ru": "Сонора",
     "country": "12a2aba9-fab2-4e0e-9798-1984c9a63f48",
     "countryCode": "MX",
     "stateCode": "SON"

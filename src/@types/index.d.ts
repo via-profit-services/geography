@@ -1,5 +1,11 @@
 declare module '@via-profit-services/geography' {
-  import { Context, OutputFilter, ListResponse, Middleware, InputFilter } from '@via-profit-services/core';
+  import {
+    Context,
+    OutputFilter,
+    ListResponse,
+    Middleware,
+    InputFilter,
+  } from '@via-profit-services/core';
   import { GraphQLFieldResolver } from 'graphql';
 
   export type Resolvers = {
@@ -7,30 +13,44 @@ declare module '@via-profit-services/geography' {
       geography: GraphQLFieldResolver<unknown, Context>;
     };
     GeographyQuery: {
-      cities: GraphQLFieldResolver<unknown, Context, InputFilter>;
+      cities: GraphQLFieldResolver<unknown, Context, CitiesInputFilter>;
       countries: GraphQLFieldResolver<unknown, Context, InputFilter>;
       states: GraphQLFieldResolver<unknown, Context, InputFilter>;
       city: GraphQLFieldResolver<{ id?: string }, Context, { id?: string }>;
       country: GraphQLFieldResolver<{ id?: string }, Context, { id?: string }>;
       state: GraphQLFieldResolver<{ id?: string }, Context, { id?: string }>;
-      addressLookup: GraphQLFieldResolver<unknown, Context, {
-        query?: string;
-        country?: string;
-        city?: string;
-        street?: string;
-        state?: string;
-        houseNumber?: string;
-      }>;
+      addressLookup: GraphQLFieldResolver<
+        unknown,
+        Context,
+        {
+          query?: string;
+          country?: string;
+          city?: string;
+          street?: string;
+          state?: string;
+          houseNumber?: string;
+        }
+      >;
     };
     City: CityResolver;
     Country: CountryResolver;
     State: StateResolver;
   };
 
-  export type CityResolver = Record<keyof City, GraphQLFieldResolver<{ id: string}, Context>>;
-  export type CountryResolver = Record<keyof Country, GraphQLFieldResolver<{ id: string}, Context>>;
-  export type StateResolver = Record<keyof State, GraphQLFieldResolver<{ id: string}, Context>>;
+  export type CitiesInputFilter = InputFilter & {
+    priorCountry?: string;
+  };
 
+  export type CitiesOutputFilter = OutputFilter & {
+    priorCountry: string;
+  };
+
+  export type CityResolver = Record<keyof City, GraphQLFieldResolver<{ id: string }, Context>>;
+  export type CountryResolver = Record<
+    keyof Country,
+    GraphQLFieldResolver<{ id: string }, Context>
+  >;
+  export type StateResolver = Record<keyof State, GraphQLFieldResolver<{ id: string }, Context>>;
 
   export interface GeographyServiceProps {
     context: Context;
@@ -38,10 +58,10 @@ declare module '@via-profit-services/geography' {
   }
 
   export type Configuration =
-  | YandexLookupProviderConfig
-  | NominatimLookupProviderConfig
-  | DaDataLookupProviderConfig
-  | {};
+    | YandexLookupProviderConfig
+    | NominatimLookupProviderConfig
+    | DaDataLookupProviderConfig
+    | {};
 
   export type GeographyMiddlewareFactory = (config?: Configuration) => Middleware;
 
@@ -69,7 +89,6 @@ declare module '@via-profit-services/geography' {
     stateCode: string;
   }
 
-
   export interface City {
     id: string;
     en: string;
@@ -87,7 +106,6 @@ declare module '@via-profit-services/geography' {
     timezone: string;
   }
 
-
   export type CitiesTableRecord = {
     readonly id: string;
     readonly ru: string;
@@ -99,7 +117,7 @@ declare module '@via-profit-services/geography' {
     readonly latitude: string;
     readonly longitude: string;
     readonly timezone: string;
-  }
+  };
 
   export type CountriesTableRecord = {
     readonly id: string;
@@ -110,7 +128,7 @@ declare module '@via-profit-services/geography' {
     readonly phoneCode: string;
     readonly currency: string;
     readonly capital: string | null;
-  }
+  };
 
   export type StatesTableRecord = {
     readonly id: string;
@@ -119,7 +137,7 @@ declare module '@via-profit-services/geography' {
     readonly country: string;
     readonly stateCode: string;
     readonly countryCode: string;
-  }
+  };
 
   export type CitiesTableRecordResult = CitiesTableRecord & {
     readonly totalCount: number;
@@ -131,10 +149,8 @@ declare module '@via-profit-services/geography' {
     readonly totalCount: number;
   };
 
-
-
   export interface GeographyServiceInterface {
-    getCities(filter: Partial<OutputFilter>): Promise<ListResponse<City>>;
+    getCities(filter: Partial<CitiesOutputFilter>): Promise<ListResponse<City>>;
     getCitiesByIds(ids: string[]): Promise<City[]>;
     getCity(id: string): Promise<City | false>;
     getStates(filter: Partial<OutputFilter>): Promise<ListResponse<State>>;
@@ -143,9 +159,7 @@ declare module '@via-profit-services/geography' {
     getCountries(filter: Partial<OutputFilter>): Promise<ListResponse<Country>>;
     getCountriesByIds(ids: string[]): Promise<Country[]>;
     getCountry(id: string): Promise<Country | false>;
-    addressLookup(
-      fields: Partial<AddressLookupQueryFields>,
-    ): Promise<AddressLookupQueryResolve[]>;
+    addressLookup(fields: Partial<AddressLookupQueryFields>): Promise<AddressLookupQueryResolve[]>;
   }
 
   interface GeographyService extends GeographyServiceInterface {}
@@ -153,14 +167,11 @@ declare module '@via-profit-services/geography' {
 
   export type geocoderProps = {
     context: Context;
-  }
+  };
 
   interface geocoder {
-    addressLookup(
-      fields: Partial<AddressLookupQueryFields>,
-    ): Promise<AddressLookupQueryResolve[]>;
+    addressLookup(fields: Partial<AddressLookupQueryFields>): Promise<AddressLookupQueryResolve[]>;
   }
-
 
   export type AddressLookupQueryFields = {
     lang: 'ru' | 'en';
@@ -170,7 +181,7 @@ declare module '@via-profit-services/geography' {
     state: string;
     houseNumber: string;
     city: string;
-  }
+  };
 
   export type AddressLookupQueryResolve = {
     country: string;
@@ -182,7 +193,7 @@ declare module '@via-profit-services/geography' {
     latitude: string;
     longitude: string;
     place: string;
-  }
+  };
 
   export type YandexResponseYGKind =
     | 'house'
@@ -213,18 +224,17 @@ declare module '@via-profit-services/geography' {
 
   export type NominatimLookupProviderConfig = {
     geocoder: 'Nominatim';
-  }
+  };
 
   export type YandexLookupProviderConfig = {
     geocoder: 'Yandex';
     yandexGeocoderAPIKey: string;
-  }
+  };
 
   export type DaDataLookupProviderConfig = {
     geocoder: 'DaData';
     daDataAPIKey: string;
-  }
-
+  };
 
   export type YandexLookupProviderProps = geocoderProps & YandexLookupProviderConfig;
   export type DaDataLookupProviderProps = geocoderProps & DaDataLookupProviderConfig;
@@ -323,16 +333,16 @@ declare module '@via-profit-services/geography' {
         history_values: string | null;
         unparsed_parts: string | null;
         source: string | null;
-        qc: string | null;      
+        qc: string | null;
       };
     }>;
-  }
+  };
 
   export type YandexResponseError = {
     statusCode: number;
     error: string;
     message: string;
-  }
+  };
 
   export type YandexResponse = {
     response: {
@@ -344,7 +354,7 @@ declare module '@via-profit-services/geography' {
             found: string;
           };
         };
-            
+
         featureMember: Array<{
           GeoObject: {
             metaDataProperty: {
@@ -385,7 +395,7 @@ declare module '@via-profit-services/geography' {
         }>;
       };
     };
-  }
+  };
 
   export type NominatimResponse = Array<{
     place_id?: number;
@@ -429,11 +439,10 @@ declare module '@via-profit-services/core' {
       countries: DataLoader<Country>;
       states: DataLoader<State>;
       cities: DataLoader<City>;
-    }
+    };
   }
 
   interface ServicesCollection {
     geography: GeographyService;
   }
 }
-

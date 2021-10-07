@@ -2630,7 +2630,7 @@
   {
     "id": "fd1111a8-dbce-47b1-b9d6-616c7d5508ae",
     "en": "Pianella",
-    "ru": "пианелла",
+    "ru": "Пианелла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d46bbcd1-33ba-4f32-81d9-c3acf00dc424",
@@ -4070,7 +4070,7 @@
   {
     "id": "f1434b27-1c6a-4240-85fb-e67e2ad77aa6",
     "en": "Villa Rosa",
-    "ru": "вилла роса",
+    "ru": "Вилла роса",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d46bbcd1-33ba-4f32-81d9-c3acf00dc424",
@@ -4214,7 +4214,7 @@
   {
     "id": "95223dbf-482f-4fab-b18e-d0437d9b6f92",
     "en": "Allein",
-    "ru": "аллейн",
+    "ru": "Аллейн",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "832e16ff-3f8b-4bf0-9918-9dc30ddd6888",
@@ -4406,7 +4406,7 @@
   {
     "id": "a3ee1226-86ae-4339-b17f-6e1d6e036bcc",
     "en": "Chamois",
-    "ru": "серна",
+    "ru": "Серна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "832e16ff-3f8b-4bf0-9918-9dc30ddd6888",
@@ -4790,7 +4790,7 @@
   {
     "id": "5dbf07fc-2ef2-48e1-ab8a-834cef36c2ff",
     "en": "Mongnod",
-    "ru": "монгнод",
+    "ru": "Монгнод",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "832e16ff-3f8b-4bf0-9918-9dc30ddd6888",
@@ -4982,7 +4982,7 @@
   {
     "id": "3de99844-41cf-4666-88a3-7b390655c96e",
     "en": "Quart",
-    "ru": "кварта",
+    "ru": "Кварта",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "832e16ff-3f8b-4bf0-9918-9dc30ddd6888",
@@ -6914,7 +6914,7 @@
   {
     "id": "6fe34465-71ea-42f2-b0e4-709da56fa0e3",
     "en": "Maglie",
-    "ru": "магли",
+    "ru": "Магли",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "759e4d76-d414-4ea0-8003-f4cfce86c3a2",
@@ -8486,7 +8486,7 @@
   {
     "id": "7aa7a09d-3734-4c1f-b127-784d119adb96",
     "en": "Statte",
-    "ru": "статте",
+    "ru": "Статте",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "759e4d76-d414-4ea0-8003-f4cfce86c3a2",
@@ -11642,7 +11642,7 @@
   {
     "id": "28083125-641e-4c72-bf9d-b2729bc7b8f1",
     "en": "Cardinale",
-    "ru": "кардинал",
+    "ru": "Кардинал",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6f1e635-0e79-4271-b898-3aa2545fc139",
@@ -14930,7 +14930,7 @@
   {
     "id": "c7f05744-3ab8-47a2-b922-f0eaaf0fcc21",
     "en": "Saline Ioniche",
-    "ru": "солончак иониче",
+    "ru": "Солончак иониче",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6f1e635-0e79-4271-b898-3aa2545fc139",
@@ -16358,7 +16358,7 @@
   {
     "id": "76b20474-1fff-474b-8386-5ffcb617efdc",
     "en": "Taverna",
-    "ru": "таверна",
+    "ru": "Таверна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6f1e635-0e79-4271-b898-3aa2545fc139",
@@ -16706,7 +16706,7 @@
   {
     "id": "0d5b1041-fb45-495b-8637-00201eae5613",
     "en": "Weather Station",
-    "ru": "городская метеостанция",
+    "ru": "Городская метеостанция",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6f1e635-0e79-4271-b898-3aa2545fc139",
@@ -19178,7 +19178,7 @@
   {
     "id": "221b973f-232a-4953-b9bd-d2b310765ad7",
     "en": "Country Park",
-    "ru": "городской загородный парк",
+    "ru": "Городской загородный парк",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -19262,7 +19262,7 @@
   {
     "id": "e76a2344-99a3-4315-b5b9-e9d6aad0f24c",
     "en": "Dragoni",
-    "ru": "драконов",
+    "ru": "Драконов",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -19526,7 +19526,7 @@
   {
     "id": "878b73a3-04ff-4c85-8f5f-67498a3f6eb5",
     "en": "Franche",
-    "ru": "франш",
+    "ru": "Франш",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -19538,7 +19538,7 @@
   {
     "id": "2ed08a61-660e-494f-a59e-db1fee06ea0b",
     "en": "Francolise",
-    "ru": "франколиза",
+    "ru": "Франколиза",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -19886,7 +19886,7 @@
   {
     "id": "4c85babd-ba29-468d-9984-383f027487f4",
     "en": "Guardia Lombardi",
-    "ru": "гвардия ломбарди",
+    "ru": "Гвардия ломбарди",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -20510,7 +20510,7 @@
   {
     "id": "179a39ce-a0ac-42d3-9812-3b47f96869a2",
     "en": "Mercato",
-    "ru": "меркато",
+    "ru": "Меркато",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -20522,7 +20522,7 @@
   {
     "id": "6ef4a3c4-086a-414b-b16b-c2b4ee93d932",
     "en": "Mercato San Severino",
-    "ru": "меркато сан северино",
+    "ru": "Меркато сан северино",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -20978,7 +20978,7 @@
   {
     "id": "d3bb4882-e3fa-4351-9111-f8df428bbb55",
     "en": "Morra de Sanctis",
-    "ru": "морра де санктис",
+    "ru": "Морра де санктис",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -21530,7 +21530,7 @@
   {
     "id": "9f15f434-36d9-431b-abe4-88bfa34a2eb7",
     "en": "Pesco Sannita",
-    "ru": "песко саннита",
+    "ru": "Песко саннита",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -21542,7 +21542,7 @@
   {
     "id": "18450911-2794-4e82-8f6a-68bff38416c9",
     "en": "Petina",
-    "ru": "петина",
+    "ru": "Петина",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -21614,7 +21614,7 @@
   {
     "id": "4d95e324-2cf4-4cf8-85b5-e61b7112b490",
     "en": "Piano",
-    "ru": "фортепиано",
+    "ru": "Фортепиано",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -24410,7 +24410,7 @@
   {
     "id": "ac6594c6-8bcd-41de-9bcd-d3620d53d4dd",
     "en": "Telese",
-    "ru": "городской телезе",
+    "ru": "Городской телезе",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -24866,7 +24866,7 @@
   {
     "id": "8b0d3470-3371-4798-bba1-77215ba783fc",
     "en": "Vicaria",
-    "ru": "викария",
+    "ru": "Викария",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -24914,7 +24914,7 @@
   {
     "id": "a57ca358-0584-4af3-af37-18b27b62f7dd",
     "en": "Villa Literno",
-    "ru": "вилла литерно",
+    "ru": "Вилла литерно",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "964760de-868b-4698-8a57-66983da411e3",
@@ -27710,7 +27710,7 @@
   {
     "id": "4965ac3d-013e-4159-be89-8f3e19932037",
     "en": "Lama",
-    "ru": "лама",
+    "ru": "Лама",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "b16b0a4a-a9aa-452b-8070-43705d4cdac8",
@@ -29882,7 +29882,7 @@
   {
     "id": "ea926ec2-5ff5-4f6c-9a37-97950abca16a",
     "en": "Ro",
-    "ru": "ро",
+    "ru": "Ро",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "b16b0a4a-a9aa-452b-8070-43705d4cdac8",
@@ -31766,7 +31766,7 @@
   {
     "id": "f3d1abca-b3bb-45d0-a849-a253d3e7eedd",
     "en": "Amaro",
-    "ru": "амаро",
+    "ru": "Амаро",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -31790,7 +31790,7 @@
   {
     "id": "39ab82c4-5e98-4144-864f-24ec62659604",
     "en": "Andreis",
-    "ru": "андрейс",
+    "ru": "Андрейс",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32390,7 +32390,7 @@
   {
     "id": "1c3e6ffe-b033-4ced-95d6-6cce5ee9fe4e",
     "en": "Claut",
-    "ru": "клаут",
+    "ru": "Клаут",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32402,7 +32402,7 @@
   {
     "id": "09d953b3-e5cc-4bfa-a510-f039d39cddc9",
     "en": "Clauzetto",
-    "ru": "клаузетто",
+    "ru": "Клаузетто",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32486,7 +32486,7 @@
   {
     "id": "5a423273-e08b-444d-b8b7-ccad7a34bd09",
     "en": "Comeglians",
-    "ru": "комеглиан",
+    "ru": "Комеглиан",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32594,7 +32594,7 @@
   {
     "id": "8ccb344e-8a47-4da8-bbd9-6e68cf692b6d",
     "en": "Dogna",
-    "ru": "догна",
+    "ru": "Догна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32618,7 +32618,7 @@
   {
     "id": "4b3e6467-2c9a-47ae-93b5-e7a39deccba8",
     "en": "Dolina",
-    "ru": "долина",
+    "ru": "Долина",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32642,7 +32642,7 @@
   {
     "id": "fd63b9b8-e1ff-43c0-8955-cf17349f8de3",
     "en": "Duino",
-    "ru": "дуйно",
+    "ru": "Дуйно",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -32678,7 +32678,7 @@
   {
     "id": "f0a9fafb-ce67-4e47-9b1a-056f0370bcca",
     "en": "Faedis",
-    "ru": "фаэдис",
+    "ru": "Фаэдис",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -34022,7 +34022,7 @@
   {
     "id": "21284495-ce40-4207-b3c3-b7b8ae4c20f7",
     "en": "Romans d'Isonzo",
-    "ru": "римлян д'Изонцо",
+    "ru": "Римлян д'Изонцо",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -34610,7 +34610,7 @@
   {
     "id": "4c694d81-72cc-48c3-89b2-f199a68f2a58",
     "en": "Teor",
-    "ru": "теор",
+    "ru": "Теор",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "1e441d01-6cc4-4226-a0e4-5822bd935f45",
@@ -35066,7 +35066,7 @@
   {
     "id": "f5f03959-2fee-49b7-80bc-6e742dbc67a1",
     "en": "Affile",
-    "ru": "филиал",
+    "ru": "Филиал",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "19e5b20c-c3ef-45f4-b153-200a380e44de",
@@ -36458,7 +36458,7 @@
   {
     "id": "772adeed-5ffd-458f-a98c-787cfc6cbfff",
     "en": "Cave",
-    "ru": "городская пещера",
+    "ru": "Городская пещера",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "19e5b20c-c3ef-45f4-b153-200a380e44de",
@@ -37694,7 +37694,7 @@
   {
     "id": "5cc932c2-ee16-4f75-9ea2-ca2e1b0e8754",
     "en": "Itri",
-    "ru": "итри",
+    "ru": "Итри",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "19e5b20c-c3ef-45f4-b153-200a380e44de",
@@ -37826,7 +37826,7 @@
   {
     "id": "5024a40b-ffb6-4f51-98a9-cf1c9ebef269",
     "en": "Latera",
-    "ru": "латера",
+    "ru": "Латера",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "19e5b20c-c3ef-45f4-b153-200a380e44de",
@@ -38186,7 +38186,7 @@
   {
     "id": "5a635b7a-a673-4c72-8b7d-4bfc2b3f6903",
     "en": "Marino",
-    "ru": "марино",
+    "ru": "Марино",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "19e5b20c-c3ef-45f4-b153-200a380e44de",
@@ -40910,7 +40910,7 @@
   {
     "id": "efa61659-55ad-4a11-a9f1-6b64293dbff3",
     "en": "Villa Latina",
-    "ru": "вилла латина",
+    "ru": "Вилла латина",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "19e5b20c-c3ef-45f4-b153-200a380e44de",
@@ -42950,7 +42950,7 @@
   {
     "id": "0aeaa113-d56b-4e39-aedd-dad1066a69a7",
     "en": "Noli",
-    "ru": "ноли",
+    "ru": "Ноли",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "7bee899b-3167-498f-9c94-751d6f8e04e7",
@@ -43130,7 +43130,7 @@
   {
     "id": "57f04ce6-c399-43a4-8200-9517296a2bf0",
     "en": "Piano",
-    "ru": "фортепиано",
+    "ru": "Фортепиано",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "7bee899b-3167-498f-9c94-751d6f8e04e7",
@@ -43454,7 +43454,7 @@
   {
     "id": "24f6f11a-8189-490e-979c-af9fde1e5423",
     "en": "Recco",
-    "ru": "рекко",
+    "ru": "Рекко",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "7bee899b-3167-498f-9c94-751d6f8e04e7",
@@ -43946,7 +43946,7 @@
   {
     "id": "8a1e8481-a8d1-43f9-b0e6-7d08d3f4884d",
     "en": "Sori",
-    "ru": "сори",
+    "ru": "Сори",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "7bee899b-3167-498f-9c94-751d6f8e04e7",
@@ -44234,7 +44234,7 @@
   {
     "id": "36e5a8e4-4ca2-4646-9662-1d8ecfa8c6fe",
     "en": "Vasia",
-    "ru": "вася",
+    "ru": "Вася",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "7bee899b-3167-498f-9c94-751d6f8e04e7",
@@ -44894,7 +44894,7 @@
   {
     "id": "f3924a15-9dae-4966-a80e-00793e3d5b51",
     "en": "Angera",
-    "ru": "ангера",
+    "ru": "Ангера",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -47942,7 +47942,7 @@
   {
     "id": "0ac759a4-f1cd-4d25-b65e-a61ff5e3d565",
     "en": "Canonica",
-    "ru": "каноника",
+    "ru": "Каноника",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48086,7 +48086,7 @@
   {
     "id": "7960d119-127b-4aff-976c-0b5de2c8096a",
     "en": "Cappella Cantone",
-    "ru": "капелла кантон",
+    "ru": "Капелла кантон",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48170,7 +48170,7 @@
   {
     "id": "369d4a5c-aaad-4e3b-ab1b-2e96f77cda18",
     "en": "Caprino",
-    "ru": "каприно",
+    "ru": "Каприно",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48182,7 +48182,7 @@
   {
     "id": "ff69ba99-3341-47ce-9ebf-cb7f7e06205c",
     "en": "Capriolo",
-    "ru": "каприоло",
+    "ru": "Каприоло",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48206,7 +48206,7 @@
   {
     "id": "adb1def6-5958-4351-8bc6-09821e7e379c",
     "en": "Carate Urio",
-    "ru": "каратэ урио",
+    "ru": "Каратэ урио",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48266,7 +48266,7 @@
   {
     "id": "460b0c35-426c-434d-b2c1-b0cd82ff6ff1",
     "en": "Carbonate",
-    "ru": "карбонат",
+    "ru": "Карбонат",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48710,7 +48710,7 @@
   {
     "id": "72c1e2be-eafd-437d-baf8-d784cfb32610",
     "en": "Casasco Intelvi",
-    "ru": "казаско интельви",
+    "ru": "Казаско интельви",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -48794,7 +48794,7 @@
   {
     "id": "78312c3e-554a-4818-baf5-170dff53b5db",
     "en": "Casco",
-    "ru": "каско",
+    "ru": "Каско",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -50270,7 +50270,7 @@
   {
     "id": "54efc939-c9f7-4241-b48b-de018ada409e",
     "en": "Chiavenna",
-    "ru": "киавенна",
+    "ru": "Киавенна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -50654,7 +50654,7 @@
   {
     "id": "8b256097-357a-4cb7-9f73-aea0aef2bc95",
     "en": "Coccaglio",
-    "ru": "коккальо",
+    "ru": "Коккальо",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -50678,7 +50678,7 @@
   {
     "id": "f77d1155-ed2e-4524-b20f-e0c2030f678f",
     "en": "Codevilla",
-    "ru": "кодевилла",
+    "ru": "Кодевилла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -50930,7 +50930,7 @@
   {
     "id": "0f22275a-badc-4ef8-ab12-e01674bfb329",
     "en": "Comerio",
-    "ru": "комерио",
+    "ru": "Комерио",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -51002,7 +51002,7 @@
   {
     "id": "133fadd6-0ed7-46e1-a45e-fdf7b914a0eb",
     "en": "Confienza",
-    "ru": "конфиенца",
+    "ru": "Конфиенца",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -51254,7 +51254,7 @@
   {
     "id": "4217695b-a625-4a9c-bf02-59be4e07eb40",
     "en": "Corte Franca",
-    "ru": "корте франка",
+    "ru": "Корте франка",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -51518,7 +51518,7 @@
   {
     "id": "9ea55e64-61a5-4d49-b895-4a6539486ba1",
     "en": "Crema",
-    "ru": "крема",
+    "ru": "Крема",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -52034,7 +52034,7 @@
   {
     "id": "9516cf07-e443-47f5-b935-a8e9706804c4",
     "en": "Dongo",
-    "ru": "донго",
+    "ru": "Донго",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -52202,7 +52202,7 @@
   {
     "id": "173910c9-1b8b-4c77-86b9-964ae3ac7d5c",
     "en": "Duomo",
-    "ru": "городской кафедральный собор",
+    "ru": "Городской кафедральный собор",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -53390,7 +53390,7 @@
   {
     "id": "37dd2803-1dfa-4757-af8a-faf5da4b2fa7",
     "en": "Gerre de' Caprioli",
-    "ru": "герре де каприоли",
+    "ru": "Герре де каприоли",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -54014,7 +54014,7 @@
   {
     "id": "71feda20-c5e4-4481-876d-75ce1a58663b",
     "en": "Idro",
-    "ru": "идро",
+    "ru": "Идро",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -55322,7 +55322,7 @@
   {
     "id": "6eff903d-919f-4127-83b3-74c8a7af13d9",
     "en": "Magenta",
-    "ru": "пурпурный",
+    "ru": "Пурпурный",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -55946,7 +55946,7 @@
   {
     "id": "bc7094b9-c5cb-4db6-88b8-e4373c70f0e0",
     "en": "Medole",
-    "ru": "медоле",
+    "ru": "Медоле",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -56090,7 +56090,7 @@
   {
     "id": "01c9c6fa-53fe-4d84-b093-dd94da8d38a6",
     "en": "Mese",
-    "ru": "мезе",
+    "ru": "Мезе",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -56534,7 +56534,7 @@
   {
     "id": "4e78c716-3d27-4330-923b-d0576db99cc3",
     "en": "Monte",
-    "ru": "монте",
+    "ru": "Монте",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -56918,7 +56918,7 @@
   {
     "id": "16174f75-94ce-4498-8b02-85062d50f7e8",
     "en": "Morterone",
-    "ru": "мортероне",
+    "ru": "Мортероне",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -57110,7 +57110,7 @@
   {
     "id": "9352b357-dfa5-4913-9844-a603cfdc3905",
     "en": "Nave",
-    "ru": "неф",
+    "ru": "Неф",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -57146,7 +57146,7 @@
   {
     "id": "a8f9f20e-0540-4856-ac07-6c79acaf55e1",
     "en": "Nembro",
-    "ru": "нембро",
+    "ru": "Нембро",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -57638,7 +57638,7 @@
   {
     "id": "71ad5268-9fff-4db2-89fa-a8a25ea42945",
     "en": "Opera",
-    "ru": "городская опера",
+    "ru": "Городская опера",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -58358,7 +58358,7 @@
   {
     "id": "58567eb8-5a81-49a2-abd3-b136d2ed2393",
     "en": "Pavone del Mella",
-    "ru": "павоне дель мелла",
+    "ru": "Павоне дель мелла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -60146,7 +60146,7 @@
   {
     "id": "5d42abdd-95d6-477d-97bb-ef2eb1cdb696",
     "en": "Renate",
-    "ru": "ренате",
+    "ru": "Ренате",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -63218,7 +63218,7 @@
   {
     "id": "1780238e-d631-4f4d-967a-dbd002995a20",
     "en": "Tavernole",
-    "ru": "таверна",
+    "ru": "Таверна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65090,7 +65090,7 @@
   {
     "id": "76a93114-e6b8-4e68-ad5e-5d7054e3a967",
     "en": "Villa",
-    "ru": "городская вилла",
+    "ru": "Городская вилла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65114,7 +65114,7 @@
   {
     "id": "6a902082-ed4a-41b0-8b89-1323343a4675",
     "en": "Villa Carcina",
-    "ru": "вилла карцина",
+    "ru": "Вилла карцина",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65126,7 +65126,7 @@
   {
     "id": "caccba7a-3307-4ad3-9b91-5dc8972e517a",
     "en": "Villa Cortese",
-    "ru": "вилла кортезе",
+    "ru": "Вилла кортезе",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65210,7 +65210,7 @@
   {
     "id": "22c205f0-2888-4722-b480-a75c892a6f3e",
     "en": "Villa Fornace",
-    "ru": "вилла форнасе",
+    "ru": "Вилла форнасе",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65222,7 +65222,7 @@
   {
     "id": "d17834b5-789c-4474-944b-b03308fa2a7e",
     "en": "Villa Guardia",
-    "ru": "вилла гвардия",
+    "ru": "Вилла гвардия",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65246,7 +65246,7 @@
   {
     "id": "260df076-007a-4ac3-8802-68eebb7d503a",
     "en": "Villa Poma",
-    "ru": "вилла пома",
+    "ru": "Вилла пома",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -65810,7 +65810,7 @@
   {
     "id": "acf6294d-2f45-48ec-a6eb-95001c73130a",
     "en": "Zone",
-    "ru": "городская зона",
+    "ru": "Городская зона",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "d8861537-5a15-4c22-b8af-e12e288d4671",
@@ -66002,7 +66002,7 @@
   {
     "id": "436cfcd4-d6da-4c7b-b598-271dc4795e64",
     "en": "Auditore",
-    "ru": "городской аудитор",
+    "ru": "Городской аудитор",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -66434,7 +66434,7 @@
   {
     "id": "587d7635-a981-44e8-b9ed-86f46041b9e8",
     "en": "Casine",
-    "ru": "городской казино",
+    "ru": "Городской казино",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -67382,7 +67382,7 @@
   {
     "id": "e2340487-21e6-402f-8356-c3666e3e9e45",
     "en": "Mercatale",
-    "ru": "меркатале",
+    "ru": "Меркатале",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -67454,7 +67454,7 @@
   {
     "id": "62065794-fb9e-4070-9baf-46f2a9aafedd",
     "en": "Moie",
-    "ru": "моэ",
+    "ru": "Моэ",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -68354,7 +68354,7 @@
   {
     "id": "f9f34c17-9b1b-4ad3-b2a0-b68dbefd0e09",
     "en": "Piane",
-    "ru": "пиана",
+    "ru": "Пиана",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -68774,7 +68774,7 @@
   {
     "id": "c58d7657-0415-46a9-b484-ce4fd09bc09e",
     "en": "Ripe",
-    "ru": "спелый",
+    "ru": "Спелый",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -69506,7 +69506,7 @@
   {
     "id": "a5dbaddb-dbac-4223-b1c6-70ab1213ac8f",
     "en": "Villa Musone",
-    "ru": "вилла мусоне",
+    "ru": "Вилла мусоне",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "e02be62a-d3bb-43ed-a0c9-a28ee3006b45",
@@ -70190,7 +70190,7 @@
   {
     "id": "cbe23bd8-54cf-4de8-8cc3-042ce799b87a",
     "en": "Guardialfiera",
-    "ru": "городская стража",
+    "ru": "Городская стража",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "4c6dcc85-b868-44a3-9232-2c8f0b514136",
@@ -71174,7 +71174,7 @@
   {
     "id": "b26a6061-847f-494b-be21-a6f79391a210",
     "en": "Tavenna",
-    "ru": "тавенна",
+    "ru": "Тавенна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "4c6dcc85-b868-44a3-9232-2c8f0b514136",
@@ -71918,7 +71918,7 @@
   {
     "id": "0cb17fa7-4242-4249-9277-54077787d81a",
     "en": "Avolasca",
-    "ru": "аволаска",
+    "ru": "Аволаска",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -72314,7 +72314,7 @@
   {
     "id": "20ff61cc-dbb5-4218-b026-7055b5f55af0",
     "en": "Bee",
-    "ru": "пчела",
+    "ru": "Пчела",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -72362,7 +72362,7 @@
   {
     "id": "77f7fca3-e938-471b-9cba-24be005e3034",
     "en": "Belgirate",
-    "ru": "белгират",
+    "ru": "Белгират",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -73598,7 +73598,7 @@
   {
     "id": "1f9e95fc-85b4-4c4c-80f2-de590ca27754",
     "en": "Camo",
-    "ru": "камуфляж",
+    "ru": "Камуфляж",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -73850,7 +73850,7 @@
   {
     "id": "8a48c1b3-a9c5-4e78-8dc8-0c9f46fdbd98",
     "en": "Caprie",
-    "ru": "капри",
+    "ru": "Капри",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -74282,7 +74282,7 @@
   {
     "id": "82e9da23-7a74-40d9-852d-c9dcc3630ffc",
     "en": "Casasco",
-    "ru": "казаско",
+    "ru": "Казаско",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -76346,7 +76346,7 @@
   {
     "id": "168a823f-62c2-4038-a438-f32bb5af6b8b",
     "en": "Donato",
-    "ru": "донато",
+    "ru": "Донато",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -76466,7 +76466,7 @@
   {
     "id": "2aa8d422-23c9-43a4-81a0-d98c10a6fbd0",
     "en": "Exilles",
-    "ru": "изгнанников",
+    "ru": "Изгнанников",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -77654,7 +77654,7 @@
   {
     "id": "f01b7919-afe3-4293-83c0-07e5194a012f",
     "en": "Guarene",
-    "ru": "гуарене",
+    "ru": "Гуарене",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -77858,7 +77858,7 @@
   {
     "id": "ba7ad06d-f8bf-4ce4-876a-86e6c2be6c77",
     "en": "La Morra",
-    "ru": "ла морра",
+    "ru": "Ла морра",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -78350,7 +78350,7 @@
   {
     "id": "17112a51-a3b1-44c6-95c0-029f0e07fc0f",
     "en": "Macra",
-    "ru": "макра",
+    "ru": "Макра",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -79154,7 +79154,7 @@
   {
     "id": "8c133c64-aa84-475d-9688-7c7fa406945b",
     "en": "Monale",
-    "ru": "монале",
+    "ru": "Монале",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -79574,7 +79574,7 @@
   {
     "id": "015f77f2-f67d-4603-8f71-b378fe88abbd",
     "en": "Montà",
-    "ru": "монта",
+    "ru": "Монта",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -79862,7 +79862,7 @@
   {
     "id": "24ece070-97bb-48fc-8e00-15ab56a9437e",
     "en": "Mornese",
-    "ru": "морнес",
+    "ru": "Морнес",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -80042,7 +80042,7 @@
   {
     "id": "e2429af7-c90e-48be-8fd1-a3de613445be",
     "en": "Netro",
-    "ru": "нетро",
+    "ru": "Нетро",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -80162,7 +80162,7 @@
   {
     "id": "8d69f1b9-69df-4ca2-acef-be3145f5b1fc",
     "en": "None",
-    "ru": "нет",
+    "ru": "Нет",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -80546,7 +80546,7 @@
   {
     "id": "ca58d247-f3d9-4a42-8ceb-e2803f38c3e6",
     "en": "Oulx",
-    "ru": "улькс",
+    "ru": "Улькс",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -80786,7 +80786,7 @@
   {
     "id": "7b003c83-65e4-489f-844f-f1fb0ef710a1",
     "en": "Pasta",
-    "ru": "паста",
+    "ru": "Паста",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -80822,7 +80822,7 @@
   {
     "id": "691b72a4-ca7e-4053-a224-96e3dbdb1596",
     "en": "Pavone Canavese",
-    "ru": "павоне канавезе",
+    "ru": "Павоне канавезе",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -81830,7 +81830,7 @@
   {
     "id": "a68765d1-2958-4ae7-9e0b-508fc5ed8795",
     "en": "Pray",
-    "ru": "молись",
+    "ru": "Молись",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -83186,7 +83186,7 @@
   {
     "id": "8ad91f1b-c535-4906-ba31-eccb6d67a6b6",
     "en": "Sale",
-    "ru": "продажа города",
+    "ru": "Продажа города",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -83198,7 +83198,7 @@
   {
     "id": "de1dec0e-2911-40a4-bb89-18e23712026c",
     "en": "Sale delle Langhe",
-    "ru": "продажа делле ланге",
+    "ru": "Продажа делле ланге",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -85670,7 +85670,7 @@
   {
     "id": "b8706a75-296f-4496-b26f-daf6f09f49ca",
     "en": "Vanzone",
-    "ru": "ванзоне",
+    "ru": "Ванзоне",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -85970,7 +85970,7 @@
   {
     "id": "7979b0a1-e0de-4225-b5b7-01df3feb02fe",
     "en": "Viale",
-    "ru": "виале",
+    "ru": "Виале",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -86174,7 +86174,7 @@
   {
     "id": "c82b5c7f-c822-4f5e-a023-281778347ac6",
     "en": "Villa",
-    "ru": "городская вилла",
+    "ru": "Городская вилла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -86402,7 +86402,7 @@
   {
     "id": "3565b248-7227-4cc9-9e00-d8db6c3d656a",
     "en": "Villar Pellice",
-    "ru": "вилла пелице",
+    "ru": "Вилла пелице",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -86570,7 +86570,7 @@
   {
     "id": "a3b14ca3-8ff1-4abb-bc29-2dd95e6dc90c",
     "en": "Viola",
-    "ru": "альт",
+    "ru": "Альт",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -86654,7 +86654,7 @@
   {
     "id": "158caddd-c301-4037-b03e-21736e343844",
     "en": "Vogogna",
-    "ru": "вогна",
+    "ru": "Вогна",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f14db8a1-2fd8-4c29-8ee7-2a708601514b",
@@ -86870,7 +86870,7 @@
   {
     "id": "937eeda7-ee63-4de1-86a5-60a370e8ed00",
     "en": "Allai",
-    "ru": "аллай",
+    "ru": "Аллай",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -87878,7 +87878,7 @@
   {
     "id": "1d773718-8f08-4b39-85e6-a70675aef663",
     "en": "Donorì",
-    "ru": "донори",
+    "ru": "Донори",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -88514,7 +88514,7 @@
   {
     "id": "3dc9e1ce-75eb-4982-a6ec-03ff24ae6037",
     "en": "Lei",
-    "ru": "лей",
+    "ru": "Лей",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -88670,7 +88670,7 @@
   {
     "id": "75849a87-eeae-4a69-a82c-e574a79e377d",
     "en": "Macomer",
-    "ru": "макомер",
+    "ru": "Макомер",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -88958,7 +88958,7 @@
   {
     "id": "890b1d28-a413-4b63-92f1-eaab2493d6f8",
     "en": "Musei",
-    "ru": "городской музей",
+    "ru": "Городской музей",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -88994,7 +88994,7 @@
   {
     "id": "7a0c2bd7-12e2-4717-99fe-b1e49d9c1be5",
     "en": "Neoneli",
-    "ru": "неонели",
+    "ru": "Неонели",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -89054,7 +89054,7 @@
   {
     "id": "abba5966-6107-488e-bb27-354b41a40d3a",
     "en": "Nule",
-    "ru": "нуль",
+    "ru": "Нуль",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -89378,7 +89378,7 @@
   {
     "id": "c43a9cbd-42c6-414c-887a-a8d1c68114cb",
     "en": "Ortacesus",
-    "ru": "ортацес",
+    "ru": "Ортацес",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -90410,7 +90410,7 @@
   {
     "id": "cc3ed17e-b0fb-4c90-b309-f99650939c0b",
     "en": "Senorbì",
-    "ru": "сеньорби",
+    "ru": "Сеньорби",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -90506,7 +90506,7 @@
   {
     "id": "67ac96f4-ddfe-457b-81bd-954400c784fe",
     "en": "Seui",
-    "ru": "сеуй",
+    "ru": "Сеуй",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -91202,7 +91202,7 @@
   {
     "id": "39f4a267-f9bd-4e74-bb86-072a66fec977",
     "en": "Uras",
-    "ru": "урас",
+    "ru": "Урас",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "77b1950b-81c4-4195-8a6e-cbe233f5842e",
@@ -91838,7 +91838,7 @@
   {
     "id": "93a87fa3-e675-4d36-8a0d-2d6ce691b4c9",
     "en": "Alia",
-    "ru": "алия",
+    "ru": "Алия",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "9034b0fd-7d77-40a5-a332-7bea9c6e0ae0",
@@ -97094,7 +97094,7 @@
   {
     "id": "c174db54-ec99-4eaa-8eb7-6ed977947b33",
     "en": "Vicari",
-    "ru": "викари",
+    "ru": "Викари",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "9034b0fd-7d77-40a5-a332-7bea9c6e0ae0",
@@ -97766,7 +97766,7 @@
   {
     "id": "dc9821ad-431b-4e8e-9f22-deb57a8cce80",
     "en": "Caines",
-    "ru": "каинес",
+    "ru": "Каинес",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -97910,7 +97910,7 @@
   {
     "id": "9d3e23d3-06fa-430b-8ef2-b14e3a480fff",
     "en": "Canal San Bovo",
-    "ru": "канал Сан-Бово",
+    "ru": "Канал Сан-Бово",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -97934,7 +97934,7 @@
   {
     "id": "3b5253c2-1f77-42c1-9699-83b805851e4a",
     "en": "Capriana",
-    "ru": "каприана",
+    "ru": "Каприана",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -98270,7 +98270,7 @@
   {
     "id": "63a86e3c-9484-4cfb-8780-895dbeb24d50",
     "en": "Cis",
-    "ru": "сис",
+    "ru": "Сис",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -98306,7 +98306,7 @@
   {
     "id": "df04154f-b4c9-4bc0-878b-91f7107e1c99",
     "en": "Cloz",
-    "ru": "клоз",
+    "ru": "Клоз",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -98462,7 +98462,7 @@
   {
     "id": "0354d06d-bea2-4335-9416-6502d7e9cbbd",
     "en": "Creto",
-    "ru": "крето",
+    "ru": "Крето",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -98534,7 +98534,7 @@
   {
     "id": "bb9958e4-e94d-42bb-8a6a-b81d90f34d23",
     "en": "Daone",
-    "ru": "даоне",
+    "ru": "Даоне",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -98582,7 +98582,7 @@
   {
     "id": "0dc3d58f-2bd9-475f-84e7-066a2949ee46",
     "en": "Don",
-    "ru": "дон",
+    "ru": "Дон",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -99014,7 +99014,7 @@
   {
     "id": "c4a96617-6e87-43f9-8902-f2c0d7cf73e1",
     "en": "Laces",
-    "ru": "кружева",
+    "ru": "Кружева",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -99590,7 +99590,7 @@
   {
     "id": "6d687a75-0b01-4f14-8488-f84afcf2dd6e",
     "en": "Moscheri",
-    "ru": "москери",
+    "ru": "Москери",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -100166,7 +100166,7 @@
   {
     "id": "edec8953-7cf1-4747-bb36-077bfd796433",
     "en": "Rabbi Fonti",
-    "ru": "раввин фонти",
+    "ru": "Раввин фонти",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -100850,7 +100850,7 @@
   {
     "id": "80cb6820-6e54-4bc4-8c10-dcc7cf952d6c",
     "en": "Scena",
-    "ru": "сцена",
+    "ru": "Сцена",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -101090,7 +101090,7 @@
   {
     "id": "dfb8fca3-5fd1-4c30-a2d6-3b27b89434ad",
     "en": "Spera",
-    "ru": "спера",
+    "ru": "Спера",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -101822,7 +101822,7 @@
   {
     "id": "ecbb7120-9abd-4e30-9e3c-99853637a5bd",
     "en": "Villa",
-    "ru": "городская вилла",
+    "ru": "Городская вилла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "3df6775d-a42c-43c2-809f-16ed67743607",
@@ -103442,7 +103442,7 @@
   {
     "id": "c7ba1beb-4182-4900-9019-361a62938b44",
     "en": "Comeana",
-    "ru": "комана",
+    "ru": "Комана",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -103574,7 +103574,7 @@
   {
     "id": "89e28478-276a-4937-bcff-1fda2170d478",
     "en": "Faella",
-    "ru": "фаелла",
+    "ru": "Фаелла",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -104174,7 +104174,7 @@
   {
     "id": "962b1c7e-82fc-43ca-a3ef-cccea4d7de26",
     "en": "Lari",
-    "ru": "лари",
+    "ru": "Лари",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -104246,7 +104246,7 @@
   {
     "id": "b97198f5-5145-48f4-ae54-be4d514ed5f0",
     "en": "Limite",
-    "ru": "лимит города",
+    "ru": "Лимит города",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -104270,7 +104270,7 @@
   {
     "id": "51943202-c67b-4136-aa57-208d80fcaad3",
     "en": "Londa",
-    "ru": "лонда",
+    "ru": "Лонда",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -104618,7 +104618,7 @@
   {
     "id": "04dd90d6-205e-458b-92b7-1d9562257fde",
     "en": "Mercatale",
-    "ru": "меркатале",
+    "ru": "Меркатале",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -105542,7 +105542,7 @@
   {
     "id": "d14ce446-e220-4811-bb1c-237e40a27e88",
     "en": "Pomarance",
-    "ru": "помарант",
+    "ru": "Помарант",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -105590,7 +105590,7 @@
   {
     "id": "39150e6c-4755-4e3d-b7ce-1db07b4c26b2",
     "en": "Ponte A Elsa",
-    "ru": "понте эльза",
+    "ru": "Понте эльза",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -106154,7 +106154,7 @@
   {
     "id": "0bd79b2a-b8e1-408f-953b-611e44c6bdcd",
     "en": "Rosia",
-    "ru": "росия",
+    "ru": "Росия",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -106214,7 +106214,7 @@
   {
     "id": "380477e2-4449-4280-95e4-49166a8ae749",
     "en": "Saline",
-    "ru": "солончак",
+    "ru": "Солончак",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "f6d435c1-2c83-4ec7-9696-32edc6c6f8a3",
@@ -107810,7 +107810,7 @@
   {
     "id": "f68f0df4-b258-4c09-b723-831bc23f0f2d",
     "en": "Capitan Loreto",
-    "ru": "капитан лорето",
+    "ru": "Капитан лорето",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "515b7e2c-485b-408b-813e-5a046e27c457",
@@ -110906,7 +110906,7 @@
   {
     "id": "310cead2-6b95-4b3e-9677-035a4eca9f21",
     "en": "Canda",
-    "ru": "канда",
+    "ru": "Канда",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -110990,7 +110990,7 @@
   {
     "id": "b5bc2329-0b17-440d-8c42-502c8734934b",
     "en": "Capitello",
-    "ru": "капителло",
+    "ru": "Капителло",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -111002,7 +111002,7 @@
   {
     "id": "dc44e164-5b24-42f1-be9b-17bb2f8b66da",
     "en": "Cappella Maggiore",
-    "ru": "капелла маджоре",
+    "ru": "Капелла маджоре",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -111014,7 +111014,7 @@
   {
     "id": "78b34a74-bff6-46c9-9926-9c7e1a378683",
     "en": "Caprino Veronese",
-    "ru": "каприно веронезе",
+    "ru": "Каприно веронезе",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -111854,7 +111854,7 @@
   {
     "id": "aebbb3d8-77d8-4867-8556-d767a0842e65",
     "en": "Col San Martino",
-    "ru": "полковник Сан Мартино",
+    "ru": "Полковник Сан Мартино",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -112082,7 +112082,7 @@
   {
     "id": "c9595d12-976e-49b1-ab9b-b3a41934da79",
     "en": "Corte",
-    "ru": "корте",
+    "ru": "Корте",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -112310,7 +112310,7 @@
   {
     "id": "c276cc7b-8320-4906-9e6a-6389a830872f",
     "en": "Dolo",
-    "ru": "доло",
+    "ru": "Доло",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -112334,7 +112334,7 @@
   {
     "id": "da4a88e3-bda3-41b6-b3cf-551deb4fba8d",
     "en": "Don",
-    "ru": "дон",
+    "ru": "Дон",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -112502,7 +112502,7 @@
   {
     "id": "6637bce3-eb99-45ae-a8b4-0cca2d9e7314",
     "en": "Fane",
-    "ru": "фейн",
+    "ru": "Фейн",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -112694,7 +112694,7 @@
   {
     "id": "01608121-ee9e-4d0a-b9df-8d8d6ed61e77",
     "en": "Forette",
-    "ru": "фореетт",
+    "ru": "Фореетт",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -114026,7 +114026,7 @@
   {
     "id": "d8610691-9545-4a9b-8e6a-75a98e98b95e",
     "en": "Maser",
-    "ru": "мазер",
+    "ru": "Мазер",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -114206,7 +114206,7 @@
   {
     "id": "98301ea8-af9e-4889-a8cd-2c851019504e",
     "en": "Mestre",
-    "ru": "местре",
+    "ru": "Местре",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -114698,7 +114698,7 @@
   {
     "id": "a74ba303-2ce8-4f64-9334-40a2012d6bd7",
     "en": "Musestre",
-    "ru": "городской музей",
+    "ru": "Городской музей",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",
@@ -118694,7 +118694,7 @@
   {
     "id": "8338f225-ae94-4d33-9f8a-3ad8b21d4c6f",
     "en": "Vas",
-    "ru": "ваш",
+    "ru": "Ваш",
     "country": "e0b1864b-088c-4300-a475-b8bcf949a430",
     "countryCode": "IT",
     "state": "5f997da5-ec5b-4e61-9674-34c367054a6c",

@@ -1263,7 +1263,7 @@ __metadata:
     "@typescript-eslint/parser": ^4.6.1
     "@via-profit-services/core": ^1.0.4
     "@via-profit-services/eslint-config": ^0.1.11
-    "@via-profit-services/knex": ^1.1.0
+    "@via-profit-services/knex": ^1.1.10
     "@via-profit-services/redis": ^1.0.3
     "@via-profit/dataloader": ^1.0.0
     "@zerollup/ts-transform-paths": ^1.7.11
@@ -1326,19 +1326,20 @@ __metadata:
   peerDependencies:
     "@via-profit-services/core": ^1.0.0
     "@via-profit-services/knex": ^1.1.0
+    "@via-profit-services/redis": ^1.0.3
     "@via-profit/dataloader": ^1.0.0
     graphql: "*"
   languageName: unknown
   linkType: soft
 
-"@via-profit-services/knex@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "@via-profit-services/knex@npm:1.1.0"
+"@via-profit-services/knex@npm:^1.1.10":
+  version: 1.1.10
+  resolution: "@via-profit-services/knex@npm:1.1.10"
   peerDependencies:
     "@via-profit-services/core": 1.x.x
-    knex: ^0.21.12
+    knex: ^0.95.4
     pg: ^8.5.1
-  checksum: c8ace80fdcf4a5ecbe3b0a3af6d4ec63f1feb3d8f17c285c3d7f38e930aa8e73b1420c1ac142ca938aad5b1de3a9cccc3d6ca60add5046872e41d09d848ce068
+  checksum: e166cb0513c3c5b23a4e4ad22f2e87f8074dd0afbfdb84d700a685b75fac5c2cd45a63e802e75f2ccdc773084e0448ca814d9a9dac336bf23ed9a06ddef55dc5
   languageName: node
   linkType: hard
 
