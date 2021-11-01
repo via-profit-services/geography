@@ -43,8 +43,10 @@ class GeographyService implements GeographyServiceInterface {
 
     if (search) {
       const citySearchIndex = search.findIndex(({ field }) => field === 'ru');
-      search[citySearchIndex].query =
-        search[citySearchIndex].query[0].toUpperCase() + search[citySearchIndex].query.slice(1);
+      if (citySearchIndex !== -1 && search[citySearchIndex].query[0]){
+        search[citySearchIndex].query =
+          search[citySearchIndex].query[0].toUpperCase() + search[citySearchIndex].query.slice(1);
+      }
     }
 
     const response = await knex
