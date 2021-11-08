@@ -43,7 +43,7 @@ class GeographyService implements GeographyServiceInterface {
 
     if (search) {
       const citySearchIndex = search.findIndex(({ field }) => field === 'ru');
-      if (citySearchIndex !== -1 && search[citySearchIndex].query[0]){
+      if (citySearchIndex !== -1 && search[citySearchIndex].query[0]) {
         search[citySearchIndex].query =
           search[citySearchIndex].query[0].toUpperCase() + search[citySearchIndex].query.slice(1);
       }
@@ -109,7 +109,9 @@ class GeographyService implements GeographyServiceInterface {
       .limit(limit || 1)
       .offset(offset || 0)
       .where(builder => convertWhereToKnex(builder, where))
-      .where(builder => convertSearchToKnex(builder, search))
+      .where(builder =>
+        convertSearchToKnex(builder, search, {}, { strategy: 'blurry', splitWords: true }),
+      )
       .orderBy(convertOrderByToKnex(orderBy))
       .then(nodes =>
         nodes.map(node => ({
