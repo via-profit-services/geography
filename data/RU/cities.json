@@ -62568,6 +62568,42 @@
     "timezone": "Europe/Moscow"
   },
   {
+    "id": "bb35b095-c7e1-478a-9b42-1b156e3bef36",
+    "en": "Volgograd",
+    "ru": "Волгоград",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "54414cc9-fb3a-4094-b0c1-2e03091b00b5",
+    "stateCode": "VOL",
+    "latitude": "48.71940000",
+    "longitude": "44.50180000",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "173f5524-3a85-403a-9fe1-4654bfbcfc3e",
+    "en": "Volzhskiy",
+    "ru": "Волжский",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "54414cc9-fb3a-4094-b0c1-2e03091b00b5",
+    "stateCode": "VOL",
+    "latitude": "48.47080000",
+    "longitude": "44.46470000",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "954ac1c5-5795-4a01-8c06-5c6a7ade36b7",
+    "en": "Kamyshin",
+    "ru": "Камышин",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "54414cc9-fb3a-4094-b0c1-2e03091b00b5",
+    "stateCode": "VOL",
+    "latitude": "50.05530000",
+    "longitude": "45.24570000",
+    "timezone": "Europe/Moscow"
+  },
+  {
     "id": "cd7062b8-45d0-4af8-aaf5-b970407b2271",
     "en": "Vozhega",
     "ru": "Вожега",
