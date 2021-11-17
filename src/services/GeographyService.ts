@@ -35,9 +35,10 @@ class GeographyService implements GeographyServiceInterface {
     const createdAt = new Date();
 
     const select = [knex.raw('*'), knex.raw('count(*) over() as "totalCount"')];
+    let order = orderBy;
 
     if (priorCountry) {
-      orderBy.push({ field: 'priority', direction: 'desc' });
+      order = [{ field: 'priority', direction: 'desc' }, ...orderBy];
       select.push(knex.raw('"countryCode" = ? as "priority"', priorCountry));
     }
 
@@ -56,7 +57,7 @@ class GeographyService implements GeographyServiceInterface {
       .offset(offset || 0)
       .where(builder => convertWhereToKnex(builder, where))
       .where(builder => convertSearchToKnex(builder, search, {}, { strategy: 'from-start' }))
-      .orderBy(convertOrderByToKnex(orderBy))
+      .orderBy(convertOrderByToKnex(order))
       .then(nodes =>
         nodes.map(node => ({
           ...node,
