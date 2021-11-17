@@ -55,7 +55,7 @@ class GeographyService implements GeographyServiceInterface {
       .limit(limit || 1)
       .offset(offset || 0)
       .where(builder => convertWhereToKnex(builder, where))
-      .where(builder => convertSearchToKnex(builder, search, {}, { strategy: 'from-start-strict' }))
+      .where(builder => convertSearchToKnex(builder, search, {}, { strategy: 'from-start' }))
       .orderBy(convertOrderByToKnex(orderBy))
       .then(nodes =>
         nodes.map(node => ({
