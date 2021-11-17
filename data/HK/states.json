@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "d523de06-07f7-4680-9fa6-dbf7bc48372f",
+    "en": "Hong Kong",
+    "ru": "Гонконг",
+    "country": "302b651f-2e2b-43ea-a151-8746aec33854",
+    "countryCode": "HK",
+    "stateCode": "HKG"
+  }
+]
