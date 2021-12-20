@@ -37,7 +37,7 @@ Contact    ${packageInfo.support}
         compiler.hooks.beforeRun.tapAsync('WebpackBeforeBuild', (_, callback) => {
 
           if (fs.existsSync(path.join(__dirname, '../dist/'))) {
-            fs.rmdirSync(path.join(__dirname, '../dist/'), { recursive: true })
+            fs.rmSync(path.join(__dirname, '../dist/'), { recursive: true })
           }
 
           callback();
