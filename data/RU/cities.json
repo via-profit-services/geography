@@ -32628,6 +32628,18 @@
     "timezone": "Asia/Novosibirsk"
   },
   {
+    "id": "c0b0c02c-f9cc-4448-8c7e-443c4103d3f0",
+    "en": "Kazanka",
+    "ru": "Казанка",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "90ebc72d-6ae6-44c7-9b50-01a813fefe88",
+    "stateCode": "NVS",
+    "latitude": "53.98240100",
+    "longitude": "77.42724100",
+    "timezone": "Asia/Novosibirsk"
+  },
+  {
     "id": "2b3f2091-67d1-4280-bdb7-b89e7d096cf8",
     "en": "Novosibirskiy Rayon",
     "ru": "Новосибирский район",
