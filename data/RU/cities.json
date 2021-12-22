@@ -8208,6 +8208,18 @@
     "timezone": "Europe/Moscow"
   },
   {
+    "id": "02904557-446c-4dd4-83cd-70490be466e3",
+    "en": "Sukterka",
+    "ru": "Сюктерка",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "48014d0e-69b6-4c8f-bf96-3f4fa1dcfd94",
+    "stateCode": "CU",
+    "latitude": "56.12486100",
+    "longitude": "47.04141700",
+    "timezone": "Europe/Moscow"
+  },
+  {
     "id": "fac08cfd-d5d0-4dc1-a1fd-1050c2756a54",
     "en": "Ibresi",
     "ru": "Ибреси",
@@ -14458,6 +14470,18 @@
     "latitude": "58.59665000",
     "longitude": "49.66007000",
     "timezone": "Europe/Kirov"
+  },
+  {
+    "id": "e0d90f51-91e8-4b08-a530-0f879e605d9b",
+    "en": "Kilmez",
+    "ru": "Кильмезь",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "a67c2452-a65c-4289-bf74-b55bc2d13a39",
+    "stateCode": "KIR",
+    "latitude": "56.94361400",
+    "longitude": "51.06660100",
+    "timezone": "Europe/Moscow"
   },
   {
     "id": "6ff98605-91e4-4b0e-a1a3-0cd91238638f",
@@ -24777,6 +24801,18 @@
     "stateCode": "MOW",
     "latitude": "55.75222000",
     "longitude": "37.61556000",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "fa3ad1cf-17a2-4fe3-81eb-c345e17ba0e5",
+    "en": "Mitino",
+    "ru": "Митино",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "a1b37a90-e498-4dab-95f2-95c7de63afdf",
+    "stateCode": "MOW",
+    "latitude": "55.84639000",
+    "longitude": "37.36139000",
     "timezone": "Europe/Moscow"
   },
   {
@@ -43812,6 +43848,18 @@
     "timezone": "Europe/Moscow"
   },
   {
+    "id": "d1781d9c-3d6c-4dbf-a5b9-3fc6ca40ea4f",
+    "en": "Andreevka",
+    "ru": "Андреевка",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "4686b7cd-6036-412c-a482-1dc1da44c7a2",
+    "stateCode": "MO",
+    "latitude": "54.73106600",
+    "longitude": "43.46406000",
+    "timezone": "Europe/Moscow"
+  },
+  {
     "id": "b281650f-e45a-491e-82a8-a5b4a5a3f76c",
     "en": "Shiringushi",
     "ru": "Ширингуши",
@@ -44853,6 +44901,42 @@
     "stateCode": "TA",
     "latitude": "55.796289",
     "longitude": "49.108795",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "bbb60230-2053-483b-8834-b37daab38645",
+    "en": "Aznakaevo",
+    "ru": "Азнакаево",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "50b1e47e-0155-4f3d-8d85-49a39d50defc",
+    "stateCode": "TA",
+    "latitude": "54.86144600",
+    "longitude": "53.08084300",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "23353ad4-0cdc-4d6a-8212-b8d10af6b400",
+    "en": "Aksubaevo",
+    "ru": "Аксубаево",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "50b1e47e-0155-4f3d-8d85-49a39d50defc",
+    "stateCode": "TA",
+    "latitude": "54.84712100",
+    "longitude": "50.79938400",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "9cc5b73f-e9f6-4152-b0d7-532a021e741a",
+    "en": "Makarovka",
+    "ru": "Макаровка",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "50b1e47e-0155-4f3d-8d85-49a39d50defc",
+    "stateCode": "TA",
+    "latitude": "55.92851100",
+    "longitude": "49.12413300",
     "timezone": "Europe/Moscow"
   },
   {
@@ -48036,6 +48120,18 @@
     "timezone": "Europe/Moscow"
   },
   {
+    "id": "7cc46b76-7b47-4920-b23c-a112ada59409",
+    "en": "Kudrovo",
+    "ru": "Кудрово",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "b672fa21-71b8-431a-bd4f-e38eb41a2615",
+    "stateCode": "SPE",
+    "latitude": "59.90087000",
+    "longitude": "30.51194000",
+    "timezone": "Europe/Moscow"
+  },
+  {
     "id": "c3c64480-9fca-4765-8480-ea4d5c164747",
     "en": "Sapërnyy",
     "ru": "Саперный",
@@ -50229,6 +50325,18 @@
     "stateCode": "SAM",
     "latitude": "52.39820000",
     "longitude": "49.96100000",
+    "timezone": "Europe/Samara"
+  },
+  {
+    "id": "464c0fa4-2d43-4c98-9874-e94d46e5e7f9",
+    "en": "Bolshaya Chernigovka",
+    "ru": "Большая Черниговка",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "46144336-bba1-4ae7-bcff-0acf6080f503",
+    "stateCode": "SAM",
+    "latitude": "52.09527000",
+    "longitude": "50.86733700",
     "timezone": "Europe/Samara"
   },
   {
@@ -59376,6 +59484,18 @@
     "timezone": "Europe/Moscow"
   },
   {
+    "id": "42ef5a32-afa4-4a61-9827-acdd54d848cf",
+    "en": "Varaksino",
+    "ru": "Вараксино",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "d427525d-9baa-48f1-b6f9-827f0a2c7748",
+    "stateCode": "TVE",
+    "latitude": "56.58918700",
+    "longitude": "36.52904800",
+    "timezone": "Europe/Moscow"
+  },
+  {
     "id": "aa89593b-2d70-41b6-a3ef-7fb98b90046b",
     "en": "Udomlya",
     "ru": "Удомля",
@@ -59949,6 +60069,18 @@
     "stateCode": "TYU",
     "latitude": "57.15222000",
     "longitude": "65.52722000",
+    "timezone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "edc60100-0d0c-4833-a898-a83745ee84d4",
+    "en": "Lugovoe",
+    "ru": "Луговое",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "46bbd393-fa1b-452e-8b96-bdcf6e7afca0",
+    "stateCode": "TYU",
+    "latitude": "57.22040300", 
+    "longitude": "65.35898600",
     "timezone": "Asia/Yekaterinburg"
   },
   {
@@ -63693,6 +63825,18 @@
     "stateCode": "VOR",
     "latitude": "51.67204000",
     "longitude": "39.18430000",
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "id": "e8be9547-3c06-4ef0-8763-7c6f302965f5",
+    "en": "Ramon",
+    "ru": "Рамонь",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "state": "44b7597d-c8b6-445b-ba96-ccc9bd298c63",
+    "stateCode": "VOR",
+    "latitude": "51.91112700",
+    "longitude": "39.33304900",
     "timezone": "Europe/Moscow"
   },
   {
