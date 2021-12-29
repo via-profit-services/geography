@@ -151,13 +151,13 @@ declare module '@via-profit-services/geography' {
 
   export interface GeographyServiceInterface {
     getCities(filter: Partial<CitiesOutputFilter>): Promise<ListResponse<City>>;
-    getCitiesByIds(ids: string[]): Promise<City[]>;
+    getCitiesByIds(ids: readonly string[]): Promise<City[]>;
     getCity(id: string): Promise<City | false>;
     getStates(filter: Partial<OutputFilter>): Promise<ListResponse<State>>;
-    getSatatesByIds(ids: string[]): Promise<State[]>;
+    getSatatesByIds(ids: readonly string[]): Promise<State[]>;
     getState(id: string): Promise<State | false>;
     getCountries(filter: Partial<OutputFilter>): Promise<ListResponse<Country>>;
-    getCountriesByIds(ids: string[]): Promise<Country[]>;
+    getCountriesByIds(ids: readonly string[]): Promise<Country[]>;
     getCountry(id: string): Promise<Country | false>;
     addressLookup(fields: Partial<AddressLookupQueryFields>): Promise<AddressLookupQueryResolve[]>;
   }
@@ -431,7 +431,7 @@ declare module '@via-profit-services/geography' {
 }
 
 declare module '@via-profit-services/core' {
-  import DataLoader from '@via-profit/dataloader';
+  import DataLoader from '@via-profit-services/dataloader';
   import { Country, State, City, GeographyService } from '@via-profit-services/geography';
 
   interface DataLoaderCollection {

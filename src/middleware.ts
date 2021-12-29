@@ -1,16 +1,17 @@
-import { Middleware, collateForDataloader, Node } from '@via-profit-services/core';
+import { Middleware } from '@via-profit-services/core';
 import { GeographyMiddlewareFactory } from '@via-profit-services/geography';
 import type {
-  City, State, Country, YandexLookupProviderConfig, NominatimLookupProviderConfig,
-  DaDataLookupProviderConfig, geocoder,
+  YandexLookupProviderConfig,
+  NominatimLookupProviderConfig,
+  DaDataLookupProviderConfig,
+  geocoder,
 } from '@via-profit-services/geography';
-import DataLoader from '@via-profit/dataloader';
+import DataLoader from '@via-profit-services/dataloader';
 
 import GeographyService from './services/GeographyService';
 import NominatimProvider from './services/NominatimProvider';
 import YandexProvider from './services/YandexProvider';
 import DaDataProvider from './services/DaDataProvider';
-
 
 const isProviderYandex = (config: any): config is YandexLookupProviderConfig =>
   config?.geocoder === 'Yandex' && typeof config?.yandexGeocoderAPIKey === 'string';
@@ -21,10 +22,8 @@ const isProviderNominatim = (config: any): config is NominatimLookupProviderConf
 const isProviderDaData = (config: any): config is DaDataLookupProviderConfig =>
   config?.geocoder === 'DaData' && typeof config?.daDataAPIKey === 'string';
 
-
-const geographyFactory: GeographyMiddlewareFactory = (config) => {
+const geographyFactory: GeographyMiddlewareFactory = config => {
   const middleware: Middleware = ({ context }) => {
-
     let geocoder: geocoder | null = null;
 
     if (isProviderYandex(config)) {
@@ -48,7 +47,6 @@ const geographyFactory: GeographyMiddlewareFactory = (config) => {
       });
     }
 
-
     // Geography Service
     context.services.geography = new GeographyService({
       context,
@@ -57,36 +55,36 @@ const geographyFactory: GeographyMiddlewareFactory = (config) => {
 
     context.dataloader.geography = {
       // Cities dataloader
-      cities: new DataLoader((ids: string[]) => context.services.geography.getCitiesByIds(ids)
-        .then((nodes) => collateForDataloader(ids, nodes as Node<City>[])), {
-          redis: context.redis,
-          defaultExpiration: '1h',
-          cacheName: 'geography.cities',
-        }),
+      cities: new DataLoader(async ids => context.services.geography.getCitiesByIds(ids), {
+        redis: context.redis,
+        defaultExpiration: '1h',
+        cacheName: 'geography:cities',
+      }),
 
       // States dataloader
-      states: new DataLoader((ids: string[]) => context.services.geography.getSatatesByIds(ids)
-        .then((nodes) => collateForDataloader(ids, nodes as Node<State>[])), {
-          redis: context.redis,
-          defaultExpiration: '1h',
-          cacheName: 'geography.states',
-        }),
+      states: new DataLoader((ids: string[]) => context.services.geography.getSatatesByIds(ids), {
+        redis: context.redis,
+        defaultExpiration: '1h',
+        cacheName: 'geography:states',
+      }),
 
       // Countries dataloader
-      countries: new DataLoader((ids: string[]) => context.services.geography.getCountriesByIds(ids)
-        .then((nodes) => collateForDataloader(ids, nodes as Node<Country>[])), {
+      countries: new DataLoader(
+        (ids: string[]) => context.services.geography.getCountriesByIds(ids),
+        {
           redis: context.redis,
           defaultExpiration: '1h',
-          cacheName: 'geography.countries',
-        }),
+          cacheName: 'geography:countries',
+        },
+      ),
     };
 
     return {
       context,
     };
-  }
+  };
 
-  return middleware
+  return middleware;
 };
 
 export default geographyFactory;

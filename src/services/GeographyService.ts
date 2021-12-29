@@ -82,7 +82,7 @@ class GeographyService implements GeographyServiceInterface {
     return response;
   }
 
-  public async getCitiesByIds(ids: string[]): Promise<City[]> {
+  public async getCitiesByIds(ids: readonly string[]): Promise<City[]> {
     const { nodes } = await this.getCities({
       where: [['id', 'in', ids]],
       offset: 0,
@@ -135,7 +135,7 @@ class GeographyService implements GeographyServiceInterface {
     return response;
   }
 
-  public async getSatatesByIds(ids: string[]): Promise<State[]> {
+  public async getSatatesByIds(ids: readonly string[]): Promise<State[]> {
     const { nodes } = await this.getStates({
       where: [['id', 'in', ids]],
       offset: 0,
@@ -186,7 +186,7 @@ class GeographyService implements GeographyServiceInterface {
     return response;
   }
 
-  public async getCountriesByIds(ids: string[]): Promise<Country[]> {
+  public async getCountriesByIds(ids: readonly string[]): Promise<Country[]> {
     const { nodes } = await this.getCountries({
       where: [['id', 'in', ids]],
       offset: 0,
