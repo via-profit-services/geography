@@ -26,7 +26,7 @@
   {
     "id": "7cbad50f-ad76-4fe3-be7d-856f731fb0bb",
     "en": "Balqa Governorate",
-    "ru": "губерния Балка",
+    "ru": "Губерния Балка",
     "country": "440cede8-8e7d-4453-8b39-08453d008056",
     "countryCode": "JO",
     "stateCode": "BA"
@@ -42,7 +42,7 @@
   {
     "id": "6eefb45c-fff0-4c85-8741-61059d629b89",
     "en": "Jerash Governorate",
-    "ru": "губернаторство Джераш",
+    "ru": "Губернаторство Джераш",
     "country": "440cede8-8e7d-4453-8b39-08453d008056",
     "countryCode": "JO",
     "stateCode": "JA"
@@ -58,7 +58,7 @@
   {
     "id": "07b2f20f-1f4c-4091-aafd-9bf50f1c259d",
     "en": "Ma'an Governorate",
-    "ru": "провинция Маань",
+    "ru": "Провинция Маань",
     "country": "440cede8-8e7d-4453-8b39-08453d008056",
     "countryCode": "JO",
     "stateCode": "MN"
@@ -74,7 +74,7 @@
   {
     "id": "b7fcd1f5-955a-4b6c-8a7e-e76315fac756",
     "en": "Mafraq Governorate",
-    "ru": "провинция Мафрак",
+    "ru": "Провинция Мафрак",
     "country": "440cede8-8e7d-4453-8b39-08453d008056",
     "countryCode": "JO",
     "stateCode": "MA"
@@ -82,7 +82,7 @@
   {
     "id": "a7577b6b-7eef-4f9f-9653-a9672c9dfceb",
     "en": "Tafilah Governorate",
-    "ru": "провинция Тафила",
+    "ru": "Провинция Тафила",
     "country": "440cede8-8e7d-4453-8b39-08453d008056",
     "countryCode": "JO",
     "stateCode": "AT"
@@ -90,7 +90,7 @@
   {
     "id": "4f1bd112-498a-4dbe-ae48-2a11adc4859c",
     "en": "Zarqa Governorate",
-    "ru": "губерния Зарка",
+    "ru": "Губерния Зарка",
     "country": "440cede8-8e7d-4453-8b39-08453d008056",
     "countryCode": "JO",
     "stateCode": "AZ"

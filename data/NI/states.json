@@ -2,7 +2,7 @@
   {
     "id": "4476a68b-62da-4f12-8dbc-27a543f97a54",
     "en": "Boaco Department",
-    "ru": "районное отделение Боако",
+    "ru": "Районное отделение Боако",
     "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
     "countryCode": "NI",
     "stateCode": "BO"
@@ -66,7 +66,7 @@
   {
     "id": "bbca250c-cbe8-4630-9427-6e6938266981",
     "en": "Madriz Department",
-    "ru": "областной Мадризский департамент",
+    "ru": "Областной Мадризский департамент",
     "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
     "countryCode": "NI",
     "stateCode": "MD"
@@ -90,7 +90,7 @@
   {
     "id": "234c4a0f-54fb-4910-b2bb-ffcd27c3edd9",
     "en": "Matagalpa Department",
-    "ru": "район Матагальпа",
+    "ru": "Район Матагальпа",
     "country": "8d098075-f6be-4f30-8ba5-b26ca52f7791",
     "countryCode": "NI",
     "stateCode": "MT"

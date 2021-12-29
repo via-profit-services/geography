@@ -640,6 +640,14 @@
     "stateCode": "VOR"
   },
   {
+    "id": "54414cc9-fb3a-4094-b0c1-2e03091b00b5",
+    "en": "Volgogradskaya Oblast",
+    "ru": "Волгоградская область",
+    "country": "a76bac37-59e6-47bb-8af7-41c35ceaa9f6",
+    "countryCode": "RU",
+    "stateCode": "VOL"
+  },
+  {
     "id": "cb7cb97e-48be-4e5d-99a7-cc364ab7cd52",
     "en": "Yamalo-Nenets Autonomous Okrug",
     "ru": "Ямало-Ненецкий автономный округ",

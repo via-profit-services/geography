@@ -1610,7 +1610,7 @@
   {
     "id": "e4403531-e8a5-4178-b41f-11cc47811a4f",
     "en": "Malling",
-    "ru": "городской торговый центр",
+    "ru": "Городской торговый центр",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "d48ad442-e07e-4416-81fb-0b8dcbf73b96",
@@ -1754,7 +1754,7 @@
   {
     "id": "1cbcbaa3-5001-45f9-8544-34ab28511c85",
     "en": "Sabro",
-    "ru": "сабро",
+    "ru": "Сабро",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "d48ad442-e07e-4416-81fb-0b8dcbf73b96",
@@ -2594,7 +2594,7 @@
   {
     "id": "ec74181d-67e2-4406-9b50-d67f644d34b3",
     "en": "Nibe",
-    "ru": "нибе",
+    "ru": "Нибе",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "c1a83bda-c6f7-4b06-8371-628a21d45263",
@@ -3230,7 +3230,7 @@
   {
     "id": "0a9e0970-a2c3-4a29-b499-dc93246ed258",
     "en": "Give",
-    "ru": "дай",
+    "ru": "Дай",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "795ca91e-fedb-4bcf-8af6-db63d5a2b1cd",
@@ -3254,7 +3254,7 @@
   {
     "id": "1f577af0-377d-4389-b554-78c89712a3cb",
     "en": "Gram",
-    "ru": "грамм",
+    "ru": "Грамм",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "795ca91e-fedb-4bcf-8af6-db63d5a2b1cd",
@@ -4022,7 +4022,7 @@
   {
     "id": "e54e8570-1d84-435c-92a9-fcd3236b0f79",
     "en": "Vamdrup",
-    "ru": "вамдруп",
+    "ru": "Вамдруп",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "795ca91e-fedb-4bcf-8af6-db63d5a2b1cd",
@@ -4226,7 +4226,7 @@
   {
     "id": "4922265a-9af3-4ddc-ba6f-4df820e36eb0",
     "en": "Faxe",
-    "ru": "городской факс",
+    "ru": "Городской факс",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "219d87ef-d868-48d6-8a14-23a3e85ac9bb",
@@ -4238,7 +4238,7 @@
   {
     "id": "0135f90c-7d82-4661-a5ff-da6f87d31df5",
     "en": "Faxe Kommune",
-    "ru": "факс коммуне",
+    "ru": "Факс коммуне",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "219d87ef-d868-48d6-8a14-23a3e85ac9bb",
@@ -4250,7 +4250,7 @@
   {
     "id": "854596ea-c726-467a-9dbc-3ce93e290317",
     "en": "Faxe Ladeplads",
-    "ru": "факс Ladeplads",
+    "ru": "Факс Ladeplads",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "219d87ef-d868-48d6-8a14-23a3e85ac9bb",
@@ -4970,7 +4970,7 @@
   {
     "id": "db27251f-1a41-4b46-96cc-d44cec3cf796",
     "en": "Stevns Kommune",
-    "ru": "стевнс коммуне",
+    "ru": "Стевнс коммуне",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "219d87ef-d868-48d6-8a14-23a3e85ac9bb",
@@ -5078,7 +5078,7 @@
   {
     "id": "77c67d39-79cf-4a7e-a9c1-b013223bab42",
     "en": "Tune",
-    "ru": "тюнинг",
+    "ru": "Тюнинг",
     "country": "52ce80ad-e58d-4e2a-9923-f9703f374981",
     "countryCode": "DK",
     "state": "219d87ef-d868-48d6-8a14-23a3e85ac9bb",

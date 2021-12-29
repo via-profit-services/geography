@@ -13,6 +13,7 @@ type GeographyQuery {
     orderBy: [CitiesListOrderBy!]
     filter: CitiesListFilter
     search: [CitiesSearch!]
+    priorCountry: String
   ): CitiesListConnection!
 
   """
@@ -42,6 +43,24 @@ type GeographyQuery {
   country(id: ID!): Country
   state(id: ID!): State
   city(id: ID!): City
+
+  addressLookup(
+    query: String
+    country: String
+    city: String
+    street: String
+    state: String
+    houseNumber: String
+  ): [AddressLookupResponse!]
+}
+
+type AddressLookupResponse {
+  latitude: String!
+  longitude: String!
+  street: String!
+  houseNumber: String!
+  place: String!
+  city: City
 }
 
 """

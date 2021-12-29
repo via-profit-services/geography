@@ -2,7 +2,7 @@
   {
     "id": "b7ab6fcb-b74d-4d8d-993b-dcaeaa253b5f",
     "en": "Ask",
-    "ru": "спроси",
+    "ru": "Спроси",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "ec8cc9d3-20e4-4aae-ba3b-de30ad971811",
@@ -386,7 +386,7 @@
   {
     "id": "16971375-c0c2-4c90-a602-ef9ccaa321dc",
     "en": "Nes",
-    "ru": "нес",
+    "ru": "Нес",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "ec8cc9d3-20e4-4aae-ba3b-de30ad971811",
@@ -398,7 +398,7 @@
   {
     "id": "895bf3a0-6f12-40b1-b3e5-5e1f2ab685d8",
     "en": "Neskollen",
-    "ru": "несколлен",
+    "ru": "Несколлен",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "ec8cc9d3-20e4-4aae-ba3b-de30ad971811",
@@ -530,7 +530,7 @@
   {
     "id": "576e6a79-684d-4114-a8c1-87f5eec1267b",
     "en": "Ski",
-    "ru": "горнолыжный",
+    "ru": "Горнолыжный",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "ec8cc9d3-20e4-4aae-ba3b-de30ad971811",
@@ -734,7 +734,7 @@
   {
     "id": "e9e35f25-c390-43a1-a8d7-0786a875f849",
     "en": "Marker",
-    "ru": "городской маркер",
+    "ru": "Городской маркер",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "87628298-b0ea-48d3-b03e-f2cfbfbdbd0d",
@@ -842,7 +842,7 @@
   {
     "id": "1ff7ef02-6794-4b73-9efa-6c7629ec19db",
     "en": "Skiptvet",
-    "ru": "скиптвет",
+    "ru": "Скиптвет",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "87628298-b0ea-48d3-b03e-f2cfbfbdbd0d",
@@ -1058,7 +1058,7 @@
   {
     "id": "7117b37d-393d-4c1d-b239-0aa01411a6c7",
     "en": "Hole",
-    "ru": "городская дыра",
+    "ru": "Городская дыра",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "0009db58-4b69-4327-a3fd-3e066664361d",
@@ -1118,7 +1118,7 @@
   {
     "id": "8bc0b505-b7ed-4df4-b7f6-f1a4a3167548",
     "en": "Lier",
-    "ru": "лир",
+    "ru": "Лир",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "0009db58-4b69-4327-a3fd-3e066664361d",
@@ -1154,7 +1154,7 @@
   {
     "id": "1573d82f-0434-4c4f-b40f-0d826e96fb00",
     "en": "Nes",
-    "ru": "нес",
+    "ru": "Нес",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "0009db58-4b69-4327-a3fd-3e066664361d",
@@ -1922,7 +1922,7 @@
   {
     "id": "429f7711-e6ee-4747-8f1c-4e1ed204ab7b",
     "en": "Sand",
-    "ru": "песок",
+    "ru": "Песок",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "fb2474c0-c973-4b4d-9e59-b2d8ceb7e6e1",
@@ -2450,7 +2450,7 @@
   {
     "id": "91b3dc6c-40c7-4e29-a9eb-d381595fcd31",
     "en": "Meland",
-    "ru": "меланд",
+    "ru": "Меланд",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "b61f9827-c736-460a-a518-280cbd6a97a1",
@@ -2654,7 +2654,7 @@
   {
     "id": "075831b7-1852-4f2b-ad88-0f485bf684dc",
     "en": "Sund",
-    "ru": "воскресенье",
+    "ru": "Воскресенье",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "b61f9827-c736-460a-a518-280cbd6a97a1",
@@ -4034,7 +4034,7 @@
   {
     "id": "67720b19-fd0c-4823-9160-670b29adcfcf",
     "en": "Reine",
-    "ru": "рейн",
+    "ru": "Рейн",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "c1c8c9f0-7a3e-40d6-8b2a-4814c51fd005",
@@ -5150,7 +5150,7 @@
   {
     "id": "c8721ee5-9a46-48cd-9182-f98e4cb5272b",
     "en": "Moi",
-    "ru": "мой",
+    "ru": "Мой",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "2879a4d4-1e28-45e1-8364-017d939c780c",
@@ -5774,7 +5774,7 @@
   {
     "id": "326eae9d-09ef-4351-b8ab-4d5dbe0299e4",
     "en": "Luster",
-    "ru": "блеск",
+    "ru": "Блеск",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "fbdf0247-967f-4f88-b7f7-edff63542aa8",
@@ -6866,7 +6866,7 @@
   {
     "id": "711e6018-edea-47c3-adaa-3d408ff6b948",
     "en": "Skaun",
-    "ru": "скаун",
+    "ru": "Скаун",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "d43e9f2c-523a-4b99-82a4-68a0828e67e0",
@@ -7286,7 +7286,7 @@
   {
     "id": "7552762e-bfc4-4de5-967a-b4fc205bb84a",
     "en": "Moen",
-    "ru": "моен",
+    "ru": "Моен",
     "country": "993e56c9-df1b-49fb-836a-8a5f54112469",
     "countryCode": "NO",
     "state": "079be6aa-7492-455f-82a7-57771a3213fe",

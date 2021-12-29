@@ -10,7 +10,7 @@
   {
     "id": "d05b43b3-7728-487c-a249-d1cabc552a56",
     "en": "Centre",
-    "ru": "областной центр",
+    "ru": "Областной центр",
     "country": "2d4590b3-da68-4ff6-b946-abc15be58b85",
     "countryCode": "CM",
     "stateCode": "CE"
@@ -18,7 +18,7 @@
   {
     "id": "6763af66-2dca-467d-9801-671961a7c4e6",
     "en": "East",
-    "ru": "восток",
+    "ru": "Восток",
     "country": "2d4590b3-da68-4ff6-b946-abc15be58b85",
     "countryCode": "CM",
     "stateCode": "ES"
@@ -26,7 +26,7 @@
   {
     "id": "fa510c52-f27a-4b92-999b-f3a2f0804d7e",
     "en": "Far North",
-    "ru": "край Крайний Север",
+    "ru": "Край Крайний Север",
     "country": "2d4590b3-da68-4ff6-b946-abc15be58b85",
     "countryCode": "CM",
     "stateCode": "EN"
@@ -58,7 +58,7 @@
   {
     "id": "59f7fbd6-6aa6-4bec-b7d6-a609ebc9f74c",
     "en": "South",
-    "ru": "юг",
+    "ru": "Юг",
     "country": "2d4590b3-da68-4ff6-b946-abc15be58b85",
     "countryCode": "CM",
     "stateCode": "SU"
@@ -66,7 +66,7 @@
   {
     "id": "9486b912-45f2-4e1b-baac-b48c749bb522",
     "en": "Southwest",
-    "ru": "юго-запад",
+    "ru": "Юго-запад",
     "country": "2d4590b3-da68-4ff6-b946-abc15be58b85",
     "countryCode": "CM",
     "stateCode": "SW"
@@ -74,7 +74,7 @@
   {
     "id": "1e089d12-1d0f-4ffb-9968-68943b0215a6",
     "en": "West",
-    "ru": "запад",
+    "ru": "Запад",
     "country": "2d4590b3-da68-4ff6-b946-abc15be58b85",
     "countryCode": "CM",
     "stateCode": "OU"

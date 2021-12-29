@@ -42,7 +42,7 @@
   {
     "id": "921ca5ab-7afb-4f0e-973e-ada6cebdcfe4",
     "en": "Escuintla Department",
-    "ru": "областной департамент Escuintla",
+    "ru": "Областной департамент Escuintla",
     "country": "ae11cc72-1d97-4cc7-bd8e-8d5ccc09c450",
     "countryCode": "GT",
     "stateCode": "ES"
@@ -82,7 +82,7 @@
   {
     "id": "313a1d91-b634-4b6f-93fb-2b47f8f61047",
     "en": "Jutiapa Department",
-    "ru": "областное управление Джутиапа",
+    "ru": "Областное управление Джутиапа",
     "country": "ae11cc72-1d97-4cc7-bd8e-8d5ccc09c450",
     "countryCode": "GT",
     "stateCode": "JU"
@@ -90,7 +90,7 @@
   {
     "id": "832cb828-2a39-4e77-8e94-4f1bf2069d22",
     "en": "Petén Department",
-    "ru": "район Петенское отделение",
+    "ru": "Район Петенское отделение",
     "country": "ae11cc72-1d97-4cc7-bd8e-8d5ccc09c450",
     "countryCode": "GT",
     "stateCode": "PE"
@@ -138,7 +138,7 @@
   {
     "id": "e25bc806-479d-43f0-861c-6e8bd70d5dab",
     "en": "Santa Rosa Department",
-    "ru": "департамент Санта-Роса",
+    "ru": "Департамент Санта-Роса",
     "country": "ae11cc72-1d97-4cc7-bd8e-8d5ccc09c450",
     "countryCode": "GT",
     "stateCode": "SR"

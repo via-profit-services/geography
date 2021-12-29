@@ -1010,7 +1010,7 @@
   {
     "id": "1d3d92eb-4026-4776-a22f-a7bb39ff65b2",
     "en": "Fengpu",
-    "ru": "фенпу",
+    "ru": "Фенпу",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "8a8aad35-79a5-40c2-88d6-f07b5981b872",
@@ -1634,7 +1634,7 @@
   {
     "id": "3389b6e5-23a0-4823-b3d9-790e63a802f2",
     "en": "Shijing",
-    "ru": "пекин",
+    "ru": "Пекин",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "8a8aad35-79a5-40c2-88d6-f07b5981b872",
@@ -1862,7 +1862,7 @@
   {
     "id": "bef6d46b-d370-467d-bf37-106e3329f77f",
     "en": "Xibing",
-    "ru": "сибин",
+    "ru": "Сибин",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "8a8aad35-79a5-40c2-88d6-f07b5981b872",
@@ -2390,7 +2390,7 @@
   {
     "id": "dc54f80a-a9f8-4541-9553-e0db4fff46d9",
     "en": "Dasha",
-    "ru": "даша",
+    "ru": "Даша",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "6e40916d-7f7e-468c-8feb-1af7f893e904",
@@ -2906,7 +2906,7 @@
   {
     "id": "8e7a5119-a8bb-4c56-9dd4-dd0c18a0244b",
     "en": "Shaping",
-    "ru": "шейпинг",
+    "ru": "Шейпинг",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "6e40916d-7f7e-468c-8feb-1af7f893e904",
@@ -3170,7 +3170,7 @@
   {
     "id": "d1d8d023-af00-46e3-9d21-5ab8bc0b3b3f",
     "en": "Zhongshan Prefecture",
-    "ru": "префектура Чжуншань",
+    "ru": "Префектура Чжуншань",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "6e40916d-7f7e-468c-8feb-1af7f893e904",
@@ -3710,7 +3710,7 @@
   {
     "id": "9b426cee-cc99-4a78-b930-5ea3882d7a2d",
     "en": "Gaowu",
-    "ru": "гауу",
+    "ru": "Гауу",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "2b922feb-2f16-4a7f-93b3-25e61e8e4604",
@@ -4250,7 +4250,7 @@
   {
     "id": "263b2419-9d30-47c5-8211-65f722373b5c",
     "en": "Nada",
-    "ru": "нада",
+    "ru": "Нада",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "1041dbfa-5fc7-4fea-8882-4bf5595fa6bc",
@@ -4430,7 +4430,7 @@
   {
     "id": "a8534524-e199-461c-91b7-95e825d04f05",
     "en": "Chengde Prefecture",
-    "ru": "префектура Чэндэ",
+    "ru": "Префектура Чэндэ",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "2e84377e-c45f-4dad-9b88-7092fa55eb11",
@@ -4814,7 +4814,7 @@
   {
     "id": "7c3b97ec-a922-4b67-9acf-9d0aa20e3445",
     "en": "Acheng",
-    "ru": "ачэн",
+    "ru": "Ачэн",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "80203f8d-1d6e-419e-a66e-681fa52f59ff",
@@ -6350,7 +6350,7 @@
   {
     "id": "b11edfb9-b5ea-4e2b-ae96-36dcb11697d8",
     "en": "Caidian",
-    "ru": "каидиан",
+    "ru": "Каидиан",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "068e4686-a6ca-48f7-a96a-6a46dab8cf62",
@@ -6806,7 +6806,7 @@
   {
     "id": "a66b79b5-3ee0-491c-89e7-c34f10fa2b45",
     "en": "Xianning Prefecture",
-    "ru": "префектура Сяньнин",
+    "ru": "Префектура Сяньнин",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "068e4686-a6ca-48f7-a96a-6a46dab8cf62",
@@ -7742,7 +7742,7 @@
   {
     "id": "1043f162-2f0b-4b1c-b8bf-629c494d928e",
     "en": "Prefecture of Chenzhou",
-    "ru": "префектура города Чэньчжоу",
+    "ru": "Префектура города Чэньчжоу",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "8bc34643-312d-4066-9cf4-6dff4662607c",
@@ -10838,7 +10838,7 @@
   {
     "id": "421792ed-aa07-4844-a991-78a0e5ce50dd",
     "en": "Jimo",
-    "ru": "джимо",
+    "ru": "Джимо",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "4caf84fa-9ec3-45cb-90e4-0b2305bfe6ae",
@@ -12062,7 +12062,7 @@
   {
     "id": "fce04807-d81e-4918-95bb-596f9fbad4be",
     "en": "Gaoping",
-    "ru": "гаопин",
+    "ru": "Гаопин",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "318b941f-b222-4c57-8c44-22a71805c5f9",
@@ -12590,7 +12590,7 @@
   {
     "id": "a6170879-ddb5-41d8-bebe-c0baa301691d",
     "en": "Fengxian",
-    "ru": "фэнсянь",
+    "ru": "Фэнсянь",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "0015ab3e-b8bb-4828-80cc-0d3367d8f60f",
@@ -12650,7 +12650,7 @@
   {
     "id": "bbf6f1ee-f299-47af-8de4-ea1e0c2b0566",
     "en": "Hede",
-    "ru": "хеде",
+    "ru": "Хеде",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "0015ab3e-b8bb-4828-80cc-0d3367d8f60f",
@@ -12866,7 +12866,7 @@
   {
     "id": "d5f1a6e5-28d2-421d-a87f-2e7081cc2a41",
     "en": "Rucheng",
-    "ru": "ручень",
+    "ru": "Ручень",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "0015ab3e-b8bb-4828-80cc-0d3367d8f60f",
@@ -13214,7 +13214,7 @@
   {
     "id": "2537f67f-66cb-4c1e-9401-b7ba412d3457",
     "en": "Nyingchi Prefecture",
-    "ru": "префектура Нинчи",
+    "ru": "Префектура Нинчи",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "48289567-4784-44ad-961d-192612663208",
@@ -13286,7 +13286,7 @@
   {
     "id": "912b62ec-4910-43f2-ab52-e69f76a55be4",
     "en": "Ailan Mubage",
-    "ru": "эйлан мубаге",
+    "ru": "Эйлан мубаге",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "1bf5873b-2f46-4dbe-9c1c-f2d68639f432",
@@ -13610,7 +13610,7 @@
   {
     "id": "91e9ab63-71dd-40e0-813d-1ab7a370356f",
     "en": "Shache",
-    "ru": "шахе",
+    "ru": "Шахе",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "1bf5873b-2f46-4dbe-9c1c-f2d68639f432",
@@ -14258,7 +14258,7 @@
   {
     "id": "9fd5f842-3466-4bfd-afb7-68767bca8275",
     "en": "Kunyang",
-    "ru": "кунян",
+    "ru": "Кунян",
     "country": "41213004-aff4-4746-a482-378f3655c133",
     "countryCode": "CN",
     "state": "623e6974-1f58-4183-b869-81b764245299",

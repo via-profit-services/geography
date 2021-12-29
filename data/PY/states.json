@@ -26,7 +26,7 @@
   {
     "id": "e324a060-2be7-485c-94b5-1afa8d93a894",
     "en": "Ñeembucú Department",
-    "ru": "областной департамент Чимбуку",
+    "ru": "Областной департамент Чимбуку",
     "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
     "countryCode": "PY",
     "stateCode": "12"
@@ -66,7 +66,7 @@
   {
     "id": "5f5da775-fa8d-4f67-9d01-2830b6ff57e8",
     "en": "Central Department",
-    "ru": "областное центральное управление",
+    "ru": "Областное центральное управление",
     "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
     "countryCode": "PY",
     "stateCode": "11"
@@ -74,7 +74,7 @@
   {
     "id": "e23ee272-8158-42e4-a5e7-63bc91d2a677",
     "en": "Concepción Department",
-    "ru": "областной департамент Консепсьон",
+    "ru": "Областной департамент Консепсьон",
     "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
     "countryCode": "PY",
     "stateCode": "1"
@@ -114,7 +114,7 @@
   {
     "id": "309b59b5-b163-492b-8d7f-99b38a9e9328",
     "en": "Paraguarí Department",
-    "ru": "региональный департамент Парагуари",
+    "ru": "Региональный департамент Парагуари",
     "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
     "countryCode": "PY",
     "stateCode": "9"
@@ -122,7 +122,7 @@
   {
     "id": "07e91dd0-a278-4518-844f-55007e4f2fec",
     "en": "Presidente Hayes Department",
-    "ru": "президенты Хейс департамент",
+    "ru": "Президенты Хейс департамент",
     "country": "69db57d8-d6e7-4057-b81a-fb386af5a949",
     "countryCode": "PY",
     "stateCode": "15"

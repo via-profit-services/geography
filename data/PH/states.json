@@ -106,7 +106,7 @@
   {
     "id": "142c8625-ab7a-4503-acc8-377669cdc63a",
     "en": "Benguet",
-    "ru": "бенге",
+    "ru": "Бенге",
     "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
     "countryCode": "PH",
     "stateCode": "BEN"
@@ -218,7 +218,7 @@
   {
     "id": "e3b31a17-ed11-4450-b3cb-ff61a58e4799",
     "en": "Catanduanes",
-    "ru": "катандуанес",
+    "ru": "Катандуанес",
     "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
     "countryCode": "PH",
     "stateCode": "CAT"
@@ -442,7 +442,7 @@
   {
     "id": "e1bfefda-e046-4a3a-8dd9-a12c849afb2c",
     "en": "Leyte",
-    "ru": "лейте",
+    "ru": "Лейте",
     "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
     "countryCode": "PH",
     "stateCode": "LEY"
@@ -770,7 +770,7 @@
   {
     "id": "7c721028-0171-4a3c-bd4b-aa9da5f2e282",
     "en": "Zamboanga Sibugay",
-    "ru": "замбоанга Сибугай",
+    "ru": "Замбоанга Сибугай",
     "country": "deedf41d-bfe1-49cf-9c5b-f3734fd9f115",
     "countryCode": "PH",
     "stateCode": "ZSI"

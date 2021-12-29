@@ -2,7 +2,7 @@
   {
     "id": "0df1ad32-8041-40e2-a5ba-96be88a472a2",
     "en": "Capital Governorate",
-    "ru": "столичная губерния",
+    "ru": "Столичная губерния",
     "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
     "countryCode": "BH",
     "stateCode": "13"
@@ -18,7 +18,7 @@
   {
     "id": "6df67f90-3b23-443f-b99a-0ffeb14ad902",
     "en": "Muharraq Governorate",
-    "ru": "губернаторство Мухаррак",
+    "ru": "Губернаторство Мухаррак",
     "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
     "countryCode": "BH",
     "stateCode": "15"
@@ -34,7 +34,7 @@
   {
     "id": "26761267-8ed6-4b19-a5c9-ca62cafcc077",
     "en": "Southern Governorate",
-    "ru": "южная губерния",
+    "ru": "Южная губерния",
     "country": "fffaca90-f724-4c1c-a605-3006a3ec3518",
     "countryCode": "BH",
     "stateCode": "14"

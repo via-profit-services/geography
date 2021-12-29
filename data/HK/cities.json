@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "5b27c7e7-12c8-4fc0-b4d1-a88cdda88c20",
+    "en": "Hong Kong",
+    "ru": "Гонконг",
+    "country": "302b651f-2e2b-43ea-a151-8746aec33854",
+    "countryCode": "HK",
+    "state": "d523de06-07f7-4680-9fa6-dbf7bc48372f",
+    "stateCode": "HKG",
+    "latitude": "22.302711",
+    "longitude": "114.177216",
+    "timezone": "Asia/Hong_Kong" 
+  }
+]

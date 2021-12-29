@@ -158,7 +158,7 @@
   {
     "id": "879cfcf6-c86f-4fdb-8d17-fa771ccbfc76",
     "en": "Massacre",
-    "ru": "городская резня",
+    "ru": "Городская резня",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "1f6b0991-535e-4d06-9644-09bebc6faadc",
@@ -182,7 +182,7 @@
   {
     "id": "d513f6d2-554e-4899-9adb-c94dd1ff7ab4",
     "en": "Morne Ciseaux",
-    "ru": "морн сизо",
+    "ru": "Морн сизо",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "1f6b0991-535e-4d06-9644-09bebc6faadc",
@@ -590,7 +590,7 @@
   {
     "id": "81ab7c8a-b653-46bb-92f9-f9fbb7dcb24b",
     "en": "Bishop'S Gap",
-    "ru": "городской епископский разрыв",
+    "ru": "Городской епископский разрыв",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -710,7 +710,7 @@
   {
     "id": "cc540478-6834-40bc-b3af-a2f44445627c",
     "en": "Carellie",
-    "ru": "карелли",
+    "ru": "Карелли",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -734,7 +734,7 @@
   {
     "id": "a4f11b89-b7fe-409b-b259-2e97c8346c46",
     "en": "Cedars",
-    "ru": "кедры",
+    "ru": "Кедры",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -794,7 +794,7 @@
   {
     "id": "0a05ed2c-66cf-4496-8a6d-8b12092c1335",
     "en": "City",
-    "ru": "город",
+    "ru": "Город",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1142,7 +1142,7 @@
   {
     "id": "8daa74ce-17da-4ab5-90a6-54eebea21685",
     "en": "Independence City",
-    "ru": "независимости город",
+    "ru": "Независимости город",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1286,7 +1286,7 @@
   {
     "id": "8ff17439-bac5-4e0a-b6e5-9f65ffb56365",
     "en": "Marchand",
-    "ru": "маршан",
+    "ru": "Маршан",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1334,7 +1334,7 @@
   {
     "id": "0affc2be-a3d5-4f95-bdf3-f8854c36f4f3",
     "en": "Monkey Town Ciceron",
-    "ru": "обезьян город цицерон",
+    "ru": "Обезьян город цицерон",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1358,7 +1358,7 @@
   {
     "id": "7eeeb618-cf07-451d-9624-7b6a1a627f02",
     "en": "Morne Dudon",
-    "ru": "морн дудон",
+    "ru": "Морн дудон",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1514,7 +1514,7 @@
   {
     "id": "c9db2d3a-cb20-4780-915a-497a7506a7ed",
     "en": "Ravine Chabot",
-    "ru": "овраг чабо",
+    "ru": "Овраг чабо",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1538,7 +1538,7 @@
   {
     "id": "8a947a1e-dd11-4a72-9baf-54e491478aef",
     "en": "Ravine Touterelle",
-    "ru": "овраг тутерелле",
+    "ru": "Овраг тутерелле",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -1790,7 +1790,7 @@
   {
     "id": "65883f40-1562-4d2e-9c6b-edaa182ab916",
     "en": "Waterworks",
-    "ru": "городской водопровод",
+    "ru": "Городской водопровод",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "4bfd8527-6c55-4c21-b0ff-5841a82024cb",
@@ -2066,7 +2066,7 @@
   {
     "id": "e9f4dcab-afb4-4f08-8ff9-c0dc9f983582",
     "en": "Martin",
-    "ru": "мартин",
+    "ru": "Мартин",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "9fc27c19-9253-4d2d-a450-aace894bd813",
@@ -2102,7 +2102,7 @@
   {
     "id": "632ace14-5ad3-4f8c-8e91-f94b6628e07f",
     "en": "Morne Jacques",
-    "ru": "морн жак",
+    "ru": "Морн жак",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "9fc27c19-9253-4d2d-a450-aace894bd813",
@@ -2186,7 +2186,7 @@
   {
     "id": "b2dd0e51-8316-446a-9f83-3f51c5815b91",
     "en": "River Doree",
-    "ru": "река дори",
+    "ru": "Река дори",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "9fc27c19-9253-4d2d-a450-aace894bd813",
@@ -2666,7 +2666,7 @@
   {
     "id": "913db7f8-c4b1-4683-af6b-5505ef3e774b",
     "en": "Morne Panache",
-    "ru": "морн паначе",
+    "ru": "Морн паначе",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "d146637f-afad-4be1-a53d-fb4761d38e5e",
@@ -3050,7 +3050,7 @@
   {
     "id": "95bf0edf-e0e7-42fb-90fb-de57d3b2191c",
     "en": "Dauphin",
-    "ru": "дофин",
+    "ru": "Дофин",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "f1e385d1-2d1f-43bb-805e-78dab274cae4",
@@ -3566,7 +3566,7 @@
   {
     "id": "36a856c1-b213-4a8d-8d92-3212d7e20266",
     "en": "Monier",
-    "ru": "монье",
+    "ru": "Монье",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "f1e385d1-2d1f-43bb-805e-78dab274cae4",
@@ -3578,7 +3578,7 @@
   {
     "id": "6a4c3e8f-17d2-454d-8186-0149ad05ee4e",
     "en": "Morne Citon",
-    "ru": "морн цитон",
+    "ru": "Морн цитон",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "f1e385d1-2d1f-43bb-805e-78dab274cae4",
@@ -3614,7 +3614,7 @@
   {
     "id": "ce1ab135-d399-40d0-bb30-6b61b02ada85",
     "en": "Plateau",
-    "ru": "городское плато",
+    "ru": "Городское плато",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "f1e385d1-2d1f-43bb-805e-78dab274cae4",
@@ -3686,7 +3686,7 @@
   {
     "id": "8c2f0168-35e4-455b-9dbb-4badb0ea6c59",
     "en": "Union",
-    "ru": "городской союз",
+    "ru": "Городской союз",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "f1e385d1-2d1f-43bb-805e-78dab274cae4",
@@ -3710,7 +3710,7 @@
   {
     "id": "8472a43b-4113-47e5-8a08-88a497244317",
     "en": "Union/Ti Morne",
-    "ru": "союз / ти морн",
+    "ru": "Союз / ти морн",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "f1e385d1-2d1f-43bb-805e-78dab274cae4",
@@ -3926,7 +3926,7 @@
   {
     "id": "4c474aa7-8d04-4c92-b23f-3d3cdcd1b6ac",
     "en": "Laborie",
-    "ru": "лейборист",
+    "ru": "Лейборист",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "70959f79-6349-4e4a-af79-fa9711727d6c",
@@ -3950,7 +3950,7 @@
   {
     "id": "ccc985ba-ba6b-488f-85cf-cd5e96c9531d",
     "en": "Macdomel",
-    "ru": "макдомель",
+    "ru": "Макдомель",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "70959f79-6349-4e4a-af79-fa9711727d6c",
@@ -3998,7 +3998,7 @@
   {
     "id": "2ba56957-ea87-479e-851d-8ffd33f4ca42",
     "en": "Parc Estate",
-    "ru": "городской парк усадьба",
+    "ru": "Городской парк усадьба",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "70959f79-6349-4e4a-af79-fa9711727d6c",
@@ -4238,7 +4238,7 @@
   {
     "id": "d265407a-1039-4d71-989f-ac93876fd4a4",
     "en": "Fond Estate",
-    "ru": "городской фонд недвижимости",
+    "ru": "Городской фонд недвижимости",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "7aeb06af-c905-4701-91f3-e0ff811249f8",
@@ -4286,7 +4286,7 @@
   {
     "id": "20aad19a-af8f-4d4d-97af-afda624a23c1",
     "en": "Honeymoon Beach",
-    "ru": "медовый месяц пляж",
+    "ru": "Медовый месяц пляж",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "7aeb06af-c905-4701-91f3-e0ff811249f8",
@@ -4358,7 +4358,7 @@
   {
     "id": "175cafc5-b63d-4b06-8e14-b1b051809972",
     "en": "Lombard",
-    "ru": "ломбард",
+    "ru": "Ломбард",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "7aeb06af-c905-4701-91f3-e0ff811249f8",
@@ -4370,7 +4370,7 @@
   {
     "id": "c8d21e4b-fbee-4823-90b5-ac473ca43b4b",
     "en": "Mahaut",
-    "ru": "махаут",
+    "ru": "Махаут",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "7aeb06af-c905-4701-91f3-e0ff811249f8",
@@ -4418,7 +4418,7 @@
   {
     "id": "e817918c-19b4-45d2-8a24-ffdc91ea44ae",
     "en": "Mon Repos",
-    "ru": "пн репо",
+    "ru": "Пн репо",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "7aeb06af-c905-4701-91f3-e0ff811249f8",
@@ -4802,7 +4802,7 @@
   {
     "id": "df4b2d93-4754-47f0-9174-cb4ebb73f201",
     "en": "Compar",
-    "ru": "сравнительный",
+    "ru": "Сравнительный",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -4898,7 +4898,7 @@
   {
     "id": "b314caa5-cf83-4bce-b74d-7caa8dbf8098",
     "en": "Fond Doux",
-    "ru": "фонд ду",
+    "ru": "Фонд ду",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -4994,7 +4994,7 @@
   {
     "id": "bc0f7e2e-b137-43e7-a47c-ea98fb2e872a",
     "en": "Mocha",
-    "ru": "мокко",
+    "ru": "Мокко",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -5006,7 +5006,7 @@
   {
     "id": "9ed5539f-e9ea-4281-a337-94ddba744ccd",
     "en": "Morne Bonin",
-    "ru": "морн бонин",
+    "ru": "Морн бонин",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -5066,7 +5066,7 @@
   {
     "id": "8c431dbb-7687-4524-a9ac-cfc96072a818",
     "en": "Plat Pays",
-    "ru": "плат платит",
+    "ru": "Плат платит",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -5078,7 +5078,7 @@
   {
     "id": "20790c6e-afc2-4f97-8bee-28dee3695781",
     "en": "Rabot",
-    "ru": "работ",
+    "ru": "Работ",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -5090,7 +5090,7 @@
   {
     "id": "d10abd68-01e3-4ef8-9d56-8f7e75fda1d9",
     "en": "Ravine Claire",
-    "ru": "овраг клэр",
+    "ru": "Овраг клэр",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -5222,7 +5222,7 @@
   {
     "id": "ed96fe08-dcf1-4cda-968f-1b25d7d6009c",
     "en": "Union Vale",
-    "ru": "союз долины",
+    "ru": "Союз долины",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "6f9fe01a-7b75-4786-9a90-c1912857f30c",
@@ -5354,7 +5354,7 @@
   {
     "id": "dc9f663e-78c0-422e-95f5-8e7d1988052f",
     "en": "Catin",
-    "ru": "катин",
+    "ru": "Катин",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "59b85e1f-015c-44dc-b090-15c329d2bea5",
@@ -5366,7 +5366,7 @@
   {
     "id": "5985541c-b58e-4a31-8fbc-3e868f071e0a",
     "en": "Cocoa Dan",
-    "ru": "какао дан",
+    "ru": "Какао дан",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "59b85e1f-015c-44dc-b090-15c329d2bea5",
@@ -5390,7 +5390,7 @@
   {
     "id": "f5c21a98-6fe6-40aa-a3c5-e185272efb9c",
     "en": "De Mailly",
-    "ru": "де майли",
+    "ru": "Де майли",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "59b85e1f-015c-44dc-b090-15c329d2bea5",
@@ -5486,7 +5486,7 @@
   {
     "id": "f50c1338-cdca-46a9-afc9-e02bdfebc7b0",
     "en": "Fond Sabot",
-    "ru": "фонд сабо",
+    "ru": "Фонд сабо",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "59b85e1f-015c-44dc-b090-15c329d2bea5",
@@ -5594,7 +5594,7 @@
   {
     "id": "8f849fe6-d2c9-445a-980b-cd766f9c1390",
     "en": "Maganier",
-    "ru": "маганье",
+    "ru": "Маганье",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "59b85e1f-015c-44dc-b090-15c329d2bea5",
@@ -5606,7 +5606,7 @@
   {
     "id": "d09d105d-308d-4484-a984-efce3b5041be",
     "en": "Morne Cayenne",
-    "ru": "морн кайен",
+    "ru": "Морн кайен",
     "country": "d64f88cc-1e00-4a43-9dba-cabd8d25a8af",
     "countryCode": "LC",
     "state": "59b85e1f-015c-44dc-b090-15c329d2bea5",

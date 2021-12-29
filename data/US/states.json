@@ -98,7 +98,7 @@
   {
     "id": "a1ec8d55-cbfd-41e4-8a65-e73da2b4335d",
     "en": "Georgia",
-    "ru": "грузия",
+    "ru": "Грузия",
     "country": "53898c57-34e4-43ff-982e-c68bf6fcdf99",
     "countryCode": "US",
     "stateCode": "GA"
@@ -162,7 +162,7 @@
   {
     "id": "e4b4b0cd-0afd-44a9-a229-3cfe4e6bfc1c",
     "en": "Jarvis Island",
-    "ru": "остров Джарвис",
+    "ru": "Остров Джарвис",
     "country": "53898c57-34e4-43ff-982e-c68bf6fcdf99",
     "countryCode": "US",
     "stateCode": "UM-86"
@@ -242,7 +242,7 @@
   {
     "id": "e84a01e1-e73e-4170-a9c0-f5f5efa8e188",
     "en": "Midway Atoll",
-    "ru": "атолл атолл",
+    "ru": "Атолл атолл",
     "country": "53898c57-34e4-43ff-982e-c68bf6fcdf99",
     "countryCode": "US",
     "stateCode": "UM-71"
@@ -282,7 +282,7 @@
   {
     "id": "7823406d-5562-4955-bb9e-aa9c90c0de65",
     "en": "Navassa Island",
-    "ru": "остров Навасса",
+    "ru": "Остров Навасса",
     "country": "53898c57-34e4-43ff-982e-c68bf6fcdf99",
     "countryCode": "US",
     "stateCode": "UM-76"

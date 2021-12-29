@@ -2,7 +2,7 @@
   {
     "id": "9acbe30e-1b87-4ef4-936b-689368582f2b",
     "en": "Akkar Governorate",
-    "ru": "губерния Аккар",
+    "ru": "Губерния Аккар",
     "country": "09c80d34-2311-4631-903e-1cec4481a8e6",
     "countryCode": "LB",
     "stateCode": "AK"
@@ -26,7 +26,7 @@
   {
     "id": "0ff85912-e688-4eba-b7b1-db3d4fe289dc",
     "en": "Beqaa Governorate",
-    "ru": "провинция Бекаа",
+    "ru": "Провинция Бекаа",
     "country": "09c80d34-2311-4631-903e-1cec4481a8e6",
     "countryCode": "LB",
     "stateCode": "BI"
@@ -42,7 +42,7 @@
   {
     "id": "0a6944fc-527f-4083-a67f-50d345ef92a6",
     "en": "Nabatieh Governorate",
-    "ru": "губерния Набатие",
+    "ru": "Губерния Набатие",
     "country": "09c80d34-2311-4631-903e-1cec4481a8e6",
     "countryCode": "LB",
     "stateCode": "NA"
@@ -58,7 +58,7 @@
   {
     "id": "7e5068e7-8ec4-4fef-9b45-c813b106a96a",
     "en": "South Governorate",
-    "ru": "южная мухафаза",
+    "ru": "Южная мухафаза",
     "country": "09c80d34-2311-4631-903e-1cec4481a8e6",
     "countryCode": "LB",
     "stateCode": "JA"

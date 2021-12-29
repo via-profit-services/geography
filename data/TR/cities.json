@@ -242,7 +242,7 @@
   {
     "id": "0a2ad721-cf58-4ea7-aa66-4fa0c26fe5da",
     "en": "Feke",
-    "ru": "феке",
+    "ru": "Феке",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "60a413cb-9e00-425b-9315-0ca847fb3f5e",
@@ -326,7 +326,7 @@
   {
     "id": "67ee3428-8c13-4a0e-a544-72fb8dc74612",
     "en": "Seyhan",
-    "ru": "сейхан",
+    "ru": "Сейхан",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "60a413cb-9e00-425b-9315-0ca847fb3f5e",
@@ -806,7 +806,7 @@
   {
     "id": "cd558dbf-e085-4660-9439-c88332b9e79a",
     "en": "Dinar",
-    "ru": "динар",
+    "ru": "Динар",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "62f81767-4b29-4222-a251-89bbc847a199",
@@ -2354,7 +2354,7 @@
   {
     "id": "eb8d67a6-8434-4989-a473-d883bd36a246",
     "en": "Side",
-    "ru": "городская сторона",
+    "ru": "Городская сторона",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "3ceae1d7-d94c-481f-9a6e-5bf95bddabf0",
@@ -2690,7 +2690,7 @@
   {
     "id": "099cfbe2-0d80-41d5-908a-70496e00c1e4",
     "en": "Seyitler",
-    "ru": "сейитлер",
+    "ru": "Сейитлер",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "3aca3522-e046-43bc-a8e3-b726fcc16eea",
@@ -9698,7 +9698,7 @@
   {
     "id": "5a6e9637-b7f0-49a8-85b3-6bf2bbf0f6d2",
     "en": "Tercan",
-    "ru": "теркан",
+    "ru": "Теркан",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "19e1680d-c95d-4b27-9b2f-06ae3777a284",
@@ -9950,7 +9950,7 @@
   {
     "id": "452bcc9a-9138-478c-b879-982e17563ebb",
     "en": "Narman",
-    "ru": "нарман",
+    "ru": "Нарман",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "90b764df-3927-49e0-be7b-3f5fb2b665ae",
@@ -10166,7 +10166,7 @@
   {
     "id": "ad16d641-9a7d-44c7-a17b-421f1d5dad75",
     "en": "Alpu",
-    "ru": "альпу",
+    "ru": "Альпу",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "cccccb69-03c6-426c-bf2c-50e8519ed718",
@@ -10478,7 +10478,7 @@
   {
     "id": "b380b10d-9472-44fa-9f07-63187b3d76ea",
     "en": "Araban",
-    "ru": "арабский",
+    "ru": "Арабский",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "f003eb53-9d7a-47c0-8a03-1a5b9fa74602",
@@ -12086,7 +12086,7 @@
   {
     "id": "8c36f9b2-002e-45ed-9625-127a7de20d2a",
     "en": "Pavlu Cebel",
-    "ru": "павлу цебель",
+    "ru": "Павлу цебель",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "e5ba18e9-b274-489c-adfc-32355d943f3f",
@@ -12638,7 +12638,7 @@
   {
     "id": "cdd208ad-d724-4bf9-a6fe-6a30e50f3861",
     "en": "güngören merter",
-    "ru": "гюнгерен мертер",
+    "ru": "Гюнгерен мертер",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "31ae7bb7-e21e-498d-bb5f-a49eedfb391b",
@@ -16790,7 +16790,7 @@
   {
     "id": "3ba7e2c6-a5f1-4f77-b4de-99699c1e17ee",
     "en": "Kula",
-    "ru": "кула",
+    "ru": "Кула",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "b1858902-0a90-4c9d-b2ef-e3dcb10175d6",
@@ -17642,7 +17642,7 @@
   {
     "id": "aeb50bad-734b-4076-aa87-51f4ad452ca0",
     "en": "Selah",
-    "ru": "села",
+    "ru": "Села",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "88c5f3f4-34b8-4d9b-970e-a0d409ff94d7",
@@ -19802,7 +19802,7 @@
   {
     "id": "78702dcc-7bbb-4099-9c5b-dfde3e6f1515",
     "en": "Sapanca",
-    "ru": "сапанка",
+    "ru": "Сапанка",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "b9b130f6-f7a0-4b63-ac8c-9e5e2048d397",
@@ -20066,7 +20066,7 @@
   {
     "id": "dbcb0b73-49e6-4221-9d6e-5b207e97d43b",
     "en": "Ladik",
-    "ru": "ладик",
+    "ru": "Ладик",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "770aa919-5ae1-495d-a521-ff7796873159",
@@ -20774,7 +20774,7 @@
   {
     "id": "bd19e007-d723-4a99-a8ac-a3b45771a879",
     "en": "Hafik",
-    "ru": "хафик",
+    "ru": "Хафик",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "d2d32e18-6990-4ae9-b3a1-ae69bd623a87",
@@ -21626,7 +21626,7 @@
   {
     "id": "dcf3cbde-4737-4e26-8a19-6906472e7013",
     "en": "Of",
-    "ru": "город, в котором",
+    "ru": "Город, в котором",
     "country": "6e16e5fe-305c-4df1-8743-8fe8d42b8ac2",
     "countryCode": "TR",
     "state": "26292fb3-8f0e-4caf-8d2c-3d89be61cb2d",

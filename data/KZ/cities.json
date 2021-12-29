@@ -1380,6 +1380,18 @@
     "timezone": "Asia/Almaty"
   },
   {
+    "id": "828ff619-9212-457e-99d7-6db1fa82cfd5",
+    "en": "Shymkent",
+    "ru": "Шымкент",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "state": "21e51c86-3cbd-4593-a4f6-47a82fc6d902",
+    "stateCode": "ZHA",
+    "latitude": "42.31551400",
+    "longitude": "69.58691600",
+    "timezone": "Asia/Almaty"
+  },
+  {
     "id": "f10d5606-9b9b-4fd4-ae09-1b85b3615fd1",
     "en": "Zhangatas",
     "ru": "Жангатас",

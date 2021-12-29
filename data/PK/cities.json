@@ -1430,7 +1430,7 @@
   {
     "id": "1c476903-e8f2-4762-af5a-993c94ed7e20",
     "en": "Tank",
-    "ru": "танк",
+    "ru": "Танк",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "e3777acb-bd6f-4da1-ac58-1a7fa4dfa310",
@@ -2318,7 +2318,7 @@
   {
     "id": "844fd8a9-0cf7-4954-a38b-785f42258874",
     "en": "Hujra Shah Muqim",
-    "ru": "худжра шах муким",
+    "ru": "Худжра шах муким",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "87adbbe9-49d4-4a60-bdb9-6a44f32e0652",
@@ -2330,7 +2330,7 @@
   {
     "id": "0c8dd5b4-615f-4101-8ed4-c3edb0324892",
     "en": "Jahanian Shah",
-    "ru": "джахан шах",
+    "ru": "Джахан шах",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "87adbbe9-49d4-4a60-bdb9-6a44f32e0652",
@@ -2654,7 +2654,7 @@
   {
     "id": "0b421c25-1fdb-42d7-949a-f76c5a49b17d",
     "en": "Karor",
-    "ru": "карор",
+    "ru": "Карор",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "87adbbe9-49d4-4a60-bdb9-6a44f32e0652",
@@ -3686,7 +3686,7 @@
   {
     "id": "ca7ee756-3e24-4ac7-828f-39bff0236a5c",
     "en": "Shahr Sultan",
-    "ru": "шахр султан",
+    "ru": "Шахр султан",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "87adbbe9-49d4-4a60-bdb9-6a44f32e0652",
@@ -3866,7 +3866,7 @@
   {
     "id": "b59047fd-9fd0-43cf-a80f-35724cbe7706",
     "en": "Vihari",
-    "ru": "вихари",
+    "ru": "Вихари",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "87adbbe9-49d4-4a60-bdb9-6a44f32e0652",
@@ -4058,7 +4058,7 @@
   {
     "id": "e95eaba9-da74-4368-afbd-84b9bb458664",
     "en": "Chamber",
-    "ru": "городская палата",
+    "ru": "Городская палата",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "b045894c-1eb8-413c-8b9b-82d1f58ff958",
@@ -4178,7 +4178,7 @@
   {
     "id": "bc64575d-aa3c-466f-9ab5-3fecd4527c97",
     "en": "Diplo",
-    "ru": "городской дипломат",
+    "ru": "Городской дипломат",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "b045894c-1eb8-413c-8b9b-82d1f58ff958",
@@ -4190,7 +4190,7 @@
   {
     "id": "b677a19c-6990-44c3-974b-e2bd3f0765af",
     "en": "Dokri",
-    "ru": "докри",
+    "ru": "Докри",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "b045894c-1eb8-413c-8b9b-82d1f58ff958",
@@ -4898,7 +4898,7 @@
   {
     "id": "dae9b0b1-9cad-46dd-b107-7b71c4330ca1",
     "en": "Pad Idan",
-    "ru": "пад идан",
+    "ru": "Пад идан",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "b045894c-1eb8-413c-8b9b-82d1f58ff958",
@@ -5342,7 +5342,7 @@
   {
     "id": "45be38f2-e050-4a96-af19-91353c660556",
     "en": "Warah",
-    "ru": "вара",
+    "ru": "Вара",
     "country": "b830dd1c-66ac-4e6e-8906-5386e9f17b23",
     "countryCode": "PK",
     "state": "b045894c-1eb8-413c-8b9b-82d1f58ff958",

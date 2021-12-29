@@ -26,7 +26,7 @@
   {
     "id": "e19d77d7-06a4-4f5e-83f6-d701eb1b9110",
     "en": "Košice Region",
-    "ru": "край Кошицкий край",
+    "ru": "Край Кошицкий край",
     "country": "15c54ec6-c88e-4349-b9cf-f0d004781994",
     "countryCode": "SK",
     "stateCode": "KI"
@@ -34,7 +34,7 @@
   {
     "id": "f7c4c848-8039-4900-9a1e-90d8ec805db2",
     "en": "Nitra Region",
-    "ru": "нитра область",
+    "ru": "Нитра область",
     "country": "15c54ec6-c88e-4349-b9cf-f0d004781994",
     "countryCode": "SK",
     "stateCode": "NI"
@@ -50,7 +50,7 @@
   {
     "id": "cebeeca1-859b-4051-911e-a4683b6330cb",
     "en": "Trenčín Region",
-    "ru": "край Тренчинский край",
+    "ru": "Край Тренчинский край",
     "country": "15c54ec6-c88e-4349-b9cf-f0d004781994",
     "countryCode": "SK",
     "stateCode": "TC"

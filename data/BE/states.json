@@ -34,7 +34,7 @@
   {
     "id": "4ee589fc-577f-4d78-8d7a-70112f2f0210",
     "en": "Flemish Brabant",
-    "ru": "фламандский брабант",
+    "ru": "Фламандский брабант",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "stateCode": "VBR"
@@ -90,7 +90,7 @@
   {
     "id": "a831c6b6-64ea-4b3a-884c-8fc02560778a",
     "en": "Walloon Brabant",
-    "ru": "валлонский брабант",
+    "ru": "Валлонский брабант",
     "country": "6bdc591e-5fc7-4608-88bc-14938ccb173e",
     "countryCode": "BE",
     "stateCode": "WBR"

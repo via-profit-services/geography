@@ -782,7 +782,7 @@
   {
     "id": "7ae1cd03-fe9d-4fdb-843b-62584a01d0b4",
     "en": "Archway",
-    "ru": "городская арка",
+    "ru": "Городская арка",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -1562,7 +1562,7 @@
   {
     "id": "eb278230-7124-4fb1-9344-3dd9bd479166",
     "en": "Banks",
-    "ru": "городские банки",
+    "ru": "Городские банки",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -2090,7 +2090,7 @@
   {
     "id": "6a2e6ef8-c881-49ae-afcc-6f422ede0f3e",
     "en": "Bath",
-    "ru": "городская баня",
+    "ru": "Городская баня",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -2162,7 +2162,7 @@
   {
     "id": "e5fda9a3-3834-4665-838c-6d12028b9cc9",
     "en": "Bay Horse",
-    "ru": "бухта лошадь",
+    "ru": "Бухта лошадь",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3014,7 +3014,7 @@
   {
     "id": "dcc3fb6c-64e4-4d52-b55a-d05f0748d77d",
     "en": "Bishop Auckland",
-    "ru": "епископ Окленд",
+    "ru": "Епископ Окленд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3026,7 +3026,7 @@
   {
     "id": "4aa5f0b7-ba62-4acc-b983-7e7accac2cab",
     "en": "Bishop Middleham",
-    "ru": "епископ Мидлхем",
+    "ru": "Епископ Мидлхем",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3038,7 +3038,7 @@
   {
     "id": "8daa9f29-5f25-47dc-816d-a8dc7d73e085",
     "en": "Bishop Sutton",
-    "ru": "епископ Саттон",
+    "ru": "Епископ Саттон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3050,7 +3050,7 @@
   {
     "id": "e32e4b20-c186-404c-9e84-566789b3eecb",
     "en": "Bishop's Castle",
-    "ru": "городской епископский замок",
+    "ru": "Городской епископский замок",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3062,7 +3062,7 @@
   {
     "id": "9c36d7ae-d85a-4dcc-9813-93dcbc65f11b",
     "en": "Bishops Cleeve",
-    "ru": "епископы города Клив",
+    "ru": "Епископы города Клив",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3074,7 +3074,7 @@
   {
     "id": "be09eeb3-6d53-4ad5-bef3-d69570aa6661",
     "en": "Bishops Lydeard",
-    "ru": "епископов Lydeard",
+    "ru": "Епископов Lydeard",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3086,7 +3086,7 @@
   {
     "id": "969a2f1e-6f1b-4aac-bd58-1eaf71ccf556",
     "en": "Bishops Stortford",
-    "ru": "епископы Стортфорд",
+    "ru": "Епископы Стортфорд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3098,7 +3098,7 @@
   {
     "id": "275edbe2-ae78-4a22-91f8-3dd02bab3e14",
     "en": "Bishops Waltham",
-    "ru": "епископов Уолтем",
+    "ru": "Епископов Уолтем",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3134,7 +3134,7 @@
   {
     "id": "726bce56-d3f0-4144-9532-c1af60f941ac",
     "en": "Bishopstone",
-    "ru": "епископ",
+    "ru": "Епископ",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -3158,7 +3158,7 @@
   {
     "id": "07734465-331a-4575-9d38-e9a0c37468cc",
     "en": "Bishopthorpe",
-    "ru": "епископ",
+    "ru": "Епископ",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -4070,7 +4070,7 @@
   {
     "id": "c0f4327f-088f-4612-a744-0c039154bf2a",
     "en": "Bow",
-    "ru": "городской лук",
+    "ru": "Городской лук",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -4130,7 +4130,7 @@
   {
     "id": "f69c0e11-2ee6-4eda-be5a-258c77129bc3",
     "en": "Box",
-    "ru": "городской ящик",
+    "ru": "Городской ящик",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -4154,7 +4154,7 @@
   {
     "id": "8db30f8f-b02e-4e2f-af27-31a4497d78db",
     "en": "Boxted",
-    "ru": "в штучной упаковке",
+    "ru": "В штучной упаковке",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -4490,7 +4490,7 @@
   {
     "id": "e887fa56-2497-4a1c-a72a-5cd88da0e63e",
     "en": "Bream",
-    "ru": "лещ",
+    "ru": "Лещ",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -4586,7 +4586,7 @@
   {
     "id": "4b0aa93d-43d4-4f8e-a7f1-7ca0c4168ab2",
     "en": "Brewood",
-    "ru": "пивоварение",
+    "ru": "Пивоварение",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -4598,7 +4598,7 @@
   {
     "id": "6e011abd-f0a3-41a7-8e9d-99e1710e8a7e",
     "en": "Bridge",
-    "ru": "городской мост",
+    "ru": "Городской мост",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -5882,7 +5882,7 @@
   {
     "id": "1a46c12f-e43c-4895-af9f-bd375c5c23d5",
     "en": "Caistor",
-    "ru": "каистор",
+    "ru": "Каистор",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -5990,7 +5990,7 @@
   {
     "id": "44989a2e-d98a-4c39-aca2-51bce3f1c91a",
     "en": "Camborne",
-    "ru": "камборн",
+    "ru": "Камборн",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -6002,7 +6002,7 @@
   {
     "id": "32bd2ee8-aa7d-4e8a-a349-562683709034",
     "en": "Cambourne",
-    "ru": "камборн",
+    "ru": "Камборн",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -6386,7 +6386,7 @@
   {
     "id": "1a368fbe-f079-4ad8-b193-e48e355a3603",
     "en": "Caton",
-    "ru": "катон",
+    "ru": "Катон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -6422,7 +6422,7 @@
   {
     "id": "0c3a2501-e5f7-4e1b-8525-3e519d1c99b8",
     "en": "Catterick Garrison",
-    "ru": "катерик гарнизон",
+    "ru": "Катерик гарнизон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -6614,7 +6614,7 @@
   {
     "id": "c64176d0-3b63-4232-91a4-2761822cb15f",
     "en": "Chapel Allerton",
-    "ru": "часовня аллертон",
+    "ru": "Часовня аллертон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -6626,7 +6626,7 @@
   {
     "id": "99d8ce2f-3e46-4f19-a930-528168d8db65",
     "en": "Chapel en le Frith",
-    "ru": "городская часовня ан ле Фрит",
+    "ru": "Городская часовня ан ле Фрит",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7154,7 +7154,7 @@
   {
     "id": "6a1433ca-bbec-4db3-997c-a6747c7aba56",
     "en": "Chicksands",
-    "ru": "цыплят",
+    "ru": "Цыплят",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7490,7 +7490,7 @@
   {
     "id": "37d8ad7e-ed8d-4f95-8edd-e6eb8ee1d5ee",
     "en": "Church",
-    "ru": "городская церковь",
+    "ru": "Городская церковь",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7502,7 +7502,7 @@
   {
     "id": "86adc912-e1ea-4398-bb23-8ddd14f1a695",
     "en": "Church Fenton",
-    "ru": "городская церковь Фентон",
+    "ru": "Городская церковь Фентон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7514,7 +7514,7 @@
   {
     "id": "a3fa4194-4538-40f8-b79e-5e5ee6e80fc8",
     "en": "Church Stretton",
-    "ru": "городская церковь Стреттон",
+    "ru": "Городская церковь Стреттон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7634,7 +7634,7 @@
   {
     "id": "aac3bfa5-2d3e-421d-89ac-51d8cc0809b4",
     "en": "City of Bristol",
-    "ru": "город бристоль",
+    "ru": "Город бристоль",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7670,7 +7670,7 @@
   {
     "id": "db9450e6-08ba-419c-9d25-f44afe1a0314",
     "en": "City of London",
-    "ru": "лондон",
+    "ru": "Лондон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7694,7 +7694,7 @@
   {
     "id": "7de0a164-7666-4f02-9454-6f24238fdd9f",
     "en": "City of York",
-    "ru": "город йорк",
+    "ru": "Город йорк",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7742,7 +7742,7 @@
   {
     "id": "d89196e2-c404-441a-a9bb-600a91122bbb",
     "en": "Clare",
-    "ru": "клэр",
+    "ru": "Клэр",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7958,7 +7958,7 @@
   {
     "id": "bd713196-6cf2-49b9-a456-e519d6ad5eff",
     "en": "Clophill",
-    "ru": "клофилл",
+    "ru": "Клофилл",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7970,7 +7970,7 @@
   {
     "id": "4c6fe0d8-e56e-48b4-b26e-d379f38d1917",
     "en": "Clowne",
-    "ru": "клоун",
+    "ru": "Клоун",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -7982,7 +7982,7 @@
   {
     "id": "b53112d9-60b2-4537-8f05-6e0d6eeb0158",
     "en": "Clutton",
-    "ru": "клаттон",
+    "ru": "Клаттон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -8030,7 +8030,7 @@
   {
     "id": "fb270af5-594b-46b5-bccb-8a5bd5702453",
     "en": "Cockermouth",
-    "ru": "кокермут",
+    "ru": "Кокермут",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -8714,7 +8714,7 @@
   {
     "id": "22bd9487-77fb-4268-ad50-716cc735498b",
     "en": "County Durham",
-    "ru": "графство Дарем",
+    "ru": "Графство Дарем",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -9374,7 +9374,7 @@
   {
     "id": "ca772bdf-acd5-4306-b902-fbd983ca7781",
     "en": "Curry Rivel",
-    "ru": "карри ривель",
+    "ru": "Карри ривель",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -10022,7 +10022,7 @@
   {
     "id": "d10ff8d1-371a-4b2d-b300-1eb03c86c3e7",
     "en": "District of Rutland",
-    "ru": "городской округ Ратленд",
+    "ru": "Городской округ Ратленд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -10106,7 +10106,7 @@
   {
     "id": "f13a8ee9-b4bc-4da4-bf63-73d70f8d82b9",
     "en": "Doncaster",
-    "ru": "донкастер",
+    "ru": "Донкастер",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -10226,7 +10226,7 @@
   {
     "id": "5f385247-2152-4416-b7df-11c9ffd0e353",
     "en": "Dove Holes",
-    "ru": "голубь дыры",
+    "ru": "Голубь дыры",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -10262,7 +10262,7 @@
   {
     "id": "a52c8b00-3b9f-4fc6-bc65-ae99956e5c3f",
     "en": "Doveridge",
-    "ru": "давридж",
+    "ru": "Давридж",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -11918,7 +11918,7 @@
   {
     "id": "f287ff17-1a2d-490d-bda6-c0f85fc421bc",
     "en": "Eye",
-    "ru": "городской глаз",
+    "ru": "Городской глаз",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -12194,7 +12194,7 @@
   {
     "id": "18ddc243-af84-45a4-9ecb-3ea384d64a94",
     "en": "Felling",
-    "ru": "сруб города",
+    "ru": "Сруб города",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -12290,7 +12290,7 @@
   {
     "id": "9e21594c-b39e-40d9-8666-9e98b61e61c7",
     "en": "Ferrybridge",
-    "ru": "паромный мост",
+    "ru": "Паромный мост",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -12314,7 +12314,7 @@
   {
     "id": "a861ab16-6c7f-41c8-aff2-d3bb53f004f5",
     "en": "Filey",
-    "ru": "филей",
+    "ru": "Филей",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -12458,7 +12458,7 @@
   {
     "id": "e107b4e9-3ed6-4baf-b3ce-12aaeed9858e",
     "en": "Fleet",
-    "ru": "городской флот",
+    "ru": "Городской флот",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -12698,7 +12698,7 @@
   {
     "id": "3c1225d6-41b7-414a-a049-183815aca175",
     "en": "Four Marks",
-    "ru": "четыре знака",
+    "ru": "Четыре знака",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -12854,7 +12854,7 @@
   {
     "id": "836324e3-5753-478f-9ecf-dfc16ad1d0fc",
     "en": "Frome",
-    "ru": "фром",
+    "ru": "Фром",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -14114,7 +14114,7 @@
   {
     "id": "0531a4e3-7708-419b-83d7-7413ccb01ebc",
     "en": "Grove",
-    "ru": "роща",
+    "ru": "Роща",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -14378,7 +14378,7 @@
   {
     "id": "f50292f5-5ba6-4f47-9276-8390044d7a7c",
     "en": "Halling",
-    "ru": "мэрия",
+    "ru": "Мэрия",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -14726,7 +14726,7 @@
   {
     "id": "3215ce6a-efd9-4b5d-a12f-3ba2f2aea734",
     "en": "Harrow on the Hill",
-    "ru": "борона на холме",
+    "ru": "Борона на холме",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -14798,7 +14798,7 @@
   {
     "id": "77609057-a349-47e5-abf9-7bbe37838e29",
     "en": "Hartley Wintney",
-    "ru": "хартли уинтни",
+    "ru": "Хартли уинтни",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -14906,7 +14906,7 @@
   {
     "id": "a934594d-6613-494b-89ba-c8bfc84dc38e",
     "en": "Hassocks",
-    "ru": "городские хаски",
+    "ru": "Городские хаски",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -15146,7 +15146,7 @@
   {
     "id": "8bf1c835-2308-4922-ac0e-3e305699d8bc",
     "en": "Haxey",
-    "ru": "хакси",
+    "ru": "Хакси",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -15446,7 +15446,7 @@
   {
     "id": "3cb9dc79-2049-4f86-967c-c469c5b164e7",
     "en": "Heddon on the Wall",
-    "ru": "хеддон на стене",
+    "ru": "Хеддон на стене",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -15470,7 +15470,7 @@
   {
     "id": "5a4631ad-b7b0-44cd-a17a-7c1c5b65f0bf",
     "en": "Hedon",
-    "ru": "хедон",
+    "ru": "Хедон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -15722,7 +15722,7 @@
   {
     "id": "e92312f4-905e-4bc1-8e97-d0c758136a94",
     "en": "Hermitage",
-    "ru": "городской Эрмитаж",
+    "ru": "Городской Эрмитаж",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -15734,7 +15734,7 @@
   {
     "id": "8c4f8201-ea8d-47d3-8b99-840076b19790",
     "en": "Herne Bay",
-    "ru": "херн бэй",
+    "ru": "Херн бэй",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -16010,7 +16010,7 @@
   {
     "id": "3f15d298-301c-4186-8f2a-24a2c6a8d4ab",
     "en": "Highley",
-    "ru": "хайли",
+    "ru": "Хайли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -16166,7 +16166,7 @@
   {
     "id": "27fe281b-25df-4ca5-a912-a71c64b95abf",
     "en": "Hockley",
-    "ru": "хоккей",
+    "ru": "Хоккей",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -17318,7 +17318,7 @@
   {
     "id": "1b907863-0ac2-4829-b9b6-fb35b46169fc",
     "en": "Isle of Wight",
-    "ru": "остров уайт",
+    "ru": "Остров уайт",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -18902,7 +18902,7 @@
   {
     "id": "e53ff7d5-e18e-4941-b3df-9c495323745e",
     "en": "Leek",
-    "ru": "порей",
+    "ru": "Порей",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -18962,7 +18962,7 @@
   {
     "id": "be656148-dc19-49b4-a810-4c4bcd54527f",
     "en": "Leighton Buzzard",
-    "ru": "лейтон канюк",
+    "ru": "Лейтон канюк",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -19082,7 +19082,7 @@
   {
     "id": "33e14ef0-b9ee-4d26-ac8a-d8adaa8c0648",
     "en": "Leyland",
-    "ru": "лейланд",
+    "ru": "Лейланд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -19106,7 +19106,7 @@
   {
     "id": "dda11870-d2ca-4da3-8a31-a26fbd65dc44",
     "en": "Lichfield",
-    "ru": "личфилд",
+    "ru": "Личфилд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -19562,7 +19562,7 @@
   {
     "id": "14e556ef-a0ec-4012-bef6-37ac5165a2ba",
     "en": "London",
-    "ru": "лондон",
+    "ru": "Лондон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -20342,7 +20342,7 @@
   {
     "id": "b673c36f-75ce-4492-bcb2-b3630ae5f898",
     "en": "Madeley",
-    "ru": "мадли",
+    "ru": "Мадли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -20366,7 +20366,7 @@
   {
     "id": "efeea0d4-0ce5-47df-8b4d-2281225457b4",
     "en": "Maiden Newton",
-    "ru": "девичья ньютон",
+    "ru": "Девичья ньютон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -20582,7 +20582,7 @@
   {
     "id": "f80dbc5f-3882-47d0-9d0f-849d49380203",
     "en": "Maple Cross",
-    "ru": "кленовый крест",
+    "ru": "Кленовый крест",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -20606,7 +20606,7 @@
   {
     "id": "2818d75e-3817-4fac-a343-d74c4b23b579",
     "en": "March",
-    "ru": "март",
+    "ru": "Март",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -21026,7 +21026,7 @@
   {
     "id": "b6b474ce-c2fc-4d8b-b557-fedf93f8e8a3",
     "en": "Mayland",
-    "ru": "майланд",
+    "ru": "Майланд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -21194,7 +21194,7 @@
   {
     "id": "c3ad82ae-08b3-4a80-9ef5-8e5c90c985d2",
     "en": "Mere",
-    "ru": "простой",
+    "ru": "Простой",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -21266,7 +21266,7 @@
   {
     "id": "42a5e882-c091-49f6-b236-1b2f670f6399",
     "en": "Metropolitan Borough of Wirral",
-    "ru": "митрополит Виррал",
+    "ru": "Митрополит Виррал",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -21722,7 +21722,7 @@
   {
     "id": "bf1336b7-8918-4b74-adaf-e714bad0bd70",
     "en": "Monk Fryston",
-    "ru": "монах фристон",
+    "ru": "Монах фристон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -21926,7 +21926,7 @@
   {
     "id": "cb48f756-a690-4f38-8173-12f7bbd8a303",
     "en": "Much Hadham",
-    "ru": "много хадхэм",
+    "ru": "Много хадхэм",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -21938,7 +21938,7 @@
   {
     "id": "4a9dc7f4-c6d3-47d4-b094-f6a387192227",
     "en": "Much Wenlock",
-    "ru": "много венлок",
+    "ru": "Много венлок",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -22754,7 +22754,7 @@
   {
     "id": "700e3e52-1b79-4078-9788-1caf8820e18b",
     "en": "North Leigh",
-    "ru": "северная ли",
+    "ru": "Северная ли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -22814,7 +22814,7 @@
   {
     "id": "a2a3f54f-bc49-4ea1-9f0a-c7e4a79fa61a",
     "en": "North Shields",
-    "ru": "северных щитов",
+    "ru": "Северных щитов",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -22862,7 +22862,7 @@
   {
     "id": "ea67f911-e7b1-49d0-b6a5-e6af9b6ddb7d",
     "en": "North Tawton",
-    "ru": "северный тавтон",
+    "ru": "Северный тавтон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -22886,7 +22886,7 @@
   {
     "id": "9c5b9f04-6847-4cd6-ba01-2def3c63645e",
     "en": "North Walsham",
-    "ru": "северный валшам",
+    "ru": "Северный валшам",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -22898,7 +22898,7 @@
   {
     "id": "a221e7c2-18ae-40b3-950d-18aa71d597c9",
     "en": "North Yorkshire",
-    "ru": "северный йоркшир",
+    "ru": "Северный йоркшир",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -23750,7 +23750,7 @@
   {
     "id": "f2085e6d-597e-459f-b315-d4721e6b89a3",
     "en": "Parkstone",
-    "ru": "паркстоун",
+    "ru": "Паркстоун",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -23786,7 +23786,7 @@
   {
     "id": "5769fe47-8ddb-46b4-9700-5fd3ddba723d",
     "en": "Pateley Bridge",
-    "ru": "мост патели",
+    "ru": "Мост патели",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -23858,7 +23858,7 @@
   {
     "id": "2815326e-e2ee-4976-962b-e9e09ee8ded1",
     "en": "Peaslake",
-    "ru": "горох",
+    "ru": "Горох",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -24674,7 +24674,7 @@
   {
     "id": "606a3e94-d31b-401d-806b-dc41e1517cbc",
     "en": "Princes Risborough",
-    "ru": "князей рисборо",
+    "ru": "Князей рисборо",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -25178,7 +25178,7 @@
   {
     "id": "20834953-3c30-48e5-9100-9471018a864d",
     "en": "Rayleigh",
-    "ru": "рэлей",
+    "ru": "Рэлей",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26006,7 +26006,7 @@
   {
     "id": "6caa117b-c9df-4f36-96ef-2935e00a0221",
     "en": "Rugby",
-    "ru": "регби",
+    "ru": "Регби",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26354,7 +26354,7 @@
   {
     "id": "cdb56ea7-2466-44ae-882f-f041689faec2",
     "en": "Sale",
-    "ru": "продажа города",
+    "ru": "Продажа города",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26498,7 +26498,7 @@
   {
     "id": "4365112a-d0b9-4711-aa52-6f8fd73ac166",
     "en": "Sandwich",
-    "ru": "сэндвич",
+    "ru": "Сэндвич",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26510,7 +26510,7 @@
   {
     "id": "6cda7da8-86bb-4b90-b589-67a811672c76",
     "en": "Sandy",
-    "ru": "песчаный",
+    "ru": "Песчаный",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26678,7 +26678,7 @@
   {
     "id": "2eb67653-d3c6-44bd-95fe-a3e4a9a6e6aa",
     "en": "Scorton",
-    "ru": "скортон",
+    "ru": "Скортон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26762,7 +26762,7 @@
   {
     "id": "b0421cae-475d-4f35-baa7-5cc88491a5ea",
     "en": "Seascale",
-    "ru": "морской пейзаж",
+    "ru": "Морской пейзаж",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26798,7 +26798,7 @@
   {
     "id": "4bbb5e04-d597-4708-bba2-e9b9256fdda1",
     "en": "Seaview",
-    "ru": "с видом на море",
+    "ru": "С видом на море",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26846,7 +26846,7 @@
   {
     "id": "a4ba742a-a007-4b08-8522-f0ad1d444b48",
     "en": "Seer Green",
-    "ru": "провидец грин",
+    "ru": "Провидец грин",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26906,7 +26906,7 @@
   {
     "id": "72a9e756-77b6-4a35-b040-1456088cc649",
     "en": "Send",
-    "ru": "отправить",
+    "ru": "Отправить",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -26918,7 +26918,7 @@
   {
     "id": "45d63ee9-6921-41b8-991d-824a443b2491",
     "en": "Settle",
-    "ru": "посёлок",
+    "ru": "Посёлок",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -27290,7 +27290,7 @@
   {
     "id": "fb640a25-82b2-45e7-9366-53c40e9529ce",
     "en": "Sheriff Hutton",
-    "ru": "шериф хаттон",
+    "ru": "Шериф хаттон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -27530,7 +27530,7 @@
   {
     "id": "69ad6cef-b063-4ea6-bcb2-c2d6897f31ce",
     "en": "Shortlands",
-    "ru": "шортлендс",
+    "ru": "Шортлендс",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -27674,7 +27674,7 @@
   {
     "id": "e104c669-232a-4c29-8a4c-7f7216a23387",
     "en": "Silkstone",
-    "ru": "шелк",
+    "ru": "Шелк",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -27926,7 +27926,7 @@
   {
     "id": "cac22f9f-bd52-4e64-9f7e-c38b7375953b",
     "en": "Sleights",
-    "ru": "слипитс",
+    "ru": "Слипитс",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -28070,7 +28070,7 @@
   {
     "id": "8dab5586-dcec-42df-a5e0-56c387648b84",
     "en": "Sonning Common",
-    "ru": "соннинг обыкновенный",
+    "ru": "Соннинг обыкновенный",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -28418,7 +28418,7 @@
   {
     "id": "08416e17-9f7a-4c31-a1f4-9c9dcea637f5",
     "en": "Southery",
-    "ru": "южный",
+    "ru": "Южный",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -28766,7 +28766,7 @@
   {
     "id": "34c3e531-50b8-464a-8bda-fa248e5c9953",
     "en": "Staffordshire",
-    "ru": "стаффордшир",
+    "ru": "Стаффордшир",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29246,7 +29246,7 @@
   {
     "id": "88737992-8a97-4dc4-aa68-a956199cf47b",
     "en": "Stithians",
-    "ru": "ститян",
+    "ru": "Ститян",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29258,7 +29258,7 @@
   {
     "id": "3117a0f0-29c1-4e15-8098-bb94100187a4",
     "en": "Stock",
-    "ru": "сток",
+    "ru": "Сток",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29354,7 +29354,7 @@
   {
     "id": "a11d14f2-974f-482a-b6d1-5cfec06bb4d3",
     "en": "Stoke Gabriel",
-    "ru": "сток гавриил",
+    "ru": "Сток гавриил",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29378,7 +29378,7 @@
   {
     "id": "c4da6370-e3b4-4d9c-9ca0-78047a3a9d9a",
     "en": "Stoke Golding",
-    "ru": "сток голдинг",
+    "ru": "Сток голдинг",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29414,7 +29414,7 @@
   {
     "id": "7fc03fa4-fe01-4676-8fc3-47516188f49f",
     "en": "Stoke Prior",
-    "ru": "сток приор",
+    "ru": "Сток приор",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29474,7 +29474,7 @@
   {
     "id": "ff67287d-2c49-441d-916d-73a1572de273",
     "en": "Stone",
-    "ru": "городской камень",
+    "ru": "Городской камень",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29642,7 +29642,7 @@
   {
     "id": "27ad9a21-3ad7-4402-9644-d125001c551f",
     "en": "Streatley",
-    "ru": "стритли",
+    "ru": "Стритли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29654,7 +29654,7 @@
   {
     "id": "f283caa2-a160-453a-9973-9198987930e9",
     "en": "Street",
-    "ru": "улица города",
+    "ru": "Улица города",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -29666,7 +29666,7 @@
   {
     "id": "22cbe978-f464-4ef9-a8b2-c49767863a49",
     "en": "Streetly",
-    "ru": "стритли",
+    "ru": "Стритли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -30098,7 +30098,7 @@
   {
     "id": "407e6923-f2e2-43c2-b96f-a33dabbd0def",
     "en": "Sway",
-    "ru": "качаться",
+    "ru": "Качаться",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -30494,7 +30494,7 @@
   {
     "id": "328fe066-f6d0-42b8-9389-4972841bcee5",
     "en": "Tetney",
-    "ru": "тетней",
+    "ru": "Тетней",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -31454,7 +31454,7 @@
   {
     "id": "11f1bbe2-a7e3-45be-bc54-3f0bd0eb8676",
     "en": "Uny Lelant",
-    "ru": "уны лелант",
+    "ru": "Уны лелант",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -32186,7 +32186,7 @@
   {
     "id": "6fc55eee-ccff-4606-910c-2c80b02ffb82",
     "en": "Water Eaton",
-    "ru": "водный итон",
+    "ru": "Водный итон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -32366,7 +32366,7 @@
   {
     "id": "8c4724da-470a-4274-bb1a-fe85471d308a",
     "en": "Wednesfield",
-    "ru": "среда",
+    "ru": "Среда",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -32534,7 +32534,7 @@
   {
     "id": "7e3a1042-6a60-4e78-947e-016d088d3e9d",
     "en": "Wem",
-    "ru": "вем",
+    "ru": "Вем",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -32678,7 +32678,7 @@
   {
     "id": "d2cec2bf-d5b5-4d44-b895-2ee1e1b747dc",
     "en": "West Coker",
-    "ru": "западный кокер",
+    "ru": "Западный кокер",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -32738,7 +32738,7 @@
   {
     "id": "1ab71c05-081a-4a6e-8994-c4cfa1d581ad",
     "en": "West Haddon",
-    "ru": "запад хэддон",
+    "ru": "Запад хэддон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -33086,7 +33086,7 @@
   {
     "id": "bd120502-c34d-4b78-8444-b4c81db8bc9f",
     "en": "Wetheral",
-    "ru": "ветеран",
+    "ru": "Ветеран",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -33458,7 +33458,7 @@
   {
     "id": "8f1357d4-dd63-4513-9106-4d9a0b6c6280",
     "en": "Wick",
-    "ru": "фитиль",
+    "ru": "Фитиль",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -33830,7 +33830,7 @@
   {
     "id": "80ee178e-9672-4ca5-970f-d3a18595b13e",
     "en": "Winchester",
-    "ru": "винчестер",
+    "ru": "Винчестер",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -34298,7 +34298,7 @@
   {
     "id": "5a734763-9f96-4801-9744-6d7c3be81a88",
     "en": "Wolvercote",
-    "ru": "росомаха",
+    "ru": "Росомаха",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -34478,7 +34478,7 @@
   {
     "id": "f4787a3b-dbcb-4b7d-b32d-05d87e80877e",
     "en": "Wool",
-    "ru": "шерсть",
+    "ru": "Шерсть",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -34730,7 +34730,7 @@
   {
     "id": "ed11336b-c926-4997-8d0b-43f76f47a6d4",
     "en": "Writtle",
-    "ru": "письменный",
+    "ru": "Письменный",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -34994,7 +34994,7 @@
   {
     "id": "2275a580-06b8-4299-94e6-25e427458cb5",
     "en": "York",
-    "ru": "йорк",
+    "ru": "Йорк",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "7233e56b-4682-497d-9c0a-d3c0163edb06",
@@ -35066,7 +35066,7 @@
   {
     "id": "a3270bbb-e553-4746-9b11-8de7dc873e6d",
     "en": "Antrim",
-    "ru": "антрим",
+    "ru": "Антрим",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "4360436b-49d9-4e6c-b8ab-d986791442a8",
@@ -35498,7 +35498,7 @@
   {
     "id": "3762d293-ef0a-4cb8-807c-8a006c943da9",
     "en": "Comber",
-    "ru": "комбер",
+    "ru": "Комбер",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "4360436b-49d9-4e6c-b8ab-d986791442a8",
@@ -36710,7 +36710,7 @@
   {
     "id": "0392d70e-ca7d-4ed3-8fe0-83f0a62e3816",
     "en": "Angus",
-    "ru": "ангус",
+    "ru": "Ангус",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -36878,7 +36878,7 @@
   {
     "id": "b5bd09e5-7f8c-4eef-aadc-b0a3434ecf9b",
     "en": "Ayr",
-    "ru": "эр",
+    "ru": "Эр",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -37106,7 +37106,7 @@
   {
     "id": "3800eb63-bb1f-4b29-8d12-c49cc35ea2d3",
     "en": "Beauly",
-    "ru": "красавица",
+    "ru": "Красавица",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -37370,7 +37370,7 @@
   {
     "id": "0869d92a-d95c-499d-829f-f49effbcffc7",
     "en": "Bridge of Earn",
-    "ru": "городской мост заработать",
+    "ru": "Городской мост заработать",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -37382,7 +37382,7 @@
   {
     "id": "7d592397-50ff-4948-9a8b-c202c0de7ec5",
     "en": "Bridge of Weir",
-    "ru": "городской мост Вейр",
+    "ru": "Городской мост Вейр",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -37706,7 +37706,7 @@
   {
     "id": "58e99a2f-22b4-47c4-b259-c08670234b83",
     "en": "Catrine",
-    "ru": "катрин",
+    "ru": "Катрин",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -38030,7 +38030,7 @@
   {
     "id": "82faae46-294b-4270-8421-de44c826997e",
     "en": "Crossgates",
-    "ru": "городские перекрестки",
+    "ru": "Городские перекрестки",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -38042,7 +38042,7 @@
   {
     "id": "f413064c-6748-48f3-9eb3-3f115cc16e9f",
     "en": "Crosshouse",
-    "ru": "городской кроссхаус",
+    "ru": "Городской кроссхаус",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -38102,7 +38102,7 @@
   {
     "id": "f10faabf-bcc3-4b49-9a8d-3931d9e67f47",
     "en": "Cults",
-    "ru": "культы",
+    "ru": "Культы",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -38306,7 +38306,7 @@
   {
     "id": "786a99bb-25b5-49ec-a569-4aead01e748c",
     "en": "Dollar",
-    "ru": "городской доллар",
+    "ru": "Городской доллар",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -38990,7 +38990,7 @@
   {
     "id": "4faef6b8-d174-488e-84ec-dd9fd7e342b7",
     "en": "Forth",
-    "ru": "форт",
+    "ru": "Форт",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39350,7 +39350,7 @@
   {
     "id": "2b90b31a-6111-4f3e-9ae5-a045fa39b0b6",
     "en": "Hawick",
-    "ru": "хоик",
+    "ru": "Хоик",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39422,7 +39422,7 @@
   {
     "id": "b1c6b768-75e4-4163-a1c8-b7193e2c4282",
     "en": "Hillside",
-    "ru": "на склоне холма",
+    "ru": "На склоне холма",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39482,7 +39482,7 @@
   {
     "id": "64f7f367-4f08-401a-8bec-627f3d9e0260",
     "en": "Huntly",
-    "ru": "охоты",
+    "ru": "Охоты",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39662,7 +39662,7 @@
   {
     "id": "109cf9db-33a1-4bb8-a861-3af33bb4fd3b",
     "en": "Isle of Bute",
-    "ru": "остров бьют",
+    "ru": "Остров бьют",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39686,7 +39686,7 @@
   {
     "id": "b6fd4506-e4dc-4bb8-9ac1-c163e9338fc4",
     "en": "Isle of Islay",
-    "ru": "остров айла",
+    "ru": "Остров айла",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39698,7 +39698,7 @@
   {
     "id": "fa128aa1-6c98-415d-9fe8-9099514a868a",
     "en": "Isle of Lewis",
-    "ru": "остров льюис",
+    "ru": "Остров льюис",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -39710,7 +39710,7 @@
   {
     "id": "e0994127-5ea6-45cb-86bc-366d1898af10",
     "en": "Isle Of Mull",
-    "ru": "остров Малл",
+    "ru": "Остров Малл",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -40274,7 +40274,7 @@
   {
     "id": "3be6c9c5-8181-4b67-a03b-6bbe4163ad88",
     "en": "Law",
-    "ru": "городской закон",
+    "ru": "Городской закон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -40766,7 +40766,7 @@
   {
     "id": "86f33221-1ef6-4f62-bd8e-673762a927e3",
     "en": "Midlothian",
-    "ru": "мидлотиан",
+    "ru": "Мидлотиан",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -41018,7 +41018,7 @@
   {
     "id": "7e525168-edc5-435d-82f4-9540462d81bb",
     "en": "Netherlee",
-    "ru": "нидерли",
+    "ru": "Нидерли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -41510,7 +41510,7 @@
   {
     "id": "364811e1-133e-4061-b65a-f7b133a7b50a",
     "en": "Plains",
-    "ru": "городские равнины",
+    "ru": "Городские равнины",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -41774,7 +41774,7 @@
   {
     "id": "8bd1e656-35da-42d6-b4b1-7017f9c88bd9",
     "en": "Rosehearty",
-    "ru": "розовое сердце",
+    "ru": "Розовое сердце",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -41930,7 +41930,7 @@
   {
     "id": "924ffc0f-2675-423d-836c-f41e91d39121",
     "en": "Saline",
-    "ru": "солончак",
+    "ru": "Солончак",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -41954,7 +41954,7 @@
   {
     "id": "8c4ad658-3d84-4e45-b9e7-f409f8c8204e",
     "en": "Saltcoats",
-    "ru": "солонка",
+    "ru": "Солонка",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -42182,7 +42182,7 @@
   {
     "id": "ed8c3772-5a8e-45b5-9743-ff0acb7b5d55",
     "en": "Stepps",
-    "ru": "степс",
+    "ru": "Степс",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -42350,7 +42350,7 @@
   {
     "id": "5fe0b22f-9f35-438d-a605-7470854d561a",
     "en": "Tain",
-    "ru": "таин",
+    "ru": "Таин",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -42782,7 +42782,7 @@
   {
     "id": "a83bd89f-28b8-4e06-85ce-4b8c0b24f9ea",
     "en": "Wick",
-    "ru": "фитиль",
+    "ru": "Фитиль",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "98375b37-3374-43b1-9099-f7ea696fb6eb",
@@ -42950,7 +42950,7 @@
   {
     "id": "136275a0-d22e-4441-9723-011ef8372f1f",
     "en": "Abertillery",
-    "ru": "городская аберритория",
+    "ru": "Городская аберритория",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -43346,7 +43346,7 @@
   {
     "id": "25960fdd-ddc2-4221-bcb0-2703d39d0e66",
     "en": "Briton Ferry",
-    "ru": "британ паром",
+    "ru": "Британ паром",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -43562,7 +43562,7 @@
   {
     "id": "b63bbe70-a157-4be3-9904-f013936a138b",
     "en": "Cardigan",
-    "ru": "кардиган",
+    "ru": "Кардиган",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -43682,7 +43682,7 @@
   {
     "id": "37402b74-d248-4d0c-96c7-4223f9486917",
     "en": "Coity",
-    "ru": "город",
+    "ru": "Город",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -43718,7 +43718,7 @@
   {
     "id": "7e95190e-5701-48b0-8901-5d32f1bd47d1",
     "en": "County of Ceredigion",
-    "ru": "городской округ Кередигион",
+    "ru": "Городской округ Кередигион",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -43730,7 +43730,7 @@
   {
     "id": "5d0f7bf0-882f-48ff-947e-4137d235574f",
     "en": "County of Flintshire",
-    "ru": "графство Флинтшир",
+    "ru": "Графство Флинтшир",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -44078,7 +44078,7 @@
   {
     "id": "115cd768-1230-4682-ad4c-bbf753015902",
     "en": "Four Crosses",
-    "ru": "четыре креста",
+    "ru": "Четыре креста",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -44330,7 +44330,7 @@
   {
     "id": "669d74b8-8de4-49a0-a956-4980ee8fa77f",
     "en": "Hay",
-    "ru": "сено",
+    "ru": "Сено",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -44978,7 +44978,7 @@
   {
     "id": "d9b92072-8af2-47fd-b41d-aef051a58529",
     "en": "Magor",
-    "ru": "магор",
+    "ru": "Магор",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45074,7 +45074,7 @@
   {
     "id": "df4bdd92-da83-4761-9b5a-c93c59ae8034",
     "en": "Mold",
-    "ru": "плесень",
+    "ru": "Плесень",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45122,7 +45122,7 @@
   {
     "id": "69d0d022-b12e-46de-be00-99afbd3815ab",
     "en": "Mountain Ash",
-    "ru": "рябина",
+    "ru": "Рябина",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45530,7 +45530,7 @@
   {
     "id": "211678a7-e89a-4d60-b331-642f1f78954f",
     "en": "Pontyates",
-    "ru": "понтяты",
+    "ru": "Понтяты",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45662,7 +45662,7 @@
   {
     "id": "fcb1988a-c711-4014-900f-5c76e32804c4",
     "en": "Price Town",
-    "ru": "цена город",
+    "ru": "Цена город",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45710,7 +45710,7 @@
   {
     "id": "a8484185-30cb-429e-950b-7db052cbe72b",
     "en": "Raglan",
-    "ru": "реглан",
+    "ru": "Реглан",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45722,7 +45722,7 @@
   {
     "id": "d209c9a0-9611-4071-96f7-fc8ce5e4fcd9",
     "en": "Resolven",
-    "ru": "резольвен",
+    "ru": "Резольвен",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45950,7 +45950,7 @@
   {
     "id": "26b622cf-ad1c-4dd7-8fd5-b423ef044402",
     "en": "Seven Sisters",
-    "ru": "семь сестер",
+    "ru": "Семь сестер",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -45962,7 +45962,7 @@
   {
     "id": "e75b256b-2a1e-4f61-bdf5-00f3198e5d1a",
     "en": "Sir Powys",
-    "ru": "сэр Поуис",
+    "ru": "Сэр Поуис",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -46094,7 +46094,7 @@
   {
     "id": "07aae52a-5c30-4c18-aee0-db2ac47f0eff",
     "en": "Three Crosses",
-    "ru": "три креста",
+    "ru": "Три креста",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -46334,7 +46334,7 @@
   {
     "id": "471e54bc-a007-428f-ad77-9224bdd3acf6",
     "en": "Valley",
-    "ru": "долина города",
+    "ru": "Долина города",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",
@@ -46394,7 +46394,7 @@
   {
     "id": "9ba92f6b-b4b4-4a07-9f9f-0784fcba27aa",
     "en": "Wick",
-    "ru": "фитиль",
+    "ru": "Фитиль",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "state": "f65afb88-e410-4a46-9573-ae196651a21f",

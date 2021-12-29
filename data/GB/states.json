@@ -18,7 +18,7 @@
   {
     "id": "e440f48a-844d-4b41-b116-411eab26109e",
     "en": "Angus",
-    "ru": "ангус",
+    "ru": "Ангус",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "ANS"
@@ -274,7 +274,7 @@
   {
     "id": "971b19e3-ce05-4268-bf7a-a2adadc70d49",
     "en": "Carrickfergus Borough Council",
-    "ru": "район Каррикфергусский городской совет",
+    "ru": "Район Каррикфергусский городской совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "CKF"
@@ -474,7 +474,7 @@
   {
     "id": "57c836f9-52df-47b7-b0f0-25bca93a13dd",
     "en": "Coleraine Borough Council",
-    "ru": "район Колрейнский городской совет",
+    "ru": "Район Колрейнский городской совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "CLR"
@@ -490,7 +490,7 @@
   {
     "id": "2ada081a-5825-41f5-8348-50960d1be5e8",
     "en": "Cookstown District Council",
-    "ru": "район Кукстаун, районный совет",
+    "ru": "Район Кукстаун, районный совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "CKT"
@@ -522,7 +522,7 @@
   {
     "id": "13442c3c-d2a4-4d11-9854-5cf74cad2dd6",
     "en": "Craigavon Borough Council",
-    "ru": "район Крайгавонский городской совет",
+    "ru": "Район Крайгавонский городской совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "CGV"
@@ -570,7 +570,7 @@
   {
     "id": "358a9bc6-a79a-4e57-ac71-d6a6de74b10f",
     "en": "Derry City Council",
-    "ru": "район Дерри городского совета",
+    "ru": "Район Дерри городского совета",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "DRY"
@@ -586,7 +586,7 @@
   {
     "id": "212460aa-3b4e-41ba-9e34-6e67900ee64b",
     "en": "Doncaster",
-    "ru": "донкастер",
+    "ru": "Донкастер",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "DNC"
@@ -602,7 +602,7 @@
   {
     "id": "0491c513-5210-4179-af40-c284de41f115",
     "en": "Down District Council",
-    "ru": "районный районный совет",
+    "ru": "Районный районный совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "DOW"
@@ -698,7 +698,7 @@
   {
     "id": "7233e56b-4682-497d-9c0a-d3c0163edb06",
     "en": "England",
-    "ru": "англия",
+    "ru": "Англия",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "ENG"
@@ -730,7 +730,7 @@
   {
     "id": "9dca710b-b4f1-48e7-a371-f0a590ef3d2f",
     "en": "Fermanagh District Council",
-    "ru": "областной Ферманский районный совет",
+    "ru": "Областной Ферманский районный совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "FER"
@@ -826,7 +826,7 @@
   {
     "id": "1a89a0db-0a05-4db2-853a-2dbce2a2d40f",
     "en": "Highland",
-    "ru": "нагорье",
+    "ru": "Нагорье",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HLD"
@@ -890,7 +890,7 @@
   {
     "id": "7486b705-159a-4f39-bd12-7f132b848da7",
     "en": "Larne Borough Council",
-    "ru": "район Ларненский районный совет",
+    "ru": "Район Ларненский районный совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "LRN"
@@ -914,7 +914,7 @@
   {
     "id": "89624cc0-af6e-48df-a4ce-3ca71f614560",
     "en": "Limavady Borough Council",
-    "ru": "район Лимавадинского районного совета",
+    "ru": "Район Лимавадинского районного совета",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "LMV"
@@ -954,7 +954,7 @@
   {
     "id": "97db4d10-23e2-4429-933c-04d5b151abf2",
     "en": "London Borough of Barking and Dagenham",
-    "ru": "лондонский район Баркинг и Дагенхем",
+    "ru": "Лондонский район Баркинг и Дагенхем",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "BDG"
@@ -970,7 +970,7 @@
   {
     "id": "918fb2b0-4303-4ed8-969a-049b2b6f32a7",
     "en": "London Borough of Bexley",
-    "ru": "лондонский р-н бексли",
+    "ru": "Лондонский р-н бексли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "BEX"
@@ -978,7 +978,7 @@
   {
     "id": "7e1a0ca4-8f57-4ca0-a3f5-6a3092f5f1c1",
     "en": "London Borough of Brent",
-    "ru": "лондонский р-н брент",
+    "ru": "Лондонский р-н брент",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "BEN"
@@ -986,7 +986,7 @@
   {
     "id": "a60f6395-4a2b-4834-af06-7791b6358fa7",
     "en": "London Borough of Bromley",
-    "ru": "лондонский р-н бромли",
+    "ru": "Лондонский р-н бромли",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "BRY"
@@ -1002,7 +1002,7 @@
   {
     "id": "17d12c4a-b6bf-4269-8c23-96d810ac4721",
     "en": "London Borough of Croydon",
-    "ru": "лондонский р-н Кройдон",
+    "ru": "Лондонский р-н Кройдон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "CRY"
@@ -1018,7 +1018,7 @@
   {
     "id": "d48cb8b7-e74e-4ec8-95d8-c0fe25524d29",
     "en": "London Borough of Enfield",
-    "ru": "лондонский р-н энфилд",
+    "ru": "Лондонский р-н энфилд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "ENF"
@@ -1026,7 +1026,7 @@
   {
     "id": "b8fb6cb3-4efb-449c-804f-b9cc4a2cd2eb",
     "en": "London Borough of Hackney",
-    "ru": "лондонский р-н хакни",
+    "ru": "Лондонский р-н хакни",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HCK"
@@ -1042,7 +1042,7 @@
   {
     "id": "e1377026-6e33-4faf-8a6f-dbc736bb75df",
     "en": "London Borough of Haringey",
-    "ru": "лондонский р-н харингей",
+    "ru": "Лондонский р-н харингей",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HRY"
@@ -1050,7 +1050,7 @@
   {
     "id": "4ab95b4f-c45e-4253-9bfd-fb9b6d7e460c",
     "en": "London Borough of Harrow",
-    "ru": "лондонский р-н бороны",
+    "ru": "Лондонский р-н бороны",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HRW"
@@ -1058,7 +1058,7 @@
   {
     "id": "a7277778-02be-4607-a172-723b7cf038df",
     "en": "London Borough of Havering",
-    "ru": "лондонский р-н хаверинг",
+    "ru": "Лондонский р-н хаверинг",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HAV"
@@ -1066,7 +1066,7 @@
   {
     "id": "e8afaad8-60ec-4d45-ad2e-eb37df679696",
     "en": "London Borough of Hillingdon",
-    "ru": "лондонский р-н хиллингдон",
+    "ru": "Лондонский р-н хиллингдон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HIL"
@@ -1074,7 +1074,7 @@
   {
     "id": "e09f9d6e-550d-449c-a8ce-9a62cfbaacf3",
     "en": "London Borough of Hounslow",
-    "ru": "лондонский р-н хаунслоу",
+    "ru": "Лондонский р-н хаунслоу",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "HNS"
@@ -1082,7 +1082,7 @@
   {
     "id": "a59910ea-f7a5-4381-99b4-4b1da2fd52e1",
     "en": "London Borough of Islington",
-    "ru": "лондонский р-н Ислингтон",
+    "ru": "Лондонский р-н Ислингтон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "ISL"
@@ -1090,7 +1090,7 @@
   {
     "id": "d267f3d2-199c-4b2f-804e-6e5a901cf9b0",
     "en": "London Borough of Lambeth",
-    "ru": "лондонский р-н ламбет",
+    "ru": "Лондонский р-н ламбет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "LBH"
@@ -1098,7 +1098,7 @@
   {
     "id": "984104e6-14e9-4ce9-9bc4-170e292fb278",
     "en": "London Borough of Lewisham",
-    "ru": "лондонский р-н льюишам",
+    "ru": "Лондонский р-н льюишам",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "LEW"
@@ -1106,7 +1106,7 @@
   {
     "id": "bb8b79d5-8d78-4de7-b1ce-c7f5c0dbb2ca",
     "en": "London Borough of Merton",
-    "ru": "лондонский р-н мертон",
+    "ru": "Лондонский р-н мертон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "MRT"
@@ -1114,7 +1114,7 @@
   {
     "id": "8ab64d98-b35c-4567-a3b6-3e297ddcee7d",
     "en": "London Borough of Newham",
-    "ru": "лондонский р-н ньюхэм",
+    "ru": "Лондонский р-н ньюхэм",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "NWM"
@@ -1146,7 +1146,7 @@
   {
     "id": "51f57472-4919-4059-af98-c93e3ad2bb1e",
     "en": "London Borough of Sutton",
-    "ru": "лондонский р-н саттон",
+    "ru": "Лондонский р-н саттон",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "STN"
@@ -1154,7 +1154,7 @@
   {
     "id": "7803e6cc-f388-4f45-894e-a568701daea6",
     "en": "London Borough of Tower Hamlets",
-    "ru": "лондонский р-н Тауэр Гамлетс",
+    "ru": "Лондонский р-н Тауэр Гамлетс",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "TWH"
@@ -1162,7 +1162,7 @@
   {
     "id": "a7aae5ef-81ab-4439-9e55-1a826aa507fa",
     "en": "London Borough of Waltham Forest",
-    "ru": "лондонский боро уолтем форест",
+    "ru": "Лондонский боро уолтем форест",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "WFT"
@@ -1170,7 +1170,7 @@
   {
     "id": "c745e6bf-b594-4c54-bc3c-77d5c0ce878b",
     "en": "London Borough of Wandsworth",
-    "ru": "лондонский р-н уондсворт",
+    "ru": "Лондонский р-н уондсворт",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "WND"
@@ -1242,7 +1242,7 @@
   {
     "id": "8809aba0-2e30-4ee5-9aaf-3aee68cb1390",
     "en": "Midlothian",
-    "ru": "мидлотиан",
+    "ru": "Мидлотиан",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "MLN"
@@ -1306,7 +1306,7 @@
   {
     "id": "74811782-00d3-4bab-b2f8-4f4adb7cfdd9",
     "en": "Newry and Mourne District Council",
-    "ru": "район Ньюри и Морн районный совет",
+    "ru": "Район Ньюри и Морн районный совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "NYM"
@@ -1322,7 +1322,7 @@
   {
     "id": "5f490972-9a39-451a-a577-9f9c230aceb4",
     "en": "Newtownabbey Borough Council",
-    "ru": "район Ньютаунабби Районный совет",
+    "ru": "Район Ньютаунабби Районный совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "NTA"
@@ -1346,7 +1346,7 @@
   {
     "id": "38ba92d8-d665-4204-889a-839b08a20dab",
     "en": "North Down Borough Council",
-    "ru": "район Северный Даун Городской Совет",
+    "ru": "Район Северный Даун Городской Совет",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "NDN"
@@ -1386,7 +1386,7 @@
   {
     "id": "a18818f1-290f-45cd-b5db-d6a18a75f677",
     "en": "North Tyneside",
-    "ru": "северный тайнсайд",
+    "ru": "Северный тайнсайд",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "NTY"
@@ -1618,7 +1618,7 @@
   {
     "id": "d0303f85-d522-4ee6-8676-f8fdaee9a172",
     "en": "Scottish Borders",
-    "ru": "шотландские границы",
+    "ru": "Шотландские границы",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "SCB"
@@ -1762,7 +1762,7 @@
   {
     "id": "49dcf9ac-911e-4590-a505-537e68547936",
     "en": "Strabane District Council",
-    "ru": "районный совет Страбане",
+    "ru": "Районный совет Страбане",
     "country": "0218aeb9-0392-41ce-961c-134c5733a723",
     "countryCode": "GB",
     "stateCode": "STB"

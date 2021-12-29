@@ -13,9 +13,6 @@ const webpackProdConfig: Configuration = merge(webpackBaseConfig, {
     index: path.resolve(__dirname, '../src/index.ts'),
     schema: path.resolve(__dirname, '../src/schema.graphql'),
   },
-  optimization: {
-    minimize: false,
-  },
   output: {
     path: path.join(__dirname, '../dist/'),
     filename: '[name].js',
@@ -40,7 +37,7 @@ Contact    ${packageInfo.support}
         compiler.hooks.beforeRun.tapAsync('WebpackBeforeBuild', (_, callback) => {
 
           if (fs.existsSync(path.join(__dirname, '../dist/'))) {
-            fs.rmdirSync(path.join(__dirname, '../dist/'), { recursive: true })
+            fs.rmSync(path.join(__dirname, '../dist/'), { recursive: true })
           }
 
           callback();

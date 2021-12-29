@@ -50,7 +50,7 @@
   {
     "id": "b5017b03-541d-4953-9f1a-782faa426ded",
     "en": "Banks",
-    "ru": "городские банки",
+    "ru": "Городские банки",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -110,7 +110,7 @@
   {
     "id": "02923d8d-b2ff-4e21-864c-64c26011f4fc",
     "en": "Bucks Common",
-    "ru": "баксов общий",
+    "ru": "Баксов общий",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -158,7 +158,7 @@
   {
     "id": "bcfe14f2-bffd-44be-b4d1-86b75e76bac5",
     "en": "Cockpit",
-    "ru": "кокпит",
+    "ru": "Кокпит",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -182,7 +182,7 @@
   {
     "id": "7b4fc03f-f8c8-49f6-b0fb-d2e000c80f75",
     "en": "Colonels Ridge",
-    "ru": "полковников хребта",
+    "ru": "Полковников хребта",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -314,7 +314,7 @@
   {
     "id": "4b47a6cc-4f41-4e73-97db-d7502806a3bb",
     "en": "Gimme-me-bit",
-    "ru": "дай мне бит",
+    "ru": "Дай мне бит",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -374,7 +374,7 @@
   {
     "id": "1d3f67d4-7ff8-44bd-adad-32d2036c0ca0",
     "en": "Hazard",
-    "ru": "опасности",
+    "ru": "Опасности",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -434,7 +434,7 @@
   {
     "id": "e94182ca-433c-4c7b-8da4-ed4c41e5bb3c",
     "en": "Limit",
-    "ru": "предел города",
+    "ru": "Предел города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -482,7 +482,7 @@
   {
     "id": "866c82d2-1db2-4ae1-afbd-12bc1db607b1",
     "en": "May Pen",
-    "ru": "май пер",
+    "ru": "Май пер",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -494,7 +494,7 @@
   {
     "id": "6ed34cbd-87f8-4d55-b85b-c67f3b08a65c",
     "en": "May Pen Proper",
-    "ru": "май пера собственно",
+    "ru": "Май пера собственно",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -674,7 +674,7 @@
   {
     "id": "77e757fd-edf9-4e2d-8443-200bc80caaea",
     "en": "Part of Banana Ground",
-    "ru": "городская часть банановой земли",
+    "ru": "Городская часть банановой земли",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -686,7 +686,7 @@
   {
     "id": "3cb0cd89-109a-4eb8-9e09-4d37513cec0f",
     "en": "Part of Douglas Castle",
-    "ru": "часть замка Дуглас",
+    "ru": "Часть замка Дуглас",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -698,7 +698,7 @@
   {
     "id": "50c02333-ecb1-4212-8df4-0b69169dd115",
     "en": "Part of Kellits",
-    "ru": "часть Келлиц",
+    "ru": "Часть Келлиц",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -962,7 +962,7 @@
   {
     "id": "942c0244-18cc-4ef2-b370-695fd70cdd62",
     "en": "Treadlight",
-    "ru": "город",
+    "ru": "Город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -974,7 +974,7 @@
   {
     "id": "de4b5bad-a2af-4723-8229-f89d3e254852",
     "en": "Trout Hall",
-    "ru": "форелевый зал",
+    "ru": "Форелевый зал",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -1022,7 +1022,7 @@
   {
     "id": "03f00345-6881-4c75-8b29-17d3ac43a7e1",
     "en": "York Town",
-    "ru": "йорк таун",
+    "ru": "Йорк таун",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b727e132-4e89-4e6e-92e3-62a07fd9aafa",
@@ -1034,7 +1034,7 @@
   {
     "id": "ba722724-cc2b-4d2c-bba8-823deb1891da",
     "en": "Askenish",
-    "ru": "аскениш",
+    "ru": "Аскениш",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "4b1831e8-32c2-4d29-a51f-a519f744a3ee",
@@ -1046,7 +1046,7 @@
   {
     "id": "7543d942-8bdf-42e0-ab09-9b7d846cabef",
     "en": "Cacoon",
-    "ru": "какон",
+    "ru": "Какон",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "4b1831e8-32c2-4d29-a51f-a519f744a3ee",
@@ -1058,7 +1058,7 @@
   {
     "id": "505f177a-26ce-4586-a219-5f6295007ee1",
     "en": "Cacoon Castle",
-    "ru": "какон замок",
+    "ru": "Какон замок",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "4b1831e8-32c2-4d29-a51f-a519f744a3ee",
@@ -1154,7 +1154,7 @@
   {
     "id": "237c75e4-e0c7-4d71-b273-e85d752d0164",
     "en": "Dias",
-    "ru": "диас",
+    "ru": "Диас",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "4b1831e8-32c2-4d29-a51f-a519f744a3ee",
@@ -1310,7 +1310,7 @@
   {
     "id": "bc920f66-c250-4107-bedf-9ecf6a01d0d6",
     "en": "March Town",
-    "ru": "март город",
+    "ru": "Март город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "4b1831e8-32c2-4d29-a51f-a519f744a3ee",
@@ -1502,7 +1502,7 @@
   {
     "id": "b8ae7620-9321-4c03-b528-b6c9ebdb78e3",
     "en": "Central Down Town",
-    "ru": "центральный центр города",
+    "ru": "Центральный центр города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e2a396ec-0db6-4b9f-a716-62aa0a2d5f49",
@@ -1514,7 +1514,7 @@
   {
     "id": "18ddbc52-a6ed-40f8-ad90-616d389a73e0",
     "en": "D'Aguilar Town/ Rennock Lodge",
-    "ru": "д'Агиляр / Rennock Lodge",
+    "ru": "Д'Агиляр / Rennock Lodge",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e2a396ec-0db6-4b9f-a716-62aa0a2d5f49",
@@ -1646,7 +1646,7 @@
   {
     "id": "b5018e73-9120-4319-83ca-81ffae064137",
     "en": "Newton Square",
-    "ru": "ньютон площадь",
+    "ru": "Ньютон площадь",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e2a396ec-0db6-4b9f-a716-62aa0a2d5f49",
@@ -1766,7 +1766,7 @@
   {
     "id": "7651a948-9ceb-426f-9c77-1e85b5422be4",
     "en": "Alligator Pond",
-    "ru": "городской пруд аллигаторов",
+    "ru": "Городской пруд аллигаторов",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -1862,7 +1862,7 @@
   {
     "id": "2cb49071-7a20-40f0-b087-b256b46c61e3",
     "en": "Cedar Grove",
-    "ru": "кедровая роща",
+    "ru": "Кедровая роща",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -1886,7 +1886,7 @@
   {
     "id": "862b4910-e87d-4697-a2be-e53220f5c23a",
     "en": "Christiana",
-    "ru": "кристиана",
+    "ru": "Кристиана",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2030,7 +2030,7 @@
   {
     "id": "57bf8ec4-c646-43d4-b392-f7692cb061a6",
     "en": "Evergreen",
-    "ru": "вечнозеленый",
+    "ru": "Вечнозеленый",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2054,7 +2054,7 @@
   {
     "id": "a99ac002-755b-49bd-a63e-f81c5e3d9e59",
     "en": "French Park",
-    "ru": "городской французский парк",
+    "ru": "Городской французский парк",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2078,7 +2078,7 @@
   {
     "id": "65f8f3ef-e7f0-46a3-ab12-50a702a382e6",
     "en": "Good Intent",
-    "ru": "доброе намерение",
+    "ru": "Доброе намерение",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2102,7 +2102,7 @@
   {
     "id": "3efb0e0a-dac3-45c6-8319-c027f2f39412",
     "en": "Grove Place",
-    "ru": "роща место",
+    "ru": "Роща место",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2114,7 +2114,7 @@
   {
     "id": "42125e03-6fca-4a5e-85b0-e0e388658396",
     "en": "Grove Town",
-    "ru": "роща город",
+    "ru": "Роща город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2210,7 +2210,7 @@
   {
     "id": "0470c616-00e6-4cb9-afdf-b098d2fdbaea",
     "en": "Knockpatrick",
-    "ru": "нокпатрик",
+    "ru": "Нокпатрик",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2390,7 +2390,7 @@
   {
     "id": "447f842e-bbad-4574-8cb5-12121eb5a3be",
     "en": "Part Of Banana Ground",
-    "ru": "городская часть банановой земли",
+    "ru": "Городская часть банановой земли",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2402,7 +2402,7 @@
   {
     "id": "48356809-faff-4400-bb00-b98081c917e3",
     "en": "Part Of Gutters",
-    "ru": "городская часть водосточных желобов",
+    "ru": "Городская часть водосточных желобов",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2426,7 +2426,7 @@
   {
     "id": "0e0ba222-7a3d-412b-8a86-1e082e09dbbd",
     "en": "Pike",
-    "ru": "щука",
+    "ru": "Щука",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2462,7 +2462,7 @@
   {
     "id": "bc1fe973-81ea-40c6-9080-3f47ee42d726",
     "en": "Prospect",
-    "ru": "проспект города",
+    "ru": "Проспект города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "7f12d6e3-105d-4c02-af5a-805bfe030577",
@@ -2726,7 +2726,7 @@
   {
     "id": "f570f466-9bb3-41ba-8774-a43f235045c8",
     "en": "Breastworks",
-    "ru": "городские мастерские",
+    "ru": "Городские мастерские",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -2834,7 +2834,7 @@
   {
     "id": "f1b60860-2205-45e0-992b-c21b8a9b8194",
     "en": "Drapers",
-    "ru": "городские драперы",
+    "ru": "Городские драперы",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -2870,7 +2870,7 @@
   {
     "id": "1028f52d-d656-4d1f-a6d2-a2b1304611ef",
     "en": "Fellowship",
-    "ru": "городское содружество",
+    "ru": "Городское содружество",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -2990,7 +2990,7 @@
   {
     "id": "f18f94aa-822a-447d-90f4-bf42746169cc",
     "en": "Nonsuch",
-    "ru": "не такой",
+    "ru": "Не такой",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -3038,7 +3038,7 @@
   {
     "id": "aabcd6a5-c564-4e69-8ba2-c00025b8b6ed",
     "en": "Prospect",
-    "ru": "проспект города",
+    "ru": "Проспект города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -3086,7 +3086,7 @@
   {
     "id": "72e0b1f2-b10e-4f94-b174-c57afdc18d0a",
     "en": "Skibo",
-    "ru": "скибо",
+    "ru": "Скибо",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -3098,7 +3098,7 @@
   {
     "id": "0b6d1493-4ca8-4442-893b-65cab0d6f82f",
     "en": "Snow Hill",
-    "ru": "снежная горка",
+    "ru": "Снежная горка",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -3122,7 +3122,7 @@
   {
     "id": "3580fe76-a490-40b7-8b15-cff1bb2f61fa",
     "en": "St. Margaret's Bay",
-    "ru": "бухта св. маргарет",
+    "ru": "Бухта св. маргарет",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e762eb8c-0c6b-4a2b-9d0f-bdae65bcc309",
@@ -3290,7 +3290,7 @@
   {
     "id": "6cb8d9e9-08d7-4767-9e0f-2cc4605faa4e",
     "en": "Boucher Park",
-    "ru": "городской парк Boucher",
+    "ru": "Городской парк Boucher",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -3386,7 +3386,7 @@
   {
     "id": "f2dd01f0-f7ee-4da0-8734-04afcc0e3b97",
     "en": "Constant Spring",
-    "ru": "постоянная весна",
+    "ru": "Постоянная весна",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -3554,7 +3554,7 @@
   {
     "id": "8d0aef7e-b658-4df2-bf46-6976b22dc341",
     "en": "Ferry",
-    "ru": "городской паром",
+    "ru": "Городской паром",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -3662,7 +3662,7 @@
   {
     "id": "1cfbad73-87a2-4dae-897d-6b3535e11d2b",
     "en": "Harbour View",
-    "ru": "гавань вид",
+    "ru": "Гавань вид",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -3686,7 +3686,7 @@
   {
     "id": "68ef8487-2dab-425a-a5a1-a6f2ea888306",
     "en": "Hermitage",
-    "ru": "городской Эрмитаж",
+    "ru": "Городской Эрмитаж",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -3734,7 +3734,7 @@
   {
     "id": "43c8fa48-81d5-4e68-b996-247d3192d008",
     "en": "Irish Town",
-    "ru": "ирландский город",
+    "ru": "Ирландский город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -4046,7 +4046,7 @@
   {
     "id": "21d97ee9-4688-49c6-a30c-595c0d350689",
     "en": "Papine",
-    "ru": "папин",
+    "ru": "Папин",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -4250,7 +4250,7 @@
   {
     "id": "d1d37108-f8ff-4f25-8757-0657463bb376",
     "en": "Stadium Gardens",
-    "ru": "городской стадион сады",
+    "ru": "Городской стадион сады",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -4286,7 +4286,7 @@
   {
     "id": "5bea8fcf-47dc-4071-9e2e-81d68358124f",
     "en": "Temple Hall",
-    "ru": "городской храмовый зал",
+    "ru": "Городской храмовый зал",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -4346,7 +4346,7 @@
   {
     "id": "e7b81c12-1a37-44cc-a747-14d321c04507",
     "en": "University",
-    "ru": "городской университет",
+    "ru": "Городской университет",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -4394,7 +4394,7 @@
   {
     "id": "4588d3e6-8c38-4579-81d4-73704e62bd17",
     "en": "Waterhouse",
-    "ru": "городской Уотерхаус",
+    "ru": "Городской Уотерхаус",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "53b1e7e5-9b51-4d63-b8c7-64521d1e9698",
@@ -4526,7 +4526,7 @@
   {
     "id": "e12e9189-c09e-4360-a072-e27f9616229a",
     "en": "Bamboo",
-    "ru": "бамбук",
+    "ru": "Бамбук",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e4045ea1-2182-45fa-bfee-0017ceae083b",
@@ -4634,7 +4634,7 @@
   {
     "id": "414f66f0-daec-48e0-9fbc-1df7ae7a3402",
     "en": "Cave Valley",
-    "ru": "пещерная долина",
+    "ru": "Пещерная долина",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e4045ea1-2182-45fa-bfee-0017ceae083b",
@@ -4742,7 +4742,7 @@
   {
     "id": "3393a1cc-0302-4494-909b-3d6f080f862d",
     "en": "Exchange",
-    "ru": "городская биржа",
+    "ru": "Городская биржа",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e4045ea1-2182-45fa-bfee-0017ceae083b",
@@ -5030,7 +5030,7 @@
   {
     "id": "f7af355e-dbc6-460b-859d-152f83db2ddc",
     "en": "Saint Ann’s Bay",
-    "ru": "бухта святой анны",
+    "ru": "Бухта святой анны",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e4045ea1-2182-45fa-bfee-0017ceae083b",
@@ -5042,7 +5042,7 @@
   {
     "id": "f621b6d8-60e7-4652-a581-836822bd38a5",
     "en": "St. Ann's Bay",
-    "ru": "бухта св. анны",
+    "ru": "Бухта св. анны",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "e4045ea1-2182-45fa-bfee-0017ceae083b",
@@ -5126,7 +5126,7 @@
   {
     "id": "f3645af7-6750-46ba-93e5-32ca9434259e",
     "en": "Above Rocks",
-    "ru": "над скалами",
+    "ru": "Над скалами",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5162,7 +5162,7 @@
   {
     "id": "80e81431-4a10-45d2-9247-158093a77783",
     "en": "Bog Walk",
-    "ru": "болотная прогулка",
+    "ru": "Болотная прогулка",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5246,7 +5246,7 @@
   {
     "id": "a94e1091-0084-43f7-b56c-63033fbf6f85",
     "en": "Crescent",
-    "ru": "полумесяц",
+    "ru": "Полумесяц",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5426,7 +5426,7 @@
   {
     "id": "776a2986-b5b2-4073-b065-f573bcb03fdd",
     "en": "Hellshire",
-    "ru": "адский",
+    "ru": "Адский",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5438,7 +5438,7 @@
   {
     "id": "bb18b94d-8bc0-48a2-abea-a8dcd4cc3cc9",
     "en": "Independence City",
-    "ru": "независимости город",
+    "ru": "Независимости город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5546,7 +5546,7 @@
   {
     "id": "1c959d81-83c2-4f20-a350-b6e2e2fbaf23",
     "en": "Part of Guys Hill",
-    "ru": "часть парня холм",
+    "ru": "Часть парня холм",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5558,7 +5558,7 @@
   {
     "id": "b3979398-7a47-4575-8420-13c53389f9e8",
     "en": "Part of Keystone",
-    "ru": "городская часть Keystone",
+    "ru": "Городская часть Keystone",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5570,7 +5570,7 @@
   {
     "id": "0ede706f-fa38-4eb8-bdb0-7cd51c1c13dd",
     "en": "Part of Rock Hall",
-    "ru": "часть города Рок Холл",
+    "ru": "Часть города Рок Холл",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5666,7 +5666,7 @@
   {
     "id": "c6516627-0590-40a8-881b-7457a5fb5b34",
     "en": "Spanish Town",
-    "ru": "испанский город",
+    "ru": "Испанский город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5678,7 +5678,7 @@
   {
     "id": "7ce50a0d-699b-4cf5-bd13-21673b76448c",
     "en": "Spanish Town Central",
-    "ru": "испанский город центральный",
+    "ru": "Испанский город центральный",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1fb4ff34-b77f-4dac-834d-4976eeb182b4",
@@ -5786,7 +5786,7 @@
   {
     "id": "53f59110-a3ab-4bff-9e54-fcad76028f08",
     "en": "Accompong",
-    "ru": "сопровождает",
+    "ru": "Сопровождает",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -5798,7 +5798,7 @@
   {
     "id": "212b4e55-29ba-4c70-9b6d-14c43e84f45b",
     "en": "Alligator Pond",
-    "ru": "городской пруд аллигаторов",
+    "ru": "Городской пруд аллигаторов",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -5930,7 +5930,7 @@
   {
     "id": "04cdc1c4-f624-43f6-be35-f586343d5137",
     "en": "Bull Savannah",
-    "ru": "быка саванны",
+    "ru": "Быка саванны",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -5942,7 +5942,7 @@
   {
     "id": "fe370e55-6b77-444c-a616-fc9d8c2313c7",
     "en": "Burnt Savannah",
-    "ru": "сгоревшая саванна",
+    "ru": "Сгоревшая саванна",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6074,7 +6074,7 @@
   {
     "id": "16f32d57-b5f9-42a7-8e3c-3bd84779b769",
     "en": "Junction",
-    "ru": "городской узел",
+    "ru": "Городской узел",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6206,7 +6206,7 @@
   {
     "id": "fe05d5b1-8a54-42b0-b4b1-f92840871802",
     "en": "Nain",
-    "ru": "наин",
+    "ru": "Наин",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6254,7 +6254,7 @@
   {
     "id": "3a15a04c-8d98-453a-a94e-7f4ca19611b1",
     "en": "Parottee",
-    "ru": "городской паротте",
+    "ru": "Городской паротте",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6278,7 +6278,7 @@
   {
     "id": "b423e508-c733-4034-a507-1501429e54ae",
     "en": "Pepper",
-    "ru": "перец",
+    "ru": "Перец",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6326,7 +6326,7 @@
   {
     "id": "41f3f691-6dd5-43fc-9247-c2ec76e8ae9c",
     "en": "Quick Step",
-    "ru": "быстрый шаг",
+    "ru": "Быстрый шаг",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6410,7 +6410,7 @@
   {
     "id": "f5e4f4e7-1d8e-45e8-850c-80d34eb2b799",
     "en": "Siloah",
-    "ru": "силос",
+    "ru": "Силос",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6494,7 +6494,7 @@
   {
     "id": "1a7cb881-9c24-4e6f-ac86-c6f72b29edb5",
     "en": "Warminister",
-    "ru": "военный",
+    "ru": "Военный",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "743cd01e-b864-4155-a815-c36965df6336",
@@ -6830,7 +6830,7 @@
   {
     "id": "1f455482-0b0b-42d8-b1ec-d68ee352fc63",
     "en": "Garlands",
-    "ru": "городские гирлянды",
+    "ru": "Городские гирлянды",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -6854,7 +6854,7 @@
   {
     "id": "5216fac9-83ee-4ccf-8503-97915bf20327",
     "en": "Goodwill",
-    "ru": "доброй воли",
+    "ru": "Доброй воли",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -6914,7 +6914,7 @@
   {
     "id": "e493617a-cb63-4c9e-8295-14e7e6b4cc63",
     "en": "Ironshore",
-    "ru": "железный берег",
+    "ru": "Железный берег",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -6950,7 +6950,7 @@
   {
     "id": "22902980-519c-4e1c-9ee5-b85e1e3a477d",
     "en": "Lilliput",
-    "ru": "лилипут",
+    "ru": "Лилипут",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -6962,7 +6962,7 @@
   {
     "id": "b6924f10-903d-4151-97c4-8fcef1ada640",
     "en": "Lottery",
-    "ru": "городская лотерея",
+    "ru": "Городская лотерея",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7070,7 +7070,7 @@
   {
     "id": "9f8e350e-37e6-48cc-9185-3d2e0aca2c1b",
     "en": "Mount Salem",
-    "ru": "гора Салем",
+    "ru": "Гора Салем",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7118,7 +7118,7 @@
   {
     "id": "31c23d97-96a0-4e77-8ab4-4e85e2a91d10",
     "en": "Paradise",
-    "ru": "рай",
+    "ru": "Рай",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7178,7 +7178,7 @@
   {
     "id": "37a9f926-eb85-4a12-b440-790c0d54d042",
     "en": "Retrieve",
-    "ru": "ретрив",
+    "ru": "Ретрив",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7262,7 +7262,7 @@
   {
     "id": "7c9bd1ac-265f-48fc-893f-34215e223dc5",
     "en": "Seven Rivers",
-    "ru": "семь рек",
+    "ru": "Семь рек",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7286,7 +7286,7 @@
   {
     "id": "00315c3d-c54f-4843-8891-8537c7e1a71d",
     "en": "Spot Valley",
-    "ru": "спот долина",
+    "ru": "Спот долина",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7394,7 +7394,7 @@
   {
     "id": "9604f718-07fa-4387-935f-c78b5f13a7f8",
     "en": "Welcome Hall",
-    "ru": "зал приветствия города",
+    "ru": "Зал приветствия города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "b8719702-7bc0-431e-9aef-921f7b556097",
@@ -7622,7 +7622,7 @@
   {
     "id": "94d9f54a-07ce-469d-b693-8b4cb9b98715",
     "en": "Flint River",
-    "ru": "река Флинт",
+    "ru": "Река Флинт",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "fc9dc57a-c91e-443c-b6a7-aa709dc50bde",
@@ -7802,7 +7802,7 @@
   {
     "id": "f6a81064-fb25-4a4d-97f2-c4d7e39afa96",
     "en": "Martin",
-    "ru": "мартин",
+    "ru": "Мартин",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "fc9dc57a-c91e-443c-b6a7-aa709dc50bde",
@@ -7862,7 +7862,7 @@
   {
     "id": "59c09bc9-d037-4b18-950b-3644b3fec229",
     "en": "Prospect",
-    "ru": "проспект города",
+    "ru": "Проспект города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "fc9dc57a-c91e-443c-b6a7-aa709dc50bde",
@@ -8006,7 +8006,7 @@
   {
     "id": "1124c9fc-e009-4c5a-8c93-970034773ba7",
     "en": "Baptist",
-    "ru": "баптист",
+    "ru": "Баптист",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8030,7 +8030,7 @@
   {
     "id": "d8ca8ce4-0ed7-4b3f-ba45-19e7db9d34ab",
     "en": "Bath",
-    "ru": "городская баня",
+    "ru": "Городская баня",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8054,7 +8054,7 @@
   {
     "id": "f88aa8f9-6701-46bb-9425-cbdb3264e5cf",
     "en": "Cedar Valley",
-    "ru": "кедровая долина",
+    "ru": "Кедровая долина",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8210,7 +8210,7 @@
   {
     "id": "e217f0ad-7481-4f3b-b8e9-830353ca03ec",
     "en": "Hillside",
-    "ru": "на склоне холма",
+    "ru": "На склоне холма",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8366,7 +8366,7 @@
   {
     "id": "5184be35-4f8d-43f7-97ca-fa6177e12474",
     "en": "Pear Tree",
-    "ru": "груша",
+    "ru": "Груша",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8402,7 +8402,7 @@
   {
     "id": "20267afa-586f-41c6-9ea6-c8f59909b277",
     "en": "Prospect",
-    "ru": "проспект города",
+    "ru": "Проспект города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8606,7 +8606,7 @@
   {
     "id": "48f7c49e-5cea-473a-8946-3b7cda94521c",
     "en": "Winchester",
-    "ru": "винчестер",
+    "ru": "Винчестер",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8630,7 +8630,7 @@
   {
     "id": "131e3e1f-2f90-4aa9-afda-d56586299c49",
     "en": "York",
-    "ru": "йорк",
+    "ru": "Йорк",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "1895075f-22c8-4e26-91ee-ac5c008872f2",
@@ -8846,7 +8846,7 @@
   {
     "id": "9da515c1-e6c9-4e00-a947-7f3e36d3f942",
     "en": "Lorrimers",
-    "ru": "лорримерс",
+    "ru": "Лорримерс",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "4abd7075-71ee-4c7a-a21e-705980da6ecf",
@@ -9110,7 +9110,7 @@
   {
     "id": "0558b115-dc4c-4cbd-b1a1-7c3f554535f3",
     "en": "Amity",
-    "ru": "дружбы",
+    "ru": "Дружбы",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9146,7 +9146,7 @@
   {
     "id": "ee8e7c37-8e76-48dd-8c9c-c700f37f6466",
     "en": "Bath",
-    "ru": "городская баня",
+    "ru": "Городская баня",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9158,7 +9158,7 @@
   {
     "id": "5d11b26a-85ed-4e8f-bfbf-7c9ce0fde7ff",
     "en": "Bath Mountain",
-    "ru": "баня гора",
+    "ru": "Баня гора",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9278,7 +9278,7 @@
   {
     "id": "d7546bf9-8658-419c-8e2f-c5f65215d29e",
     "en": "Burnt Savannah",
-    "ru": "сгоревшая саванна",
+    "ru": "Сгоревшая саванна",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9326,7 +9326,7 @@
   {
     "id": "dc8c9154-0917-4532-a9ed-3f8505127cd7",
     "en": "Cave",
-    "ru": "городская пещера",
+    "ru": "Городская пещера",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9458,7 +9458,7 @@
   {
     "id": "989cda07-1fbc-4b0d-a16f-f23ce81d179f",
     "en": "Frome",
-    "ru": "фром",
+    "ru": "Фром",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9494,7 +9494,7 @@
   {
     "id": "7d916312-09fc-42e4-be67-adef3a09e70e",
     "en": "Gooden's River",
-    "ru": "река Гуден",
+    "ru": "Река Гуден",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9542,7 +9542,7 @@
   {
     "id": "c8c65749-746e-4add-b64a-e4904089697a",
     "en": "Harmony Town",
-    "ru": "гармония город",
+    "ru": "Гармония город",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9854,7 +9854,7 @@
   {
     "id": "8a504ef4-93bb-4273-a9c5-80bf0926add2",
     "en": "Russia",
-    "ru": "россия",
+    "ru": "Россия",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9974,7 +9974,7 @@
   {
     "id": "d44d2efd-8a46-471e-bf66-fbb7d47fb1a7",
     "en": "Strawberry",
-    "ru": "клубника",
+    "ru": "Клубника",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -9998,7 +9998,7 @@
   {
     "id": "1cd385ac-cdcd-4560-a95b-dc202bd72035",
     "en": "Three Mile River",
-    "ru": "трехмильная река",
+    "ru": "Трехмильная река",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -10010,7 +10010,7 @@
   {
     "id": "3e23f261-47f4-4054-aa93-fecfb2584f50",
     "en": "Town Head",
-    "ru": "глава города",
+    "ru": "Глава города",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",
@@ -10034,7 +10034,7 @@
   {
     "id": "b66f9da8-ea04-4e4a-b49b-480aec31e955",
     "en": "Water Works",
-    "ru": "городской водопровод",
+    "ru": "Городской водопровод",
     "country": "0e8f875a-8937-4b9b-9e0a-db716acea611",
     "countryCode": "JM",
     "state": "84bf3135-d0b2-499f-b151-9201d9410d48",

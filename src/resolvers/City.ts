@@ -1,16 +1,6 @@
-import type { IObjectTypeResolver, IFieldResolver } from '@graphql-tools/utils';
-import type { Context } from '@via-profit-services/core';
-import type { City } from '@via-profit-services/geography';
+import type { CityResolver } from '@via-profit-services/geography';
 
-interface Parent {
-  id: string;
-}
-
-interface Source {
-  id: string;
-}
-
-const CityResolver = new Proxy<IObjectTypeResolver<Source, City>>({
+const cityResolver = new Proxy<CityResolver>({
   id: () => ({}),
   en: () => ({}),
   ru: () => ({}),
@@ -22,8 +12,8 @@ const CityResolver = new Proxy<IObjectTypeResolver<Source, City>>({
   longitude: () => ({}),
   timezone: () => ({}),
 }, {
-  get: (target, prop: keyof City) => {
-    const resolver: IFieldResolver<Parent, Context> = async (parent, args, context) => {
+  get: (_target, prop: keyof CityResolver) => {
+    const resolver: CityResolver[keyof CityResolver] = async (parent, _args, context) => {
       const { id } = parent;
       const { dataloader } = context;
       const city = await dataloader.geography.cities.load(id);
@@ -35,4 +25,4 @@ const CityResolver = new Proxy<IObjectTypeResolver<Source, City>>({
   },
 });
 
-export default CityResolver;
+export default cityResolver;

@@ -42,7 +42,7 @@
   {
     "id": "3acffb97-3a7f-487c-b16d-9c572f9d713d",
     "en": "Basra Governorate",
-    "ru": "губерния Басра",
+    "ru": "Губерния Басра",
     "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
     "countryCode": "IQ",
     "stateCode": "BA"
@@ -50,7 +50,7 @@
   {
     "id": "f30a3f25-bb13-418e-8cc7-26563aeda4f9",
     "en": "Dhi Qar Governorate",
-    "ru": "провинция Ди Кар Кар",
+    "ru": "Провинция Ди Кар Кар",
     "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
     "countryCode": "IQ",
     "stateCode": "DQ"
@@ -74,7 +74,7 @@
   {
     "id": "031b192b-a7f8-42ff-8745-37633cdd096f",
     "en": "Erbil Governorate",
-    "ru": "губернаторство Эрбиль",
+    "ru": "Губернаторство Эрбиль",
     "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
     "countryCode": "IQ",
     "stateCode": "AR"
@@ -82,7 +82,7 @@
   {
     "id": "8e256b6c-e0c0-4835-baa5-b9e4663891ba",
     "en": "Karbala Governorate",
-    "ru": "губернаторство Кербела",
+    "ru": "Губернаторство Кербела",
     "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
     "countryCode": "IQ",
     "stateCode": "KA"
@@ -90,7 +90,7 @@
   {
     "id": "21d59a3a-58fd-435c-9e78-41f64e3d8647",
     "en": "Kirkuk Governorate",
-    "ru": "провинция Киркук",
+    "ru": "Провинция Киркук",
     "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
     "countryCode": "IQ",
     "stateCode": "KI"
@@ -138,7 +138,7 @@
   {
     "id": "182f7ea2-5c80-4d3a-8e1d-2d23aebb816d",
     "en": "Wasit Governorate",
-    "ru": "губернаторство Васит",
+    "ru": "Губернаторство Васит",
     "country": "90f95019-ff2a-4029-ad2f-b43ab5f677c9",
     "countryCode": "IQ",
     "stateCode": "WA"
