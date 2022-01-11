@@ -31,7 +31,7 @@ class GeographyService implements GeographyServiceInterface {
   public async getCities(filter: Partial<CitiesOutputFilter>): Promise<ListResponse<City>> {
     const { context } = this.props;
     const { knex } = context;
-    const { limit, offset, orderBy, where, search, priorCountry } = filter;
+    const { limit, offset, orderBy, where, search, priorCountry, revert } = filter;
     const createdAt = new Date();
 
     const select = [knex.raw('*'), knex.raw('count(*) over() as "totalCount"')];
@@ -77,6 +77,7 @@ class GeographyService implements GeographyServiceInterface {
         limit,
         orderBy,
         where,
+        revert,
       }));
 
     return response;
@@ -101,7 +102,7 @@ class GeographyService implements GeographyServiceInterface {
   public async getStates(filter: Partial<OutputFilter>): Promise<ListResponse<State>> {
     const { context } = this.props;
     const { knex } = context;
-    const { limit, offset, orderBy, where, search } = filter;
+    const { limit, offset, orderBy, where, search, revert } = filter;
     const createdAt = new Date();
 
     const response = await knex
@@ -130,6 +131,7 @@ class GeographyService implements GeographyServiceInterface {
         limit,
         orderBy,
         where,
+        revert,
       }));
 
     return response;
@@ -154,7 +156,7 @@ class GeographyService implements GeographyServiceInterface {
   public async getCountries(filter: Partial<OutputFilter>): Promise<ListResponse<Country>> {
     const { context } = this.props;
     const { knex } = context;
-    const { limit, offset, orderBy, where, search } = filter;
+    const { limit, offset, orderBy, where, search, revert } = filter;
     const createdAt = new Date();
 
     const response = await knex
@@ -181,6 +183,7 @@ class GeographyService implements GeographyServiceInterface {
         limit,
         orderBy,
         where,
+        revert,
       }));
 
     return response;
