@@ -646,16 +646,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@via-profit-services/core@npm:^1.0.4":
-  version: 1.0.9
-  resolution: "@via-profit-services/core@npm:1.0.9"
+"@via-profit-services/core@npm:^1.3.1":
+  version: 1.3.1
+  resolution: "@via-profit-services/core@npm:1.3.1"
   dependencies:
     bufferutil: ^4.0.2
     content-type: ^1.0.4
     raw-body: ^2.4.1
     utf-8-validate: ^5.0.3
   peerDependencies:
-    dataloader: ^2.0.0
+    "@via-profit-services/dataloader": ^2.0.1
     express: ^4.17.1
     graphql: ^15.4.0
     moment: ^2.29.1
@@ -667,7 +667,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 8b5d7f0d90ba23b136f1b3007e0184a7c9ed371151336546a25188bcb1ec4da99f0b21af474f8551138c48af080c247030c4c5d680dd60d1b5f08d1e4e262a93
+  checksum: e9eeeb3bb4f6f092ec89d5367f2fe0b8b8e6557ffe78ecd8df1d04d9f15eafc6997690311d57be48681c5bf95d2a3598b2404ea40e20d7b2ff458ff8ce7cdd69
   languageName: node
   linkType: hard
 
@@ -717,7 +717,7 @@ __metadata:
     "@types/webpack-node-externals": ^1.7.0
     "@typescript-eslint/eslint-plugin": ^4.6.1
     "@typescript-eslint/parser": ^4.6.1
-    "@via-profit-services/core": ^1.0.4
+    "@via-profit-services/core": ^1.3.1
     "@via-profit-services/dataloader": ^2.0.0
     "@via-profit-services/eslint-config": ^0.1.11
     "@via-profit-services/knex": ^1.1.10
@@ -778,7 +778,7 @@ __metadata:
     winston-daily-rotate-file: ^4.5.0
     yarn: ^1.22.17
   peerDependencies:
-    "@via-profit-services/core": ^1.0.0
+    "@via-profit-services/core": ^1.3.1
     "@via-profit-services/knex": ^1.1.0
     "@via-profit-services/redis": ^1.0.3
     graphql: "*"
