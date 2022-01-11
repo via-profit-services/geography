@@ -57,14 +57,14 @@ const geographyFactory: GeographyMiddlewareFactory = config => {
       // Cities dataloader
       cities: new DataLoader(async ids => context.services.geography.getCitiesByIds(ids), {
         redis: context.redis,
-        defaultExpiration: '1h',
+        defaultExpiration: '5min',
         cacheName: 'geography:cities',
       }),
 
       // States dataloader
       states: new DataLoader((ids: string[]) => context.services.geography.getSatatesByIds(ids), {
         redis: context.redis,
-        defaultExpiration: '1h',
+        defaultExpiration: '5min',
         cacheName: 'geography:states',
       }),
 
@@ -73,7 +73,7 @@ const geographyFactory: GeographyMiddlewareFactory = config => {
         (ids: string[]) => context.services.geography.getCountriesByIds(ids),
         {
           redis: context.redis,
-          defaultExpiration: '1h',
+          defaultExpiration: '5min',
           cacheName: 'geography:countries',
         },
       ),
