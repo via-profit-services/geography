@@ -346,10 +346,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^14.14.13":
+"@types/node@npm:*":
   version: 14.14.37
   resolution: "@types/node@npm:14.14.37"
   checksum: 5e2d9baf7594ebacaf016716515f30de0765169412787f981481c2fb8b468923149bb9e2e3219ee672399811672ceddc339a7372a61cf15bc656836a5494d991
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^17.0.10":
+  version: 17.0.10
+  resolution: "@types/node@npm:17.0.10"
+  checksum: 3d6f59adb8a5d5770590c23ec2ac97ab91a3fbb47696e60c01fcee87d330d9360fe500fd963c54b01668d75c668d44a0a996fb89b7997c2530545465676e3671
   languageName: node
   linkType: hard
 
@@ -708,7 +715,7 @@ __metadata:
     "@graphql-tools/schema": ^7.1.2
     "@types/express": ^4.17.9
     "@types/fs-extra": ^9.0.4
-    "@types/node": ^14.14.13
+    "@types/node": ^17.0.10
     "@types/supertest": ^2.0.8
     "@types/uuid": ^7.0.0
     "@types/webpack": ^4.41.25

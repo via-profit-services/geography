@@ -40,7 +40,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/schema", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:7.1.3"],
             ["@types/express", "npm:4.17.11"],
             ["@types/fs-extra", "npm:9.0.10"],
-            ["@types/node", "npm:14.14.37"],
+            ["@types/node", "npm:17.0.10"],
             ["@types/supertest", "npm:2.0.11"],
             ["@types/uuid", "npm:7.0.4"],
             ["@types/webpack", "npm:4.41.27"],
@@ -529,6 +529,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-node-npm-14.14.37-6783f920bd-5e2d9baf75.zip/node_modules/@types/node/",
           "packageDependencies": [
             ["@types/node", "npm:14.14.37"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:17.0.10", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-17.0.10-c0e46c1462-3d6f59adb8.zip/node_modules/@types/node/",
+          "packageDependencies": [
+            ["@types/node", "npm:17.0.10"]
           ],
           "linkType": "HARD",
         }]
@@ -1044,7 +1051,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/schema", "virtual:95b5d6d5ae504b7355e56119e3cbf2c8adf4524e0af4713909c9947f9b8a0a862a61ef7e8f13f124cc93563d0033b4961a2a30f928201d146351eb3f7a048b8e#npm:7.1.3"],
             ["@types/express", "npm:4.17.11"],
             ["@types/fs-extra", "npm:9.0.10"],
-            ["@types/node", "npm:14.14.37"],
+            ["@types/node", "npm:17.0.10"],
             ["@types/supertest", "npm:2.0.11"],
             ["@types/uuid", "npm:7.0.4"],
             ["@types/webpack", "npm:4.41.27"],
