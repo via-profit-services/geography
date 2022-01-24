@@ -3130,5 +3130,17 @@
     "latitude": "49.42207000",
     "longitude": "46.84705000",
     "timezone": "Asia/Oral"
+  },
+  {
+    "id": "60cbf165-3f2f-4f06-a497-56ca0bf45218",
+    "en": "Horgos",
+    "ru": "Хоргос",
+    "country": "71be0cd3-f1e6-4fea-8954-5f09c12fee9f",
+    "countryCode": "KZ",
+    "state": "f6fb69c4-22d5-45c7-8c74-b0b1aeb1aafa",
+    "stateCode": "ALM",
+    "latitude": "44.222810",
+    "longitude": "80.383970",
+    "timezone": "Asia/Qyzylorda"
   }
 ]
